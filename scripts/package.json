@@ -1,0 +1,17 @@
+{
+  "name": "unipiazza-kb-tools",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Import/sync tooling for the Unipiazza Knowledge Base (Customerly <-> local markdown)",
+  "scripts": {
+    "import": "node import.mjs",
+    "roundtrip": "node roundtrip-check.mjs"
+  },
+  "dependencies": {
+    "turndown": "^7.2.0",
+    "turndown-plugin-gfm": "^1.0.2",
+    "markdown-it": "^14.1.0",
+    "js-yaml": "^4.1.0"
+  }
+}

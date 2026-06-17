@@ -1,0 +1,9 @@
+# Claude Code local config
+.claude/
+
+# Script cache e output temporanei
+scripts/cache/
+scripts/out*.html
+
+# Node
+node_modules/
