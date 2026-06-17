@@ -9,7 +9,7 @@ Contesto contenitore: `Unipiazza/CLAUDE.md`.
   la sync converte in HTML e fa `upsert` su Customerly.
 - Il **frontmatter** di ogni articolo lega il file all'`article_id` Customerly e conserva i campi
   obbligatori per l'upsert (`collection_id`, `title`, `slug`, `status`, `written_by`). Non rimuoverlo.
-- Sync = **comando manuale**: l'utente chiede "sincronizza", tu rilevi i file cambiati,
+- Sync = **comando manuale**: l'utente chiede "sincronizza", tu rilevi i file cambiati (git auto-push attivo),
   mostri il diff/anteprima e poi fai `upsert_kb_article`. Aggiorna `last_synced`.
 - Lingua: **solo `it`** per ora.
 
