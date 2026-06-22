@@ -71,7 +71,7 @@ Dipende dallo stato del tuo account WhatsApp Business. Gli account nuovi partono
 Sì, il messaggio arriva a tutti. Però, se un cliente non ti ha salvato in rubrica, non puoi vedere se l'ha letto (i doppi segni di spunta restano grigi). Per questo ti consigliamo di invitare i clienti a salvarti!
 
 **Posso vedere se un cliente ha letto il messaggio?**
-Solo se ti ha aggiunto in rubrica.
+Solo se ti ha aggiunto in rubrica. Questo si riflette anche nelle statistiche della campagna: il tasso di apertura mostrato potrebbe risultare più basso rispetto al reale, poiché i clienti che non ti hanno salvato non trasmettono la conferma di lettura.
 
 **Posso usare il mio numero personale?**
 Sì, se è già un numero WhatsApp Business.
