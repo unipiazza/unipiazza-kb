@@ -13,8 +13,8 @@ keywords:
 sort: 9
 is_featured: false
 locale: it
-updated_at: '2025-04-11'
-last_synced: '2026-06-19'
+updated_at: '2026-06-22'
+last_synced: '2026-06-22'
 ---
 
 Gli **RCS** (Rich Communication Services) sono i nuovi messaggi "evoluti" che stanno rimpiazzando gli SMS tradizionali su molti smartphone. Funzionano come una chat e permettono di inviare testi, immagini, pulsanti e link in modo più moderno, simile a WhatsApp o Telegram.
