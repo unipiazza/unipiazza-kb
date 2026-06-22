@@ -22,6 +22,8 @@ last_synced: '2026-06-16'
 
 WhatsApp è il canale di messaggistica più usato dai tuoi clienti, con tassi di apertura che possono superare il **90%**. Ottima notizia: da oggi puoi usarlo anche per le tue campagne Unipiazza! 🎉
 
+> ⚠️ Tieni presente che le statistiche mostrate nel Gestionale potrebbero essere più basse rispetto al dato reale: i dati di lettura vengono tracciati solo per i clienti che ti hanno salvato in rubrica.
+
 Unipiazza è diventato **Tech Provider ufficiale di META**, il che significa che puoi contattare i tuoi clienti via WhatsApp in modo professionale, diretto e misurabile, affiancandolo agli altri canali già disponibili (email, RCS e notifiche app).
 
 ## Quanto costa?
