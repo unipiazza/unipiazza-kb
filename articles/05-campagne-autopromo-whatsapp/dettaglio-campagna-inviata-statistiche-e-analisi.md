@@ -16,8 +16,8 @@ keywords:
 sort: 0
 is_featured: false
 locale: it
-updated_at: '2026-06-16'
-last_synced: '2026-06-16'
+updated_at: '2026-06-22'
+last_synced: '2026-06-22'
 ---
 
 Hai inviato una campagna... e poi? Fino a oggi vedevi pochi numeri in lista. Ora ogni campagna inviata ha una **pagina di dettaglio dedicata**, con tutte le statistiche che ti servono per capire com'è andata davvero e decidere il passo successivo. 📊
