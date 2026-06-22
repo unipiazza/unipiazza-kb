@@ -33,6 +33,8 @@ Gli RCS sono **attivi e gratuiti su tutti i piani**!
 
 Se il tuo cliente ha inserito il numero di telefono in fase di iscrizione (o successivamente dal suo profilo), ogni volta che invii una [**Campagna**](https://supporto.unipiazza.it/it/campagne-e-autopromo/cosa-sono-le-campagne-marketing-e-come-si-creano) o un'[**Autopromo**](https://supporto.unipiazza.it/it/campagne-e-autopromo/cosa-sono-le-autopromo), il cliente riceverà il messaggio **sia via email che via RCS** e nelle statistiche di invio troverai il dettaglio su quanti RCS sono stati inviati e aperti.
 
+> ⚠️ **Nota sulle aperture RCS:** il tasso di apertura mostrato potrebbe risultare più basso rispetto al reale, perché i dati di lettura vengono trasmessi solo dai clienti che hanno salvato il tuo numero in rubrica.
+
 **3. Come appaiono ai clienti?**
 
 Eccoti alcuni esempi di come appare un messaggio RCS ad un cliente Unipiazza 👇
