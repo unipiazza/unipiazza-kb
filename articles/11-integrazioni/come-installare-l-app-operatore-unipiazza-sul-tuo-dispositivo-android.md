@@ -20,7 +20,7 @@ L’app si installa direttamente dal browser, seguendo pochi passaggi.
 
 -   Apri il browser del tuo PC (Chrome, Edge o quello che usi di solito).
     
--   Vai su 👉 [unpz.it/android](https://unpz.it/desktop)
+-   Vai su 👉 [unpz.it/android](https://unpz.it/android)
     
 -   Il file .apk si scarica in automatico.
     

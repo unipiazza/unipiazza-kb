@@ -32,7 +32,7 @@ Dalla sezione “[Vetrina](https://partner.unipiazza.it/vetrina)” gestionale p
     
 -   **Categoria merceologica**: Scegli una fra le 52 categorie che più rappresentano la tua attività commerciale.
     
--   I**mmagini di Copertina:** Queste immagini compariranno in cima alla tua vetrina e dovrebbero riflettere ciò che offri. Che si tratti di prodotti, piatti di un ristorante o interni del tuo locale, assicurati che siano di alta qualità.
+-   **Immagini di Copertina:** Queste immagini compariranno in cima alla tua vetrina e dovrebbero riflettere ciò che offri. Che si tratti di prodotti, piatti di un ristorante o interni del tuo locale, assicurati che siano di alta qualità.
     
 
 <table style="min-width: 25px;"><colgroup><col style="min-width: 25px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota Bene!</strong> Le immagini copertina sono diverse dalle immagini “cover” che scorrono sul Chiosco e non vanno confuse. Per saperne di più sulle Cover Chiosco, <a target="_blank" rel="noopener noreferrer nofollow" href="https://unipiazza.customerly.help/it/vetrina/come-cambio-le-immagini-cover-che-compaiono-sul-chiosco"><u>leggi questo articolo dedicato.</u></a></p></td></tr></tbody></table>

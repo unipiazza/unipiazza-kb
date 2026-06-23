@@ -69,7 +69,7 @@ Ricompensa i tuoi clienti fedeli senza eccedere! È importante tenere in conside
 
 **Aggiungi dei Limiti ad alcuni premi**
 
-Per ogni premio puoi aggiungere delle regole particolari per evitare abusi, limitarne l’utilizzo o vincolarne il ritiro ad un acquisto minimo. Ad esempio "Serve spendere almeno 10€", "Massimo 2 al giorno", o "Solo a pranzo". Puoi impostare il testo “limite” per ogni singolo premio e questo testo verrà automaticamente aggiungo sotto al nome del premio sul Chiosco e sull’App come una descrizione aggiuntiva.
+Per ogni premio puoi aggiungere delle regole particolari per evitare abusi, limitarne l’utilizzo o vincolarne il ritiro ad un acquisto minimo. Ad esempio "Serve spendere almeno 10€", "Massimo 2 al giorno", o "Solo a pranzo". Puoi impostare il testo “limite” per ogni singolo premio e questo testo verrà automaticamente aggiunto sotto al nome del premio sul Chiosco e sull’App come una descrizione aggiuntiva.
 
 **Inserisci dei premi “Esperienziali”**
 
