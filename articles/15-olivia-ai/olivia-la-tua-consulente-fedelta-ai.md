@@ -63,7 +63,12 @@ Olivia funziona con un sistema a **crediti AI**:
 - Ogni interazione con Olivia consuma un numero di crediti variabile in base alla complessità: la maggior parte delle richieste costa **1-2 crediti**, le operazioni più elaborate possono costarne di più
 
 **Come vedere i crediti rimanenti**
-Premi il bottone **"Chiedi ad Olivia"** in alto → scorri in fondo alla pagina che si apre: trovi il saldo crediti aggiornato in tempo reale.
+
+Hai due modi per tenere d'occhio i tuoi crediti:
+
+🔵 **Barra in alto:** accanto al bottone "Chiedi ad Olivia" trovi il contatore **100 / 100** aggiornato in tempo reale. Cliccaci sopra: si apre un pannello con i crediti disponibili, la data di ricarica (il 1° di ogni mese) e il bottone per richiederne altri.
+
+📄 **Sezione Abbonamento & Fatture:** clicca sul tuo nome in alto a destra → "Abbonamento & Fatture". I crediti Olivia AI sono visibili nella sezione Utilizzi, con la barra di avanzamento mensile.
 
 ---
 
