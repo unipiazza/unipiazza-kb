@@ -22,6 +22,4 @@ La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pan
     
 3.  **Obiettivo Iscritti:** Imposta l’obiettivo mensile di nuovi iscritti in modo da motivare tutto il tuo team a raggiungerlo. L’obiettivo verrà visualizzato sul tuo Smartphone Unipiazza e nella sezione riepilogo del gestionale.
     
-4.  **Richiesta Tessere:** Se sei a corto di tessere fisiche per i tuoi clienti, qui puoi richiederne altre che ti verranno spedite nel giro di qualche giorno direttamente presso la tua attività. Qualora avessi superato il limite di tessere previste dal tuo pacchetto, verrai contattato da un membro del team Unipiazza. 
-    
-5.  **Il Tuo Piano Fedeltà:** Qui puoi visualizzare il pacchetto attuale che hai scelto.
+4.  **Richiesta Tessere:** Se sei a corto di tessere fisiche per i tuoi clienti, qui puoi richiederne altre che ti verranno spedite nel giro di qualche giorno direttamente presso la tua attività. Qualora avessi superato il limite di tessere previste dal tuo pacchetto, verrai contattato da un membro del team Unipiazza.

@@ -1,4 +1,5 @@
 ---
+article_id: 63774
 collection_id: 676
 collection: 💳 Pagamenti & Fatturazione
 title: Cosa vedo nella sezione "Abbonamento & Fatture"?
@@ -7,6 +8,7 @@ description: Piano attivo, utilizzi, funzionalità incluse e fatture scaricabili
 status: published
 written_by: 2963
 locale: it
+last_synced: '2026-06-23'
 ---
 
 Vuoi sapere quanto stai pagando, quanti crediti ti restano e quali funzionalità hai attive? La sezione **Abbonamento & Fatture** è la tua pagina di controllo: tutto in un colpo d'occhio. 👀
