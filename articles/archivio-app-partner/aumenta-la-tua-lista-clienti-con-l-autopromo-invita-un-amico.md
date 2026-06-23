@@ -2,7 +2,7 @@
 article_id: 15666
 collection_id: 677
 collection: "App Unipiazza - Partner & Web App"
-title: "Aumenta la tua lista clienti con l'autopromo "Invita un amico""
+title: Aumenta la tua lista clienti con l'autopromo "Invita un amico"
 slug: aumenta-la-tua-lista-clienti-con-l-autopromo-invita-un-amico
 description: "Fai parlare di te! Se vuoi aumentare la tua lista clienti parti da loro."
 status: draft

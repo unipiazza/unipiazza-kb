@@ -4,7 +4,7 @@ collection_id: 676
 collection: 💳 Pagamenti & Fatturazione
 title: Cosa vedo nella sezione "Abbonamento & Fatture"?
 slug: cosa-vedo-nella-sezione-abbonamento-e-fatture
-description: Piano attivo, utilizzi, funzionalità incluse e fatture scaricabili: tutto in una pagina sola.
+description: 'Piano attivo, utilizzi, funzionalità incluse e fatture scaricabili: tutto in una pagina sola.'
 status: published
 written_by: 2963
 locale: it
