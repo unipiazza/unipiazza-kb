@@ -92,6 +92,6 @@ Le Autopromo raggiungono di default i clienti tramite Email e messaggi RCS. Se h
 
 ---
 
-Vuoi vedere come appaiono le comunicazioni ai tuoi clienti? 👉 [Scopri le anteprime di tutte le comunicazioni automatiche](LINK_ANTEPRIME_PLACEHOLDER)
+Vuoi vedere come appaiono le comunicazioni ai tuoi clienti? 👉 [Scopri le anteprime di tutte le comunicazioni automatiche](https://supporto.unipiazza.it/it/articles/63782-anteprime-comunicazioni-automatiche)
 
 <iframe src="https://www.youtube.com/embed/kUl4Y6kXZiE" frameborder="0" allowfullscreen="true"></iframe>
