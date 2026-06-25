@@ -16,7 +16,7 @@ sort: 3
 is_featured: false
 locale: it
 updated_at: '2026-06-25'
-last_synced: '2026-06-19'
+last_synced: '2026-06-25'
 ---
 
 ![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/75f8e54d509ea13902c6ed8f44e5311f/Supporto-Autopromo.png)
