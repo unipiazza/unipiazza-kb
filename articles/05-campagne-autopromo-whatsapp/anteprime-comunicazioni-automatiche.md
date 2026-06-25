@@ -1,4 +1,5 @@
 ---
+article_id: 63782
 collection_id: 7182
 collection: "📢 Campagne, Autopromo e Whatsapp"
 title: "Le comunicazioni automatiche: come appaiono ai tuoi clienti"
