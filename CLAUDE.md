@@ -1,5 +1,12 @@
 # Knowledge Base (KB) — istruzioni di progetto
 
+## Prima di tutto: leggi la mappa della KB
+Leggi sempre `overview.md` [[overview]] all'inizio di ogni sessione.
+Contiene la lista completa di tutte le collezioni e articoli (article_id, slug, status).
+Senza di essa lavori alla cieca su 141 articoli in 20 collezioni.
+
+---
+
 Progetto Unipiazza per gestire **in locale e in markdown** gli articoli della Knowledge Base
 di Customerly, con sync locale → Customerly. Specifica completa: vedi BRIEF.md [[BRIEF]].
 Contesto contenitore: `Unipiazza/CLAUDE.md`.
