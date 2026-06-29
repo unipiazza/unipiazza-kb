@@ -1,40 +1,42 @@
 # Analisi gap funzionale — Cliento × Unipiazza
 
-*Analisi generata con Claude (accesso alla KB Unipiazza). Base di lavoro da rivedere a mano.*
+*Prima bozza generata con Claude (accesso alla KB Unipiazza), integrata con note interne di Edoardo. Base di lavoro da rivedere a mano con Tommaso.*
 
 ---
 
 ## Contesto
 
-[cliento.school](https://app.clientoschool.com/) è un'azienda italiana che fa formazione a retailer indipendenti. Stiamo valutando una partnership in cui Cliento consiglia la nostra piattaforma ai propri clienti. Elena (Cliento) ha inviato un documento con richieste e aspettative. Di seguito l'analisi punto per punto rispetto alle funzionalità Unipiazza attuali.
+[cliento.school](https://app.clientoschool.com/) fa formazione a retailer indipendenti. La partnership prevede che Cliento consigli Unipiazza ai propri clienti. Elena (Cliento) ha condiviso richieste dettagliate su funzionalità e automazioni. Di seguito l'analisi punto per punto.
 
-Il modello di Cliento è diverso dal nostro target tradizionale: lavorano con il **singolo retailer autonomo**, senza logiche di network/marketplace condiviso. I loro programmi fedeltà si basano su **livelli di spesa** e **benefit fissi per livello**, non su gettoni/premi da riscattare.
+**Premessa importante:** il modello di Cliento è strutturalmente diverso dal nostro target tradizionale. Loro usano Unipiazza come strumento autonomo per il singolo retailer, senza logiche di network condiviso. Costruiscono programmi fedeltà a livelli di spesa con benefit fissi, non su gettoni/premi da riscattare. Questo crea un disallineamento che va oltre i singoli gap tecnici e tocca la direzione strategica di Unipiazza.
 
 ---
 
-## 🔥 Punti caldi (richieste principali di Elena)
+## 🔴 Gap grandi
 
 ### 1. Tasso gettoni configurabile (X€ = 1 punto)
 
 **Stato attuale:** fisso 1€ = 10 gettoni per tutti i merchant. Non configurabile.
 
-**Gap:** grande. Unipiazza nasce come ecosistema condiviso con tasso uniforme. Cliento lavora con retailer di settori molto diversi (gioielleria vs caffetteria hanno scontrini medi opposti) e ha bisogno di configurare il tasso per ogni cliente.
+**Valutazione interna:** modificare il rapporto 1:10 su un singolo shop potrebbe toccare molti altri aspetti della piattaforma in modo non prevedibile. **Da ragionare con Lorenzo** per capire l'impatto tecnico reale. Non gestibile ad oggi, e probabilmente difficile da mantenere nel tempo.
 
-**Workaround:** nessuno reale. Si può compensare indirettamente impostando i premi a soglie di gettoni diverse, ma il tasso 1€=10 rimane fisso e visibile al cliente sul chiosco.
+**Workaround:** nessuno reale.
 
-**Modifica necessaria:** media — aggiungere un'impostazione per merchant del tasso/moltiplicatore gettoni. Da decidere se vale solo per merchant "standalone" o anche per chi partecipa al network condiviso.
+**Modifica necessaria:** non definita — serve valutazione tecnica con Lorenzo prima.
 
 ---
 
-### 2. Usare Unipiazza senza premi fisici / comunicazioni libere
+### 2. Usare Unipiazza senza gettoni / solo per comunicazioni
 
-**Stato attuale:** le autopromo esistono con testo offerta configurabile (fino a 80 caratteri). Il template del messaggio intorno è fisso e contiene riferimenti a gettoni/premi. Non c'è obbligo tecnico di creare un premio fisico, ma la comunicazione lo presuppone.
+**Stato attuale:** le autopromo esistono con testo offerta configurabile (80 caratteri). Il template fisso intorno parla di gettoni/premi.
 
-**Gap:** parziale. Il benefit può essere gestito offline dal retailer, ma il messaggio template parla di "premi" e "gettoni" — linguaggio fuori contesto per un programma a livelli.
+**Valutazione interna:** togliere i gettoni e i premi significa togliere una delle funzionalità chiave di Unipiazza. Usare la piattaforma solo per comunicazioni e campagne è limitativo, anche perché ad oggi le automazioni sono poche. **C'è il rischio di snaturare la nostra direzione:** stiamo andando sempre più verso il potenziamento del programma fedeltà e del chiosco — e il chiosco senza gettoni è molto limitato.
 
-**Workaround:** già oggi possibile. Si configura il testo offerta come "Vieni a ritirare il tuo regalo 🎂" e il retailer gestisce il benefit fisicamente. Il limite è il testo fisso intorno.
+Detto questo, nei **prossimi 3 mesi** abbiamo in piano un sistema di automazioni flessibili che va esattamente nella direzione di Cliento (comunicazioni e promozioni attivabili al raggiungimento di obiettivi specifici). Questo cambierebbe molto il quadro.
 
-**Modifica necessaria:** piccola — testi autopromo completamente personalizzabili (**già in sviluppo**). Quando arriva questa feature, il punto si risolve del tutto.
+**Workaround oggi:** il testo offerta nelle autopromo è configurabile — il benefit può essere gestito offline dal retailer. Ma il messaggio di contorno rimane quello standard.
+
+**Modifica necessaria:** testi autopromo completamente personalizzabili → **già in sviluppo**, risolverebbe il problema del linguaggio.
 
 ---
 
@@ -42,99 +44,74 @@ Il modello di Cliento è diverso dal nostro target tradizionale: lavorano con il
 
 **Stato attuale:** non esiste alcuna funzionalità di livelli.
 
-**Gap:** grande. Manca tutto:
-- Definizione soglie di spesa per livello
-- Passaggio automatico al superamento della soglia
-- Comunicazione automatica "Hai raggiunto il Livello X"
-- Benefit diversi per livello
-- Nome personalizzabile dei livelli
-- Automazioni dedicate per livello
+**Valutazione interna:** è in pipeline. Con le automazioni flessibili si potranno creare comunicazioni al raggiungimento di un livello fedeltà, e potremmo arrivare a costruire una funzionalità dedicata sui livelli. I workaround ci sono (filtri + Make + campagne manuali), ma aggiungono complessità a un'integrazione già non banale. Da valutare se il gioco vale la candela per il test pilota.
 
-**Workaround (parziale, non elegante):**
-1. Filtri clienti per euro spesi → salvare come lista → campagna manuale al segmento
-2. Via Make: trigger "Nuovo Accredito Gettoni" → se totale euro > soglia → aggiungi nota al cliente (es. "livello_2") → filtrare per nota e inviare campagna
+**Workaround oggi (parziale):**
+- Filtri clienti per euro spesi → lista salvata → campagna manuale
+- Make: trigger "Nuovo Accredito Gettoni" → se totale euro > soglia → aggiungi nota → filtra e invia campagna
+*(manuale, non scalabile, non elegante da presentare)*
 
-Problema: è tutto manuale, non scala e non è elegante da presentare al cliente.
-
-**Modifica necessaria:** grande — feature set completo da costruire. Per il test pilota con Cliento, il workaround Make+filtri è l'unica strada attuale, da comunicare come soluzione temporanea.
+**Modifica necessaria:** grande — ma in roadmap con le automazioni flessibili.
 
 ---
 
 ### 4. Automazioni personalizzate
 
-**Stato attuale:** 8 autopromo fisse con trigger non configurabili. Nessuna logica basata su tag, categorie prodotto, importo speso, frequenza acquisto, soglie custom.
+**Stato attuale:** 8 autopromo fisse, trigger non configurabili.
 
-**Gap:** medio-grande per le richieste più avanzate.
-
-**Cosa è già possibile via Make:**
-- Trigger "Nuovo Cliente" → workflow onboarding custom (es. WhatsApp il giorno dopo l'iscrizione)
-- Trigger "Nuovo Accredito Gettoni" → logiche su ogni acquisto (post-acquisto, avanzamento soglie)
-- Azione "Aggiungi Nota" → sistema rudimentale di tag/livelli
-
-**Limite di Make:** richiede competenze tecniche, account separato, costi propri (~9€/mese per retailer con buon volume; il piano free da 1000 ops/mese può bastare per volumi bassi). Per retailer senza competenze tech, Make deve essere gestito da Unipiazza as-a-service o tramite template di scenario pre-configurati.
-
-**Modifica necessaria:** media — un builder di automazioni interno con condizioni configurabili è la soluzione pulita. Nel breve termine: template Make as-a-service.
+**Valutazione interna:** questo punto è direttamente legato ai punti 2 e 3. Senza le automazioni flessibili (in arrivo tra ~3 mesi) siamo limitati. Via Make si possono costruire logiche custom, ma con le stesse limitazioni tecniche e di competenza descritte nel punto Make qui sotto.
 
 ---
 
-## Altre richieste
+## 🟡 Gap medi
 
-### RCS e fallback WhatsApp
+### 5. RCS e fallback WhatsApp
 
-**Stato attuale:** RCS gratuiti su tutti i piani. Solo il 35% degli utenti li riceve (no iPhone, no Vodafone). Il fallback attuale è email — non WhatsApp. La logica attuale è l'opposto di quella richiesta: WhatsApp è il canale *prioritario* se collegato, poi fallback su Email/RCS.
+**Stato attuale:** RCS gratuiti e attivi su tutti i piani. ✅
 
-**Richiesta Elena:** RCS come canale primario → se non recapitato → WhatsApp automaticamente ai soli non raggiungibili.
+**Identificare chi non ha ricevuto l'RCS?** Non abbiamo questa opzione. Se l'RCS non viene recapitato (iPhone o Vodafone), il cliente riceve comunque l'email se disponibile. Nessun fallback automatico su WhatsApp.
 
-**Risposta su costi:** gli RCS sono gratuiti per Unipiazza e per il retailer. ✅
+**SMS come alternativa:** non sono integrati e **non sono previsti in pipeline**.
 
-**Modifica necessaria:** media — logica di routing avanzata con rilevamento consegna RCS e fallback selettivo su WhatsApp.
-
----
-
-### SMS
-
-**Stato attuale:** non disponibili.
-
-**Modifica necessaria:** media/grande — integrazione con provider SMS. Con RCS + WhatsApp disponibili, priorità bassa nel breve termine.
+**Modifica necessaria:** fallback RCS → WhatsApp non disponibile nel breve termine. SMS fuori scope.
 
 ---
 
-### Integrazioni Make — costi e gestione
+### 6. Integrazioni Make
 
-- **Costi:** Make ha un piano gratuito (1000 operazioni/mese), poi da ~9€/mese. Per retailer semplici il free può bastare.
-- **Competenze:** richiede configurazione tecnica — i retailer di Cliento non possono gestirlo da soli.
-- **Soluzione proposta:** template di scenario Make pre-configurati + gestione as-a-service da Unipiazza per i clienti del pacchetto Cliento.
-- **Sincronizzazione:** in tempo reale (webhook-based).
+**Stato attuale:** Make è disponibile con un piano gratuito che dovrebbe coprire la stragrande maggioranza dei casi d'uso. Se si sfora: $9/mese.
 
----
+**Gestione:** Unipiazza può aiutare con template di scenario pre-configurati e assistenza, ma **ad oggi non c'è un piano strutturato** — è qualcosa da costruire assieme a Cliento e ai loro retailer.
 
-### Valuta CHF
-
-**Stato attuale:** non supportata (sistema euro-centrico).
-
-**Modifica necessaria:** piccola/media — configurazione valuta nel profilo merchant.
+**Competenze retailer:** i retailer di Cliento non hanno competenze tecniche. Make dovrà essere gestito da Unipiazza (as-a-service) o tramite scenari chiavi in mano.
 
 ---
 
-### Personalizzazioni branding
+## 🟢 Gap piccoli
 
-**Stato attuale:** non risulta disponibile dalla KB.
+### 7. Valuta CHF
 
-**Richiesta:** nome programma fedeltà personalizzabile, nome punti personalizzabile (es. "Kiss"), nome livelli (non applicabile finché i livelli non esistono).
+**Stato attuale:** solo euro.
 
-**Modifica necessaria:** piccola — campi configurabili per nome programma e nome punti nel gestionale.
+**Valutazione interna:** non è chiaro quanto sia complessa la modifica tecnica. **Da ragionare con Lorenzo.** Punto piccolo ma da non ignorare se ci sono clienti Cliento in Svizzera.
 
 ---
 
-### Gift Card — scadenze differenziate
+### 8. Personalizzazioni branding (nome punti, nome programma)
+
+**Stato attuale:** non disponibile.
+
+**Valutazione interna:** **in pipeline** — previsto nei prossimi mesi, entro fine anno.
+
+---
+
+### 9. Gift Card — scadenze differenziate
 
 **Stato attuale:** scadenza unica per tutte le GC.
 
 **Richiesta:** GC regalo = 12 mesi, GC premio/coupon = 3 mesi.
 
-**Workaround coupon:** i coupon dell'eShop sono per lo shop online, non sostituibili alle GC nel contesto fisico.
-
-**Modifica necessaria:** piccola — configurazione scadenza per tipo di GC o per batch.
+**Valutazione interna:** ad oggi non c'è la possibilità. **Da ragionare su alternative valide** per simulare una scadenza a 3 mesi (es. coupon eShop? gestione manuale?). Punto aperto.
 
 ---
 
@@ -142,49 +119,34 @@ Problema: è tutto manuale, non scala e non è elegante da presentare al cliente
 
 | # | Automation | Stato | Note |
 |---|-----------|-------|------|
-| 1 | Benvenuto | ✅ Esiste | Testo offerta configurabile (80 char), template fisso intorno |
-| 2 | Salva numero WhatsApp (gg dopo iscrizione) | ❌ Non esiste | Workaround: Make → trigger "Nuovo Cliente" + delay 24h → WA |
-| 3 | Post acquisto | ⚠️ Parziale | "Prima Visita" solo per il 1° acquisto. Per ogni acquisto serve Make (trigger "Nuovo Accredito Gettoni") |
-| 4 | Richiesta recensione Google | ✅ Esiste | Trigger: 2h dopo ritiro premio (non dopo acquisto generico). Link personalizzabile. |
-| 5 | Avanzamento punti / "ti mancano X" | ❌ Non esiste | Solo con Make molto complesso; non nativo |
-| 6 | Sblocco livello | ❌ Non esiste | I livelli non esistono in piattaforma |
-| 7 | Compleanno | ✅ Esiste | Timing fisso: 3gg prima + reminder. Non configurabile. |
-| 8 | Post-Natale (follow-up esperienza) | ❌ Non esiste | Workaround: campagna manuale programmata nel periodo |
-| 9 | Inattività / riattivazione | ✅ Parziale | "A Rischio" (30gg) e "Dormienti" (90gg) esistono ma timing non configurabili |
+| 1 | Benvenuto | ✅ Esiste | Testo offerta configurabile (80 char); template fisso intorno (in sviluppo) |
+| 2 | Salva numero WhatsApp (gg dopo) | ❌ Non esiste | Workaround: Make → "Nuovo Cliente" + delay 24h → WA |
+| 3 | Post acquisto | ⚠️ Parziale | "Prima Visita" solo per il 1° acquisto. Ogni acquisto: serve Make |
+| 4 | Richiesta recensione Google | ✅ Esiste | Trigger: 2h dopo ritiro premio. Link personalizzabile. |
+| 5 | Avanzamento punti / "ti mancano X" | ❌ Non esiste | Solo con Make complesso; non nativo |
+| 6 | Sblocco livello | ❌ Non esiste | Livelli non esistono; in roadmap con automazioni flessibili |
+| 7 | Compleanno | ✅ Esiste | Timing fisso (3gg prima). Non configurabile. |
+| 8 | Post-Natale | ❌ Non esiste | Workaround: campagna manuale nel periodo |
+| 9 | Inattività / riattivazione | ✅ Parziale | "A Rischio" (30gg) e "Dormienti" (90gg): esistono ma timing fisso |
 | 10 | Scadenza punti | ❌ Non esiste | I gettoni non scadono in Unipiazza |
 
 ---
 
-## Riepilogo gap per priorità
+## La domanda strategica
 
-### 🔴 Grandi (sviluppo significativo)
-- **Sistema livelli** — richiesta più impattante; Unipiazza e Cliento differiscono su questo a livello filosofico
-- **Tasso gettoni configurabile per merchant**
+Il gap principale non è tecnico ma **concettuale e di timing**. Cliento vuole usare Unipiazza in un modo che oggi la piattaforma non supporta bene — ma che supporterà molto meglio tra 3 mesi con le automazioni flessibili e i livelli in roadmap.
 
-### 🟡 Medi
-- Testi autopromo completamente personalizzabili *(già in sviluppo)*
-- Builder automazioni custom / ampliamento trigger
-- Fallback RCS → WhatsApp
+Le opzioni sono due:
 
-### 🟢 Piccoli (quick win, alto impatto percepito)
-- Personalizzazione nome punti e nome programma
-- Gift Card scadenze differenziate
-- Valuta CHF
+**A) Partire ora con un programma semplificato**
+- Usare le autopromo native per le comunicazioni base
+- Make gestito da Unipiazza as-a-service per le automazioni extra
+- Presentarlo come "versione beta della partnership", con roadmap chiara
+- Rischio: snaturare l'esperienza Unipiazza e frustare i primi retailer Cliento
 
-### ✅ Già possibili oggi
-- Comunicazioni automatiche base (benvenuto, compleanno, inattività, recensioni) con benefit gestito offline
-- Segmentazione clienti avanzata (filtri molto ricchi)
-- Post acquisto / onboarding avanzato via Make
-- RCS gratuiti su tutti i piani
-- Campagne manuali a segmenti personalizzati
+**B) Aspettare le automazioni flessibili (~3 mesi)**
+- Partire quando la piattaforma regge meglio il caso d'uso di Cliento
+- Test pilota più solido e più vicino alla visione finale
+- Rischio: perdere lo slancio commerciale con Elena
 
----
-
-## Proposta per il test pilota
-
-Portare i primi clienti Cliento su un **programma semplificato** (senza livelli), usando:
-- Le autopromo native per le comunicazioni base
-- Make gestito da Unipiazza as-a-service per le automazioni extra (post acquisto, onboarding avanzato)
-- Comunicare chiaramente cosa è già disponibile e cosa è in roadmap
-
-Il gap principale non è tecnico ma concettuale: Unipiazza nasce come ecosistema multi-merchant con regole condivise; Cliento vuole uno strumento CRM/comunicazione per singolo retailer autonomo. Molte cose già ci sono, ma la logica di progressione/livelli manca del tutto.
+*Decidere tra A e B è la call più importante da fare con Tommaso (e forse con Lorenzo).*
