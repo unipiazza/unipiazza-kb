@@ -77,6 +77,7 @@ Accesso al gestionale e panoramica della sezione Riepilogo. ⚠️ Articolo 2744
 | 36905 | Come accedere al Gestionale e reimpostare la password | come-accedere-al-gestionale-unipiazza-e-reimpostare-la-password | published |
 | 37647 | Come accedere velocemente al gestionale Partner da Smartphone | come-accedere-velocemente-al-gestionale-partner-da-smartphone | published |
 | 61924 | Come disabilitare lo spegnimento automatico del Chiosco | come-disabilitare-lo-spegnimento-automatico-del-chiosco | published |
+| 63781 | L'app Partner non funziona più? Ecco cosa fare! | l-app-partner-non-funziona-piu-ecco-cosa-fare | published |
 
 ---
 
