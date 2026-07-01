@@ -136,6 +136,7 @@ Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistich
 | article_id | Titolo | slug | status |
 |---|---|---|---|
 | 27450 | Cosa sono le Campagne Marketing e come si creano? | cosa-sono-le-campagne-marketing-e-come-si-creano | published |
+| 27452 | Suggerimenti per scrivere una Campagna Marketing perfetta | suggerimenti-per-scrivere-una-campagna-marketing-perfetta | published |
 | 27453 | Cosa sono e come funzionano le Autopromo? | cosa-sono-le-autopromo | published |
 | 30013 | Dove si possono scaricare immagini gratuite per le Campagne? | dove-si-possono-scaricare-immagini-gratuite-per-le-campagne | published |
 | 30681 | Posso inviare una campagna solo ad alcuni clienti? | posso-inviare-una-campagna-solo-ad-alcuni-clienti | published |
