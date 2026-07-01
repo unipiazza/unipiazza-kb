@@ -5,11 +5,11 @@ collection: Tablet Unipiazza & Tessere
 title: ⚠️ Tessere arancioni con codice KC, KD, KE, KF, KG, KH
 slug: tessere-arancioni-con-codice-kc-kd-ke-kf-kg-kh
 description: Avviso importante per le attività che hanno ricevuto tessere arancioni vergini con codice KC, KD, KE, KF, KG o KH. L’articolo spiega quali tessere non usare, come riconoscerle dal codice sotto al QR Code e come richiedere gratuitamente un nuovo pacco di tessere vergini.
-status: published
+status: draft
 written_by: 2961
 locale: it
 updated_at: '2026-06-06'
-last_synced: '2026-06-10'
+last_synced: '2026-07-01'
 ---
 
 In questi giorni abbiamo individuato un’anomalia temporanea su alcune tessere vergini arancioni inviate ad alcune attività commerciali. In alcuni casi, quando una tessera nuova viene appoggiata sul Chiosco, può comparire il profilo di un cliente già iscritto, con un nominativo che non appartiene alla tua attività.
