@@ -215,12 +215,11 @@ Personalizzazione estetica: cover chiosco, flyer, pacchetto custom. Tutti pubbli
 
 ### 10 — Pagamenti & Fatturazione · `collection_id: 676`
 
-Abbonamento, fatture, contatto assistenza, referral, cancellazione. 2 articoli ancora in draft.
+Abbonamento, fatture, contatto assistenza, referral, cancellazione. 1 articolo ancora in draft.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
 | 1262 | Hai bisogno di assistenza o informazioni commerciali? | hai-bisogno-di-assistenza-o-informazioni-commerciali | **draft** |
-| 2852 | Referente Unipiazza – Orari & Informazioni | referente-unipiazza-orari-informazioni | **draft** |
 | 16629 | Suggerisci una nuova attività e ottieni mesi gratis | suggerisci-attivita | published |
 | 41683 | Voglio disdire Unipiazza, cosa devo fare? | voglio-disdire-unipiazza-cosa-devo-fare | published |
 | 63774 | Cosa vedo nella sezione "Abbonamento & Fatture"? | cosa-vedo-nella-sezione-abbonamento-e-fatture | published |
