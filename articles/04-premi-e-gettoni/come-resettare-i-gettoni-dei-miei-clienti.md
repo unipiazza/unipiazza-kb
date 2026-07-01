@@ -9,7 +9,7 @@ status: published
 written_by: 45263
 locale: it
 updated_at: '2026-07-01'
-last_synced: '2026-06-10'
+last_synced: '2026-07-01'
 ---
 
 Se vuoi resettare i gettoni dei tuoi clienti, puoi programmare il reset in autonomia direttamente dal tuo Gestionale. Le visite, i premi già ritirati e le altre statistiche non saranno toccati. Puoi scegliere se azzerare i gettoni a **tutti i clienti** oppure solo a una **lista specifica**.
