@@ -28,7 +28,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | 07-booster-e-abbonamenti | 7236 | Booster Vendite e Abbonamenti | 4 | ✅ |
 | 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 4 | ❌ specifiche errate (slot, limiti) |
 | 09-vetrina | 7200 | Vetrina | 4 | ✅ |
-| 10-pagamenti-e-fatturazione | 676 | Pagamenti & Fatturazione | 5 | ⚠️ 2 articoli in draft |
+| 10-pagamenti-e-fatturazione | 676 | Pagamenti & Fatturazione | 4 | ⚠️ 1 articolo in draft |
 | 11-integrazioni | 8104 | Integrazioni | 3 | ⚠️ articolo Android con errori copia-incolla |
 | 12-impostazioni | 7257 | Impostazioni | 3 | ✅ |
 | 13-eshop | 3416 | eShop | 10 | ❌ duplicati, articoli vuoti, copy off-brand |
