@@ -125,7 +125,7 @@ Meccaniche di fedeltà: gettoni, lista premi, creazione premi, limiti ritiro, ge
 | 30684 | Come creare una Lista Premi perfetta | come-creare-una-lista-premi-perfetta | published |
 | 41456 | Come impostare limiti per il ritiro dei premi | come-impostare-limiti-per-il-ritiro-dei-premi | published |
 | 41597 | Come resetto i gettoni dei miei clienti? | come-resettare-i-gettoni-dei-miei-clienti | published |
-| 61921 | Come gestisco fiscalmente i premi di Unipiazza? | come-gestisco-fiscalmente-i-premi-di-unipiazza | published |
+| 61921 | Come gestisco fiscalmente i premi di Unipiazza? | come-faccio-fiscalmente-a-dare-un-premio-con-unipiazza | published |
 
 ---
 
