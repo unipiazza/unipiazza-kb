@@ -270,25 +270,16 @@ Vendita online: Stripe, prodotti, foto, codici sconto, spedizioni. ❌ 2 articol
 
 ### 14 — Tablet Unipiazza & Tessere · `collection_id: 171`
 
-Guide tablet e tessere fedeltà. ⚠️ 15 articoli in draft (contenuto legacy da valutare); solo 1 pubblicato (avviso tessere arancioni KC-KH).
+Guide tablet e tessere fedeltà. ⚠️ 5 articoli in draft (contenuto legacy da valutare); solo 1 pubblicato (avviso tessere arancioni KC-KH). Nota: 9 articoli legacy cancellati manualmente da Customerly il 2026-07-01, rimossi anche dal locale.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
-| 1249 | Ho cambiato la password del wifi, come la cambio nel tablet? | ho-cambiato-la-password-del-wifi-come-la-cambio-nel-tablet | **draft** |
+| 1249 | Ho cambiato la password del wifi, come la cambio nel tablet? | ho-cambiato-la-password-del-wifi-come-la-cambio-nel-tablet | published |
 | 1250 | E' comparsa la scritta blu "dispositivo non trovato" cosa posso fare? | e-comparsa-la-scritta-blu-dispositivo-non-trovato-cosa-posso-fare | **draft** |
 | 1251 | Visualizzo una schermata rossa con scritto "Wifi assente" cosa posso fare? | visualizzo-una-schermata-rossa-con-scritto-wifi-assente-cosa-posso-fare | **draft** |
-| 1252 | Come modifico le immagini visualizzate nel Tablet? | come-modifico-le-immagini-visualizzate-nel-tablet | **draft** |
-| 1253 | Il Tablet non si accende cosa posso fare? | il-tablet-non-si-accende-cosa-posso-fare | **draft** |
-| 1254 | Ho accreditato un importo sbagliato posso modificarlo? | ho-accreditato-un-importo-sbagliato-posso-modificarlo | **draft** |
-| 1256 | Come creare una campagna email | come-creare-una-campagna-email | **draft** |
-| 1257 | Come collego la mia pagina Facebook al Tablet Unipiazza? | come-collego-la-mia-pagina-facebook-al-tablet-unipiazza | **draft** |
-| 3316 | Come collego la mia pagina Facebook al tablet? | come-collego-la-mia-pagina-facebook-al-tablet | **draft** |
 | 4364 | Come accreditare gettoni tramite App Partner | come-accreditare-gettoni-tramite-app-partner | **draft** |
-| 4365 | Un cliente perde la Tessera, cosa può fare? | un-cliente-perde-la-tessera-cosa-puo-fare | **draft** |
-| 4406 | Le migliori frasi per far aderire i tuoi clienti | le-migliori-frasi-per-far-aderire-i-tuoi-clienti | **draft** |
 | 15851 | Il Tablet è acceso ma bloccato | il-tablet-e-acceso-ma-bloccato | **draft** |
-| 15852 | Visualizzo un lucchetto nello smartphone | visualizzo-un-lucchetto-nello-smartphone | **draft** |
-| 61811 | Tessere arancioni con codice KC, KD, KE, KF, KG, KH | tessere-arancioni-con-codice-kc-kd-ke-kf-kg-kh | published |
+| 61811 | Tessere arancioni con codice KC, KD, KE, KF, KG, KH | tessere-arancioni-con-codice-kc-kd-ke-kf-kg-kh | **draft** |
 
 ---
 
