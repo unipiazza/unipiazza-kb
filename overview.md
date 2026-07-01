@@ -63,7 +63,7 @@ Articoli di benvenuto e troubleshooting hardware/app. Pilotati e validati (round
 | 40682 | L'app Unipiazza è sparita, cosa faccio? | l-app-unipiazza-e-sparita-cosa-faccio | published |
 | 48419 | Tablet compatibili con l'App Chiosco | tablet-compatibili-con-app-chiosco | published |
 | 48446 | Dispositivi compatibili con l'App Operatore | dispositivi-compatibili-con-l-app-operatore | published |
-| 61989 | Smartphone o tablet gonfio? Ecco cosa fare | smartphone-o-tablet-gonfio-ecco-cosa-fare | **draft** |
+| 61989 | Smartphone o tablet gonfio? Ecco cosa fare | smartphone-o-tablet-gonfio-ecco-cosa-fare | published |
 
 ---
 
