@@ -5,14 +5,14 @@ collection: "❇️ Guida Introduttiva"
 title: "Smartphone o tablet gonfio? Ecco cosa fare"
 slug: smartphone-o-tablet-gonfio-ecco-cosa-fare
 description: "Ti è capitato di notare il tuo smartphone o il tuo tablet un po'... rigonfio? Niente panico, ti spieghiamo subito i passi da seguire."
-status: draft
+status: published
 written_by: 45263
 keywords: []
 sort: 8
 is_featured: false
 locale: it
 updated_at: '2026-06-16'
-last_synced: '2026-06-19'
+last_synced: '2026-07-01'
 ---
 
 Ti è capitato di notare il tuo smartphone o il tuo tablet Unipiazza un po'... rigonfio? Non è una buona notizia: significa che la batteria sta avendo problemi. Ma niente panico, ti spieghiamo subito i passi da seguire.
