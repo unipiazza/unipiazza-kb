@@ -20,7 +20,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | Cartella | collection_id | Titolo | Art. | Stato |
 |---|---|---|---|---|
 | 01-guida-introduttiva | 7178 | Guida Introduttiva | 9 | ✅ |
-| 02-riepilogo | 7179 | Riepilogo | 4 | ⚠️ manca 2 metriche nel dashboard |
+| 02-riepilogo | 7179 | Riepilogo | 5 | ⚠️ manca 2 metriche nel dashboard |
 | 03-clienti | 7180 | Clienti | 21 | ✅ |
 | 04-premi-e-gettoni | 7181 | Premi e Gettoni | 9 | ✅ |
 | 05-campagne-autopromo-whatsapp | 7182 | Campagne, Autopromo e WhatsApp | 17 | ✅ |
