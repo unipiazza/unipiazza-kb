@@ -19,6 +19,16 @@ Integrare il tuo account **WhatsApp Business** con il gestionale Unipiazza ti pe
 
 **⚠️ Costi del servizio:** Questa funzionalità è a consumo. Attualmente, il costo è di **0,10€ per ogni conversazione** avviata.
 
+## ✨ Non solo Campagne: un vantaggio in più
+
+Collegare il tuo WhatsApp Business non serve solo a inviare Campagne e Autopromo a pagamento. C'è un altro vantaggio, e per te è completamente gratuito.
+
+Unipiazza invia già oggi in automatico alcuni **messaggi transazionali** ai tuoi clienti: il benvenuto all'iscrizione, la conferma quando scali un credito dal Wallet, l'avviso di ritiro di un Premio e alcuni promemoria. Quando un cliente si è iscritto con il numero di telefono ma non è compatibile con gli [RCS](https://supporto.unipiazza.it/it/articles/43309-cosa-sono-gli-rcs), questi messaggi gli arrivano via WhatsApp.
+
+Finché non colleghi il tuo numero, partono dal numero WhatsApp di Unipiazza. Appena colleghi il tuo WhatsApp Business, da quel momento in poi arrivano al cliente direttamente dal tuo numero: vede la comunicazione con il nome della tua attività, come se gliela mandassi tu di persona. Molto più professionale e riconoscibile. 💪
+
+> 💡 Tranquillo: a differenza delle Campagne e delle Autopromo WhatsApp, questi messaggi transazionali restano **gratuiti** anche dopo aver collegato il tuo numero.
+
 ## 📋 Cosa ti serve prima di iniziare
 
 Per una configurazione rapida e senza intoppi, assicurati di avere a portata di mano:
