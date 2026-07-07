@@ -17,6 +17,8 @@ last_synced: '2026-06-19'
 
 Integrare il tuo account **WhatsApp Business** con il gestionale Unipiazza ti permette di comunicare in modo diretto ed efficace con i tuoi clienti. Una volta completato il collegamento, potrai inviare messaggi, campagne e promozioni.
 
+> 🖥️ **Ti consigliamo vivamente di eseguire questa procedura da computer e non da smartphone.** Alcune schermate di configurazione Meta/Facebook sono ottimizzate per browser desktop e potrebbero risultare difficili da navigare da mobile.
+
 **⚠️ Costi del servizio:** Questa funzionalità è a consumo. Attualmente, il costo è di **0,10€ per ogni conversazione** avviata.
 
 ## ✨ Non solo Campagne: un vantaggio in più
