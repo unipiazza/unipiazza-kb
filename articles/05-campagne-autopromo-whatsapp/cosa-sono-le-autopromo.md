@@ -32,7 +32,7 @@ Per ogni Autopromo puoi configurare:
 - 📅 **La scadenza**: 3, 7, 14 o 30 giorni entro cui il cliente può ritirare l'offerta.
 - ✅ **Lo stato attivo/inattivo**: puoi accendere o spegnere ogni Autopromo quando vuoi.
 
-> ⚠️ **Il testo dell'offerta deve sempre contenere una promozione vera e propria** — uno sconto, un omaggio, un premio, un "2x1"... — perché il cliente possa ritirarla entro la scadenza. Non è il posto giusto per un annuncio o una comunicazione generica (es. "Prova i nostri nuovi gusti" o "Siamo aperti anche la domenica"): un testo così non dà diritto a nessun ritiro e confonde il cliente, che si aspetta un premio da riscattare. Per le comunicazioni generiche usa una [Campagna Marketing](https://supporto.unipiazza.it/it/articles/27450-cosa-sono-le-campagne-marketing-e-come-si-creano). L'unica eccezione è l'Autopromo Recensioni, pensata apposta senza promozione associata.
+> ⚠️ **Il testo dell'offerta deve sempre essere una promozione vera e propria** (sconto, omaggio, premio, "2x1"...), non un annuncio o una comunicazione generica: il cliente deve poter ritirarla entro la scadenza. Per le comunicazioni generiche usa una [Campagna Marketing](https://supporto.unipiazza.it/it/articles/27450-cosa-sono-le-campagne-marketing-e-come-si-creano). Unica eccezione: l'Autopromo Recensioni, senza promozione associata.
 
 Per le Autopromo Prima Visita, Compleanno, A Rischio e Dormienti viene inviato anche un **promemoria automatico** 2 giorni prima della scadenza, se il cliente non ha ancora ritirato il premio.
 
