@@ -34,7 +34,7 @@ Una volta inviata la richiesta, il nostro team la prenderà in carico e proceder
 
 Se la quantità richiesta supera il pacchetto iniziale di tessere incluso nel tuo kit, il relativo costo verrà aggiunto alla successiva fattura.
 
-💡 Vuoi sapere cos'altro trovi in quella pagina? Dai un'occhiata a [Cosa vedo nella sezione "Abbonamento & Fatture"?](https://help.unipiazza.it) [[cosa-vedo-nella-sezione-abbonamento-e-fatture]]
+💡 Vuoi sapere cos'altro trovi in quella pagina? Dai un'occhiata a [Cosa vedo nella sezione "Abbonamento & Fatture"?](https://supporto.unipiazza.it/it/articles/63774-cosa-vedo-nella-sezione-abbonamento-e-fatture) [[cosa-vedo-nella-sezione-abbonamento-e-fatture]]
 
 **Tessere custom personalizzate**
 
