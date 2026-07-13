@@ -36,7 +36,7 @@ Tre barre di avanzamento mostrano quanto hai consumato rispetto ai limiti inclus
 - 🪪 **Tessere Fedeltà incluse:** le Tessere Fedeltà che puoi ancora richiedere nell'anno
 
 Hai esaurito i crediti Olivia AI? Clicca su **"Ottieni altri crediti"** direttamente sotto la barra.
-Hai finito le Tessere Fedeltà? Premi su **"Richiedi un nuovo pacco"** per farne arrivare altre.
+Hai finito le Tessere Fedeltà? Premi su **"Richiedi un nuovo pacco"** per farne arrivare altre: è proprio da qui che si richiedono le tessere standard. Trovi tutti i dettagli in [Ho finito le tessere, come posso richiederne delle altre?](https://supporto.unipiazza.it/it/articles/4366-ho-finito-le-tessere-come-posso-richiederne-delle-altre) [[ho-finito-le-tessere-come-posso-richiederne-delle-altre]]
 
 ---
 
