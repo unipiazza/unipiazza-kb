@@ -26,13 +26,15 @@ Hai finito le tessere Unipiazza o le stai per finire? Niente paura, richiederle 
 Per richiederle:
 
 1. Accedi al gestionale Unipiazza
-2. Vai su Impostazioni
-3. Clicca su Richiedi tessere
-4. Completa la richiesta seguendo le indicazioni
+2. Clicca sul **tuo nome in alto a destra** → scegli **Abbonamento & Fatture** dal menu a tendina
+3. Nella sezione **Utilizzi** trovi la barra **🪪 Tessere Fedeltà incluse**, che mostra quante tessere hai già richiesto e quante te ne restano
+4. Premi su **"Richiedi un nuovo pacco"** proprio sotto la barra e completa la richiesta
 
 Una volta inviata la richiesta, il nostro team la prenderà in carico e procederà con la preparazione e la spedizione.
 
 Se la quantità richiesta supera il pacchetto iniziale di tessere incluso nel tuo kit, il relativo costo verrà aggiunto alla successiva fattura.
+
+💡 Vuoi sapere cos'altro trovi in quella pagina? Dai un'occhiata a [Cosa vedo nella sezione "Abbonamento & Fatture"?](https://help.unipiazza.it) [[cosa-vedo-nella-sezione-abbonamento-e-fatture]]
 
 **Tessere custom personalizzate**
 
