@@ -40,6 +40,14 @@ Ecco cosa trovi in questa sezione:
 - **Vip**: Si tratta di quei clienti che hanno mostrato una particolare fedeltà, visitando la tua attività più volte negli ultimi 5 mesi (almeno 4 volte). Questi rappresentano fino al 20% della tua base clienti.
 - **Ti seguono:** Questi sono i clienti che hanno premuto su "Segui Attività" dall'App o dal sito Unipiazza ma che non hanno ancora fatto una prima visita.
 - **Inattivi:** Quelli che, per una ragione o l'altra, non hanno visitato il tuo locale o acquistato dal tuo eShop negli ultimi 90 giorni.
+- **Archiviati:** I clienti ormai "freddi", che non ti visitano e non leggono le tue comunicazioni da molto tempo (di norma un paio d'anni). A differenza delle altre, questa lista **non è selezionabile** dal menù a tendina della sezione Clienti.
+
+**Come influiscono gli Archiviati**
+
+I clienti archiviati restano visibili nella Lista Clienti, ma vengono **esclusi** da due punti importanti:
+
+- **Analisi Clienti:** non vengono conteggiati nei grafici, così le tue statistiche riflettono solo i clienti ancora attivi.
+- **Destinatari delle campagne:** quando scegli "Tutti i clienti" come destinatari, gli archiviati vengono esclusi in automatico. Per questo il numero reale di destinatari può risultare più basso del totale "Tutti i clienti" che vedi nel Riepilogo e nella Lista Clienti.
 
 **Dettagli sui Clienti**
 
