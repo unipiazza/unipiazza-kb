@@ -2,9 +2,9 @@
 article_id: 27444
 collection_id: 7180
 collection: "👨‍👩‍👧‍👦 Clienti"
-title: "Cosa sono le etichette clienti \"Nuovi\", \"Vip\", \"Ti seguono\" e \"Inattivi\"?"
+title: "Cosa sono le Etichette Clienti: Nuovi, Vip, Ti seguono e Inattivi"
 slug: cosa-sono-le-etichette-clienti-nuovi-vip-ti-seguono-e-inattivi
-description: "Impara a distinguere e sfruttare le categorie di clienti \"Nuovi\", \"Vip\", \"Ti seguono\" e \"Inattivi\" nella sezione \"Lista Clienti\" del tuo Gestionale Unipiazza per strategie di marketing mirate e una gestione clienti ottimale."
+description: "Scopri come Unipiazza classifica i tuoi clienti in base al loro comportamento e come usare queste informazioni per fidelizzarli meglio."
 status: published
 written_by: 2961
 keywords:
