@@ -32,9 +32,9 @@ Trovi tutti i dettagli, le misure e gli esempi nella guida completa:<br>📄 [Sc
 
 Ogni attività ha reso le sue Tessere uniche a modo suo. Ecco qualche esempio:
 
-![](../../assets/09-vetrina/42911_Esempi-tessere-1.jpg)
+![Esempi di Tessere Fedeltà personalizzate: Parco Terme Panighina, Giuly in WonderBar, NaturHouse](https://up-kb-assets.s3.eu-west-3.amazonaws.com/09-vetrina/42911_Esempi-tessere-1.jpg)
 
-![](../../assets/09-vetrina/42911_Esempi-tessere-2.jpg)
+![Altri esempi di Tessere Fedeltà personalizzate: Bar Costa, Brunch Republic, Grandi Vivai](https://up-kb-assets.s3.eu-west-3.amazonaws.com/09-vetrina/42911_Esempi-tessere-2.jpg)
 
 **Come creare la grafica: 3 modalità**
 
