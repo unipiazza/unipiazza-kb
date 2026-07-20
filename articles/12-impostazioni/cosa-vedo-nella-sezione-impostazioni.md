@@ -27,12 +27,12 @@ La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pan
 
 3. **Obiettivo Iscritti:** Imposta l'obiettivo mensile di nuovi iscritti in modo da motivare tutto il tuo team a raggiungerlo. L'obiettivo verrà visualizzato sul tuo Smartphone Unipiazza e nella sezione riepilogo del gestionale.
 
-4. **Richiesta Tessere:** Se sei a corto di tessere fisiche per i tuoi clienti, qui puoi richiederne altre che ti verranno spedite nel giro di qualche giorno direttamente presso la tua attività. Qualora avessi superato il limite di tessere previste dal tuo pacchetto, il costo verrà addebitato nella fattura successiva.
+4. **Compleanno all'iscrizione:** Permetti la possibilità che il cliente, in fase di registrazione, possa inserire la sua data di nascita.
 
-5. **Compleanno all'iscrizione:** Permetti la possibilità che il cliente, in fase di registrazione, possa inserire la sua data di nascita.
+5. **Resetta i gettoni clienti:** Se vuoi resettare i gettoni dei tuoi clienti, puoi programmare il reset in autonomia direttamente dal tuo Gestionale. Clicca [qui](https://supporto.unipiazza.it/it/articles/41597-come-resettare-i-gettoni-dei-miei-clienti) per maggiori dettagli.
 
-6. **Resetta i gettoni clienti:** Se vuoi resettare i gettoni dei tuoi clienti, puoi programmare il reset in autonomia direttamente dal tuo Gestionale. Clicca [qui](https://supporto.unipiazza.it/it/articles/41597-come-resettare-i-gettoni-dei-miei-clienti) per maggiori dettagli.
+6. **Modalità fun:** Personalizza il Chiosco con temi stagionali, icone, colori ed effetti speciali che rendono l'esperienza più divertente in alcuni periodi dell'anno.
 
-7. **Modalità fun:** Personalizza il Chiosco con temi stagionali, icone, colori ed effetti speciali che rendono l'esperienza più divertente in alcuni periodi dell'anno.
+7. **WhatsApp Business:** Collega il tuo account WhatsApp per iniziare a inviare comunicazioni ai tuoi clienti.
 
 8. **Liste preimpostate:** Modifica i criteri con cui i tuoi clienti entrano nelle liste automatiche **Nuovi**, **Vip**, **Inattivi** e **Archiviati** (per esempio la soglia di giorni dei "Nuovi"). Attenzione: cambiando i criteri cambiano anche i destinatari delle tue Autopromo e campagne. Clicca [qui](https://supporto.unipiazza.it/it/articles/27444-cosa-sono-le-etichette-clienti-nuovi-vip-ti-seguono-e-inattivi) per i dettagli.
