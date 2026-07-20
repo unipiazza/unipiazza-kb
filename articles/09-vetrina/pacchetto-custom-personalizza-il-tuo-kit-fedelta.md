@@ -24,7 +24,17 @@ Le Tessere Fedeltà hanno due lati, con libertà diverse:
 
 🔒 **Retro: il box del QR Code resta così**<br>Il box con lo sfondo bianco, il QR Code e il codice sotto non sono modificabili: servono al corretto funzionamento del programma fedeltà.
 
+![](../../assets/09-vetrina/42911_Cosa-si-puo-personalizzare.jpg)
+
 Trovi tutti i dettagli, le misure e gli esempi nella guida completa:<br>📄 [Scarica la guida con le specifiche grafiche](https://unpz.it/tessere-personalizzate)
+
+**Lasciati ispirare: alcuni esempi**
+
+Ogni attività ha reso le sue Tessere uniche a modo suo. Ecco qualche esempio:
+
+![](../../assets/09-vetrina/42911_Esempi-tessere-1.jpg)
+
+![](../../assets/09-vetrina/42911_Esempi-tessere-2.jpg)
 
 **Come creare la grafica: 3 modalità**
 
