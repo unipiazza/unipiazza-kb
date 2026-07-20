@@ -32,3 +32,5 @@ La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pan
 6. **Resetta i gettoni clienti:** Se vuoi resettare i gettoni dei tuoi clienti, puoi programmare il reset in autonomia direttamente dal tuo Gestionale. Clicca [qui](https://supporto.unipiazza.it/it/articles/41597-come-resettare-i-gettoni-dei-miei-clienti) per maggiori dettagli.
 
 7. **Modalità fun:** Personalizza il Chiosco con temi stagionali, icone, colori ed effetti speciali che rendono l'esperienza più divertente in alcuni periodi dell'anno.
+
+8. **Liste preimpostate:** Modifica i criteri con cui i tuoi clienti entrano nelle liste automatiche **Nuovi**, **Vip**, **Inattivi** e **Archiviati** (per esempio la soglia di giorni dei "Nuovi"). Attenzione: cambiando i criteri cambiano anche i destinatari delle tue Autopromo e campagne. Clicca [qui](https://supporto.unipiazza.it/it/articles/27444-cosa-sono-le-etichette-clienti-nuovi-vip-ti-seguono-e-inattivi) per i dettagli.
