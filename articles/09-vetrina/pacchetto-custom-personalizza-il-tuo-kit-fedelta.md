@@ -58,8 +58,6 @@ Il prezzo di stampa dipende dalla quantità che ordini (ordine minimo 500 tesser
 
 Più tessere ordini, meno spendi per ognuna 😉
 
-![](../../assets/09-vetrina/42911_Custom-Cards.png)
-
 **Condizioni e tempistiche**
 
 Prima di ordinare, tieni a mente qualche dettaglio importante:
