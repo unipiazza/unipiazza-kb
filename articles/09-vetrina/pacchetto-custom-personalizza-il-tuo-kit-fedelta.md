@@ -9,7 +9,7 @@ status: published
 written_by: 2961
 locale: it
 updated_at: '2026-07-20'
-last_synced: '2026-06-10'
+last_synced: '2026-07-20'
 ---
 
 Vuoi che le tue Tessere Fedeltà siano perfettamente in linea con l’identità del tuo locale? Con Unipiazza puoi personalizzarle graficamente e renderle uniche: il tuo logo, i tuoi colori, il tuo stile. Un piccolo tocco che le trasforma in un vero biglietto da visita per la tua attività 😍<br><br>Ti spieghiamo cosa puoi personalizzare, come creare la grafica, quanto costa e come ordinarle.
