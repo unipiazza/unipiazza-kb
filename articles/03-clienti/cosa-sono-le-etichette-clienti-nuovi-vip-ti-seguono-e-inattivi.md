@@ -63,4 +63,8 @@ Cerca facilmente tra i tuoi clienti tramite nome, cognome, indirizzo email o le 
 
 Oltre a queste etichette di default, ora puoi creare **le tue liste personalizzate**: automatiche (basate su filtri come euro spesi, ultima visita, compleanno…) o manuali (selezionando i clienti a mano). Puoi usarle sia qui in Lista Clienti sia nello step Destinatari quando crei una campagna. Leggi l'articolo [Come creare e gestire le Liste Clienti](https://supporto.unipiazza.it/it/articles/61968-come-creare-e-gestire-le-liste-clienti) per scoprire come.
 
-La possibilità di modificare i parametri delle etichette di default (es. cambiare la soglia dei 30 giorni dei "Nuovi") arriverà presto!
+**Modifica le liste preimpostate**
+
+Non sei più vincolato ai valori di default: da oggi puoi **modificare i criteri** delle liste **Nuovi**, **Vip**, **Inattivi** e **Archiviati** (per esempio cambiare la soglia dei 30 giorni dei "Nuovi") direttamente dalle [Impostazioni](https://partner.unipiazza.it/impostazioni) del gestionale, nella card **Liste preimpostate**. La lista "Ti seguono" resta invece fissa.
+
+⚠️ Ricorda: cambiando questi criteri cambia anche chi rientra in ciascuna lista e, di conseguenza, quali clienti raggiungono le tue Autopromo e le tue campagne.
