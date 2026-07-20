@@ -13,7 +13,9 @@ keywords:
   - obiettivo
   - spegnimento
   - vacanza
+  - liste preimpostate
 locale: it
+updated_at: '2026-07-20'
 last_synced: '2026-06-23'
 ---
 
