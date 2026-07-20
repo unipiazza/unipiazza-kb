@@ -13,7 +13,7 @@ keywords:
   - lista manuale
   - segmentazione
   - campagne mirate
-sort: 1
+sort: 19
 is_featured: false
 locale: it
 updated_at: '2026-07-20'
