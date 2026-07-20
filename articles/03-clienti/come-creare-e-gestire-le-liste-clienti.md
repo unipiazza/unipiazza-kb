@@ -17,7 +17,7 @@ sort: 19
 is_featured: false
 locale: it
 updated_at: '2026-07-20'
-last_synced: '2026-06-16'
+last_synced: '2026-07-20'
 ---
 
 Fino a oggi potevi contare solo sulle liste preimpostate (Nuovi, Vip, Ti seguono, Inattivi, Con App, Importati senza visite...). Utili, certo, ma predefinite. Da oggi puoi **creare liste personalizzate** su misura per la tua attività, con i criteri che vuoi tu. 🎯
