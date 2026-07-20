@@ -208,7 +208,7 @@ Personalizzazione estetica: cover chiosco, flyer, pacchetto custom. Tutti pubbli
 |---|---|---|---|
 | 28255 | Cos'è e a cosa serve la Vetrina? | cos-e-e-a-cosa-serve-la-vetrina | published |
 | 28259 | Come cambio le immagini Cover che compaiono sul Chiosco? | come-cambio-le-immagini-cover-che-compaiono-sul-chiosco | published |
-| 42911 | Pacchetto Custom: Personalizza il tuo Kit Fedeltà! | pacchetto-custom-personalizza-il-tuo-kit-fedelta | published |
+| 42911 | Come personalizzare graficamente le tue Tessere Fedeltà | pacchetto-custom-personalizza-il-tuo-kit-fedelta | published |
 | 42912 | Come creare Flyer personalizzati per il tuo locale | come-creare-flyer-personalizzati-per-il-tuo-locale | published |
 
 ---
