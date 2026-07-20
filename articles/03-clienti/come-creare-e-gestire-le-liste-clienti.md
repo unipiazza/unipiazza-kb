@@ -20,9 +20,9 @@ updated_at: '2026-06-16'
 last_synced: '2026-06-16'
 ---
 
-Fino a oggi potevi contare solo sulle liste preimpostate (Nuovi, Vip, Ti seguono, Inattivi, Con App, Importati senza visite...). Utili, certo, ma con parametri fissi. Da oggi puoi **creare liste personalizzate** su misura per la tua attività, con i criteri che vuoi tu. 🎯
+Fino a oggi potevi contare solo sulle liste preimpostate (Nuovi, Vip, Ti seguono, Inattivi, Con App, Importati senza visite...). Utili, certo, ma predefinite. Da oggi puoi **creare liste personalizzate** su misura per la tua attività, con i criteri che vuoi tu. 🎯
 
-(La possibilità di modificare i parametri delle liste preimpostate arriverà presto!)
+E ora puoi anche **modificare i criteri delle liste preimpostate** Nuovi, Vip, Inattivi e Archiviati direttamente dalle Impostazioni del gestionale: scopri come nell'articolo [Cosa sono le etichette clienti "Nuovi", "Vip", "Ti seguono" e "Inattivi"?](https://supporto.unipiazza.it/it/articles/27444-cosa-sono-le-etichette-clienti-nuovi-vip-ti-seguono-e-inattivi).
 
 Le liste si usano in due posti: nel menù a tendina della sezione **Lista Clienti** (per analizzare il gruppo) e nello step **Destinatari** quando crei una campagna (per mandare messaggi solo a quel gruppo). Puoi anche aggiungere o rimuovere un cliente da una lista direttamente dal suo profilo.
 
