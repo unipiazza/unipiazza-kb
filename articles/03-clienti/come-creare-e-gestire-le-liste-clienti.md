@@ -16,7 +16,7 @@ keywords:
 sort: 1
 is_featured: false
 locale: it
-updated_at: '2026-06-16'
+updated_at: '2026-07-20'
 last_synced: '2026-06-16'
 ---
 
