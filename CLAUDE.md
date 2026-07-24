@@ -31,7 +31,7 @@ Il body degli articoli è **HTML** (editor TipTap): attenzione alla fedeltà nel
 
 ## Default obbligatori per ogni articolo
 - **Autore**: sempre `written_by: 2961` (Edoardo Parisi). Non usare altri writer_id salvo richiesta esplicita.
-- **AI training**: il flag `is_ai_enabled` deve essere attivo su tutti gli articoli pubblicati. Nota: il tool MCP `upsert_kb_article` non espone questo parametro — va attivato manualmente dall'interfaccia Customerly dopo l'upsert, oppure tramite API REST diretta.
+- **AI training**: il flag `is_ai_enabled` deve essere attivo su tutti gli articoli pubblicati. Il tool MCP `upsert_kb_article` espone questo parametro (booleano `is_ai_enabled`): passarlo `true` direttamente nell'upsert (verificato 2026-07-24).
 
 ## Regole
 - Non pubblicare/`upsert` senza mostrare prima all'utente cosa cambia.
