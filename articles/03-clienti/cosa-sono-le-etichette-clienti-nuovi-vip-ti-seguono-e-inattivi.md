@@ -38,10 +38,10 @@ La sezione "[Lista Clienti](https://partner.unipiazza.it/clienti)" nel tuo gesti
 
 Ecco cosa trovi in questa sezione:
 
-- **Nuovi**: Si riferisce ai clienti che hanno visitato il tuo locale per la prima volta negli ultimi 30 giorni.
-- **Vip**: Si tratta di quei clienti che hanno mostrato una particolare fedeltà, visitando la tua attività più volte negli ultimi 5 mesi (almeno 4 volte). Questi rappresentano fino al 20% della tua base clienti.
+- **Nuovi**: i clienti che hanno visitato il tuo locale per la prima volta di recente. La soglia di default è di 30 giorni, ma è tarata sul tuo settore e la puoi personalizzare.
+- **Vip**: i clienti più fedeli, quelli tornati da te più volte negli ultimi mesi. Di default sono chi ha fatto almeno 5 visite negli ultimi 5 mesi, ma anche questa soglia è tarata sul tuo settore e la puoi personalizzare.
 - **Ti seguono:** Questi sono i clienti che hanno premuto su "Segui Attività" dall'App o dal sito Unipiazza ma che non hanno ancora fatto una prima visita.
-- **Inattivi:** Quelli che, per una ragione o l'altra, non hanno visitato il tuo locale o acquistato dal tuo eShop negli ultimi 90 giorni.
+- **Inattivi:** quelli che, per una ragione o l'altra, non visitano il tuo locale né acquistano dal tuo eShop da un po'. Anche qui la soglia di default (90 giorni) dipende dal settore ed è personalizzabile.
 - **Archiviati:** I clienti ormai "freddi", che non ti visitano e non leggono le tue comunicazioni da molto tempo (di norma un paio d'anni). A differenza delle altre, questa lista **non è selezionabile** dal menù a tendina della sezione Clienti.
 
 **Come influiscono gli Archiviati**
