@@ -65,8 +65,12 @@ Cerca facilmente tra i tuoi clienti tramite nome, cognome, indirizzo email o le 
 
 Oltre a queste etichette di default, ora puoi creare **le tue liste personalizzate**: automatiche (basate su filtri come euro spesi, ultima visita, compleanno…) o manuali (selezionando i clienti a mano). Puoi usarle sia qui in Lista Clienti sia nello step Destinatari quando crei una campagna. Leggi l'articolo [Come creare e gestire le Liste Clienti](https://supporto.unipiazza.it/it/articles/61968-come-creare-e-gestire-le-liste-clienti) per scoprire come.
 
-**Modifica le liste preimpostate**
+**Liste preimpostate: valori tarati sul tuo settore**
 
-Non sei più vincolato ai valori di default: da oggi puoi **modificare i criteri** delle liste **Nuovi**, **Vip**, **Inattivi** e **Archiviati** (per esempio cambiare la soglia dei 30 giorni dei "Nuovi") direttamente dalle [Impostazioni](https://partner.unipiazza.it/impostazioni) del gestionale, nella card **Liste preimpostate**. La lista "Ti seguono" resta invece fissa.
+Le soglie che definiscono Nuovi, Vip e Inattivi non sono più uguali per tutti. Un bar, una gelateria e un parrucchiere hanno ritmi di visita molto diversi: per questo i valori di default sono **tarati in base al settore della tua attività**, partendo dai dati reali di migliaia di locali simili al tuo.
+
+Vuol dire che parti già da soglie sensate per il tuo tipo di attività, senza doverle impostare da zero. Per esempio: in un bar si torna spesso, così un cliente diventa "Inattivo" dopo poche settimane... in una gelateria, dove le visite sono più stagionali, la stessa soglia è più larga.
+
+E resti sempre libero di personalizzarle: dalle [Impostazioni](https://partner.unipiazza.it/impostazioni) del gestionale, nella card **Liste preimpostate**, puoi modificare i criteri di **Nuovi**, **Vip**, **Inattivi** e **Archiviati** (la lista "Ti seguono" resta fissa).
 
 ⚠️ Ricorda: cambiando questi criteri cambia anche chi rientra in ciascuna lista e, di conseguenza, quali clienti raggiungono le tue Autopromo e le tue campagne.
