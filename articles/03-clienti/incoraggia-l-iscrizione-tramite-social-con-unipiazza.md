@@ -22,11 +22,14 @@ keywords:
 sort: 10
 is_featured: false
 locale: it
-updated_at: '2023-12-28'
-last_synced: '2026-06-19'
+updated_at: '2026-07-28'
+last_synced: '2026-07-28'
 ---
 
-Vuoi che i tuoi clienti si uniscano alla tua community Unipiazza? Usa la potenza dei social! Ecco alcuni suggerimenti per creare post efficaci su Facebook o Instagram che invogliano all'iscrizione.
+Vuoi che più clienti si iscrivano al tuo programma fedeltà? I social sono il modo più veloce per farlo sapere a tutti. Qui trovi le immagini pronte da pubblicare, i testi da copiare e gli esempi di chi lo ha già fatto.
+
+> 🎥 **Guarda come fanno le altre attività**
+> Abbiamo raccolto oltre 40 video girati dai nostri clienti e pubblicati sui loro social. Filtrali per settore e trova un locale simile al tuo: dentro ci sono anche 6 consigli per girare il tuo video e i testi pronti da copiare. [Apri la raccolta di video](https://unpz.it/ispirazione-social)
 
 ## Immagini per Facebook:
 
@@ -85,39 +88,3 @@ Ecco come fare:
 🎁 Ritira dei prodotti premio con i gettoni raccolti
 🌟 Ricevi offerte esclusive dedicate solo ai clienti con l'App Unipiazza
 ```
-
-## Casi di successo
-
-Qui sotto trovi qualche esempio reale da cui potrai prendere ispirazione:
-
-### Tigellona Bologna
-
-![](https://s3-eu-west-1.amazonaws.com/blackhole.customerly.io/attachments/froala/images/9b0916a1903be164051e671b71fa26c0.png)
-
-### Gelateria Gianni
-
-![](https://s3-eu-west-1.amazonaws.com/blackhole.customerly.io/attachments/froala/images/3c30753980d695486512710d24629757.png)
-
-### Savà - Dolceria
-
-![](https://s3-eu-west-1.amazonaws.com/blackhole.customerly.io/attachments/froala/images/84a00b0b77dc60001304b548fc859387.png)
-
-### Pizzeria da Filippo
-
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/25314/c096f3bfa870388ac85fb222f3c83c7b/1661324675216.jpg)
-
-### Fratelli di Pizza
-
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/25314/70549604595941a7415f134b1dc970b8/1661324675175.jpg)
-
-### Foto Digital Discount
-
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/25314/798da5b5022e6ed0f90731aadf0d46ee/1661324675134.jpg)
-
-### Chiaroscuro parrucchieri
-
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/25314/6422d039cf6b69c3af68490ecbbde183/1661324675091.jpg)
-
-### Bar Lilly
-
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/25314/91cefaaffa84addce67d0287000e41c7/1661324675011.jpg)
