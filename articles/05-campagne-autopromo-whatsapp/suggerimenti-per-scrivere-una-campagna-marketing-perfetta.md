@@ -20,7 +20,7 @@ sort: 1
 is_featured: false
 locale: it
 updated_at: '2024-02-07'
-last_synced: '2026-06-19'
+last_synced: '2026-07-28'
 ---
 
 Dicono che saper scrivere è un'arte, saper scrivere una buona campagna lo è ancor di più. Inviare una campagna ben fatta, grammaticalmente corretta e che sia poi effettivamente efficace non è un lavoro da poco.
@@ -72,7 +72,7 @@ Ecco alcuni punti su cui prestare attenzione:
 
 "🎁 `{{FNAME}}`, per te in regalo un trattamento viso!" → "🎁 Michela, per te in regalo una degustazione di cioccolatini"
 
-"Benvent`{{GENDER}}` `{{FNAME}}` nella community! 💌" → "Benvenuto Marco nella community 💌" o "Benvenuta Alessia nella community 💌"
+"Benvent`{{GENDER}}` `{{FNAME}}` tra i nostri clienti! 💌" → "Benvenuto Marco tra i nostri clienti 💌" o "Benvenuta Alessia tra i nostri clienti 💌"
 
 - **Immagine**
 

@@ -18,10 +18,10 @@ sort: 12
 is_featured: false
 locale: it
 updated_at: '2024-09-19'
-last_synced: '2026-06-19'
+last_synced: '2026-07-28'
 ---
 
-Ampliare la tua lista clienti e gestirla efficacemente è un gioco da ragazzi con Unipiazza. Con pochi click, potrai far crescere la tua community e mantenere tutto l'elenco clienti aggiornato. Scopriamo insieme come procedere.
+Ampliare la tua lista clienti e gestirla efficacemente è un gioco da ragazzi con Unipiazza. Con pochi click, potrai far crescere il tuo programma fedeltà e mantenere tutto l'elenco clienti aggiornato. Scopriamo insieme come procedere.
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Attenzione alla Privacy! </strong>Procedi con l'aggiunta o l'importazione dei contatti solo se hai ricevuto il loro esplicito consenso. Questo garantisce una gestione etica dei dati secondo le normative vigenti e costruisce la fiducia nei rapporti tra te e il tuo cliente.</p></td></tr></tbody></table>
 
