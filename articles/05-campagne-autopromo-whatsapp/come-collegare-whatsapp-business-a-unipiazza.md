@@ -6,7 +6,7 @@ title: "Come collegare WhatsApp Business a Unipiazza"
 slug: come-collegare-whatsapp-business-a-unipiazza
 description: "Scopri come collegare il tuo account WhatsApp a Unipiazza"
 status: published
-written_by: 2961
+written_by: 2963
 keywords: []
 sort: 11
 is_featured: false
