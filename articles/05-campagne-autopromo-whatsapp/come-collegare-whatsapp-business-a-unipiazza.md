@@ -19,7 +19,7 @@ Integrare il tuo account **WhatsApp Business** con il gestionale Unipiazza ti pe
 
 > 🖥️ **Ti consigliamo vivamente di eseguire questa procedura da computer e non da smartphone.** Alcune schermate di configurazione Meta/Facebook sono ottimizzate per browser desktop e potrebbero risultare difficili da navigare da mobile.
 
-**⚠️ Costi del servizio:** Questa funzionalità è a consumo. Attualmente, il costo è di **0,10€ per ogni conversazione** avviata.
+**⚠️ Costi del servizio:** Questa funzionalità è a consumo. Attualmente, il costo è di **0,10€ per ogni messaggio consegnato** con successo (non per conversazione).
 
 ## ✨ Non solo Campagne: un vantaggio in più
 
