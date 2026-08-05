@@ -11,9 +11,9 @@ locale: it
 last_synced: '2026-07-13'
 ---
 
-Vuoi sapere quanto stai pagando, quanti crediti ti restano e quali funzionalità hai attive? La sezione **Abbonamento & Fatture** è la tua pagina di controllo: tutto in un colpo d'occhio. 👀
+Vuoi sapere quanto stai pagando, quanti crediti ti restano e quali funzionalità hai attive? La sezione **Piano & Consumi** è la tua pagina di controllo: tutto in un colpo d'occhio. 👀
 
-Per arrivarci: clicca sul **tuo nome in alto a destra** nel gestionale → scegli **Abbonamento & Fatture** dal menu a tendina.
+Per arrivarci: clicca sul **tuo nome in alto a destra** nel gestionale → scegli **Piano & Consumi** dal menu a tendina.
 
 ---
 
