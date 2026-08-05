@@ -16,7 +16,7 @@ sort: 7
 is_featured: false
 locale: it
 updated_at: '2026-07-13'
-last_synced: '2026-07-13'
+last_synced: '2026-08-05'
 ---
 
 Hai finito le tessere Unipiazza o le stai per finire? Niente paura, richiederle è facile e veloce! Puoi richiedere nuove tessere Unipiazza in due modi diversi, in base al tipo di tessere di cui hai bisogno.
