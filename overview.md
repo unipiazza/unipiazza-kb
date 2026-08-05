@@ -222,7 +222,7 @@ Abbonamento, fatture, contatto assistenza, referral, cancellazione. 1 articolo a
 | 1262 | Hai bisogno di assistenza o informazioni commerciali? | hai-bisogno-di-assistenza-o-informazioni-commerciali | **draft** |
 | 16629 | Suggerisci una nuova attività e ottieni mesi gratis | suggerisci-attivita | published |
 | 41683 | Voglio disdire Unipiazza, cosa devo fare? | voglio-disdire-unipiazza-cosa-devo-fare | published |
-| 63774 | Cosa vedo nella sezione "Abbonamento & Fatture"? | cosa-vedo-nella-sezione-abbonamento-e-fatture | published |
+| 63774 | Cosa vedo nella sezione "Piano & Consumi"? | cosa-vedo-nella-sezione-abbonamento-e-fatture | published |
 
 ---
 
