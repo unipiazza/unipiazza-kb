@@ -68,7 +68,7 @@ Hai due modi per tenere d'occhio i tuoi crediti:
 
 🔵 **Barra in alto:** accanto al bottone "Chiedi ad Olivia" trovi il contatore **100 / 100** aggiornato in tempo reale. Cliccaci sopra: si apre un pannello con i crediti disponibili, la data di ricarica (il 1° di ogni mese) e il bottone per richiederne altri.
 
-📄 **Sezione Abbonamento & Fatture:** clicca sul tuo nome in alto a destra → "Abbonamento & Fatture". I crediti Olivia AI sono visibili nella sezione Utilizzi, con la barra di avanzamento mensile.
+📄 **Sezione Piano & Consumi:** clicca sul tuo nome in alto a destra → "Piano & Consumi". I crediti Olivia AI sono visibili nella sezione Utilizzi, con la barra di avanzamento mensile.
 
 ---
 
