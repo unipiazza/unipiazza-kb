@@ -46,7 +46,14 @@ Nel gestionale: **Wallet = fino a 5 tagli**, **GiftCard = fino a 6 tagli**. Inol
 [come-installare-l-app-operatore-unipiazza-sul-tuo-dispositivo-android](articles/11-integrazioni/come-installare-l-app-operatore-unipiazza-sul-tuo-dispositivo-android.md) [[come-installare-l-app-operatore-unipiazza-sul-tuo-dispositivo-android]]: il link "Vai su unpz.it/android" punta in realtà a `https://unpz.it/desktop`; e dice "Apri il browser del tuo **PC**" invece che del dispositivo Android. → Correggere link e testo.
 
 ### ⚪ A9 — Link nudo senza protocollo
-[come-visualizzo-lo-storico-dei-pagamenti-e-le-fatture](articles/10-pagamenti-e-fatturazione/come-visualizzo-lo-storico-dei-pagamenti-e-le-fatture.md): `[partner.unipiazza.it](partner.unipiazza.it)` è un link relativo rotto (manca `https://`). Stesso problema sul mailto in [l-app-unipiazza-e-sparita-cosa-faccio](articles/01-guida-introduttiva/l-app-unipiazza-e-sparita-cosa-faccio.md): `[partner@unipiazza.it.](partner@unipiazza.it)`.
+**Metà risolto (verificato 2026-08-07).** L'articolo sui pagamenti che conteneva
+`[partner.unipiazza.it](partner.unipiazza.it)` è stato riscritto e rinominato in
+[cosa-vedo-nella-sezione-piano-e-consumi](articles/10-pagamenti-e-fatturazione/cosa-vedo-nella-sezione-piano-e-consumi.md):
+il link nudo non c'è più.
+
+**Ancora aperto:** il mailto in [l-app-unipiazza-e-sparita-cosa-faccio](articles/01-guida-introduttiva/l-app-unipiazza-e-sparita-cosa-faccio.md)
+riga 59 — `[partner@unipiazza.it.](partner@unipiazza.it)` manca `mailto:` (e ha un punto
+di troppo dentro il testo del link). Da correggere e risincronizzare su Customerly.
 
 ### ⚪ A10 — Costo Stripe da verificare
 [come-collegare-stripe](articles/13-eshop/come-collegare-stripe.md): "0.25 cent + 1,4% a transazione". Da confermare con le commissioni Stripe IT attuali.
