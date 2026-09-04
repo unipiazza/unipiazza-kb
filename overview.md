@@ -279,7 +279,7 @@ Guide tablet e tessere fedeltà. ⚠️ 5 articoli in draft (contenuto legacy da
 | 1251 | Visualizzo una schermata rossa con scritto "Wifi assente" cosa posso fare? | visualizzo-una-schermata-rossa-con-scritto-wifi-assente-cosa-posso-fare | **draft** |
 | 4364 | Come accreditare gettoni tramite App Partner | come-accreditare-gettoni-tramite-app-partner | **draft** |
 | 15851 | Il Tablet è acceso ma bloccato | il-tablet-e-acceso-ma-bloccato | **draft** |
-| 61811 | Tessere arancioni e blu con codice KC-KH e KR-KZ | tessere-arancioni-e-blu-con-codice-kc-kh-e-kr-kz | **draft** |
+| 61811 | Tessere arancioni e blu con codice KC-KH e KR-KZ | tessere-arancioni-e-blu-con-codice-kc-kh-e-kr-kz | published |
 
 ---
 
