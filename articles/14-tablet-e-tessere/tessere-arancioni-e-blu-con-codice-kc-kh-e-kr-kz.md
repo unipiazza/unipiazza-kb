@@ -5,11 +5,11 @@ collection: Tablet Unipiazza & Tessere
 title: ⚠️ Tessere arancioni e blu con codice KC-KH e KR-KZ
 slug: tessere-arancioni-e-blu-con-codice-kc-kh-e-kr-kz
 description: Avviso importante per le attività che hanno ricevuto tessere vergini (arancioni o blu) con codice che inizia per KC, KD, KE, KF, KG, KH, KR, KS, KT, KU, KV, KW, KX, KY o KZ. L'articolo spiega quali tessere non usare, come riconoscerle dal codice sotto al QR Code e come richiedere gratuitamente un nuovo pacco di tessere vergini.
-status: draft
+status: published
 written_by: 2961
 locale: it
 updated_at: '2026-09-04'
-last_synced: '2026-07-01'
+last_synced: '2026-09-04'
 ---
 
 In questi giorni abbiamo individuato un'anomalia temporanea su alcune tessere vergini (sia arancioni che blu) inviate ad alcune attività commerciali. In alcuni casi, quando una tessera nuova viene appoggiata sul Chiosco, può comparire il profilo di un cliente già iscritto, con un nominativo che non appartiene alla tua attività.
