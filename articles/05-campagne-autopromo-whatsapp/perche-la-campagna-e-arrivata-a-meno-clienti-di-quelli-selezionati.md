@@ -48,14 +48,8 @@ Un cliente entra nei destinatari se può essere raggiunto da almeno uno di quest
 **3. Alcune email non sono più utilizzabili**
 Se un'email è rimbalzata perché l'indirizzo non esiste (un errore di battitura al Chiosco Unipiazza, una casella chiusa), viene marcata come non valida e non la usiamo più. Lo stesso vale se un cliente si è disiscritto o ha segnalato un messaggio come spam: da quel momento non lo contattiamo più via email. Serve a proteggere la reputazione del tuo mittente e a non far finire in spam le campagne successive. Su questo trovi altri consigli in [Come posso evitare che le mie Email finiscano in Spam?](https://supporto.unipiazza.it/it/articles/37262-come-posso-evitare-che-le-mie-email-finiscano-in-spam).
 
-**4. Devono essere clienti tuoi, non solo del circuito**
-Entrano nel conteggio le persone che hanno un rapporto con la tua attività: hanno raccolto Gettoni da te, si sono iscritte dal tuo Chiosco Unipiazza, ti seguono oppure hanno comprato dal tuo Unipiazza eShop. Chi è iscritto a Unipiazza ma non è mai passato da te non riceve le tue campagne.
-
-**5. I clienti archiviati restano fuori**
+**4. I clienti archiviati restano fuori**
 Quando scegli "Tutti i clienti" gli archiviati non vengono inclusi. Se vuoi raggiungerli comunque, selezionali in modo esplicito con una [Lista Clienti](https://supporto.unipiazza.it/it/articles/61968-come-creare-e-gestire-le-liste-clienti).
-
-**6. Lo stesso cliente conta una volta sola**
-Se hai più punti vendita e la stessa persona raccoglie Gettoni in due o tre di essi, la conti una volta e riceve un messaggio solo.
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Vuoi sapere in anticipo quanti sono?</strong></p><p>Vai in Clienti, poi Analisi clienti: il riquadro "Clienti contattabili" ti dice quanti dei tuoi iscritti sono raggiungibili e con quale canale (email, RCS, notifiche app). È esattamente la base da cui partono le tue campagne, quindi il confronto giusto è con quel numero, non con il totale degli iscritti.</p></td></tr></tbody></table>
 
