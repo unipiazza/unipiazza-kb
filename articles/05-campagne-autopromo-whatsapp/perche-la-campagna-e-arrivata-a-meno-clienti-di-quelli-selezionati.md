@@ -20,7 +20,7 @@ updated_at: '2026-09-07'
 last_synced: '2026-09-07'
 ---
 
-Hai 3.000 clienti iscritti, crei una campagna... e nei destinatari ne trovi 1.000. Niente panico: non è un errore e non hai perso nessun cliente. 😊 Il numero si assottiglia lungo il percorso, perché a ogni passaggio entrano in gioco i consensi, gli indirizzi email e i canali disponibili. Ti spieghiamo tutti i motivi, uno per uno.
+Hai 3.000 clienti iscritti, crei una campagna... e nei destinatari ne trovi 2.200. Niente panico: non è un errore e non hai perso nessun cliente. 😊 Il numero si assottiglia lungo il percorso, perché a ogni passaggio entrano in gioco i consensi, gli indirizzi email e i canali disponibili. Ti spieghiamo tutti i motivi, uno per uno.
 
 ## I tre numeri da non confondere
 
@@ -53,7 +53,7 @@ Quando scegli "Tutti i clienti" gli archiviati non vengono inclusi. Se vuoi ragg
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Vuoi sapere in anticipo quanti sono?</strong></p><p>Vai in Clienti, poi Analisi clienti: il riquadro "Clienti contattabili" ti dice quanti dei tuoi iscritti sono raggiungibili e con quale canale (email, RCS, notifiche app). È esattamente la base da cui partono le tue campagne, quindi il confronto giusto è con quel numero, non con il totale degli iscritti.</p></td></tr></tbody></table>
 
-## Perché le email inviate sono meno dei destinatari
+## Perché ogni canale ha un numero diverso
 
 Qui il punto è uno solo: **ogni cliente riceve la campagna dal canale che ha**. "Destinatari" non vuol dire "email inviate".
 
@@ -61,7 +61,7 @@ Qui il punto è uno solo: **ogni cliente riceve la campagna dal canale che ha**.
 2. 📲 **Notifica app**: arriva solo a chi ha l'app Unipiazza installata sul telefono.
 3. 💬 **RCS**: arriva solo ai telefoni compatibili, che non sono tutti.
 
-Ecco perché con 1.000 destinatari puoi trovare 800 email, 250 RCS e 200 notifiche: sono le stesse persone raggiunte da canali diversi (e qualcuna raggiunta su due canali insieme), non un conteggio sbagliato.
+Ecco perché con 2.200 destinatari puoi trovare 1.700 email, 550 RCS e 400 notifiche: sono le stesse persone raggiunte da canali diversi (e qualcuna raggiunta su due canali insieme), non un conteggio sbagliato.
 
 Ci sono altri due dettagli che spostano il numero:
 
@@ -95,9 +95,5 @@ La buona notizia è che questo numero si può alzare, e dipende quasi tutto da c
 4. 📲 **Invita i clienti a scaricare l'app Unipiazza**: aggiungi un canale gratuito e sempre disponibile.
 5. 🧹 **Tieni d'occhio la [sezione Analisi Clienti](https://supporto.unipiazza.it/it/articles/28263-cosa-vedo-nella-sezione-analisi-clienti)**: se i contattabili sono pochi, sai subito su cosa lavorare.
 6. ✍️ **Scrivi campagne utili e non troppo frequenti**: meno disiscrizioni e meno segnalazioni spam oggi significano più destinatari domani.
-
-## Riepilogo
-
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>Motivo</strong></p></td><td colspan="1" rowspan="1"><p><strong>Cosa succede al numero</strong></p></td></tr><tr><td colspan="1" rowspan="1"><p>Consenso marketing negato o revocato</p></td><td colspan="1" rowspan="1"><p>Escluso da tutti i canali</p></td></tr><tr><td colspan="1" rowspan="1"><p>Nessun canale disponibile (né email, né RCS, né app)</p></td><td colspan="1" rowspan="1"><p>Non raggiungibile, resta fuori</p></td></tr><tr><td colspan="1" rowspan="1"><p>Email rimbalzata, disiscritta o segnalata come spam</p></td><td colspan="1" rowspan="1"><p>Escluso dal canale email</p></td></tr><tr><td colspan="1" rowspan="1"><p>Cliente archiviato</p></td><td colspan="1" rowspan="1"><p>Fuori da "Tutti i clienti"</p></td></tr><tr><td colspan="1" rowspan="1"><p>Ha già ricevuto quella campagna</p></td><td colspan="1" rowspan="1"><p>Saltato, niente doppioni</p></td></tr><tr><td colspan="1" rowspan="1"><p>WhatsApp: numero mancante, non valido o senza WhatsApp</p></td><td colspan="1" rowspan="1"><p>Escluso dalla campagna WhatsApp</p></td></tr><tr><td colspan="1" rowspan="1"><p>WhatsApp: limite giornaliero di Meta raggiunto</p></td><td colspan="1" rowspan="1"><p>L'invio si ferma al tetto del giorno</p></td></tr></tbody></table>
 
 Se dopo tutto questo il numero continua a non tornarti, scrivici: controlliamo insieme la tua campagna e ti diciamo esattamente dove sono finiti i tuoi clienti. Chiamaci o scrivici su WhatsApp al 388 8665987, siamo qui per aiutarti! 😊
