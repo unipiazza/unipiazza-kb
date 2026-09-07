@@ -33,6 +33,8 @@ Quelli che ti hanno dato il consenso e che possiamo raggiungere su almeno un can
 **3. I destinatari della campagna**
 Il numero che leggi nel riquadro "Destinatari" della campagna inviata. Attenzione: non è "quanti ne ho selezionati", ma **quante persone hanno davvero ricevuto il messaggio** su almeno un canale, tra email, notifica app e RCS.
 
+![La riga di una campagna inviata con Destinatari, Aperture, Visite generate e Incassi](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/65381_CampagnaInviata-Destinatari.jpg)
+
 Il numero scende dal primo al secondo, e i messaggi di ogni singolo canale sono a loro volta meno dei destinatari. Vediamo perché.
 
 ## Perché i destinatari sono meno dei tuoi clienti iscritti
@@ -50,6 +52,8 @@ Se un'email è rimbalzata perché l'indirizzo non esiste (un errore di battitura
 
 **4. I clienti archiviati restano fuori**
 Quando scegli "Tutti i clienti" gli archiviati non vengono inclusi. Se vuoi raggiungerli comunque, selezionali in modo esplicito con una [Lista Clienti](https://supporto.unipiazza.it/it/articles/61968-come-creare-e-gestire-le-liste-clienti).
+
+![Il riquadro Clienti contattabili nella sezione Analisi clienti, con il dettaglio per canale](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/65381_ClientiContattabili.jpg)
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Vuoi sapere in anticipo quanti sono?</strong></p><p>Vai in Clienti, poi Analisi clienti: il riquadro "Clienti contattabili" ti dice quanti dei tuoi iscritti sono raggiungibili e con quale canale (email, RCS, notifiche app). È esattamente la base da cui partono le tue campagne, quindi il confronto giusto è con quel numero, non con il totale degli iscritti.</p></td></tr></tbody></table>
 
