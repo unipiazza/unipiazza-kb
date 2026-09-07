@@ -37,7 +37,7 @@ Dalla versione 6.0.0 del Chiosco Unipiazza, i tuoi clienti possono raccogliere G
 
 Nelle immagini sotto trovi i 4 step
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdibxtbqBZ1aNmdZDzdHOPNpNyUUc1DRnFzD7kt1CSwe6jt8TUSTfcugXArU8qif4RuKNoAcA2TFd3dPOcnruKS8xcS-h41EoKMhmsQS1PX7fwN4gDa5Tq4W3MdffZAqP_R6ba8Ag?key=7VihkDktRwJNTa1MfThb8w)
+![I 4 step per aggiornare il profilo e aggiungere il numero di telefono dal Chiosco](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/44201_aggiorna-profilo-4-step.jpg)
 
 **2️⃣ Avvisa tutti i clienti con una Campagna Email**
 
