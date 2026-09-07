@@ -16,7 +16,7 @@ sort: 17
 is_featured: false
 locale: it
 updated_at: '2025-05-26'
-last_synced: '2026-06-19'
+last_synced: '2026-09-07'
 ---
 
 Dalla versione 6.0.0 del Chiosco Unipiazza, i tuoi clienti possono raccogliere Gettoni anche senza Tessera o App. Basta digitare il proprio numero di telefono sul Chiosco Fedeltà. Qui scopri due modi rapidi per invitare ogni cliente ad aggiornare il proprio profilo aggiungendo il numero di telefono.
