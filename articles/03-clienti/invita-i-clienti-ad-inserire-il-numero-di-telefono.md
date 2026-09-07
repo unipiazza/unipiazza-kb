@@ -72,4 +72,4 @@ Perfetto non ti serve fare altro! Vieni da noi e digita il tuo numero sul Chiosc
 **Immagine:**
 Qui sotto trovi l'immagine che puoi inserire per completare la tua campagna. Premi con il tasto destro del mouse, scegli "Salva immagine con nome" e… il gioco è fatto! Ora potrai caricarla durante la creazione della tua campagna.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXctwWJWFddxHz8RddPaR4JSX5pcL77Vr974IwXhRI48BSkALUOXgU-oqmpBpD2XhemEGDCbl2vC37x-75g0dUz8WP-IY1xxY-ntnrIF4SsAoRnKHDfASLsRoZs_Tc9GLxZnOJj7jA?key=7VihkDktRwJNTa1MfThb8w)
+![Immagine "Raccogli gettoni inserendo il tuo numero" per la campagna email](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/44201_campagna-email-numero-telefono.jpg)
