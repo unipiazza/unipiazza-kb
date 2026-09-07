@@ -1,5 +1,5 @@
 ---
-article_id:
+article_id: 65381
 collection_id: 7182
 collection: "📢 Campagne, Autopromo e Whatsapp"
 title: "Perché la campagna è arrivata a meno clienti di quelli selezionati?"
@@ -17,7 +17,7 @@ sort: 6
 is_featured: false
 locale: it
 updated_at: '2026-09-07'
-last_synced:
+last_synced: '2026-09-07'
 ---
 
 Hai 3.000 clienti iscritti, crei una campagna... e nei destinatari ne trovi 1.000. Niente panico: non è un errore e non hai perso nessun cliente. 😊 Il numero si assottiglia lungo il percorso, perché a ogni passaggio entrano in gioco i consensi, gli indirizzi email e i canali disponibili. Ti spieghiamo tutti i motivi, uno per uno.

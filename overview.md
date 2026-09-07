@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 133 (104 published, 29 draft)
+- **Articoli totali:** 134 (105 published, 29 draft)
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -23,7 +23,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | 02-riepilogo | 7179 | Riepilogo | 5 | ⚠️ manca 2 metriche nel dashboard |
 | 03-clienti | 7180 | Clienti | 22 | ✅ |
 | 04-premi-e-gettoni | 7181 | Premi e Gettoni | 9 | ✅ |
-| 05-campagne-autopromo-whatsapp | 7182 | Campagne, Autopromo e WhatsApp | 18 | ✅ |
+| 05-campagne-autopromo-whatsapp | 7182 | Campagne, Autopromo e WhatsApp | 19 | ✅ |
 | 06-modelli-campagne | 3911 | Modelli Campagne | 9 | ⚠️ contenuti 2021-22 datati, immagini rotte |
 | 07-booster-e-abbonamenti | 7236 | Booster Vendite e Abbonamenti | 4 | ✅ |
 | 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 4 | ❌ specifiche errate (slot, limiti) |
@@ -153,6 +153,7 @@ Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistich
 | 61973 | Come attivare WhatsApp sulle tue Autopromo | come-attivare-whatsapp-sulle-autopromo | published |
 | 61974 | Il Calendario Eventi: trova l'occasione giusta per la tua prossima campagna | calendario-marketing-unipiazza | published |
 | 63782 | Le comunicazioni automatiche: come appaiono ai tuoi clienti | anteprime-comunicazioni-automatiche | published |
+| 65381 | Perché la campagna è arrivata a meno clienti di quelli selezionati? | perche-la-campagna-e-arrivata-a-meno-clienti-di-quelli-selezionati | published |
 
 ---
 
