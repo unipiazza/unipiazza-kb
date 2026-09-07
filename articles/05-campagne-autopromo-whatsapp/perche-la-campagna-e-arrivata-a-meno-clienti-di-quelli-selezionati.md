@@ -57,7 +57,7 @@ Se hai più punti vendita e la stessa persona raccoglie Gettoni in due o tre di 
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Vuoi sapere in anticipo quanti sono?</strong></p><p>Vai in Clienti, poi Analisi clienti: il riquadro "Clienti contattabili" ti dice quanti dei tuoi iscritti sono raggiungibili e con quale canale (email, RCS, notifiche app). È esattamente la base da cui partono le tue campagne, quindi il confronto giusto è con quel numero, non con il totale degli iscritti.</p></td></tr></tbody></table>
 
-## Perché i messaggi partiti sono meno dei destinatari
+## Perché le email inviate sono meno dei destinatari
 
 Qui il punto è uno solo: **ogni cliente riceve la campagna dal canale che ha**. "Destinatari" non vuol dire "email inviate".
 
@@ -65,7 +65,7 @@ Qui il punto è uno solo: **ogni cliente riceve la campagna dal canale che ha**.
 2. 📲 **Notifica app**: arriva solo a chi ha l'app Unipiazza installata sul telefono.
 3. 💬 **RCS**: arriva solo ai telefoni compatibili, che non sono tutti.
 
-Ecco perché con 1.000 destinatari puoi trovare 800 email, 250 RCS e 200 notifiche: sono le stesse persone raggiunte da canali diversi, non un conteggio sbagliato.
+Ecco perché con 1.000 destinatari puoi trovare 800 email, 250 RCS e 200 notifiche: sono le stesse persone raggiunte da canali diversi (e qualcuna raggiunta su due canali insieme), non un conteggio sbagliato.
 
 Ci sono altri due dettagli che spostano il numero:
 
