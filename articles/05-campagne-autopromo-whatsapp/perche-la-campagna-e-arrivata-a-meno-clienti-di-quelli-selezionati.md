@@ -28,12 +28,12 @@ Hai 3.000 clienti iscritti, crei una campagna... e nei destinatari ne trovi 1.00
 Tutte le persone iscritte al tuo programma fedeltà, quelle che conti nella Lista Clienti.
 
 **2. I clienti contattabili**
-Quelli che ti hanno dato il consenso e che possiamo raggiungere su almeno un canale. Sono loro a diventare i destinatari delle tue campagne, e li trovi già contati nella sezione Analisi Clienti, nel riquadro "Clienti contattabili".
+Quelli che ti hanno dato il consenso e che possiamo raggiungere su almeno un canale. Sono loro a diventare i destinatari delle tue campagne, e li trovi già contati in Clienti, poi Analisi clienti, nel riquadro "Clienti contattabili".
 
-**3. I messaggi partiti**
-Quanti messaggi sono usciti su ogni singolo canale: email, notifica app e RCS.
+**3. I destinatari della campagna**
+Il numero che leggi nel riquadro "Destinatari" della campagna inviata. Attenzione: non è "quanti ne ho selezionati", ma **quante persone hanno davvero ricevuto il messaggio** su almeno un canale, tra email, notifica app e RCS.
 
-Il numero scende dal primo al secondo, e può scendere ancora dal secondo al terzo. Vediamo perché.
+Il numero scende dal primo al secondo, e i messaggi di ogni singolo canale sono a loro volta meno dei destinatari. Vediamo perché.
 
 ## Perché i destinatari sono meno dei tuoi clienti iscritti
 
