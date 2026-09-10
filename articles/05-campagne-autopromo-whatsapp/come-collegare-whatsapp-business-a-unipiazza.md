@@ -39,6 +39,8 @@ Per una configurazione rapida e senza intoppi, assicurati di avere a portata di 
 - Le credenziali del profilo **Facebook** con cui gestisci la Pagina della tua attività commerciale.
 - Il tuo smartphone con l'app **WhatsApp Business** installata e il numero di telefono pronto per ricevere un SMS/whatsapp con il codice di verifica.
 
+> 🚨 **Non chiudere mai la pagina delle Impostazioni di partner.unipiazza.it.** Durante tutta la procedura la pagina deve restare aperta: la finestra di Facebook/Meta si apre *sopra* di essa e, se chiudi o ricarichi la pagina di Unipiazza, **il collegamento si interrompe e non funziona nulla** — dovrai ricominciare da capo. Al termine devi tornare proprio su quella pagina per finalizzare.
+
 ## ⚙️ Procedura di collegamento
 
 ### Passaggio 1: Avvia la configurazione su Unipiazza
@@ -52,7 +54,7 @@ Per una configurazione rapida e senza intoppi, assicurati di avere a portata di 
 
 ### Passaggio 2: Effettua l'accesso a Meta (Facebook)
 
-A questo punto si aprirà una finestra di Facebook. Inserisci le tue credenziali e accedi con l'account amministratore che gestisce la pagina della tua attività.
+A questo punto si aprirà una finestra di Facebook. Inserisci le tue credenziali e accedi con l'account amministratore che gestisce la pagina della tua attività. **Lascia aperta la pagina di Unipiazza dietro alla finestra di Meta: non chiuderla e non ricaricarla.**
 
 > **💡 Perché devo accedere con Facebook?** WhatsApp è di proprietà di Meta (l'azienda che possiede anche Facebook e Instagram). Per poter utilizzare le funzioni avanzate di WhatsApp Business per le aziende, i sistemi di Meta richiedono obbligatoriamente questo passaggio.
 
@@ -76,7 +78,7 @@ Durante i passaggi di configurazione proposti da Meta, ti verrà richiesto di se
 
 ### Passaggio 5: Completa il collegamento su Unipiazza
 
-1. Terminata la configurazione nella finestra di Facebook/Meta, torna alla pagina delle **Impostazioni** su partner.unipiazza.it.
+1. Terminata la configurazione nella finestra di Facebook/Meta, torna alla pagina delle **Impostazioni** su partner.unipiazza.it — **quella che hai lasciato aperta dall'inizio.**
 2. Ora vedrai comparire il tuo numero di telefono nella schermata.
 3. Clicca sul pulsante **Collega numero** per finalizzare l'operazione.
 
