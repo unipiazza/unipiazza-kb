@@ -281,6 +281,7 @@ Guide tablet e tessere fedeltà. ⚠️ 5 articoli in draft (contenuto legacy da
 | 4364 | Come accreditare gettoni tramite App Partner | come-accreditare-gettoni-tramite-app-partner | **draft** |
 | 15851 | Il Tablet è acceso ma bloccato | il-tablet-e-acceso-ma-bloccato | **draft** |
 | 61811 | Tessere arancioni e blu con codice KC-KH e KR-KZ | tessere-arancioni-e-blu-con-codice-kc-kh-e-kr-kz | published |
+| — (nuovo) | Cosa ci serve per personalizzare la tua Tessera Fedeltà su Apple Wallet & Google Wallet | cosa-ci-serve-per-personalizzare-la-tessera-fedelta-nel-wallet | **draft** (non ancora su Customerly) |
 
 ---
 
