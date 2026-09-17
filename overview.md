@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 134 (106 published, 28 draft)
+- **Articoli totali:** 135 (108 published, 27 draft)
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -32,7 +32,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | 11-integrazioni | 8104 | Integrazioni | 3 | ⚠️ articolo Android con errori copia-incolla |
 | 12-impostazioni | 7257 | Impostazioni | 3 | ✅ |
 | 13-eshop | 3416 | eShop | 10 | ❌ duplicati, articoli vuoti, copy off-brand |
-| 14-tablet-e-tessere | 171 | Tablet Unipiazza & Tessere | 6 | ⚠️ 5 draft legacy, 1 published |
+| 14-tablet-e-tessere | 171 | Tablet Unipiazza & Tessere | 7 | ⚠️ 5 draft legacy, 2 published |
 | 15-olivia-ai | 12061 | Olivia - Consulente Fedeltà AI | 2 | ✅ |
 
 **Archivi** (tutti draft, contenuto legacy — non sincronizzare):
@@ -272,7 +272,7 @@ Vendita online: Stripe, prodotti, foto, codici sconto, spedizioni. ❌ 2 articol
 
 ### 14 — Tablet Unipiazza & Tessere · `collection_id: 171`
 
-Guide tablet e tessere fedeltà. ⚠️ 5 articoli in draft (contenuto legacy da valutare); solo 1 pubblicato (avviso tessere arancioni KC-KH). Nota: 9 articoli legacy cancellati manualmente da Customerly il 2026-07-01, rimossi anche dal locale.
+Guide tablet e tessere fedeltà. ⚠️ 5 articoli in draft (contenuto legacy da valutare); 2 pubblicati (avviso tessere KC-KH e KR-KZ, personalizzazione tessera nel Wallet). Nota: 9 articoli legacy cancellati manualmente da Customerly il 2026-07-01, rimossi anche dal locale.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
@@ -282,7 +282,7 @@ Guide tablet e tessere fedeltà. ⚠️ 5 articoli in draft (contenuto legacy da
 | 4364 | Come accreditare gettoni tramite App Partner | come-accreditare-gettoni-tramite-app-partner | **draft** |
 | 15851 | Il Tablet è acceso ma bloccato | il-tablet-e-acceso-ma-bloccato | **draft** |
 | 61811 | Tessere arancioni e blu con codice KC-KH e KR-KZ | tessere-arancioni-e-blu-con-codice-kc-kh-e-kr-kz | published |
-| — (nuovo) | Cosa ci serve per personalizzare la tua Tessera Fedeltà su Apple Wallet & Google Wallet | cosa-ci-serve-per-personalizzare-la-tessera-fedelta-nel-wallet | **draft** (non ancora su Customerly) |
+| 65545 | Cosa ci serve per personalizzare la tua Tessera Fedeltà su Apple Wallet & Google Wallet | cosa-ci-serve-per-personalizzare-la-tessera-fedelta-nel-wallet | published |
 
 ---
 
