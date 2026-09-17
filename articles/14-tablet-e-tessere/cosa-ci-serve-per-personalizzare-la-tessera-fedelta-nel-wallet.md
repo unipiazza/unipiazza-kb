@@ -6,7 +6,7 @@ title: Cosa ci serve per personalizzare la tua Tessera Fedeltà su Apple Wallet 
 slug: cosa-ci-serve-per-personalizzare-la-tessera-fedelta-nel-wallet
 description: Logo, immagine di copertina, colore e testi. Ecco cosa preparare per avere la Tessera Fedeltà digitale con i colori della tua attività, sia su iPhone sia su Android.
 status: draft
-written_by: 2961
+written_by: 2963
 locale: it
 updated_at:
 last_synced:
