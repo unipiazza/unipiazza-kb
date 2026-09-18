@@ -8,8 +8,8 @@ description: 'Nella sezione "Cover Chiosco" del Gestionale Unipiazza puoi gestir
 status: published
 written_by: 2961
 locale: it
-updated_at: '2024-01-23'
-last_synced: '2026-06-10'
+updated_at: '2026-09-18'
+last_synced: '2026-09-18'
 ---
 
 ![](../../assets/09-vetrina/28259_KnowlageBase-Cover.png)
@@ -79,4 +79,6 @@ Ecco alcuni esempi per sfruttare le cover: 
 9.  **Wallet Gettoni<br>**Utilizza una cover per far conoscere il Wallet, uno strumento pratico per raccogliere gettoni e accedere a vantaggi esclusivi presso il tuo locale.<br><br>
     
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>🥳Viva le automazioni! </strong>Ogni volta che crei un abbonamento, un booster, invii una campagna evento o attivi Wallet e GiftCard, puoi spuntare la funzione “Promuovi sul Chiosco Automaticamente” per far creare in automatico un’immagine Cover sul Chiosco. Sfrutta questa opzione per risparmiare tempo e ottimizzare le tue promozioni!&nbsp;</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>🥳Viva le automazioni! </strong>Ogni volta che crei un abbonamento, un booster, invii una campagna promozione o evento, oppure attivi Wallet e GiftCard, puoi spuntare la funzione “Promuovi sul Chiosco Automaticamente” per far creare in automatico un’immagine Cover sul Chiosco. Sfrutta questa opzione per risparmiare tempo e ottimizzare le tue promozioni!&nbsp;</p></td></tr></tbody></table>
+
+**Quanto dura una cover automatica?** Per le Campagne Promozione ed Evento, la cover creata in automatico segue le date della campagna. Compare alla data di inizio e si disattiva da sola alla fine dell'ultimo giorno, senza che tu debba fare nulla. Le cover che crei a mano, invece, restano attive finché non le disattivi tu dalla sezione Cover Chiosco.
