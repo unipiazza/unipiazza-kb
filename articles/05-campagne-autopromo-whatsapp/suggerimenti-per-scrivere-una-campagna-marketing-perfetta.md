@@ -105,4 +105,4 @@ Ecco alcuni consigli da seguire:
 
 La CTA non è altro che un pulsante, collegato a un link che rimanda a una pagina web, ad un numero di telefono o ad un indirizzo email. Gioca con diversi testi per incentivare il click e sii breve e diretto. Si possono usare diverse formule come: "Scopri di più"; "Leggi l'articolo"; "Visita il sito".
 
-Ora che hai imparato tutto quello che c'è da sapere non resta che accedere al gestionale (o all'App Partner) per creare la tua prossima campagna! 😉
+Ora che hai imparato tutto quello che c'è da sapere non resta che accedere al gestionale per creare la tua prossima campagna! 😉
