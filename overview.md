@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 134 (105 published, 29 draft)
+- **Articoli totali:** 133 (105 published, 28 draft)
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -39,7 +39,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 
 | Cartella | collection_id | Titolo | Art. |
 |---|---|---|---|
-| archivio-app-partner | 677 | App Unipiazza - Partner & Web App | 5 |
+| archivio-app-partner | 677 | App Unipiazza - Partner & Web App | 4 |
 | archivio-clienti | 540 | Clienti (legacy) | 6 |
 | archivio-poynt | 678 | Dispositivo Poynt | 3 |
 | archivio-primi-passi | 1830 | Primi passi con Unipiazza | 6 |
