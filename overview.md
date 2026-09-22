@@ -109,6 +109,7 @@ Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, im
 | 61969 | 15 idee per segmentare i tuoi clienti con i Filtri | 15-idee-per-segmentare-i-clienti-con-i-filtri | published |
 | 40695 | Come posso esportare i dati dei miei clienti? | come-posso-esportare-i-dati-dei-miei-clienti | published |
 | 63765 | Il cliente ha una nuova Tessera Fedeltà: come collegare il profilo esistente? | il-cliente-ha-una-nuova-tessera-fedelta-come-collegare-il-profilo-esistente | published |
+| 65570 | Come attivare il Compleanno all'iscrizione | come-attivare-compleanno-all-iscrizione | published |
 
 ---
 
