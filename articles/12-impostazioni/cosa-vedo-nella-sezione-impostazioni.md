@@ -15,8 +15,8 @@ keywords:
   - vacanza
   - liste preimpostate
 locale: it
-updated_at: '2026-07-20'
-last_synced: '2026-07-20'
+updated_at: '2026-09-22'
+last_synced: '2026-09-22'
 ---
 
 La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pannello di controllo Unipiazza è il luogo dove puoi personalizzare e configurare diverse opzioni per ottimizzare la gestione della tua attività. Ecco una panoramica dettagliata di cosa puoi fare in questa sezione:
