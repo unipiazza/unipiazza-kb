@@ -27,7 +27,7 @@ La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pan
 
 3. **Obiettivo Iscritti:** Imposta l'obiettivo mensile di nuovi iscritti in modo da motivare tutto il tuo team a raggiungerlo. L'obiettivo verrà visualizzato sul tuo Smartphone Unipiazza e nella sezione riepilogo del gestionale.
 
-4. **Compleanno all'iscrizione:** Permetti la possibilità che il cliente, in fase di registrazione, possa inserire la sua data di nascita.
+4. **Compleanno all'iscrizione:** Permetti la possibilità che il cliente, in fase di registrazione, possa inserire la sua data di nascita. Clicca [qui](https://supporto.unipiazza.it/it/articles/65570-come-attivare-compleanno-all-iscrizione) per sapere come attivarla.
 
 5. **Resetta i gettoni clienti:** Se vuoi resettare i gettoni dei tuoi clienti, puoi programmare il reset in autonomia direttamente dal tuo Gestionale. Clicca [qui](https://supporto.unipiazza.it/it/articles/41597-come-resettare-i-gettoni-dei-miei-clienti) per maggiori dettagli.
 
