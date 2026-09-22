@@ -68,6 +68,8 @@ Promo inviata 3 giorni prima del compleanno del cliente. È un modo carino per a
 
 **Promo consigliata:** Sii creativo! Potresti offrire qualcosa di speciale per il festeggiato e i suoi amici.
 
+> Per ricevere questa Autopromo, i tuoi clienti devono aver inserito la loro data di nascita. Attiva la richiesta già in fase di iscrizione dal Chiosco: [scopri come attivare il Compleanno all'iscrizione](https://supporto.unipiazza.it/it/articles/65570-come-attivare-compleanno-all-iscrizione).
+
 **😖 A Rischio**
 
 Questa promo è per i clienti che non sono tornati da 30 giorni. Dopo 30 giorni, la probabilità che un cliente torni si riduce del 50-75%, quindi è molto importante inviare delle promo ai clienti a rischio per riportarli e far sì che si ricordino di te.
