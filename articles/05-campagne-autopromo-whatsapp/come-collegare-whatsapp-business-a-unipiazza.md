@@ -38,8 +38,7 @@ Per una configurazione rapida e senza intoppi, assicurati di avere a portata di 
 - Le credenziali di accesso al tuo gestionale Unipiazza.
 - Le credenziali del profilo **Facebook** con cui gestisci la Pagina della tua attività commerciale.
 - Il tuo smartphone con l'app **WhatsApp Business** installata e il numero di telefono pronto per ricevere un SMS/whatsapp con il codice di verifica.
-
-> 🚨 **Non chiudere mai la pagina delle Impostazioni di partner.unipiazza.it.** Durante tutta la procedura la pagina deve restare aperta: la finestra di Facebook/Meta si apre *sopra* di essa e, se chiudi o ricarichi la pagina di Unipiazza, **il collegamento si interrompe e non funziona nulla** — dovrai ricominciare da capo. Al termine devi tornare proprio su quella pagina per finalizzare.
+- L'indirizzo del **sito web** della tua attività. Se non hai un sito, va benissimo il link alla tua pagina **Instagram**.
 
 ## ⚙️ Procedura di collegamento
 
@@ -54,7 +53,7 @@ Per una configurazione rapida e senza intoppi, assicurati di avere a portata di 
 
 ### Passaggio 2: Effettua l'accesso a Meta (Facebook)
 
-A questo punto si aprirà una finestra di Facebook. Inserisci le tue credenziali e accedi con l'account amministratore che gestisce la pagina della tua attività. **Lascia aperta la pagina di Unipiazza dietro alla finestra di Meta: non chiuderla e non ricaricarla.**
+A questo punto si aprirà una finestra di Facebook. Inserisci le tue credenziali e accedi con l'account amministratore che gestisce la pagina della tua attività.
 
 > **💡 Perché devo accedere con Facebook?** WhatsApp è di proprietà di Meta (l'azienda che possiede anche Facebook e Instagram). Per poter utilizzare le funzioni avanzate di WhatsApp Business per le aziende, i sistemi di Meta richiedono obbligatoriamente questo passaggio.
 
@@ -64,6 +63,8 @@ A questo punto si aprirà una finestra di Facebook. Inserisci le tue credenziali
 2. Seleziona l'opzione **Collega la tua applicazione WhatsApp esistente**.
 3. Inserisci il **numero di telefono** associato al tuo WhatsApp Business.
 4. Riceverai un codice di verifica a 6 cifre sul telefono: inseriscilo nella schermata per confermare la tua identità.
+
+> 🌐 **Meta ti chiede il sito web ma non ce l'hai?** Nessun problema: nel campo del sito web puoi inserire il link alla pagina **Instagram** della tua attività (ad esempio *https://www.instagram.com/nomedellatuaattivita*).
 
 ![](https://blackhole.customerly.io/pictures/apps/2662e53a/contents/64e23a406084963e219de9b92cc7f795.png)
 
@@ -78,7 +79,7 @@ Durante i passaggi di configurazione proposti da Meta, ti verrà richiesto di se
 
 ### Passaggio 5: Completa il collegamento su Unipiazza
 
-1. Terminata la configurazione nella finestra di Facebook/Meta, torna alla pagina delle **Impostazioni** su partner.unipiazza.it — **quella che hai lasciato aperta dall'inizio.**
+1. Terminata la configurazione nella finestra di Facebook/Meta, torna alla pagina delle **Impostazioni** > **WhatsApp Business** su partner.unipiazza.it.
 2. Ora vedrai comparire il tuo numero di telefono nella schermata.
 3. Clicca sul pulsante **Collega numero** per finalizzare l'operazione.
 
