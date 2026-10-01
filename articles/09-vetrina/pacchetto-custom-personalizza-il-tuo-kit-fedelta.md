@@ -2,14 +2,14 @@
 article_id: 42911
 collection_id: 7200
 collection: 🏪 Vetrina
-title: 'Come personalizzare graficamente le tue Tessere Fedeltà'
+title: 'Come personalizzare graficamente le tue Tessere Fedeltà fisiche'
 slug: pacchetto-custom-personalizza-il-tuo-kit-fedelta
 description: Vuoi Tessere Fedeltà con la tua grafica? Ecco come crearle, quanto costano e come ordinarle.
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-07-20'
-last_synced: '2026-07-20'
+updated_at: '2026-10-02'
+last_synced: '2026-10-02'
 ---
 
 Vuoi che le tue Tessere Fedeltà siano perfettamente in linea con l’identità del tuo locale? Con Unipiazza puoi personalizzarle graficamente e renderle uniche: il tuo logo, i tuoi colori, il tuo stile. Un piccolo tocco che le trasforma in un vero biglietto da visita per la tua attività 😍<br><br>Ti spieghiamo cosa puoi personalizzare, come creare la grafica, quanto costa e come ordinarle.

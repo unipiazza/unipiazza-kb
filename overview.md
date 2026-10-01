@@ -210,7 +210,7 @@ Personalizzazione estetica: cover chiosco, flyer, pacchetto custom. Tutti pubbli
 |---|---|---|---|
 | 28255 | Cos'è e a cosa serve la Vetrina? | cos-e-e-a-cosa-serve-la-vetrina | published |
 | 28259 | Come cambio le immagini Cover che compaiono sul Chiosco? | come-cambio-le-immagini-cover-che-compaiono-sul-chiosco | published |
-| 42911 | Come personalizzare graficamente le tue Tessere Fedeltà | pacchetto-custom-personalizza-il-tuo-kit-fedelta | published |
+| 42911 | Come personalizzare graficamente le tue Tessere Fedeltà fisiche | pacchetto-custom-personalizza-il-tuo-kit-fedelta | published |
 | 42912 | Come creare Flyer personalizzati per il tuo locale | come-creare-flyer-personalizzati-per-il-tuo-locale | published |
 
 ---
@@ -282,7 +282,7 @@ Guide tablet e tessere fedeltà. ⚠️ 5 articoli in draft (contenuto legacy da
 | 4364 | Come accreditare gettoni tramite App Partner | come-accreditare-gettoni-tramite-app-partner | **draft** |
 | 15851 | Il Tablet è acceso ma bloccato | il-tablet-e-acceso-ma-bloccato | **draft** |
 | 61811 | Tessere arancioni e blu con codice KC-KH e KR-KZ | tessere-arancioni-e-blu-con-codice-kc-kh-e-kr-kz | published |
-| 65545 | Cosa ci serve per personalizzare la tua Tessera Fedeltà su Apple Wallet & Google Wallet | cosa-ci-serve-per-personalizzare-la-tessera-fedelta-nel-wallet | published |
+| 65545 | Come personalizzare la tua Tessera Fedeltà su Apple Wallet & Google Wallet | come-personalizzare-la-tessera-fedelta-su-apple-wallet-e-google-wallet | published |
 
 ---
 
