@@ -17,6 +17,8 @@ keywords:
   - colore
   - prezzo
   - una tantum
+  - modulo
+  - caricare file
 sort: 5
 is_featured: false
 locale: it
@@ -24,9 +26,9 @@ updated_at: '2026-10-01'
 last_synced: '2026-10-01'
 ---
 
-Vuoi che la Tessera Fedeltà nel telefono dei tuoi clienti abbia il look della tua attività? Perfetto! Bastano quattro ingredienti: **logo, immagine di copertina, colore e testi**.
+Vuoi che la Tessera Fedeltà nel telefono dei tuoi clienti abbia il look della tua attività? Perfetto! Per partire bastano **il tuo logo e il nome della Tessera Fedeltà**. Con immagine di copertina, colore e testi, poi, il risultato fa davvero la differenza.
 
-Qui trovi cosa preparare, in che formato e quanto costa. Se hai un grafico, giragli pure questa pagina, perché c'è tutto quello che gli serve. 😉
+Qui trovi cosa preparare, in che formato, quanto costa e il [modulo per caricare i file](https://tally.so/r/KYdgjA). Se hai un grafico, giragli pure questa pagina, perché c'è tutto quello che gli serve. 😉
 
 ### **Apple e Google la mostrano in modo diverso**
 
@@ -44,13 +46,19 @@ La personalizzazione della Tessera Fedeltà su Apple Wallet e Google Wallet è d
 
 Vuoi conoscere il prezzo? Scrivici in chat o contatta il tuo referente Unipiazza, ti diamo tutti i dettagli. 😊
 
-### **1. Logo**
+### **Indispensabile o consigliato?**
+
+Non tutto è obbligatorio. Per creare la Tessera Fedeltà ci servono solo **il logo**, nelle due versioni per Google e per Apple, e **il nome della Tessera Fedeltà**.
+
+Tutto il resto è consigliato. Senza, la Tessera Fedeltà funziona lo stesso, ma è molto più anonima. Se manca il colore, per esempio, Google lo ricava dal tuo logo e Apple ne sceglie uno in automatico.
+
+### **1. Logo (indispensabile)**
 
 🟢 **Per Google Wallet**
 
 1.  Formato **quadrato**, PNG, almeno **660×660 px**.
 2.  Google lo ritaglia **a cerchio**, quindi lascia circa il **15% di margine** vuoto dai bordi. Così nulla di importante viene tagliato.
-3.  Se vuoi, aggiungi anche un **logo esteso orizzontale** da **1280×400 px**, PNG trasparente (facoltativo). Deve contrastare bene con lo sfondo, quindi bianco su sfondo scuro e nero su sfondo chiaro.
+3.  Se vuoi, aggiungi anche un **logo esteso orizzontale** da **1280×400 px**, PNG trasparente. Questo è consigliato, non indispensabile. Deve contrastare bene con lo sfondo, quindi bianco su sfondo scuro e nero su sfondo chiaro.
 
 🍏 **Per Apple Wallet**
 
@@ -59,7 +67,7 @@ Vuoi conoscere il prezzo? Scrivici in chat o contatta il tuo referente Unipiazza
 
 ⚠️ **Non inviarci lo stesso file per entrambi.** Un logo quadrato su Apple o uno rettangolare su Google risulta tagliato o minuscolo.
 
-### **2. Immagine di copertina**
+### **2. Immagine di copertina (consigliata)**
 
 È l'immagine grande che dà carattere alla Tessera Fedeltà. Può essere una foto del locale, dei tuoi prodotti o una grafica del brand.
 
@@ -74,7 +82,7 @@ Immagine a fascia orizzontale, almeno **1125×432 px**.
 
 ⚠️ **Anche qui le proporzioni sono diverse.** Parti dalla stessa immagine ed esporta due ritagli separati.
 
-### **3. Colore di sfondo**
+### **3. Colore di sfondo (consigliato)**
 
 1.  Mandaci il **codice esatto del colore** in formato esadecimale, per esempio `#E4572E`. Una descrizione a parole ("il nostro rosso") non basta.
 2.  Non conosci il codice? Chiedilo a chi ha realizzato il tuo logo, oppure cercalo nel manuale del tuo brand.
@@ -82,22 +90,34 @@ Immagine a fascia orizzontale, almeno **1125×432 px**.
 
 ### **4. Nome, descrizione & link**
 
-1.  Il **nome della Tessera Fedeltà**, per esempio "Club Amici di Bar Centrale".
-2.  Una **descrizione breve**, una o due frasi su come funziona il tuo programma fedeltà.
-3.  Un **link** al sito, alla pagina Instagram o alla [Vetrina](https://supporto.unipiazza.it/it/articles/28255-cos-e-e-a-cosa-serve-la-vetrina) della tua attività.
+1.  Il **nome della Tessera Fedeltà**, per esempio "Club Amici di Bar Centrale". È indispensabile.
+2.  Una **descrizione breve**, una o due frasi su come funziona il tuo programma fedeltà (consigliata).
+3.  Un **link** al sito, alla pagina Instagram o alla [Vetrina](https://supporto.unipiazza.it/it/articles/28255-cos-e-e-a-cosa-serve-la-vetrina) della tua attività (consigliato).
 
 Tieni i testi brevi e chiari, perché lo spazio sulla Tessera Fedeltà è poco!
 
 ### **La tua lista di controllo ✅**
 
-1.  Logo quadrato PNG, minimo 660×660 px, con margine del 15% (Google).
-2.  Logo esteso 1280×400 px, PNG trasparente (Google, facoltativo).
-3.  Logo orizzontale, minimo 480×150 px, meglio se SVG (Apple).
-4.  Immagine di copertina 1032×812 px, PNG (Google).
-5.  Immagine a fascia, minimo 1125×432 px (Apple).
-6.  Colore di sfondo in codice esadecimale.
-7.  Nome, descrizione breve e link.
+**Indispensabili**
 
-Hai preparato tutto? Invia i file al tuo referente Unipiazza oppure scrivici in chat. Al resto pensiamo noi! 🚀
+1.  Logo quadrato PNG, minimo 660×660 px, con margine del 15% (Google).
+2.  Logo orizzontale, minimo 480×150 px, meglio se SVG (Apple).
+3.  Nome della Tessera Fedeltà.
+
+**Consigliati**
+
+1.  Immagine di copertina 1032×812 px, PNG (Google).
+2.  Immagine a fascia, minimo 1125×432 px (Apple).
+3.  Logo esteso 1280×400 px, PNG trasparente (Google).
+4.  Colore di sfondo in codice esadecimale.
+5.  Descrizione breve e link.
+
+### **Carica i tuoi file**
+
+Hai preparato tutto? Caricali nel modulo qui sotto e ti ricontattiamo noi per confermare i dettagli e il prezzo. Al resto pensiamo noi! 🚀
+
+📤 **[Carica i file per la tua Tessera Fedeltà](https://tally.so/r/KYdgjA)**
+
+Hai dubbi o qualcosa non ti è chiaro? Scrivici in chat, siamo qui per aiutarti.
 
 💡 Vuoi dare il tuo stile anche alle Tessere Fedeltà fisiche? Scopri come in [Come personalizzare graficamente le tue Tessere Fedeltà](https://supporto.unipiazza.it/it/articles/42911-pacchetto-custom-personalizza-il-tuo-kit-fedelta).
