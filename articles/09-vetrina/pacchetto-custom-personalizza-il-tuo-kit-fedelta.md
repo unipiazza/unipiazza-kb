@@ -69,3 +69,5 @@ Prima di ordinare, tieni a mente qualche dettaglio importante:
 3️⃣ **Quando parte l’ordine**<br>L’ordine parte ufficialmente solo dopo che abbiamo ricevuto la tua grafica corretta e il saldo anticipato.
 
 **Vuoi personalizzare le tue Tessere Fedeltà?** Contatta il nostro team e rendi il tuo programma fedeltà ancora più riconoscibile!
+
+💡 Vuoi dare il tuo stile anche alla Tessera Fedeltà digitale, quella che i tuoi clienti salvano nel telefono? Scopri come in [Come personalizzare la tua Tessera Fedeltà su Apple Wallet & Google Wallet](https://supporto.unipiazza.it/it/articles/65545-come-personalizzare-la-tessera-fedelta-su-apple-wallet-e-google-wallet).
