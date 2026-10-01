@@ -2,9 +2,9 @@
 article_id: 65545
 collection_id: 171
 collection: Tablet Unipiazza & Tessere
-title: Cosa ci serve per personalizzare la tua Tessera Fedeltà su Apple Wallet & Google Wallet
-slug: cosa-ci-serve-per-personalizzare-la-tessera-fedelta-nel-wallet
-description: Logo, immagine di copertina, colore e testi. Ecco cosa preparare (e quanto costa) per avere la Tessera Fedeltà digitale con i colori della tua attività, sia su iPhone sia su Android.
+title: Come personalizzare la tua Tessera Fedeltà su Apple Wallet & Google Wallet
+slug: come-personalizzare-la-tessera-fedelta-su-apple-wallet-e-google-wallet
+description: Ti bastano il logo e il nome della Tessera Fedeltà. Ecco cosa preparare, quanto costa e dove caricare i file, sia per iPhone sia per Android.
 status: published
 written_by: 2963
 keywords:
@@ -22,8 +22,8 @@ keywords:
 sort: 5
 is_featured: false
 locale: it
-updated_at: '2026-10-01'
-last_synced: '2026-10-01'
+updated_at: '2026-10-02'
+last_synced: '2026-10-02'
 ---
 
 Vuoi che la Tessera Fedeltà nel telefono dei tuoi clienti abbia il look della tua attività? Perfetto! Per partire bastano **il tuo logo e il nome della Tessera Fedeltà**. Con immagine di copertina, colore e testi, poi, il risultato fa davvero la differenza.
@@ -120,4 +120,4 @@ Hai preparato tutto? Caricali nel modulo qui sotto e ti ricontattiamo per confer
 
 Hai dubbi o qualcosa non ti è chiaro? Scrivici in chat, siamo qui per aiutarti.
 
-💡 Vuoi dare il tuo stile anche alle Tessere Fedeltà fisiche? Scopri come in [Come personalizzare graficamente le tue Tessere Fedeltà](https://supporto.unipiazza.it/it/articles/42911-pacchetto-custom-personalizza-il-tuo-kit-fedelta).
+💡 Vuoi dare il tuo stile anche alle Tessere Fedeltà fisiche? Scopri come in [Come personalizzare graficamente le tue Tessere Fedeltà fisiche](https://supporto.unipiazza.it/it/articles/42911-pacchetto-custom-personalizza-il-tuo-kit-fedelta).
