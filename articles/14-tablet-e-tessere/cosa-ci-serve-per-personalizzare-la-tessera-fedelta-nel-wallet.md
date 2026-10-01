@@ -114,7 +114,7 @@ Tieni i testi brevi e chiari, perché lo spazio sulla Tessera Fedeltà è poco!
 
 ### **Carica i tuoi file**
 
-Hai preparato tutto? Caricali nel modulo qui sotto e ti ricontattiamo noi per confermare i dettagli e il prezzo. Al resto pensiamo noi! 🚀
+Hai preparato tutto? Caricali nel modulo qui sotto e ti ricontattiamo per confermare i dettagli e il prezzo. Al resto pensiamo noi! 🚀
 
 📤 **[Carica i file per la tua Tessera Fedeltà](https://tally.so/r/KYdgjA)**
 
