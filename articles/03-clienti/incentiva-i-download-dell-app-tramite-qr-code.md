@@ -41,7 +41,7 @@ Ecco i nostri QR Code per far scaricare l'app Unipiazza ai tuoi clienti! Salvali
 
 Uno dei siti migliori per personalizzare il tuo QR Code è ➡️ [QR Code Monkey](https://www.qrcode-monkey.com/#url)
 
-Ad esempio se vuoi invitare i tuoi clienti ad iscriversi su Unipiazza tramite app ti basterà copiare questo link ➡️ [link](http://onelink.to/upuserapp)
+Ad esempio se vuoi invitare i tuoi clienti ad iscriversi su Unipiazza tramite app ti basterà copiare questo link ➡️ [unipiazza.it/app](https://unipiazza.it/app)
 
 Entra nel sito e incolla il link.
 
