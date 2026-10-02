@@ -95,7 +95,7 @@ Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, im
 | 28263 | Cosa vedo nella sezione Analisi Clienti? | cosa-vedo-nella-sezione-analisi-clienti | published |
 | 30003 | Quali sono le 3 frasi perfette per invitare un cliente a iscriversi? | quali-sono-le-3-frasi-perfette-per-invitare-un-cliente-a-iscriversi | published |
 | 30012 | Incoraggia l'Iscrizione tramite Social con Unipiazza | incoraggia-l-iscrizione-tramite-social-con-unipiazza | published |
-| 30276 | Incentiva i Download dell'App tramite QR Code | incentiva-i-download-dell-app-tramite-qr-code | published |
+| 30276 | Incentiva i Download dell'App tramite QR Code | incentiva-i-download-dell-app-tramite-qr-code | draft |
 | 30305 | Invita i tuoi clienti ad iscriversi via Whatsapp o Email | invita-i-tuoi-clienti-ad-iscriversi-via-whatsapp-o-email | published |
 | 30306 | Come posso aggiungere o importare clienti? | aggiungere-importare-contatti-clienti | published |
 | 33516 | I clienti possono modificare i propri dati personali? | i-clienti-possono-modificare-i-propri-dati-personali | published |

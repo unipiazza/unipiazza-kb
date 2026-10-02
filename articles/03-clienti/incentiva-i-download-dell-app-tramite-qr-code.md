@@ -5,7 +5,7 @@ collection: "👨‍👩‍👧‍👦 Clienti"
 title: "Incentiva i Download dell'App tramite QR Code"
 slug: incentiva-i-download-dell-app-tramite-qr-code
 description: "I QR Code sono uno strumento versatile e moderno per condividere informazioni, inclusi i link per scaricare l'app Unipiazza. Puoi personalizzare il tuo QR Code utilizzando siti come QR Code Monkey."
-status: published
+status: draft
 written_by: 2963
 keywords:
   - app
@@ -24,7 +24,7 @@ sort: 8
 is_featured: false
 locale: it
 updated_at: '2026-06-15'
-last_synced: '2026-06-19'
+last_synced: '2026-10-02'
 ---
 
 I QR Code sono il metodo più semplice per condividere informazioni di ogni tipo. Si possono trovare sui bigliettini da visita, sui siti e-commerce o sui tavoli dei ristoranti per sapere il menù o per condividere il wi-fi.
