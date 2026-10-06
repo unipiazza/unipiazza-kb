@@ -4,19 +4,17 @@ collection_id: 7200
 collection: 🏪 Vetrina
 title: Cos’è e a cosa serve la Vetrina?
 slug: cos-e-e-a-cosa-serve-la-vetrina
-description: La Vetrina Unipiazza è un profilo online completo per la tua attività, visibile sull'App e sul sito Unipiazza. Permette di inserire dettagli come nome, descrizione, indirizzo, orari, e collegamenti ai social media, essenziali per migliorare la visibilità online e attirare sia clienti abituali che nuovi.
+description: La Vetrina è la pagina della tua attività dove i clienti si iscrivono al tuo programma fedeltà e scoprono premi e novità. Ecco cosa puoi inserire e come farla conoscere.
 status: published
 written_by: 2961
 locale: it
-updated_at: '2025-09-17'
-last_synced: '2026-06-10'
+updated_at: '2026-10-06'
+last_synced: '2026-10-06'
 ---
 
-Nell'era digitale, la tua presenza online è spesso la prima impressione che i clienti hanno della tua attività. 
+La tua Vetrina è la porta d’ingresso del tuo programma fedeltà 🏪 È la pagina della tua attività dove i clienti si iscrivono, scoprono i premi, leggono le novità e controllano quanti gettoni hanno.
 
-È essenziale fornire loro tutte le informazioni necessarie in modo chiaro e organizzato. Ecco dove entra in gioco la Vetrina di Unipiazza. 
-
-La Vetrina è il tuo biglietto da visita sull'App e sul sito Unipiazza. E’ ottimizzata per i motori di ricerca e ti aiuta a promuoverti verso gli utenti iscritti e a farti trovare da nuovi clienti che cercano online sui motori di ricerca. 
+È anche il tuo biglietto da visita online. È ottimizzata per i motori di ricerca, così ti trovano anche i nuovi clienti che cercano online, e compare pure nell’app Unipiazza.
 
 Dalla sezione “[Vetrina](https://partner.unipiazza.it/vetrina)” gestionale partner puoi inserire tutte le informazioni da visualizzare pubblicamente. Vediamole in dettaglio:  
 
@@ -43,6 +41,10 @@ Dalla sezione “[Vetrina](https://partner.unipiazza.it/vetrina)” gestionale p
     
 -   **Pagina Facebook, Instagram e Sito Web:** Inserisci la tua pagina Facebook, Instagram o l’indirizzo del tuo sito web per far comparire i corrispettivi bottoni all’interno della tua vetrina.
     
+
+**Fai arrivare i clienti nella tua Vetrina**
+
+Nella stessa pagina del gestionale, sopra gli orari, trovi il riquadro **Condividi la tua Vetrina**. Ci sono il QR Code già pronto, il link da copiare e il tasto per creare volantini, locandine e post. Ti spieghiamo tutto in [Porta i clienti nella tua Vetrina con QR Code, link e volantini](https://supporto.unipiazza.it/it/articles/66239-porta-i-clienti-nella-tua-vetrina-con-qr-code-link-e-volantini).
 
 Quindi, mantenere la tua Vetrina aggiornata e completa non solo aiuta i clienti a trovare facilmente le informazioni di cui hanno bisogno, ma può anche aumentare la tua visibilità e attrattività all'interno della piattaforma. Dedica del tempo a ottimizzare la tua Vetrina su Unipiazza e osserva come può fare la differenza nella tua presenza digitale.
 

@@ -1,6 +1,7 @@
 ---
 article_id: 65381
 collection_id: 7182
+slug: perche-la-campagna-e-arrivata-a-meno-clienti-di-quelli-selezionati
 collection: "📢 Campagne, Autopromo e Whatsapp"
 title: "Perché la campagna è arrivata a meno clienti di quelli selezionati?"
 description: "Il numero dei destinatari cambia lungo il percorso: ecco tutti i motivi, spiegati uno per uno."
@@ -16,8 +17,8 @@ keywords:
 sort: 6
 is_featured: false
 locale: it
-updated_at: '2026-09-07'
-last_synced: '2026-09-07'
+updated_at: '2026-10-06'
+last_synced: '2026-10-06'
 ---
 
 Hai 3.000 clienti iscritti, crei una campagna... e nei destinatari ne trovi 2.200. Niente panico: non è un errore e non hai perso nessun cliente. 😊 Il numero si assottiglia lungo il percorso, perché a ogni passaggio entrano in gioco i consensi, gli indirizzi email e i canali disponibili. Ti spieghiamo tutti i motivi, uno per uno.
@@ -96,8 +97,8 @@ La buona notizia è che questo numero si può alzare, e dipende quasi tutto da c
 1. 📧 **Chiedi sempre l'email all'iscrizione** e controlla che sia scritta bene: un indirizzo sbagliato è un cliente perso per sempre sul canale email.
 2. 📱 **Chiedi anche il numero di telefono**, così sblocchi RCS e WhatsApp. Ti spieghiamo come farlo in [Invita i clienti ad inserire il numero di Telefono](https://supporto.unipiazza.it/it/articles/44201-invita-i-clienti-ad-inserire-il-numero-di-telefono).
 3. ✅ **Spiega i consensi invece di farli spuntare in fretta**: un cliente che capisce cosa riceverà dice sì molto più volentieri.
-4. 📲 **Invita i clienti a scaricare l'app Unipiazza**: aggiungi un canale gratuito e sempre disponibile.
-5. 🧹 **Tieni d'occhio la [sezione Analisi Clienti](https://supporto.unipiazza.it/it/articles/28263-cosa-vedo-nella-sezione-analisi-clienti)**: se i contattabili sono pochi, sai subito su cosa lavorare.
-6. ✍️ **Scrivi campagne utili e non troppo frequenti**: meno disiscrizioni e meno segnalazioni spam oggi significano più destinatari domani.
+4. 🧹 **Tieni d'occhio la [sezione Analisi Clienti](https://supporto.unipiazza.it/it/articles/28263-cosa-vedo-nella-sezione-analisi-clienti)**: se i contattabili sono pochi, sai subito su cosa lavorare.
+5. ✍️ **Scrivi campagne utili e non troppo frequenti**: meno disiscrizioni e meno segnalazioni spam oggi significano più destinatari domani.
+6. 📲 **Non dimenticare la notifica app**, che arriva gratis a chi usa già l’app Unipiazza.
 
 Se dopo tutto questo il numero continua a non tornarti, scrivici: controlliamo insieme la tua campagna e ti diciamo esattamente dove sono finiti i tuoi clienti. Chiamaci o scrivici su WhatsApp al 388 8665987, siamo qui per aiutarti! 😊

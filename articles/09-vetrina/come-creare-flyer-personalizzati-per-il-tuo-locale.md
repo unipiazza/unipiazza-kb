@@ -5,11 +5,11 @@ collection: 🏪 Vetrina
 title: Come creare Flyer personalizzati per il tuo locale
 slug: come-creare-flyer-personalizzati-per-il-tuo-locale
 description: Posizionandoli in punti strategici del tuo locale, come tavoli, scaffali, cassa o vetrina, puoi invitare i clienti a iscriversi e raccogliere i primi gettoni in autonomia! 🎉
-status: published
+status: draft
 written_by: 45263
 locale: it
-updated_at: '2025-03-19'
-last_synced: '2026-06-10'
+updated_at: '2026-10-06'
+last_synced: '2026-10-06'
 ---
 
 I **Flyer personalizzati** sono un modo semplice ed efficace per far conoscere il tuo programma fedeltà anche quando i clienti non sono al bancone.

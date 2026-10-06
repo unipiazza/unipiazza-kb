@@ -14,13 +14,15 @@ keywords:
 sort: 11
 is_featured: false
 locale: it
-updated_at: '2024-01-12'
-last_synced: '2026-06-19'
+updated_at: '2026-10-06'
+last_synced: '2026-10-06'
 ---
 
 Se hai già un gruppo Whatsapp, una lista Broadcast o dei contatti email dei tuoi clienti, contattali per invitarli ad iscriversi al tuo programma fedeltà.
 
-Qui sotto trovi dei testi e delle immagini esempio per aiutarti a creare il tuo messaggio Whatsapp o la tua email:
+Qui sotto trovi testi e immagini d’esempio per il tuo messaggio WhatsApp o la tua email. Al posto di [nome-locale].unipiazza.it metti il link della tua Vetrina, che trovi nel gestionale in **Vetrina** e poi **Web & App**, nel riquadro **Condividi la tua Vetrina**. Se nel tuo programma fedeltà i gettoni per ogni euro sono diversi, cambia anche quel numero 😉
+
+Vuoi sapere tutto sul QR Code e sul link della tua Vetrina? Leggi [Porta i clienti nella tua Vetrina con QR Code, link e volantini](https://supporto.unipiazza.it/it/articles/66239-porta-i-clienti-nella-tua-vetrina-con-qr-code-link-e-volantini).
 
 **Esempio di messaggio Whatsapp da inviare:**
 
@@ -29,17 +31,17 @@ Qui sotto trovi dei testi e delle immagini esempio per aiutarti a creare il tuo 
 
 Ciao! Ti invitiamo ad iscriverti al nostro nuovo programma fedeltà per ottenere un mondo di premi e offerte speciali! 
 
-📱 Iscriviti gratis da noi con la tessera o scarica l'App Unipiazza da qui http://onelink.to/unipiazza-app
+📱 Iscriviti gratis in un minuto da qui 👉 [nome-locale].unipiazza.it
 
 🪙 Raccogli gettoni virtuali per ogni acquisto! Per ogni euro speso da noi, raccoglierai 10 gettoni 💰. Più acquisti, più raccogli.
 
-🎁 Usa i tuoi gettoni per ritirare i nostri fantastici premi, li puoi vedere qui: [nome-locale].unipiazza.it
+🎁 Usa i tuoi gettoni per ritirare i nostri fantastici premi. Li trovi sulla stessa pagina.
 
 🌟 Riceverai offerte e promozioni esclusive solo dedicate agli iscritti
 
-✅ L'App è valida per tutti i negozi e i locali del circuito Unipiazza
+✅ La tua iscrizione è valida in tutti i negozi e i locali del circuito Unipiazza
 
-Scarica l'App o iscriviti da noi prendendo una tessera Gratis per iniziare subito a raccogliere i tuoi gettoni. Ti aspettiamo! 🥳
+Iscriviti dal link, oppure passa da noi a prendere la tua Tessera Fedeltà gratis, e inizia subito a raccogliere i tuoi gettoni. Ti aspettiamo! 🥳
 ```
 
 **Esempio di Email da inviare:**
@@ -55,7 +57,7 @@ Siamo entusiasti di invitarti a diventare parte del nostro esclusivo programma f
 
 Unisciti gratis oggi stesso e inizia a godere di incredibili vantaggi:
 
-Iscriviti Facilmente: Puoi iscriverti gratuitamente presso il nostro punto vendita e ricevere una tessera fedeltà fisica, oppure scaricare l'App Unipiazza direttamente da qui: http://onelink.to/unipiazza-app
+Iscriviti Facilmente: Vai su [nome-locale].unipiazza.it e iscriviti gratis in un minuto dal telefono. Se preferisci, puoi farlo anche presso il nostro punto vendita e ricevere la tua Tessera Fedeltà.
 
 Guadagna Gettoni Virtuali: Per ogni euro che spendi con noi, accumuli 10 gettoni 💰. Più acquisti, più ti premi!
 
@@ -63,9 +65,9 @@ Scegli i Tuoi Premi: Scambia i tuoi gettoni per fantastici premi. Scopri tutte l
 
 Offerte Esclusive: Ricevi promozioni e offerte speciali riservate solo agli iscritti al programma.
 
-Circuito Unipiazza: La tua App o tessera è valida in tutti i negozi e locali affiliati al circuito Unipiazza.
+Circuito Unipiazza: La tua iscrizione è valida in tutti i negozi e locali affiliati al circuito Unipiazza.
 
-Non perdere questa fantastica occasione! Scarica l'App o vieni a trovarci per iscriverti e iniziare subito a raccogliere i tuoi gettoni. Ti aspettiamo con entusiasmo! 🥳
+Non perdere questa fantastica occasione! Iscriviti dal link o vieni a trovarci per iniziare subito a raccogliere i tuoi gettoni. Ti aspettiamo con entusiasmo! 🥳
 
 A presto,
 
@@ -73,7 +75,4 @@ A presto,
 [Il Nome del Tuo Locale/Negozio]
 ```
 
-**Esempio di Immagine da aggiungere:**
-[scaricala premendo qui](https://unipiazza-dev.s3.amazonaws.com/kit_social/UP-FB-Chiosco-1.jpg):
-
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/a5814418da756868995918d575da6317/UP-FB-Chiosco-1.jpg)
+**Vuoi aggiungere un’immagine?**<br>Crea la tua col nostro generatore. Scegli il formato **Post** e scarica l’immagine, con il nome del tuo locale, i tuoi colori e il QR Code della tua Vetrina già dentro.<br>🖨️ [**Crea la tua immagine**](https://volantini.unipiazza.it)

@@ -27,7 +27,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | 06-modelli-campagne | 3911 | Modelli Campagne | 9 | ⚠️ contenuti 2021-22 datati, immagini rotte |
 | 07-booster-e-abbonamenti | 7236 | Booster Vendite e Abbonamenti | 4 | ✅ |
 | 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 4 | ❌ specifiche errate (slot, limiti) |
-| 09-vetrina | 7200 | Vetrina | 4 | ✅ |
+| 09-vetrina | 7200 | Vetrina | 5 | ✅ |
 | 10-pagamenti-e-fatturazione | 676 | Pagamenti & Fatturazione | 4 | ⚠️ 1 articolo in draft |
 | 11-integrazioni | 8104 | Integrazioni | 3 | ⚠️ articolo Android con errori copia-incolla |
 | 12-impostazioni | 7257 | Impostazioni | 3 | ✅ |
@@ -204,14 +204,15 @@ Pagamenti prepagati e gift card digitali. ❌ Specifiche errate: articoli indica
 
 ### 09 — Vetrina · `collection_id: 7200`
 
-Personalizzazione estetica: cover chiosco, flyer, pacchetto custom. Tutti pubblicati.
+Vetrina, QR Code e volantini, cover chiosco, pacchetto custom. Il vecchio articolo sui flyer (42912) è in bozza dal 06/10/2026, sostituito dal 66239.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
 | 28255 | Cos'è e a cosa serve la Vetrina? | cos-e-e-a-cosa-serve-la-vetrina | published |
 | 28259 | Come cambio le immagini Cover che compaiono sul Chiosco? | come-cambio-le-immagini-cover-che-compaiono-sul-chiosco | published |
 | 42911 | Come personalizzare graficamente le tue Tessere Fedeltà fisiche | pacchetto-custom-personalizza-il-tuo-kit-fedelta | published |
-| 42912 | Come creare Flyer personalizzati per il tuo locale | come-creare-flyer-personalizzati-per-il-tuo-locale | published |
+| 42912 | Come creare Flyer personalizzati per il tuo locale | come-creare-flyer-personalizzati-per-il-tuo-locale | draft |
+| 66239 | Porta i clienti nella tua Vetrina con QR Code, link e volantini | porta-i-clienti-nella-tua-vetrina-con-qr-code-link-e-volantini | published |
 
 ---
 
