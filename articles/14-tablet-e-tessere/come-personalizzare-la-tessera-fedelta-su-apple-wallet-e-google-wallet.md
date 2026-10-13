@@ -57,13 +57,14 @@ Tutto il resto è consigliato. Senza, la Tessera Fedeltà funziona lo stesso, ma
 🟢 **Per Google Wallet**
 
 1.  Formato **quadrato**, PNG, almeno **660×660 px**.
-2.  Google lo ritaglia **a cerchio**, quindi lascia circa il **15% di margine** vuoto dai bordi. Così nulla di importante viene tagliato.
-3.  Se vuoi, aggiungi anche un **logo esteso orizzontale** da **1280×400 px**, PNG trasparente. Questo è consigliato, non indispensabile. Deve contrastare bene con lo sfondo, quindi bianco su sfondo scuro e nero su sfondo chiaro.
+2.  **Non ingrandire il logo** per arrivare a 660 px. Mandaci il file originale, meglio se da **1024×1024 px**.
+3.  Google lo ritaglia **a cerchio**, quindi lascia circa il **15% di margine** vuoto dai bordi. Così nulla di importante viene tagliato.
+4.  Se vuoi, aggiungi anche un **logo esteso orizzontale** da **1280×400 px**, PNG trasparente. Questo è consigliato, non indispensabile. Deve contrastare bene con lo sfondo, quindi bianco su sfondo scuro e nero su sfondo chiaro.
 
 🍏 **Per Apple Wallet**
 
 1.  Formato **rettangolare orizzontale** (proporzioni circa 16:5).
-2.  Almeno **480×150 px**. Meglio ancora se ci mandi il logo in **vettoriale (SVG)**.
+2.  Almeno **480 px di larghezza**. Meglio ancora se ci mandi il logo in **vettoriale (SVG o PDF)**.
 
 ⚠️ **Non inviarci lo stesso file per entrambi.** Un logo quadrato su Apple o uno rettangolare su Google risulta tagliato o minuscolo.
 
@@ -73,14 +74,16 @@ Tutto il resto è consigliato. Senza, la Tessera Fedeltà funziona lo stesso, ma
 
 🟢 **Per Google Wallet**
 
-1.  Immagine di copertina da **1032×812 px** (proporzioni circa 5:4), PNG.
-2.  Vuoi che si veda il colore di sfondo sotto l'immagine? Usa un PNG **con sfondo trasparente**.
+1.  Immagine di copertina da **1032×336 px** (proporzioni circa 3:1), PNG o JPG.
+2.  Se c'è testo o logo, tienilo lontano dai bordi.
+3.  Vuoi che si veda il colore di sfondo sotto l'immagine? Usa un PNG **con sfondo trasparente**.
 
 🍏 **Per Apple Wallet**
 
-Immagine a fascia orizzontale, almeno **1125×432 px**.
+1.  Immagine a fascia orizzontale da **1125×369 px** (proporzioni circa 3:1). È la stessa immagine della copertina Google.
+2.  Apple ritaglia un po' i lati, quindi tieni logo e testo **al centro**, lontani dai bordi.
 
-⚠️ **Anche qui le proporzioni sono diverse.** Parti dalla stessa immagine ed esporta due ritagli separati.
+💡 **Qui le proporzioni sono quasi uguali.** Parti dalla stessa immagine ed esportala in due misure: 1032×336 px per Google e 1125×369 px per Apple.
 
 ### **3. Colore di sfondo (consigliato)**
 
@@ -100,14 +103,14 @@ Tieni i testi brevi e chiari, perché lo spazio sulla Tessera Fedeltà è poco!
 
 **Indispensabili**
 
-1.  Logo quadrato PNG, minimo 660×660 px, con margine del 15% (Google).
-2.  Logo orizzontale, minimo 480×150 px, meglio se SVG (Apple).
+1.  Logo quadrato PNG, minimo 660×660 px senza ingrandirlo (meglio 1024×1024), con margine del 15% (Google).
+2.  Logo orizzontale, almeno 480 px di larghezza, meglio in SVG o PDF vettoriale (Apple).
 3.  Nome della Tessera Fedeltà.
 
 **Consigliati**
 
-1.  Immagine di copertina 1032×812 px, PNG (Google).
-2.  Immagine a fascia, minimo 1125×432 px (Apple).
+1.  Immagine di copertina 1032×336 px, PNG o JPG (Google).
+2.  Immagine a fascia 1125×369 px, la stessa della copertina Google (Apple).
 3.  Logo esteso 1280×400 px, PNG trasparente (Google).
 4.  Colore di sfondo in codice esadecimale.
 5.  Descrizione breve e link.
