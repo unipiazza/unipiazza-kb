@@ -22,8 +22,8 @@ keywords:
 sort: 5
 is_featured: false
 locale: it
-updated_at: '2026-10-02'
-last_synced: '2026-10-02'
+updated_at: '2026-10-13'
+last_synced: '2026-10-13'
 ---
 
 Vuoi che la Tessera Fedeltà nel telefono dei tuoi clienti abbia il look della tua attività? Perfetto! Per partire bastano **il tuo logo e il nome della Tessera Fedeltà**. Con immagine di copertina, colore e testi, poi, il risultato fa davvero la differenza.
