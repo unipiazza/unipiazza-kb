@@ -113,8 +113,7 @@ Da riportare a chi cura il copy del sito.
 - `programma-fedelta-bar.md`: Premio esclusivo da 20 pasticcini a 2.500 Gettoni, mentre la tabella Bar di 30684 ha altri esclusivi (1.500 e 3.800). Va dichiarato esempio editoriale o allineato.
 - `wallet-gift-card.md`: «fino a sei tagli» per il Wallet, da verificare (vedi 2.1).
 - `olivia-consulente-fedelta-ai.md` dice «Calendario Marketing», `invio-promozioni-sconti.md` «Calendario Eventi».
-- `ecommerce-local.md` e `prezzo.md` (Kit Lite con tablet proprio) sono coerenti con KB 48419 e 48446.
-- Il Gestionale: il sito dà come unico modo il Chiosco, mentre 28260 indica tre strade con la Vetrina per prima.
+- `gestionale-clienti.md` dice che la scheda nasce quando il cliente «si iscrive al Chiosco», mentre 28260 indica tre strade (Vetrina, Chiosco, app).
 
 ## 8. Articoli letti e coerenti (nessuna azione)
 
