@@ -47,7 +47,7 @@ Se il browser ti mostra un avviso di file non sicuro, clicca su **"Scarica file 
 -   Una volta fatto, dopo pochi secondi di sincronizzazione con il Chiosco Unipiazza, l'App Operatore sarà operativa.
     
 
-Se lavori con una cassa Android, accrediti i gettoni direttamente da lì, senza uno smartphone in più sul banco ✨
+Se lavori con una cassa Android, accrediti i gettoni direttamente da lì. Zero smartphone, zero cavetti in più ✨
 
 Hai un PC Windows? Trovi la [guida all'installazione per Windows](https://supporto.unipiazza.it/it/articles/48423-come-installare-l-app-unipiazza-sul-tuo-pc-windows). Tutti i download di Unipiazza sono anche su [unipiazza.it/download](https://unipiazza.it/download/).
 
