@@ -29,6 +29,8 @@ Vuoi verificare la compatibilità del tuo Tablet con l'App Chiosco o acquistarne
 
 <table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>👉 Se hai acquistato il Kit Fedeltà Full, puoi saltare questa guida:</strong> il tablet è già incluso e preconfigurato dal nostro team!</p></td></tr></tbody></table>
 
+<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>👉 Hai il Kit Fedeltà Lite?</strong> Il tablet non è incluso, quindi l'App Chiosco la installi tu sul tuo tablet. Trovi come fare nella sezione "Come installare l'App Chiosco" più in basso.</p></td></tr></tbody></table>
+
 #### **✅ Tablet consigliati da noi**
 
 Questi tablet sono stati testati direttamente dal nostro team e funzionano perfettamente con l’App Chiosco:
@@ -70,6 +72,19 @@ Requisiti consigliati:
 -   Fotocamera frontale da **5MP o superiore**
     
 
+#### **📲 Come installare l'App Chiosco (Kit Lite)**
+
+Con il Kit Fedeltà Lite il tablet è il tuo, quindi l'App Chiosco la installi tu. Ci vogliono pochi minuti.
+
+1.  Apri il browser del tablet e vai su 👉 [unpz.it/tb](https://unpz.it/tb). Il file .apk si scarica in automatico.
+    
+2.  Se il browser ti mostra un avviso di file non sicuro, scarica comunque il file: l'app l'abbiamo creata noi! Poi tocca la notifica di avvenuto download e conferma l'installazione.
+    
+3.  Per la configurazione ti guidiamo noi passo passo, perché l'installazione guidata è inclusa nel Kit.
+    
+
+Trovi tutti i download di Unipiazza anche su [unipiazza.it/download](https://unipiazza.it/download/).
+
 #### **⚙️ Consigli per la configurazione del tablet**
 
 Per un’esperienza perfetta con il Chiosco, segui questi passaggi:
@@ -82,7 +97,7 @@ Per un’esperienza perfetta con il Chiosco, segui questi passaggi:
     
 4.  **Attiva accensione/spegnimento automatico** (se disponibile la trovi sotto la voce Impostazioni o “Accessibilità”)
     
-5.  **Tieni sempre il tablet sotto carica<br>**👉 In tutti iKit Unipiazza trovi un **cavo USB-C angolare da 1,5m**, più comodo di quelli standard.
+5.  **Tieni sempre il tablet sotto carica<br>**👉 In tutti i Kit Unipiazza trovi un **cavo USB-C angolare da 1,5m**, più comodo di quelli standard.
     
 
 #### **🛠️ Accessori consigliati**
