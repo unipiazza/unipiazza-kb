@@ -4,7 +4,7 @@ collection_id: 8104
 collection: 🧩 Integrazioni
 title: Come installare l’App Operatore Unipiazza sul tuo dispositivo Android
 slug: come-installare-l-app-operatore-unipiazza-sul-tuo-dispositivo-android
-description: Con l’App Operatore Unipiazza puoi accreditare i gettoni ai tuoi clienti direttamente da smartphone o tablet Android.
+description: Con l’App Operatore Unipiazza puoi accreditare i gettoni ai tuoi clienti direttamente da smartphone, tablet o cassa Android.
 status: published
 written_by: 45263
 locale: it
@@ -12,13 +12,13 @@ updated_at: '2026-05-29'
 last_synced: '2026-06-10'
 ---
 
-Con l’App Operatore Unipiazza puoi accreditare i gettoni ai tuoi clienti direttamente da smartphone o tablet Android.
+Con l’App Operatore Unipiazza puoi accreditare i gettoni ai tuoi clienti direttamente da smartphone, tablet o cassa Android.
 
 L’app si installa direttamente dal browser, seguendo pochi passaggi.
 
 1\. Apri il browser del dispositivo
 
--   Apri il browser del tuo PC (Chrome, Edge o quello che usi di solito).
+-   Apri il browser del tuo smartphone, tablet o cassa Android (Chrome o quello che usi di solito).
     
 -   Vai su 👉 [unpz.it/android](https://unpz.it/android)
     
@@ -47,6 +47,8 @@ Se il browser ti mostra un avviso di file non sicuro, clicca su **"Scarica file 
 -   Una volta fatto, dopo pochi secondi di sincronizzazione con il Chiosco Unipiazza, l'App Operatore sarà operativa.
     
 
-Questa integrazione è perfetta per chi vuole snellire l’operatività alla cassa e gestire tutto da un unico dispositivo. Zero smartphone, zero cavetti in più ✨
+Se lavori con una cassa Android, accrediti i gettoni direttamente da lì, senza uno smartphone in più sul banco ✨
+
+Hai un PC Windows? Trovi la [guida all'installazione per Windows](https://supporto.unipiazza.it/it/articles/48423-come-installare-l-app-unipiazza-sul-tuo-pc-windows). Tutti i download di Unipiazza sono anche su [unipiazza.it/download](https://unipiazza.it/download/).
 
 Se qualcosa non ti torna o hai bisogno di una mano, scrivici su WhatsApp al **388 8665987**!
