@@ -18,12 +18,14 @@ Abbiamo creato una versione desktop dell’App Operatore Unipiazza per accredita
     
 -   Vai su 👉 [unpz.it/desktop](https://unpz.it/desktop)
     
--   Il file .exe si scarica in automatico.
+-   Si scarica un file compresso chiamato **InstallerUnipiazza-x64.zip** (circa 69 MB).
     
 
-Se il browser ti mostra un avviso o blocca il file, clicca su **"Conserva comunque"** o **"Esegui comunque"**. Il programma è sicuro, lo abbiamo creato noi!<br>![](../../assets/11-integrazioni/48423_CleanShot 2025-08-06 at 15.06.08@2x.png)<br><br>2\. Installa l'applicazione
+Se il browser ti mostra un avviso o blocca il file, clicca su **"Conserva comunque"** o **"Esegui comunque"**. Il programma è sicuro, lo abbiamo creato noi!<br>![](../../assets/11-integrazioni/48423_CleanShot 2025-08-06 at 15.06.08@2x.png)<br><br>2\. Estrai e installa l'applicazione
 
--   Una volta scaricato, apri il file.
+-   Vai nella cartella **Download**, clicca con il tasto destro su **InstallerUnipiazza-x64.zip** e scegli **Estrai tutto**.
+    
+-   Apri la cartella che si è creata e fai doppio clic su **InstallerUnipiazza-x64.exe**. Meglio non avviarlo direttamente dallo zip, così l'installazione parte senza intoppi.
     
 -   Se compare una schermata blu di Windows Defender, clicca su **"Ulteriori informazioni"** e poi su **"Esegui comunque"**.
     
@@ -42,5 +44,7 @@ Se il browser ti mostra un avviso o blocca il file, clicca su **"Conserva comunq
     
 
 Questa integrazione è perfetta per chi vuole snellire l’operatività alla cassa e gestire tutto da un unico dispositivo. Zero smartphone, zero cavetti in più ✨
+
+Trovi tutti i download di Unipiazza anche su [unipiazza.it/download](https://unipiazza.it/download/).
 
 Se qualcosa non ti torna o hai bisogno di una mano, scrivici su WhatsApp al **388 8665987**!
