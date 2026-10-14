@@ -8,8 +8,8 @@ description: Se hai un PC-Cassa con sistema operativo Windows, puoi finalmente d
 status: published
 written_by: 45263
 locale: it
-updated_at: '2025-08-08'
-last_synced: '2026-06-10'
+updated_at: '2026-10-14'
+last_synced: '2026-10-14'
 ---
 
 Abbiamo creato una versione desktop dell’App Operatore Unipiazza per accreditare gettoni direttamente dal tuo computer 🎉<br><br>1\. Scarica il programma

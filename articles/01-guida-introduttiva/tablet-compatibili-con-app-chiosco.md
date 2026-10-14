@@ -14,8 +14,8 @@ keywords:
 sort: 5
 is_featured: false
 locale: it
-updated_at: '2025-07-31'
-last_synced: '2026-06-10'
+updated_at: '2026-10-14'
+last_synced: '2026-10-14'
 ---
 
 Vuoi verificare la compatibilità del tuo Tablet con l'App Chiosco o acquistarne uno compatibile?  Allora sei nel posto giusto! In questo articolo ti spieghiamo:

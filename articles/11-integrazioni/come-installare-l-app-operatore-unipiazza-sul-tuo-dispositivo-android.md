@@ -8,8 +8,8 @@ description: Con l’App Operatore Unipiazza puoi accreditare i gettoni ai tuoi 
 status: published
 written_by: 45263
 locale: it
-updated_at: '2026-05-29'
-last_synced: '2026-06-10'
+updated_at: '2026-10-14'
+last_synced: '2026-10-14'
 ---
 
 Con l’App Operatore Unipiazza puoi accreditare i gettoni ai tuoi clienti direttamente da smartphone, tablet o cassa Android.

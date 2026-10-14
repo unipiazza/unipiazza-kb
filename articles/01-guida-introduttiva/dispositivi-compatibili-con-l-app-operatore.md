@@ -19,8 +19,8 @@ keywords:
 sort: 6
 is_featured: false
 locale: it
-updated_at: '2025-07-31'
-last_synced: '2026-06-10'
+updated_at: '2026-10-14'
+last_synced: '2026-10-14'
 ---
 
 L’App Operatore è lo strumento che ti permette di:
