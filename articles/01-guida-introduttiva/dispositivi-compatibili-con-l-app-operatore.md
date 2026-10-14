@@ -42,6 +42,8 @@ Puoi utilizzare l’App Operatore su:
     
 -   **📱 Tablet Android:** Requisito minimo **Android 5.0 o superiore**
     
+-   **🖥️ Casse Android:** stessa app degli smartphone e dei tablet, requisito minimo **Android 5.0 o superiore**
+    
 -   **🖨️ Registratori di Cassa RCH compatibili**
     
     -   Atos RT
@@ -64,3 +66,5 @@ Tutti i dispositivi devono essere connessi a **una rete WiFi stabile** per poter
 Il nostro supporto ti guiderà passo passo durante l’installazione dell’App Operatore. Prima della spedizione del Kit, verificheremo **insieme a te** che il tuo dispositivo sia compatibile.
 
 ❌ Se non lo è, te ne forniremo noi uno **già configurato e pronto all’uso** in comodato d’uso gratuito.
+
+Preferisci fare da solo? Scarica l'app da [unipiazza.it/download](https://unipiazza.it/download/) e segui la guida per [Android](https://supporto.unipiazza.it/it/articles/61666-come-installare-l-app-operatore-unipiazza-sul-tuo-dispositivo-android) o per [Windows](https://supporto.unipiazza.it/it/articles/48423-come-installare-l-app-unipiazza-sul-tuo-pc-windows).
