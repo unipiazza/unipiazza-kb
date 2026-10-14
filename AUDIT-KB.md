@@ -44,6 +44,7 @@ Nel gestionale: **Wallet = fino a 5 tagli**, **GiftCard = fino a 6 tagli**. Inol
 
 ### ⚪ A8 — App Operatore Android: link e testo copiati dall'articolo Windows
 [come-installare-l-app-operatore-unipiazza-sul-tuo-dispositivo-android](articles/11-integrazioni/come-installare-l-app-operatore-unipiazza-sul-tuo-dispositivo-android.md) [[come-installare-l-app-operatore-unipiazza-sul-tuo-dispositivo-android]]: il link "Vai su unpz.it/android" punta in realtà a `https://unpz.it/desktop`; e dice "Apri il browser del tuo **PC**" invece che del dispositivo Android. → Correggere link e testo.
+**Aggiornamento 2026-10-14:** corretto in locale (link `unpz.it/android`, browser del dispositivo, cassa Android citata, chiusura copia-incolla riscritta). Online il link punta ancora a `unpz.it/desktop` finché non si sincronizza. Stessa tornata su [come-installare-l-app-unipiazza-sul-tuo-pc-windows](articles/11-integrazioni/come-installare-l-app-unipiazza-sul-tuo-pc-windows.md) [[come-installare-l-app-unipiazza-sul-tuo-pc-windows]] (si scarica uno zip, non un .exe), [dispositivi-compatibili-con-l-app-operatore](articles/01-guida-introduttiva/dispositivi-compatibili-con-l-app-operatore.md) [[dispositivi-compatibili-con-l-app-operatore]] e [tablet-compatibili-con-app-chiosco](articles/01-guida-introduttiva/tablet-compatibili-con-app-chiosco.md) [[tablet-compatibili-con-app-chiosco]] (Kit Lite).
 
 ### ⚪ A9 — Link nudo senza protocollo
 **Metà risolto (verificato 2026-08-07).** L'articolo sui pagamenti che conteneva
