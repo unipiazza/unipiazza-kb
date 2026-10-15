@@ -39,12 +39,11 @@ Ecco cosa trovi nel Kit:
 1. Le **Tessere Fedeltà** con QR Code da consegnare ai tuoi clienti
 2. Un portatessere
 3. Gli espositori da banco
-4. La vetrofania adesiva da attaccare in vetrina, per far sapere ai clienti che sei nel circuito Unipiazza
-5. Il supporto pieghevole per il tablet
-6. Il cavo antifurto per il tablet
-7. Il cavo USB-C e il caricatore rapido
-8. Il **tablet** (solo nel Kit Full), già configurato dal nostro team
-9. Uno **smartphone** (solo se non hai una cassa o un dispositivo già compatibile)
+4. Il supporto pieghevole per il tablet
+5. Il cavo antifurto per il tablet
+6. Il cavo USB-C e il caricatore rapido
+7. Il **tablet** (solo nel Kit Full), già configurato dal nostro team
+8. Uno **smartphone** (solo se non hai una cassa o un dispositivo già compatibile)
 
 Con il **Kit Full** il tablet è incluso e resta tuo per sempre. Con il **Kit Lite** non c'è, perché usi un tablet Android compatibile che hai già (trovi l'elenco in [Tablet compatibili con l'App Chiosco](https://supporto.unipiazza.it/it/articles/48419-tablet-compatibili-con-app-chiosco)).
 

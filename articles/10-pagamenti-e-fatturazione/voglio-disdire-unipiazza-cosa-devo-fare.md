@@ -57,7 +57,7 @@ Una volta ricevuto il materiale integro, **ti rimborsiamo quanto hai già pagato
 
 **4\. Recesso dopo i primi 30 giorni**
 
-Se il recesso avviene durante il primo anno di contratto, verrà applicata una penale di 350€ + IVA, come indicato nei termini contrattuali.
+L'impegno contrattuale dura **12 mesi dall'installazione**. Se il recesso avviene durante il primo anno, verrà applicata una penale di 350€ + IVA, come indicato nei termini contrattuali.
 
 Siamo qui per qualsiasi domanda o chiarimento. Scrivici su WhatsApp, ti assisteremo in ogni fase! 😊
 
