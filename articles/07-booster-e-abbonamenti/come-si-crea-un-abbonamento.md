@@ -20,7 +20,7 @@ Creare un Abbonamento prepagato è un ottimo modo per offrire valore aggiunto ai
     
 -   **Nome Abbonamento:** Scegli un nome chiaro e attraente, che comunichi bene il valore dell'offerta ai tuoi clienti, come "10 COLAZIONI".
     
--   **Offerta:** Qui puoi decidere se vuoi offrire un prezzo scontato sull'acquisto multiplo o se preferisci impostare un valore fisso per l'abbonamento.
+-   **Offerta:** Qui puoi decidere se vuoi offrire un prezzo scontato sull'acquisto multiplo oppure aggiungere qualcosa in omaggio (per esempio 5 coni gelato più uno in omaggio, indicando nel campo "Quanti sono in omaggio?" quanti ne regali).
     
 -   **Prezzo e Quantità:** Imposta il prezzo unitario del servizio o prodotto e la quantità inclusa nell'abbonamento. Poi decidi il prezzo totale dell'abbonamento, che dovrebbe essere vantaggioso rispetto all'acquisto singolo dei prodotti o servizi.
     

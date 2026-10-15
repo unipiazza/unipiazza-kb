@@ -25,7 +25,7 @@ Una volta che attiverai i Booster, quando i clienti appoggeranno la propria tess
 
 Se il Booster è attivo, in automatico il cliente riceverà i suoi gettoni omaggio (grazie al moltiplicatore o ai gettoni extra) e verranno conteggiati in modo diverso sul gestionale. 
 
-<br>Potrai vedere i Booster attivi e quanti profitti ti stanno portando dalla sezione “Booster Vendite”. Ecco le informazioni che vedrai:
+<br>Potrai vedere i Booster attivi e quanto incasso ti stanno portando dalla sezione “Booster Vendite”. Ecco le informazioni che vedrai:
 
 -   **Booster**: Il nome dell'offerta o promozione.
     
@@ -33,7 +33,7 @@ Se il Booster è attivo, in automatico il cliente riceverà i suoi gettoni omagg
     
 -   **Visite generate:** Numero di clienti che hanno approfittato del Booster.
     
--   **Profitti generati**: Guadagni ottenuti grazie al Booster.
+-   **Profitti generati**: L'incasso ottenuto grazie al Booster, cioè l'importo intero degli acquisti fatti con il Booster attivo. Non è il guadagno netto, perché i tuoi costi non vengono sottratti.
     
 -   **Attivo dal/al:** Periodo di validità del Booster.
     
