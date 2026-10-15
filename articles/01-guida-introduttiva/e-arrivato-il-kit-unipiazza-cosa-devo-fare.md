@@ -24,6 +24,8 @@ Hai ricevuto il tuo kit Unipiazza? Complimenti e benvenutə a bordo! 
 
 Questa guida passo-passo ti aiuterà a configurare il tuo sistema e a iniziare immediatamente.
 
+<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota:</strong> Dal 1° settembre 2025 il Kit esiste in due versioni. Con il <strong>Kit Full</strong> ricevi anche il Tablet Chiosco, che resta tuo per sempre. Con il <strong>Kit Lite</strong> non c'è il tablet, perché usi un tablet Android compatibile che hai già. Se qualcosa in questa guida non corrisponde a quello che hai in mano (per esempio lo Smartphone, che non è sempre incluso), non preoccuparti: l'installazione è guidata e ti accompagniamo noi in videochiamata. Scrivici su WhatsApp al 388 8665987.</p></td></tr></tbody></table>
+
 **1\. Apertura kit fedeltà**
 
 <div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/VZ1hSWh8EHk" frameborder="0" allowfullscreen="true"></iframe></div>
@@ -119,6 +121,9 @@ Come iscrivere i tuoi clienti:
 4.  Fai dare il consenso per ricevere le comunicazioni di Marketing
     
 5.  Fatto! Ora potrai accreditare gettoni al tuo cliente
+    
+
+<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota:</strong> Dalla versione 6.0.0 del Chiosco i clienti possono raccogliere Gettoni anche digitando il proprio numero di telefono, senza Tessera né App. Leggi <a href="https://supporto.unipiazza.it/it/articles/44201-invita-i-clienti-ad-inserire-il-numero-di-telefono">Invita i clienti ad inserire il numero di Telefono</a>.</p></td></tr></tbody></table>
     
 
 **6\. Accreditamento gettoni con Carta Fedeltà**
