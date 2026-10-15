@@ -6,6 +6,10 @@ Controllo degli articoli KB `published` contro i testi del nuovo sito (`Unipiazz
 
 **Come leggere le etichette.** *Certa* vuol dire che la differenza è nei file e il sito ha una decisione scritta. *Da confermare* vuol dire che serve una tua risposta o una verifica nel Gestionale prima di toccare la KB.
 
+## Stato al 15/10/2026
+
+Le 16 correzioni della sezione 1 sono state applicate e sincronizzate su Customerly con altre modifiche decise con Edoardo: tagli di Wallet e Gift Card (6, o 5 con «Altro importo»), recesso dalla consegna del Kit, contatti solo WhatsApp e telefono (partner@ non esiste più), coexistence di WhatsApp, etichette della Lista Clienti, nuova guida del Kit (27438). In tutto 21 articoli. Senza vetrofania: tolta dalla guida del Kit, dal listino interno, dai Termini e condizioni del sito V3 e dalla base di conoscenza di Olivia (rigenerata con lo script del repo `unipiazza-api`, non ancora committata). Restano aperte la sezione 2 (parte non risolta), la collezione eShop (sezione 3), i gap (sezione 4) e la sezione 7.
+
 ---
 
 ## 1. Correzioni certe, da fare appena dai l'ok
