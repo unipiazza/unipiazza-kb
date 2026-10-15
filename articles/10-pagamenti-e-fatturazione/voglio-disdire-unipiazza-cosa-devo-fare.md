@@ -47,9 +47,13 @@ Tutti i dispositivi da restituire devono essere:
 
 Le spese di spedizione saranno **a carico nostro**. 😉
 
-**3\. Diritto di recesso (entro 30 giorni)**
+**3\. Soddisfatti o Rimborsati (entro 30 giorni dalla consegna del Kit)**
 
-Se stai disdicendo entro i **primi 30 giorni dall’attivazione**, hai diritto a recedere dal contratto senza penali. In questo caso, una volta ricevuti i dispositivi integri (se previsti), **ti rimborseremo solo il canone pagato**, ma **non il costo di installazione**, sia che tu abbia un **Kit Full** sia un **Kit Lite**. Il rimborso verrà effettuato entro **30 giorni**.
+Se disdici entro **30 giorni dalla consegna del Kit Fedeltà** (fa fede la data indicata dal corriere), puoi recedere dal contratto **per qualsiasi motivo e senza penali**. Ti basta scriverci su WhatsApp al 388 8665987 oppure inviare una PEC a unipiazza@pec.it.
+
+Una volta ricevuto il materiale integro, **ti rimborsiamo quanto hai già pagato**, escluso il **costo una tantum del Kit Fedeltà**, sia che tu abbia un **Kit Full** sia un **Kit Lite**. Il rimborso arriva entro **30 giorni**, con lo stesso metodo di pagamento che hai usato.
+
+⚠️ La garanzia vale se hai fatto la **chiamata di attivazione** con il team Unipiazza **entro 5 giorni lavorativi** dalla consegna del Kit. Se non l'hai ancora fatta, scrivici subito su WhatsApp e la fissiamo insieme.
 
 **4\. Recesso dopo i primi 30 giorni**
 
