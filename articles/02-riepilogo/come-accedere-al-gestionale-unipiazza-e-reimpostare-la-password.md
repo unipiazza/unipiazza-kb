@@ -25,9 +25,9 @@ Se non ricordi una o entrambe le tue credenziali non preoccuparti, succede ai mi
 
 Purtroppo, non c'è un tasto magico per reimpostarla da solo, ma ti aiutiamo noi:
 
--   **Scrivici al 388 8665987**<br>Non ti preoccupare, siamo simpatici e veloci nel rispondere!
+-   **Scrivici su WhatsApp al 388 8665987**<br>Non ti preoccupare, siamo simpatici e veloci nel rispondere!
     
--   **Scrivici a partner@unipiazza.it**<br>Se preferisci, puoi mandarci una mail e ti risponderemo al più presto con tutte le istruzioni per tornare operativo.
+-   **Chiamaci allo stesso numero**<br>Se preferisci parlare con una persona, ti rispondiamo a voce e ti diamo subito tutte le istruzioni per tornare operativo.
     
 
 In men che non si dica, ti forniremo una nuova password temporanea e sarai di nuovo in pista!

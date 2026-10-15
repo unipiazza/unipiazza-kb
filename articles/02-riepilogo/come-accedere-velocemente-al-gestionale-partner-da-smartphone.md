@@ -46,4 +46,4 @@ Vuoi avere la comodità di accedere al gestionale Unipiazza direttamente dal tuo
 
 \- Premi “Installa". Ora troverai l'icona sulla tua schermata Home e potrai accedere rapidamente come se fosse un'App.
 
-<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento:&nbsp; </strong>Se hai problemi con le credenziali, contattaci al 388 8665987 o partner@unipiazza.it<strong>.</strong></p></td></tr></tbody></table>
+<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento:&nbsp; </strong>Se hai problemi con le credenziali, chiamaci o scrivici su WhatsApp al 388 8665987<strong>.</strong></p></td></tr></tbody></table>

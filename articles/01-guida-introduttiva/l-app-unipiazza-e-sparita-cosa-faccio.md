@@ -56,4 +56,4 @@ Dalla schermata Home, tocca l'icona in basso **"Impostazioni"**.
 
 Se, dopo aver seguito questi passaggi, l'app Unipiazza non appare come schermata iniziale, riavvia il dispositivo e ripeti la procedura.
 
-Per ulteriori assistenza, contattaci al 388 8665987 o via email a [partner@unipiazza.it.](partner@unipiazza.it)
+Se ti serve ancora una mano, chiamaci o scrivici su WhatsApp al 388 8665987: siamo qui per aiutarti!

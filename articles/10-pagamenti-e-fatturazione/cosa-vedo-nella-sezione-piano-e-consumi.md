@@ -59,4 +59,4 @@ Clicca sull'**icona di download** a destra per scaricare la fattura in PDF quand
 
 ---
 
-Per qualsiasi domanda su pagamenti o piano, siamo qui: scrivici su WhatsApp al **388 8665987** oppure a [info@unipiazza.it](mailto:info@unipiazza.it). 😊
+Per qualsiasi domanda su pagamenti o piano, siamo qui: scrivici su WhatsApp o chiamaci al **388 8665987**. 😊
