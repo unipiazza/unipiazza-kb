@@ -58,7 +58,7 @@ Impostare il [Wallet Unipiazza](https://partner.unipiazza.it/wallet) nel tuo ges
     
 -   **Attiva la Funzionalità "Wallet Prepagato":** Spunta la casella per attivare il Wallet. Questo ti permetterà di iniziare a offrire ai tuoi clienti la possibilità di caricare il loro Wallet e usufruire degli incentivi.
     
--   **Tagli di Acquisto o Ricarica Wallet:** Imposta fino a sei tagli di ricarica per il Wallet, come 20€, 50€, 100€, ecc. Questi rappresentano le opzioni che i tuoi clienti vedranno quando decidono di ricaricare il loro Wallet.
+-   **Tagli di Acquisto o Ricarica Wallet:** Imposta fino a sei tagli di ricarica per il Wallet, come 20€, 50€, 100€, ecc. Questi rappresentano le opzioni che i tuoi clienti vedranno quando decidono di ricaricare il loro Wallet. Se attivi l'opzione "Permetti al cliente di scegliere un importo personalizzato" i tagli diventano al massimo cinque, perché accanto a loro compare il bottone **"Altro importo"**.
     
 -   **Incentiva i Pagamenti Tramite il Wallet:** Seleziona questa opzione per dare gettoni extra ai clienti che pagano con il Wallet. Ad esempio, potresti offrire un moltiplicatore di gettoni, come 1,5 gettoni per ogni euro speso.
     

@@ -20,7 +20,9 @@ La [GiftCard](https://partner.unipiazza.it/wallet) di Unipiazza non è un sempli
 
 **Come funzionano?**
 
--   Il cliente seleziona il valore della GiftCard desiderata tramite il Chiosco (tu sceglierai quanti e quali tagli mettere, max taglio 250€).
+-   Il cliente seleziona il valore della GiftCard desiderata tramite il Chiosco (tu sceglierai quanti e quali tagli mettere, max taglio 250€, fino a 6 tagli oppure 5 se attivi l'opzione "Permetti al cliente di scegliere un importo personalizzato").
+    
+-   Con quell'opzione attiva, accanto ai tagli il cliente trova il bottone **"Altro importo"** e può inserire la cifra che preferisce.
     
 -   Sul tuo Smartphone o Registratore di cassa potrai confermare l’operazione.
     

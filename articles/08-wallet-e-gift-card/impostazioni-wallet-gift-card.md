@@ -16,10 +16,13 @@ Nella sezione "[Impostazioni Wallet & Gift Card](https://partner.unipiazza.it/wa
 
 -   **Attiva il Wallet Prepagato:** Questa funzione consente ai tuoi clienti di pagare in anticipo per servizi e prodotti, rendendo le transazioni più veloci e aumentando la loro fedeltà.
     
--   **Imposta i Tagli di Acquisto o Ricarica Wallet:** Puoi definire diversi tagli di ricarica, come 20€, 50€, fino a 200€. Questo offre ai clienti la flessibilità di scegliere quanto spendere e quanto caricare sul loro Wallet.
+-   **Imposta i Tagli di Acquisto o Ricarica Wallet:** Puoi definire diversi tagli di ricarica, come 20€, 50€, 100€. Questo offre ai clienti la flessibilità di scegliere quanto spendere e quanto caricare sul loro Wallet. I tagli sono al massimo **6**, oppure **5** se attivi l'opzione "Permetti al cliente di scegliere un importo personalizzato" (vedi sotto).
     
 
 <table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Consiglio:</strong> Imposta da 4 a 6 tagli per dare più libertà ai clienti sul regalo da fare.&nbsp;</p></td></tr></tbody></table>
+
+-   **Permetti al cliente di scegliere un importo personalizzato:** Attivando questa opzione, accanto ai tagli comparirà il bottone **"Altro importo"**, così il cliente può inserire la cifra che preferisce. Con questa opzione attiva puoi impostare fino a **5** tagli (senza, fino a 6).
+    
 
 -   **Incentiva i Pagamenti con il Wallet:** Attivando questa opzione, potrai ricompensare i clienti che utilizzano il Wallet per i pagamenti, ad esempio, offrendo loro un moltiplicatore di gettoni per ogni euro speso.
     
@@ -31,7 +34,7 @@ Nella sezione "[Impostazioni Wallet & Gift Card](https://partner.unipiazza.it/wa
     
 -   **Attiva le Gift Card:** Questa opzione ti permette di vendere Gift Card che i clienti possono regalare o utilizzare come credito prepagato, incrementando ulteriormente le vendite anticipate.
     
--   **Imposta i Tagli di Acquisto per le Gift Card:** Similmente al Wallet, puoi impostare fino a sei diversi tagli di acquisto per le Gift Card, come 20€, 50€, fino a 200€, offrendo una gamma di opzioni per i regali.
+-   **Imposta i Tagli di Acquisto per le Gift Card:** Similmente al Wallet, puoi impostare fino a sei diversi tagli di acquisto per le Gift Card (cinque se attivi l'opzione "Altro importo"), come 20€, 50€, 100€, offrendo una gamma di opzioni per i regali.
     
 
 <table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p>💡<strong>Nota Bene! </strong>Puoi scegliere dei tagli di GiftCard diversi dai tagli del Wallet</p></td></tr></tbody></table>
