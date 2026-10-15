@@ -53,4 +53,6 @@ Ecco come creare una campagna passo passo:
 
 **6. Scegli come inviare**: con la **consulenza del team Unipiazza** (che controlla la campagna e ottimizza data e orario) oppure **senza approvazione**, direttamente tu.
 
+Una volta approvata dal team, la campagna risulterà "Inviata" in verde.
+
 Prima di creare la tua prima campagna ti consigliamo di leggere [questo nostro articolo](https://supporto.unipiazza.it/it/articles/27452-suggerimenti-per-scrivere-una-campagna-marketing-perfetta) che riassume i nostri suggerimenti per scrivere una campagna marketing perfetta. Una volta inviata, trovi tutte le statistiche nel dettaglio della campagna inviata.
