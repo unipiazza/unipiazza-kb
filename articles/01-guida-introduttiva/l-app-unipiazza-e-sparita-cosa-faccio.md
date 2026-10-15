@@ -6,7 +6,7 @@ title: L'app Unipiazza è sparita, cosa faccio?
 slug: l-app-unipiazza-e-sparita-cosa-faccio
 description: In alcuni casi, la schermata Unipiazza potrebbe non comparire più come predefinita del telefono che forniamo col Kit Unipiazza. Ecco come ripristinare la configurazione corretta.
 status: published
-written_by: 45263
+written_by: 2961
 keywords: []
 sort: 2
 is_featured: false

@@ -6,7 +6,7 @@ title: Voglio disdire Unipiazza, cosa devo fare?
 slug: voglio-disdire-unipiazza-cosa-devo-fare
 description: Vuoi disdire il tuo contratto con noi? Eccoti tutte le informazioni di cui hai bisogno!
 status: published
-written_by: 45263
+written_by: 2961
 locale: it
 updated_at: '2025-10-21'
 last_synced: '2026-06-10'

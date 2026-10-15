@@ -6,7 +6,7 @@ title: Il mio registratore di cassa è compatibile con Unipiazza?
 slug: la-mia-cassa-e-compatibile-con-unipiazza
 description: Ecco con quali registratori di cassa funziona già Unipiazza e come chiederci di verificare il tuo.
 status: published
-written_by: 45263
+written_by: 2961
 keywords: []
 sort: 3
 is_featured: false

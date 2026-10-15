@@ -6,7 +6,7 @@ title: Come accedere al Gestionale e reimpostare la password
 slug: come-accedere-al-gestionale-unipiazza-e-reimpostare-la-password
 description: Informazioni utili per accedere al proprio Gestionale di Unipiazza e iniziare a monitorare il tuo programma fedeltà.
 status: published
-written_by: 45263
+written_by: 2961
 locale: it
 updated_at: '2025-01-13'
 last_synced: '2026-06-10'
