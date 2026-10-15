@@ -20,7 +20,7 @@ sort: 1
 is_featured: false
 locale: it
 updated_at: '2026-10-15'
-last_synced: '2026-09-18'
+last_synced: '2026-10-15'
 ---
 
 Dicono che saper scrivere è un'arte, saper scrivere una buona campagna lo è ancor di più. Inviare una campagna ben fatta, grammaticalmente corretta e che sia poi effettivamente efficace non è un lavoro da poco.

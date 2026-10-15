@@ -18,7 +18,7 @@ sort: 8
 is_featured: false
 locale: it
 updated_at: '2026-10-15'
-last_synced: '2026-06-19'
+last_synced: '2026-10-15'
 ---
 
 A volte può capitare che le email finiscano nella cartella spam o nella posta indesiderata dei tuoi clienti. Lo sappiamo, è una gran seccatura! Ma niente panico, siamo qui per darti qualche dritta per evitare che accada.

@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 136 (108 published, 28 draft)
+- **Articoli totali:** 136 (109 published, 27 draft)
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -132,7 +132,7 @@ Meccaniche di fedeltà: gettoni, lista premi, creazione premi, limiti ritiro, ge
 
 ### 05 — Campagne, Autopromo e WhatsApp · `collection_id: 7182`
 
-Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistiche. Tutti pubblicati, tranne 67839 (variabili) in bozza dal 2026-10-15.
+Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. ⚠️ 27450: sul web il testo dello step 4 e l'ultima frase ("Inviata in verde") differiscono dal file locale (modifica web del 2026-07-03). La sync del 15/10 ha tenuto il testo web e aggiunto solo la frase sulle variabili.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
@@ -155,7 +155,7 @@ Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistich
 | 61974 | Il Calendario Eventi: trova l'occasione giusta per la tua prossima campagna | calendario-marketing-unipiazza | published |
 | 63782 | Le comunicazioni automatiche: come appaiono ai tuoi clienti | anteprime-comunicazioni-automatiche | published |
 | 65381 | Perché la campagna è arrivata a meno clienti di quelli selezionati? | perche-la-campagna-e-arrivata-a-meno-clienti-di-quelli-selezionati | published |
-| 67839 | Personalizza le tue Campagne con le Variabili | personalizza-le-campagne-con-le-variabili | **draft** |
+| 67839 | Personalizza le tue Campagne con le Variabili | personalizza-le-campagne-con-le-variabili | published |
 
 ---
 
