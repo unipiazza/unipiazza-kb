@@ -39,12 +39,6 @@ Scegliendo l'invio diretto, la responsabilità dell'invio è tua. In pratica:
 
 È una funzionalità potente... da usare con attenzione. 😅
 
-## Quando è disponibile?
-
-Nei primi giorni dall'aggiornamento l'opzione non sarà ancora attiva: stiamo completando i test per assicurarci che tutto funzioni alla perfezione. Sarà disponibile entro le prime due settimane dal lancio.
-
-Non vedi ancora l'opzione? Tranquillo, arriva presto!
-
 ---
 
 Se hai dubbi su come strutturare al meglio la tua campagna prima di inviarla, leggi [Suggerimenti per scrivere una Campagna Marketing perfetta](https://supporto.unipiazza.it/it/articles/27452-suggerimenti-per-scrivere-una-campagna-marketing-perfetta). 💡

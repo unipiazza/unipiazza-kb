@@ -4,7 +4,7 @@ collection_id: 7178
 collection: ❇️ Guida Introduttiva
 title: Il mio registratore di cassa è compatibile con Unipiazza?
 slug: la-mia-cassa-e-compatibile-con-unipiazza
-description: Non abbiamo una risposta ma ci stiamo lavorando!
+description: Ecco con quali registratori di cassa funziona già Unipiazza e come chiederci di verificare il tuo.
 status: published
 written_by: 45263
 keywords: []
@@ -15,10 +15,18 @@ updated_at: '2025-02-21'
 last_synced: '2026-06-10'
 ---
 
-Al momento stiamo lavorando per ampliare la compatibilità di Unipiazza con diversi modelli di casse e sistemi gestionali.
+Buone notizie: Unipiazza funziona già con diversi registratori di cassa e con le casse Android! 🎉
 
-**Come puoi aiutarci**
+**Compatibili oggi**
 
-Se desideri che il tuo sistema cassa venga integrato, puoi aiutarci compilando il seguente form:<br>[**Modulo richiesta compatibilità**](https://tally.so/r/nWea7v)
+🖨️ **Registratori di cassa RCH:** Atos RT, Asso 3 RT, Walle 8T, APE 3
 
-Fornendoci queste informazioni, potremo accelerare il processo di integrazione e valutare la compatibilità tecnica del tuo dispositivo!
+🖥️ **Casse Android:** con Android 5.0 o superiore
+
+Trovi l'elenco completo, con tutti i requisiti, in [Dispositivi compatibili con l'App Operatore](https://supporto.unipiazza.it/it/articles/48446-dispositivi-compatibili-con-l-app-operatore).
+
+**Il tuo modello non è nell'elenco?**
+
+Nessun problema, lo verifichiamo insieme. Compila il [**Modulo richiesta compatibilità**](https://tally.so/r/nWea7v) indicando marca e modello esatti del tuo sistema cassa: potremo valutare la compatibilità tecnica del tuo dispositivo e, se serve, lavorare a una nuova integrazione.
+
+Se preferisci, scrivici o chiamaci su WhatsApp al 388 8665987: siamo qui per aiutarti!
