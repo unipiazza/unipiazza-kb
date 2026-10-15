@@ -1,6 +1,6 @@
 # Confronto KB e sito V3 — aggiornamenti da fare (14/10/2026)
 
-Controllo degli articoli KB `published` contro i testi del nuovo sito (`Unipiazza.it/copy-v3/pagine/`, vedi [[CLAUDE]] del progetto sito-v3 e le `decisioni-trasversali`). Mappa degli articoli in [[overview]], problemi già noti in [[AUDIT-KB]].
+Controllo degli articoli KB `published` contro i testi del nuovo sito. Al momento del controllo i testi erano letti dalla copia di lavoro nel vault (`copy-v3/pagine/`), **cancellata il 2026-10-15**: il sito vero sta nel repo in locale `C:\Users\dodo\dev\unipiazza-web-user-v2`, e le decisioni di copy in `Unipiazza.it/Note/copy-v3/decisioni-trasversali.md` [[decisioni-trasversali]]. I riferimenti a `copy-v3` e `sito-v3` qui sotto sono quindi storici. Mappa degli articoli in [[overview]], problemi già noti in [[AUDIT-KB]].
 
 **Come è stato fatto.** Cinque revisori in parallelo, uno per area (prezzo e onboarding, fedeltà e Chiosco, Gestionale clienti, campagne e WhatsApp, Wallet/integrazioni/Olivia). Hanno letto i file `.md` locali, non Customerly dal vivo. Le citazioni più pesanti le ho ricontrollate nei file (disdetta 41683, cassa 41599, Profitti 27454/27456, 9 contro 8, 200€, soglie 30 giorni, "2 ore dopo", click nella description di 61970, eShop in 27444). **Nessun articolo è stato modificato.**
 
