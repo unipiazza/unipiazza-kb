@@ -53,7 +53,7 @@ Se disdici entro **30 giorni dalla consegna del Kit Fedeltà** (fa fede la data 
 
 Una volta ricevuto il materiale integro, **ti rimborsiamo quanto hai già pagato**, escluso il **costo una tantum del Kit Fedeltà**, sia che tu abbia un **Kit Full** sia un **Kit Lite**. Il rimborso arriva entro **30 giorni**, con lo stesso metodo di pagamento che hai usato.
 
-⚠️ La garanzia vale se hai fatto la **chiamata di attivazione** con il team Unipiazza **entro 5 giorni lavorativi** dalla consegna del Kit. Se non l'hai ancora fatta, scrivici subito su WhatsApp e la fissiamo insieme.
+⚠️ La garanzia vale se hai fatto la **chiamata di attivazione** con il team Unipiazza **entro 5 giorni lavorativi** dalla consegna del Kit.
 
 **4\. Recesso dopo i primi 30 giorni**
 
