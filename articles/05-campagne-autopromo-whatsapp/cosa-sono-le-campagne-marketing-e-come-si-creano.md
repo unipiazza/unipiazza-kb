@@ -21,7 +21,7 @@ keywords:
 sort: 0
 is_featured: false
 locale: it
-updated_at: '2026-06-15'
+updated_at: '2026-10-15'
 last_synced: '2026-06-15'
 ---
 
@@ -49,7 +49,7 @@ Ecco come creare una campagna passo passo:
 
 **4. Imposta i dettagli**: nome della campagna, oggetto email e il **testo di anteprima** dell'email (la riga che appare in anteprima nella casella di posta prima di aprire il messaggio).
 
-**5. Progetta il contenuto** nell'editor a tutto schermo: scrivi il testo, aggiungi immagini, formatta e, se vuoi, inserisci un bottone che porti il cliente a chiamarti o a scriverti su WhatsApp. L'anteprima mostra in tempo reale com'è sia l'email sia il messaggio RCS.
+**5. Progetta il contenuto** nell'editor a tutto schermo: scrivi il testo, aggiungi immagini, formatta e, se vuoi, inserisci un bottone che porti il cliente a chiamarti o a scriverti su WhatsApp. L'anteprima mostra in tempo reale com'è sia l'email sia il messaggio RCS. Per rendere ogni messaggio personale puoi inserire nome, cognome, saldo Gettoni e altri dati dei clienti con il pulsante **Inserisci variabile**, in oggetto, anteprima, titolo, testo e bottone. Ti spieghiamo come in [Personalizza le tue Campagne con le Variabili](https://supporto.unipiazza.it/it/articles/NUOVO_ID-personalizza-le-campagne-con-le-variabili).
 
 **6. Scegli come inviare**: con la **consulenza del team Unipiazza** (che controlla la campagna e ottimizza data e orario) oppure **senza approvazione**, direttamente tu.
 

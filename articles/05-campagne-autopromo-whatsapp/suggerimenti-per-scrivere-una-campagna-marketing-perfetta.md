@@ -19,7 +19,7 @@ keywords:
 sort: 1
 is_featured: false
 locale: it
-updated_at: '2026-09-18'
+updated_at: '2026-10-15'
 last_synced: '2026-09-18'
 ---
 
@@ -41,7 +41,9 @@ Ancora prima di iniziare è bene aver chiaro cosa significa dare valore ai conte
 
 Una comunicazione uno ad uno è molto più efficace e apprezzata di un messaggio generalizzato in cui è evidente che i destinatari sono più persone. Questo perché comunicare come se ci fosse una singola persona dà l'idea di un qualcosa di esclusivo e riservato a pochi. Come vedi io ho inserito anche un altro elemento, il nome del destinatario. Questo permette di aumentare ulteriormente la percezione di esclusività.
 
-- **Tag nome:** `{{FNAME}}`
+Per farlo non devi scrivere un messaggio diverso per ogni cliente. Basta usare le **variabili**, dei segnaposto che Unipiazza sostituisce con i dati di ogni destinatario. Le inserisci con un clic dal pulsante **Inserisci variabile**.
+
+- **Variabile nome:** `{{FNAME}}`
 
 Se riprendiamo gli esempi di prima:
 
@@ -49,15 +51,15 @@ Se riprendiamo gli esempi di prima:
 
 "`{{FNAME}}`, scopri la nostra linea di prodotti per la cura della barba. Per te 20% di sconto"
 
-- **Tag per regolare il genere:** `{{GENDER}}`
+- **Variabile per regolare il genere:** `{{GENDER}}`
 
-Se per esempio scriviamo "`{{GENDER}}` `{{FNAME}}`? Scopri le nostre ultime novità!"
+Se per esempio scriviamo "Pront`{{GENDER}}` `{{FNAME}}`? Scopri le nostre ultime novità!"
 - La cliente Federica riceverà: "Pronta Federica? Scopri le nostre ultime novità!"
 - Il cliente Riccardo invece riceverà: "Pronto Riccardo? Scopri le nostre ultime novità!"
 
-La Tag `{{GENDER}}` verrà infatti sostituita automaticamente con la lettera "a" o la lettera "o" in base al genere del destinatario.
+La variabile `{{GENDER}}` verrà infatti sostituita automaticamente con la lettera "a" o la lettera "o" in base al genere del destinatario.
 
-Sia la Tag `{{FNAME}}`, sia la tag `{{GENDER}}` possono essere nell'oggetto, nel titolo, nel testo e nel bottone delle tue campagne.
+Oltre a nome e genere ci sono il cognome, il telefono, l'email e il saldo Gettoni. Puoi usare tutte le variabili nell'oggetto, nell'anteprima dell'oggetto, nel titolo, nel testo e nel bottone delle tue campagne. Trovi l'elenco completo, con esempi e consigli, in [Personalizza le tue Campagne con le Variabili](https://supporto.unipiazza.it/it/articles/NUOVO_ID-personalizza-le-campagne-con-le-variabili).
 
 - **Oggetto**
 
@@ -67,7 +69,7 @@ Ecco alcuni punti su cui prestare attenzione:
 
 - Il testo che va inserito non deve essere fuorviante
 - Il testo deve contenere all'incirca 50 caratteri
-- Deve contenere elementi di personalizzazione di cui parlavamo prima `{{FNAME}}` / `{{GENDER}}`
+- Deve contenere elementi di personalizzazione di cui parlavamo prima, come `{{FNAME}}` / `{{GENDER}}`
 - Puoi utilizzare le emoji per dare enfasi inserendole all'inizio della frase se è lunga, o alla fine se è corta. Non sostituire le parole con le emoji!
 
 "🎁 `{{FNAME}}`, per te in regalo un trattamento viso!" → "🎁 Michela, per te in regalo una degustazione di cioccolatini"
