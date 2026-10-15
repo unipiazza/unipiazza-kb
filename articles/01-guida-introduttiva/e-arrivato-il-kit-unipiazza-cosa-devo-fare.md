@@ -4,7 +4,7 @@ collection_id: 7178
 collection: ❇️ Guida Introduttiva
 title: È arrivato il Kit Unipiazza, cosa devo fare?
 slug: e-arrivato-il-kit-unipiazza-cosa-devo-fare
-description: 'Configurare il kit Unipiazza include semplici passi come collegare e accendere i dispositivi, connetterli al Wi-Fi, iscrivere i clienti al programma fedeltà e gestire l''accreditamento e il ritiro dei gettoni. '
+description: Il Kit sta per arrivare o è già in negozio? Ecco cosa trovi nella scatola, come installare il Chiosco insieme a noi e come far raccogliere i primi Gettoni ai tuoi clienti.
 status: published
 written_by: 2961
 keywords:
@@ -20,171 +20,84 @@ updated_at: '2024-01-12'
 last_synced: '2026-06-10'
 ---
 
-Hai ricevuto il tuo kit Unipiazza? Complimenti e benvenutə a bordo! 
+Il tuo Kit Unipiazza è in arrivo (o è già qui)? Benvenutə a bordo! 🎉
 
-Questa guida passo-passo ti aiuterà a configurare il tuo sistema e a iniziare immediatamente.
+Niente panico: non devi installare niente da solo. Ti accompagniamo noi, passo dopo passo, e questa guida ti fa trovare subito tutto quello che ti serve.
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota:</strong> Dal 1° settembre 2025 il Kit esiste in due versioni. Con il <strong>Kit Full</strong> ricevi anche il Tablet Chiosco, che resta tuo per sempre. Con il <strong>Kit Lite</strong> non c'è il tablet, perché usi un tablet Android compatibile che hai già. Se qualcosa in questa guida non corrisponde a quello che hai in mano (per esempio lo Smartphone, che non è sempre incluso), non preoccuparti: l'installazione è guidata e ti accompagniamo noi in videochiamata. Scrivici su WhatsApp al 388 8665987.</p></td></tr></tbody></table>
+![La scatola del Kit Fedeltà Unipiazza](https://unipiazza-assets.s3.eu-west-3.amazonaws.com/foto-reali/real-box-kit-fedelta-dx-v1.png)
 
-**1\. Apertura kit fedeltà**
+**1\. Prenota la chiamata di installazione**
 
-<div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/VZ1hSWh8EHk" frameborder="0" allowfullscreen="true"></iframe></div>
+Appena parte la spedizione ricevi su WhatsApp un messaggio di benvenuto da Roberta, la nostra Customer Success. Dentro trovi il link per prenotare una **videochiamata di 30 minuti** in cui lei ti guida nell'installazione. Puoi prenotarla anche prima che il Kit arrivi.
 
-Ecco cosa troverai all’interno del Kit Unipiazza:
+Il Kit ti arriva in pochi giorni. Ti consigliamo di fare la chiamata **entro 5 giorni lavorativi dalla consegna**: è anche la condizione per la garanzia [Soddisfatti o Rimborsati](https://supporto.unipiazza.it/it/articles/41683-voglio-disdire-unipiazza-cosa-devo-fare).
 
--   Una vetrofania (cioè un adesivo da attaccare alla vetrina) per far sapere ai tuoi clienti che sei parte del circuito Unipiazza
-    
--   Un Poster di Corretto Utilizzo che spiega il funzionamento del Chiosco e riassume le domande più frequenti  (assicurati di metterlo in bella vista per farlo leggere anche ai tuoi colleghi!)
-    
--   Un portatessere in cartone
-    
--   2 Cavi Usb (uno per il Chiosco e uno per lo Smartphone)
-    
--   Le tessere da consegnare ai tuoi clienti
-    
--   Un caricatore con due porte USB per collegare sia il Chiosco, che lo Smartphone
-    
--   Il Chiosco per registrare i tuoi clienti
-    
--   Lo Smartphone per accreditare gettoni
-    
+**2\. Apri la scatola**
 
-**2\. Collegamento caricatori**
+Ecco cosa trovi nel Kit:
 
-<div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/dm8L9Qi-Vog" frameborder="0" allowfullscreen="true"></iframe></div>
+1. Le **Tessere Fedeltà** con QR Code da consegnare ai tuoi clienti
+2. Un portatessere
+3. Gli espositori da banco
+4. La vetrofania adesiva da attaccare in vetrina, per far sapere ai clienti che sei nel circuito Unipiazza
+5. Il supporto pieghevole per il tablet
+6. Il cavo antifurto per il tablet
+7. Il cavo USB-C e il caricatore rapido
+8. Il **tablet** (solo nel Kit Full), già configurato dal nostro team
+9. Uno **smartphone** (solo se non hai una cassa o un dispositivo già compatibile)
 
-Ora devi collegare il tuo caricatore allo Smartphone
+Con il **Kit Full** il tablet è incluso e resta tuo per sempre. Con il **Kit Lite** non c'è, perché usi un tablet Android compatibile che hai già (trovi l'elenco in [Tablet compatibili con l'App Chiosco](https://supporto.unipiazza.it/it/articles/48419-tablet-compatibili-con-app-chiosco)).
 
-1.  Prendi il cavo USB - la parte più grande - e inseriscilo nel caricatore 
-    
-2.  Poi, prendi la parte più piccola e inseriscila nello Smartphone
-    
-3.  Una volta che hai collegato lo Smartphone al caricatore, inseriscilo nella tasca posteriore del tuo Chiosco
-    
-4.  Infine, prendi il cavo del Chiosco e collegalo all’altra porta USB del caricatore stesso 
-    
-5.  Ora puoi attaccarlo alla presa di corrente
-    
+Lo smartphone lo inviamo solo quando serve. Prima della spedizione verifichiamo insieme a te se la tua cassa, o un telefono che hai già in negozio, può fare da dispositivo per accreditare i Gettoni.
 
-**3\. Accensione dispositivi**
+**3\. Accendi il Chiosco**
 
-<div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/kwzxnmUlQYI" frameborder="0" allowfullscreen="true"></iframe></div>
+Per partire ti bastano pochi gesti:
 
-Ora puoi accendere i tuoi dispositivi. 
+1. Appoggia il tablet sul supporto e collegalo alla corrente. Tienilo sempre sotto carica
+2. Accendilo e collegalo al **Wi-Fi** del tuo locale
+3. Inserisci il **numero di telefono** e l'**indirizzo email** del tuo account
 
-1.  Come prima cosa, prendi lo Smartphone dalla tasca e schiaccia il pulsante in alto a destra, tenendolo premuto finché non si accende la schermata
-    
-2.  Dopo di che, puoi riporlo all’interno della sua tasca e, mentre aspetti, accendi anche il Chiosco
-    
-3.  Tieni premuto il pulsante che trovi in alto a sinistra (se guardi il Chiosco da davanti) il pulsante che trovi in alto alla tua sinistra e tieni premuto finché non si accende la scritta "Google" (se vedi apparire prima il simbolo della batteria, non preoccuparti e continua a tenere premuto)
-    
+Durante la chiamata Roberta ti guida in ogni passaggio, quindi puoi anche aspettare lei prima di accenderlo.
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota:&nbsp; </strong>Guarda il video fino alla fine per vedere cosa dovresti vedere su entrambi i dispositivi una volta accesi.</p></td></tr></tbody></table>
+**4\. Scegli dove accreditare i Gettoni**
 
-**4\. Connessione Wi-fi**
+Per accreditare i Gettoni usi l'**App Operatore**, che installiamo insieme sul dispositivo più comodo per te: la tua cassa Android, un registratore di cassa compatibile, un computer Windows oppure lo smartphone del Kit. Nell'articolo [Dispositivi compatibili con l'App Operatore](https://supporto.unipiazza.it/it/articles/48446-dispositivi-compatibili-con-l-app-operatore) trovi l'elenco completo.
 
-<div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/idjRwI2BZNc" frameborder="0" allowfullscreen="true"></iframe></div>
+**5\. Fai iscrivere i tuoi clienti**
 
-É il momento di connettere i 2 dispositivi al tuo Wi-fi:
+Il cliente si iscrive direttamente dal Chiosco, in pochi secondi:
 
-1.  Tieni premuto con il dito per 5 secondi su qualunque schermata del Chiosco
-    
-2.  Premi su “Reti Wi-fi”
-    
-3.  Seleziona la tua rete
-    
-4.  Inserisci la tua password e connetti
-    
-5.  Verifica che compaia la parola “Connessa” per essere sicuro che l’operazione sia andata a buon fine
-    
-6.  Ripeti l’operazione sullo Smartphone per connetterlo
-    
-7.  Verifica che compaia “Perfetto, sono connesso!” per essere sicuro che l’operazione sia andata a buon fine
-    
+![Il Chiosco Unipiazza con la schermata di iscrizione col numero di telefono](https://unipiazza-assets.s3.eu-west-3.amazonaws.com/foto-reali/real-kiosk-honor-iscrizione-v1.png)
 
-Bene, adesso entrambi i dispositivi sono connessi: sul Chiosco, apparirà il nome della tua attività con le immagini cover che scorrono; sullo Smartphone invece, apparirà una schermata con scritto “Ci siamo!”.
+1. Tocca **Raccogli Gettoni** sul Chiosco
+2. Inserisce il suo **numero di telefono**, oppure mostra il suo **QR Code**
+3. La prima volta scrive il suo nome e sceglie quali comunicazioni vuole ricevere
+4. Fatto! Il Chiosco gli dà il benvenuto e può iniziare a raccogliere Gettoni
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento:&nbsp; </strong>Mentre inserisci la password del Wi-fi, spunta “Mostra la password” per evitare di sbagliare al momento dell’inserimento.</p></td></tr></tbody></table>
+Il QR Code può stare sulla **Tessera Fedeltà**, su **Apple Wallet o Google Wallet**, nell'**App Unipiazza**, su **WhatsApp**, in un'**email** o in un messaggio **RCS**. Basta mostrarlo davanti al Chiosco.
 
-**5\. Iscrizione clienti**
+**6\. Accredita i Gettoni**
 
-<div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/j5WXunPqTv8" frameborder="0" allowfullscreen="true"></iframe></div>
+Quando un cliente ha speso nel tuo locale:
 
-Come iscrivere i tuoi clienti:
+1. Sull'App Operatore compare il suo profilo, perché il Chiosco lo ha appena riconosciuto
+2. Inserisci l'importo che ha speso e premi **Conferma**
+3. Compare la scritta *"Hai accreditato X Gettoni!"*
+4. Il cliente vede cadere una pioggia di Gettoni e il suo saldo si aggiorna subito
 
-1.  Appoggia una tessera vergine sul Chiosco, dove vedi il simbolo bianco
-    
-2.  Fai inserire al cliente il suo nome, cognome e indirizzo email valido
-    
-3.  Premi su “Attiva”
-    
-4.  Fai dare il consenso per ricevere le comunicazioni di Marketing
-    
-5.  Fatto! Ora potrai accreditare gettoni al tuo cliente
-    
+Per ogni euro speso il cliente guadagna 10 Gettoni. Con alcune casse compatibili l'importo arriva direttamente dallo scontrino: ti diciamo noi, in videochiamata, se è il tuo caso.
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota:</strong> Dalla versione 6.0.0 del Chiosco i clienti possono raccogliere Gettoni anche digitando il proprio numero di telefono, senza Tessera né App. Leggi <a href="https://supporto.unipiazza.it/it/articles/44201-invita-i-clienti-ad-inserire-il-numero-di-telefono">Invita i clienti ad inserire il numero di Telefono</a>.</p></td></tr></tbody></table>
-    
+**7\. Fai ritirare un Premio**
 
-**6\. Accreditamento gettoni con Carta Fedeltà**
+1. Il cliente si identifica sul Chiosco (numero di telefono o QR Code)
+2. Sceglie il Premio che vuole dall'elenco
+3. Conferma con **"Vuoi ritirare questo premio?"**
+4. Sull'App Operatore hai **30 secondi** per approvare o annullare il ritiro. Se non fai nulla, il Premio viene approvato in automatico
+5. Il cliente vede il messaggio di conferma e il suo saldo si aggiorna
 
-<div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/uNGTKSVoYXw" frameborder="0" allowfullscreen="true"></iframe></div>
+**8\. Un cliente ha perso la Tessera?**
 
-I tuoi clienti possono usare la tessera fisica o l’App Unipiazza per raccogliere gettoni.<br><br>Ecco come funziona quando un cliente ha la Tessera:
+Nessun problema: può continuare a raccogliere Gettoni inserendo il suo numero di telefono o mostrando un altro QR Code (Wallet, App, WhatsApp, email). Se vuoi dargli una nuova Tessera, leggi [Il cliente ha una nuova Tessera Fedeltà: come collegare il profilo esistente?](https://supporto.unipiazza.it/it/articles/63765-il-cliente-ha-una-nuova-tessera-fedelta-come-collegare-il-profilo-esistente).
 
-1.  Fai appoggiare la tessera sulla cornice del Chiosco in corrispondenza del simbolo bianco
-    
-2.  Sullo Smartphone comparirà il profilo del cliente, inserisci l’importo che ha appena speso e premi su Conferma
-    
-3.  Apparià la schermata _“Hai accreditato X gettoni!_ 
-    
-4.  Il cliente vedrà cadere una pioggia di gettoni e il suo saldo comparirà automaticamente!
-    
-
-**7\. Accreditamento gettoni con App**
-
-<div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/Z1QnUMrwQC8" frameborder="0" allowfullscreen="true"></iframe></div>
-
-I tuoi clienti possono usare la tessera fisica o l’App Unipiazza per raccogliere gettoni.<br><br>Ecco come funziona quando un cliente ha l’App Unipiazza.
-
-1.  Fai premere il pulsante “Raccogli gettoni” sul Chiosco
-    
-2.  Fai inquadrare al tuo cliente - tramite app Unipiazza dal suo cellulare - il QR code che apparirà sul Chiosco
-    
-3.  Sul tuo Smartphone comparirà una tastiera numerica, quindi inserisci l’importo che il cliente ha appena speso e premi su Conferma
-    
-4.  Comparirà la schermata “Hai accreditato X gettoni! 
-    
-5.  Il cliente vedrà cadere una pioggia di gettoni e il suo saldo comparirà automaticamente!
-    
-
-**8\. Ritiro premi**
-
-<div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/LrAHJKR_SuY" frameborder="0" allowfullscreen="true"></iframe></div>
-
-Ecco cosa devi fare se un cliente ti dice che deve ritirare un premio:
-
-1.  Fagli appoggiare la tessera sul Chiosco o inquadrare il QR Code dall’App
-    
-2.  Fagli scegliere il premio che desidera dall’elenco che apparirà sulla schermata
-    
-3.  Fargli premere su “Oh Yeah”
-    
-4.  Apparirà la scritta “Complimenti” e sul tuo Smartphone vedrai la conferma dell’avvenuto scarico del Premio. 
-    
-5.  Se vuoi puoi annullare il ritiro del premio (e quindi anche lo scalo dei gettoni) premendo su “Annulla”, altrimenti puoi premere su “Ok va bene” o non premere nulla.
-    
-
-**9\. Carta fedeltà dimenticata**
-
-<div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/ZCBc3BCYOzQ" frameborder="0" allowfullscreen="true"></iframe></div>
-
-Ecco invece cosa fare se un cliente viene da te dicendoti di avere perso la sua tessera:
-
-1.  Fai prendere una nuova tessera vergine dal tuo raccoglitore
-    
-2.  Fai appoggiare la tessera sulla cornice del Chiosco
-    
-3.  Fai inserire al cliente nome, cognome e lo stesso indirizzo email che ha utilizzato per iscriversi la prima volta ad Unipiazza
-    
-4.  Una volta completata l’operazione, la tessera vecchia verrà azzerata e il cliente si ritroverà i gettoni raccolti in passato sulla nuova
+Se qualcosa non ti torna, scrivici o chiamaci su WhatsApp al 388 8665987: siamo qui per aiutarti! 😉
