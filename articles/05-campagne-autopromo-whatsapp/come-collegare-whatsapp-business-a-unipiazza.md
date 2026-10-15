@@ -11,8 +11,8 @@ keywords: []
 sort: 11
 is_featured: false
 locale: it
-updated_at: '2026-09-30'
-last_synced: '2026-09-30'
+updated_at: '2026-10-15'
+last_synced: '2026-10-15'
 ---
 
 Integrare il tuo account **WhatsApp Business** con il gestionale Unipiazza ti permette di comunicare in modo diretto ed efficace con i tuoi clienti. Una volta completato il collegamento, potrai inviare messaggi, campagne e promozioni.

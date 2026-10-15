@@ -13,8 +13,8 @@ keywords:
 sort: 0
 is_featured: false
 locale: it
-updated_at: '2025-01-14'
-last_synced: '2026-06-10'
+updated_at: '2026-10-15'
+last_synced: '2026-10-15'
 ---
 
 **🚀 Benvenutə in Unipiazza!**<br>Se stai leggendo questo articolo, vuol dire che sei prontə a mettere i superpoteri alla tua attività commerciale! Con Unipiazza hai tutti gli strumenti digitali di cui hai bisogno per fidelizzare e far innamorare i tuoi clienti. Crea il tuo programma fedeltà e fai iscrivere tutti i tuoi clienti, rimani in contatto con loro inviando campagne via email, RCS e WhatsApp, attiva le promozioni automatiche per farli tornare più spesso, crea booster per riempire i giorni morti, vendi Abbonamenti e Wallet prepagati per incassare in anticipo e tanto altro!<br><br>Leggi questi articoli per partire al meglio:<br><br>**📦** [**Ti è arrivato il Kit Unipiazza?**](https://unipiazza.customerly.help/it/guida-introduttiva/e-arrivato-il-kit-unipiazza-cosa-devo-fare)  Scopri i primi passi per installare il tuo kit e iniziare a fidelizzare i clienti<br>**🎨** [**Personalizza la tua Vetrina:**](https://unipiazza.customerly.help/it/vetrina/cos-e-e-a-cosa-serve-la-vetrina)  Completa le informazioni della tua attività che saranno visibili a tutti i clienti nella tua Vetrina su Web e App

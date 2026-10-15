@@ -8,8 +8,8 @@ description: Vuoi disdire il tuo contratto con noi? Eccoti tutte le informazioni
 status: published
 written_by: 2961
 locale: it
-updated_at: '2025-10-21'
-last_synced: '2026-06-10'
+updated_at: '2026-10-15'
+last_synced: '2026-10-15'
 ---
 
 Ci dispiace sapere che vuoi lasciarci! 😢 Ma se hai preso questa decisione, ti spieghiamo tutto passo passo per rendere il processo il più semplice possibile.

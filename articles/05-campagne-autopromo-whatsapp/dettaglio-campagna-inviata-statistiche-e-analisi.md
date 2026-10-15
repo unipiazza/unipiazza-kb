@@ -16,8 +16,8 @@ keywords:
 sort: 0
 is_featured: false
 locale: it
-updated_at: '2026-06-22'
-last_synced: '2026-06-22'
+updated_at: '2026-10-15'
+last_synced: '2026-10-15'
 ---
 
 Hai inviato una campagna... e poi? Fino a oggi vedevi pochi numeri in lista. Ora ogni campagna inviata ha una **pagina di dettaglio dedicata**, con tutte le statistiche che ti servono per capire com'è andata davvero e decidere il passo successivo. 📊
@@ -32,10 +32,10 @@ In alto trovi 4 riquadri con i numeri principali:
 
 - **Destinatari**: il totale, più il dettaglio per canale (quanti via email, quanti via notifica app, quanti via messaggi RCS)
 - **Aperture**: totale e percentuale, più il dettaglio per canale (aperture email, notifiche, RCS)
-
-> ⚠️ **Nota sulle aperture WhatsApp e RCS:** il tasso di apertura mostrato potrebbe essere più basso rispetto al reale. I dati di lettura vengono restituiti solo dai clienti che hanno salvato il tuo numero in rubrica — chi non ti ha in rubrica risulta "non aperto" nelle statistiche, anche se ha effettivamente letto il messaggio.
 - **Visite generate**: quante visite in attività ha portato la campagna, comprese le **Promo riscattate** (solo per campagne promo)
 - **Incassi**: l'incasso totale generato e l'incasso medio per visita
+
+> ⚠️ **Nota sulle aperture WhatsApp e RCS:** il tasso di apertura mostrato potrebbe essere più basso rispetto al reale. I dati di lettura vengono restituiti solo dai clienti che hanno salvato il tuo numero in rubrica — chi non ti ha in rubrica risulta "non aperto" nelle statistiche, anche se ha effettivamente letto il messaggio.
 
 ### 👥 Lista clienti coinvolti
 

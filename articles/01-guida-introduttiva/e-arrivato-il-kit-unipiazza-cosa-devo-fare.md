@@ -16,8 +16,8 @@ keywords:
 sort: 1
 is_featured: false
 locale: it
-updated_at: '2024-01-12'
-last_synced: '2026-06-10'
+updated_at: '2026-10-15'
+last_synced: '2026-10-15'
 ---
 
 Il tuo Kit Unipiazza è in arrivo (o è già qui)? Benvenutə a bordo! 🎉

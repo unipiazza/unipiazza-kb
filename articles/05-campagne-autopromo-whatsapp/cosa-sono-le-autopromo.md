@@ -15,8 +15,8 @@ keywords:
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2026-09-22'
-last_synced: '2026-09-22'
+updated_at: '2026-10-15'
+last_synced: '2026-10-15'
 ---
 
 ![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/75f8e54d509ea13902c6ed8f44e5311f/Supporto-Autopromo.png)

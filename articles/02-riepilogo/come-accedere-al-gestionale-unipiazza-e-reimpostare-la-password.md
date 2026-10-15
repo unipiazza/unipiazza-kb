@@ -8,8 +8,8 @@ description: Informazioni utili per accedere al proprio Gestionale di Unipiazza 
 status: published
 written_by: 2961
 locale: it
-updated_at: '2025-01-13'
-last_synced: '2026-06-10'
+updated_at: '2026-10-15'
+last_synced: '2026-10-15'
 ---
 
 Se sei pronto a entrare nel mondo Unipiazza e iniziare a gestire la tua attività, ecco come fare:

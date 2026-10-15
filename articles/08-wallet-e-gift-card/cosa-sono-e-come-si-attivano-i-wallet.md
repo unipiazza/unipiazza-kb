@@ -8,8 +8,8 @@ description: Il Wallet Unipiazza permette ai clienti di pre-caricare del credito
 status: published
 written_by: 2961
 locale: it
-updated_at: '2025-02-19'
-last_synced: '2026-06-10'
+updated_at: '2026-10-15'
+last_synced: '2026-10-15'
 ---
 
 Il Wallet Unipiazza è una soluzione di pagamento digitale pensata per semplificare e velocizzare le transazioni. Con esso, i tuoi clienti possono pre-caricare il credito e utilizzarlo presso la tua attività, garantendo acquisti rapidi e fedeltà alla tua marca.

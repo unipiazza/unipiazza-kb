@@ -8,8 +8,8 @@ description: 'I Booster Vendite di Unipiazza sono progettati per incrementare il
 status: published
 written_by: 2961
 locale: it
-updated_at: '2024-02-02'
-last_synced: '2026-06-10'
+updated_at: '2026-10-15'
+last_synced: '2026-10-15'
 ---
 
 I [Booster](https://partner.unipiazza.it/boosters) permettono di premiare i clienti con gettoni doppi o gettoni extra e sono lo strumento perfetto per aumentare il traffico nei giorni o orari a bassa affluenza o per incentivare l'acquisto di un determinato prodotto o servizio.<br><br>Vediamo degli esempi per capire meglio: 

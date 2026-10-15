@@ -14,7 +14,7 @@ keywords:
   - messaggi
 locale: it
 is_featured: false
-last_synced: '2026-06-25'
+last_synced: '2026-10-15'
 ---
 
 Qui trovi il testo di ogni comunicazione automatica che Unipiazza invia ai tuoi clienti, via **Email, messaggi RCS e WhatsApp**. Il contenuto è lo stesso sui tre canali (cambia solo il formato grafico).

@@ -8,8 +8,8 @@ description: Vuoi avere la comodità di accedere al gestionale Unipiazza diretta
 status: published
 written_by: 2961
 locale: it
-updated_at: '2024-12-09'
-last_synced: '2026-06-10'
+updated_at: '2026-10-15'
+last_synced: '2026-10-15'
 ---
 
 Vuoi avere la comodità di accedere al gestionale Unipiazza direttamente dal tuo smartphone? Segui questi semplici passaggi per iPhone (Safari e Chrome) e Android (Chrome).

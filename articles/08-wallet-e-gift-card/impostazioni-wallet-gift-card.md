@@ -8,8 +8,8 @@ description: 'La sezione "Impostazioni Wallet & Gift Card" ti permette di attiva
 status: published
 written_by: 2961
 locale: it
-updated_at: '2024-12-24'
-last_synced: '2026-06-10'
+updated_at: '2026-10-15'
+last_synced: '2026-10-15'
 ---
 
 Nella sezione "[Impostazioni Wallet & Gift Card](https://partner.unipiazza.it/wallet/impostazioni)" del tuo gestionale Unipiazza, hai la possibilità di personalizzare come i clienti interagiscono con le opzioni di pagamento e regalo nel tuo negozio. Ecco come puoi impostare tutto passo per passo:

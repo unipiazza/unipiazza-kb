@@ -11,8 +11,8 @@ keywords: []
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2025-02-21'
-last_synced: '2026-06-10'
+updated_at: '2026-10-15'
+last_synced: '2026-10-15'
 ---
 
 Buone notizie: Unipiazza funziona già con diversi registratori di cassa e con le casse Android! 🎉
