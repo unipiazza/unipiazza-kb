@@ -70,7 +70,7 @@ I nomi negli esempi ("Marco") e il nome dell'attività ("Bar Centrale") vengono 
 
 ## 😖 A Rischio
 
-*Inviata dopo 30 giorni senza visita. Scade dopo il numero di giorni impostato (default: 7 giorni).*
+*Inviata quando il cliente non torna da più tempo della soglia "a rischio" del tuo settore. Scade dopo il numero di giorni impostato (default: 7 giorni).*
 
 > **[Testo dell'offerta impostato dal gestore]** — valido fino al [data di scadenza]
 >
@@ -80,7 +80,7 @@ I nomi negli esempi ("Marco") e il nome dell'attività ("Bar Centrale") vengono 
 
 ## 😴 Dormienti
 
-*Inviata dopo 90 giorni senza visita. Scade dopo il numero di giorni impostato (default: 7 giorni).*
+*Inviata quando l'assenza del cliente si prolunga oltre la fase "a rischio". Scade dopo il numero di giorni impostato (default: 7 giorni).*
 
 > **[Testo dell'offerta impostato dal gestore]** — valido fino al [data di scadenza]
 >
@@ -112,7 +112,7 @@ I nomi negli esempi ("Marco") e il nome dell'attività ("Bar Centrale") vengono 
 
 ## ⭐ Recensioni
 
-*Inviata 2 ore dopo che il cliente ha ritirato un premio.*
+*Inviata 2 ore dopo che il cliente ha ritirato un premio, una sola volta per cliente. La piattaforma di recensione (Google, Tripadvisor o Facebook) la scegli tu.*
 
 > Marco, ti è piaciuto il nostro servizio o hai dei suggerimenti da proporci? Lasciaci una recensione su Google per aiutarci a crescere!
 

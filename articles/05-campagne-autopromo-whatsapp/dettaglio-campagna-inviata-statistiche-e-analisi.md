@@ -4,7 +4,7 @@ collection_id: 7182
 collection: "📢 Campagne Autopromo e Whatsapp"
 title: "Il dettaglio della campagna inviata: statistiche e analisi"
 slug: dettaglio-campagna-inviata-statistiche-e-analisi
-description: "Finalmente sai esattamente com'è andata ogni campagna: chi l'ha aperta, chi ha cliccato, quante visite ha generato e molto altro."
+description: "Finalmente sai esattamente com'è andata ogni campagna: chi l'ha aperta, quante visite ha portato, quanto hanno speso i clienti e molto altro."
 status: published
 written_by: 2961
 keywords:
