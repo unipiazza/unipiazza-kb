@@ -29,7 +29,7 @@ sort: 2
 is_featured: false
 locale: it
 updated_at: '2026-10-15'
-last_synced: null
+last_synced: '2026-10-15'
 ---
 
 Ti è mai capitato di ricevere un messaggio che comincia con "Gentile cliente"? Ti fa sentire uno qualsiasi. Con le **variabili** puoi scrivere una sola campagna e far sentire ogni cliente come se fosse stata scritta apposta per lui 😉
