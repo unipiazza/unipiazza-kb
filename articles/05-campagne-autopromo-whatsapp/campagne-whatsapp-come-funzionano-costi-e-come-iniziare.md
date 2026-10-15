@@ -36,11 +36,13 @@ La fatturazione avviene **ad inizio mese**, con una fattura separata rispetto al
 
 ## Quale numero usare?
 
-Puoi collegare un numero WhatsApp Business già esistente oppure attivarne uno nuovo. C'è però una cosa importante da sapere:
+Puoi collegare il numero WhatsApp Business che usi già oppure attivarne uno nuovo. Grazie alla **coexistence**, lo stesso numero manda le campagne e le Promozioni automatiche di Unipiazza e ti serve anche per chattare con i clienti, dal telefono o da WhatsApp Web, come hai sempre fatto. Non serve un secondo numero e la coexistence è **gratuita**. Se un cliente risponde a un messaggio, la conversazione continua sul tuo WhatsApp Business.
+
+C'è però una cosa importante da sapere:
 
 > **Il numero collegato a Unipiazza non potrà più inviare messaggi Broadcast.**
 
-Se sei solito usare le liste broadcast per contattare i clienti, ti consigliamo di usare un **numero dedicato solo per Unipiazza**. Puoi attivarla facilmente con una SIM virtuale (il costo è di circa €5). Contattaci e ti guidiamo nella scelta.
+Se sei solito usare le liste broadcast per contattare i clienti, ti consigliamo di usare un **numero dedicato solo per Unipiazza**. Puoi attivarlo facilmente con una SIM virtuale (il costo è di circa €5). Contattaci e ti guidiamo nella scelta.
 
 Una volta collegato, i tuoi clienti riceveranno i messaggi **a nome della tua attività** (con il nome che hai impostato nel tuo account WhatsApp Business). E tu potrai continuare a usare WhatsApp Business normalmente dal telefono o da WhatsApp Web, tranne che per i broadcast.
 
@@ -65,7 +67,7 @@ Una volta collegato il numero, puoi subito creare la tua prima campagna WhatsApp
 L'app è gratuita per uso personale, ma le API ufficiali di WhatsApp Business (quelle che permettono invii massivi e professionali) sono a pagamento. Unipiazza gestisce il servizio per te e trattiene una piccola percentuale per la gestione.
 
 **Quanti messaggi posso inviare al giorno?**
-Dipende dallo stato del tuo account WhatsApp Business. Gli account nuovi partono con un limite più basso che si alza progressivamente con l'uso.
+Dipende dallo stato del tuo account WhatsApp Business. Si parte da 250 messaggi al giorno e si sale a 2.000 quando verifichi la tua attività: trovi la procedura in [Come verificare il tuo account WhatsApp Business](https://supporto.unipiazza.it/it/articles/61640-come-verificare-il-tuo-account-whatsapp-business).
 
 **Tutti i clienti riceveranno il messaggio, anche chi non mi ha salvato in rubrica?**
 Sì, il messaggio arriva a tutti. Però, se un cliente non ti ha salvato in rubrica, non puoi vedere se l'ha letto (i doppi segni di spunta restano grigi). Per questo ti consigliamo di invitare i clienti a salvarti!

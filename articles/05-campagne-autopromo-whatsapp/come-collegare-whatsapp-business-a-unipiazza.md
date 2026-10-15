@@ -31,6 +31,8 @@ Finché non colleghi il tuo numero, partono dal numero WhatsApp di Unipiazza. Ap
 
 > 💡 Tranquillo: a differenza delle Campagne e delle Autopromo WhatsApp, questi messaggi transazionali restano **gratuiti** anche dopo aver collegato il tuo numero.
 
+> 📱 **Il tuo numero resta quello di sempre.** Con la **coexistence** puoi continuare a usare WhatsApp Business dal telefono e da WhatsApp Web per chattare con i clienti, mentre lo stesso numero manda le campagne e le Promozioni automatiche di Unipiazza. Non serve un secondo numero e la coexistence è gratuita.
+
 ## 📋 Cosa ti serve prima di iniziare
 
 Per una configurazione rapida e senza intoppi, assicurati di avere a portata di mano:
