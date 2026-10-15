@@ -4,7 +4,7 @@ collection_id: 7178
 collection: "❇️ Guida Introduttiva"
 title: "Ho finito le tessere, come posso richiederne delle altre?"
 slug: ho-finito-le-tessere-come-posso-richiederne-delle-altre
-description: "Le Tessere Fedeltà standard le richiedi da Piano & Consumi, quelle con la tua grafica le disegni su tessera.unipiazza.it. Ecco come."
+description: "Le Tessere Fedeltà standard le richiedi da Piano & Consumi, in pochi clic. Ecco come, e cosa fare se ti servono quelle personalizzate."
 status: published
 written_by: 2963
 keywords:
@@ -17,7 +17,6 @@ keywords:
   - richiedi un nuovo pacco
   - piano e consumi
   - tessere personalizzate
-  - tessera fisica
 sort: 7
 is_featured: false
 locale: it
@@ -45,14 +44,6 @@ Le richiedi in autonomia dal Gestionale, in pochi clic.
 
 **Tessere Fedeltà personalizzate, con la tua grafica**
 
-Vuoi le Tessere Fedeltà con il tuo logo e i tuoi colori? Le disegni da te in pochi minuti con il nostro strumento online, anche senza saper usare un programma di grafica. 😍 In **Piano & Consumi** il link **Ti servono tessere personalizzate col tuo logo?** ti porta alla guida completa.
-
-1️⃣ **Apri lo strumento con il link della tua Vetrina**<br>Il tuo link è **tessera.unipiazza.it/?tessera=fisica&shop=** seguito dal nome della tua Vetrina. Se la tua Vetrina è barcosta.unipiazza.it, per esempio, apri [tessera.unipiazza.it/?tessera=fisica&shop=barcosta](https://tessera.unipiazza.it/?tessera=fisica&shop=barcosta). Così lo strumento riconosce il tuo locale e ti saluta per nome.
-
-2️⃣ **Scegli un modello o carica la tua grafica**<br>Ci sono sei modelli pronti, con logo, colori e frase che cambi tu. Se hai già la grafica del tuo grafico, scegli **Ho già la grafica** e carica fronte e retro. Ti serve un'idea? Premi **Lasciati ispirare dai nostri clienti** e prendi lo stile di una tessera che ti piace.
-
-3️⃣ **Mandacela**<br>Premi **Invia a Unipiazza**, scegli quante Tessere Fedeltà ti servono e premi **Invia**. Controlliamo la grafica e ti mandiamo il preventivo. Appena confermi, la mandiamo in stampa.
-
-Prezzi, quantità minime e tempi di produzione li trovi in [Come personalizzare graficamente le tue Tessere Fedeltà fisiche](https://supporto.unipiazza.it/it/articles/42911-pacchetto-custom-personalizza-il-tuo-kit-fedelta) [[pacchetto-custom-personalizza-il-tuo-kit-fedelta]].
+Se invece vuoi le Tessere Fedeltà con il tuo logo e i tuoi colori, scrivici su WhatsApp e dicci quante te ne servono. In **Piano & Consumi**, sotto la barra, il link **Ti servono tessere personalizzate col tuo logo?** ti porta alla guida completa. Prezzi, quantità minime e tempi di produzione li trovi anche in [Come personalizzare graficamente le tue Tessere Fedeltà fisiche](https://supporto.unipiazza.it/it/articles/42911-pacchetto-custom-personalizza-il-tuo-kit-fedelta) [[pacchetto-custom-personalizza-il-tuo-kit-fedelta]].
 
 Se qualcosa non ti torna o hai bisogno di una mano, scrivici su WhatsApp al **388 8665987** 😊

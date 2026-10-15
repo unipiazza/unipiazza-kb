@@ -132,7 +132,7 @@ Meccaniche di fedeltà: gettoni, lista premi, creazione premi, limiti ritiro, ge
 
 ### 05 — Campagne, Autopromo e WhatsApp · `collection_id: 7182`
 
-Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. Il 2026-10-16, in locale e non ancora sincronizzati, corretti 27453, 27452, 61640, 61919, 61971, 61972, 61973 e scritti due articoli nuovi senza article_id (regalo di compleanno alla cassa, WhatsApp bloccato), per i buchi trovati nelle conversazioni di Olivia ([[analisi-conversazioni-olivia-2026-10-15]]). 27450: il web era stato modificato il 2026-07-03 (step 4 diverso); il 15/10 è stato allineato al file locale, mantenendo la frase finale "Inviata in verde".
+Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. Il 2026-10-16, in locale e non ancora sincronizzati, corretti 27453, 27452, 61640, 61919, 61971, 61972, 61973 e scritti due articoli nuovi senza article_id (regalo di compleanno alla cassa, WhatsApp bloccato), per i buchi trovati nelle conversazioni di Olivia. Lo strumento tessera.unipiazza.it per ora resta fuori dalla KB (Edoardo, 16/10) ([[analisi-conversazioni-olivia-2026-10-15]]). 27450: il web era stato modificato il 2026-07-03 (step 4 diverso); il 15/10 è stato allineato al file locale, mantenendo la frase finale "Inviata in verde".
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|

@@ -70,6 +70,8 @@ Le conversazioni con Olivia restano salvate. Nella sua pagina passa il mouse sul
 
 Per i problemi tecnici (il Chiosco Unipiazza offline, WhatsApp bloccato, un pagamento, i crediti finiti) scrivici dalla chat dell'assistenza, il pulsante in basso a destra nel Gestionale, oppure su WhatsApp al **388 8665987**.
 
+Vuoi ripensare il tuo programma fedeltà o ti serve una chiacchierata più lunga? Prenota una [consulenza gratuita con Roberta](https://cal.com/roberta-pignatelli-a74mds/30min), la nostra Consulente Fedeltà. Mezz'ora insieme per parlare del tuo programma fedeltà e dei prossimi passi.
+
 ## Il sistema a crediti
 
 Olivia funziona con un sistema a **crediti AI**:
