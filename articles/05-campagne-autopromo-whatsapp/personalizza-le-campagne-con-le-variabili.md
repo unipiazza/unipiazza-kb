@@ -1,5 +1,5 @@
 ---
-article_id: null
+article_id: 67839
 collection_id: 7182
 collection: "📢 Campagne, Autopromo e Whatsapp"
 title: "Personalizza le tue Campagne con le Variabili"
@@ -58,7 +58,7 @@ Ovunque nella campagna, in qualunque campo di testo.
 
 3️⃣ **Scegli la variabile dal menu**<br>Nel campo compare un'etichetta, per esempio **Nome**, che nel messaggio diventerà il nome vero di ogni cliente.
 
-![Il menu "Inserisci variabile" nel campo Messaggio principale della campagna, con l'elenco delle sei variabili](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/NUOVO_ID_Inserisci-variabile.png)
+![Il menu "Inserisci variabile" nel campo Messaggio principale della campagna, con l'elenco delle sei variabili](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/67839_Inserisci-variabile.png)
 
 Se preferisci puoi anche scriverle a mano, ma copiale esattamente come le vedi nel menu, con le doppie parentesi graffe.
 

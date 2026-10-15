@@ -33,7 +33,7 @@ A volte può capitare che le email finiscano nella cartella spam o nella posta i
 
 **4) Scrivere Oggetti Email Accattivanti:** L'oggetto è la prima cosa che i tuoi clienti vedono. Scrivere oggetti email che catturano l'attenzione può aumentare le aperture delle email. Dai un'occhiata [a questo articolo di supporto](https://supporto.unipiazza.it/it/campagne-e-autopromo/suggerimenti-per-scrivere-una-campagna-marketing-perfetta) per suggerimenti extra su come scrivere un'oggetto irresistibile.
 
-**5) Personalizzare le Email:** Usa la variabile `{{FNAME}}` per personalizzare le email con il nome del cliente (la inserisci con il pulsante **Inserisci variabile**). Le email personalizzate hanno meno probabilità di essere considerate spam. Scopri tutte le variabili in [Personalizza le tue Campagne con le Variabili](https://supporto.unipiazza.it/it/articles/NUOVO_ID-personalizza-le-campagne-con-le-variabili).
+**5) Personalizzare le Email:** Usa la variabile `{{FNAME}}` per personalizzare le email con il nome del cliente (la inserisci con il pulsante **Inserisci variabile**). Le email personalizzate hanno meno probabilità di essere considerate spam. Scopri tutte le variabili in [Personalizza le tue Campagne con le Variabili](https://supporto.unipiazza.it/it/articles/67839-personalizza-le-campagne-con-le-variabili).
 
 **6) Evitare il Caps Lock e Parole Sensibili:** Evita di usare lettere maiuscole nell'oggetto e parole come "Gratis," "100%," "Offerta," "Urgente." Ecco qualche esempio di parole da evitare: Gratis, Offerta, Urgente, 100%, Clicca Qui, Richiedi Ora.
 

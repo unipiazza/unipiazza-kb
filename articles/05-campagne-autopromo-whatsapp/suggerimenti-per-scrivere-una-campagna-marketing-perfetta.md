@@ -59,7 +59,7 @@ Se per esempio scriviamo "Pront`{{GENDER}}` `{{FNAME}}`? Scopri le nostre ultime
 
 La variabile `{{GENDER}}` verrà infatti sostituita automaticamente con la lettera "a" o la lettera "o" in base al genere del destinatario.
 
-Oltre a nome e genere ci sono il cognome, il telefono, l'email e il saldo Gettoni. Puoi usare tutte le variabili nell'oggetto, nell'anteprima dell'oggetto, nel titolo, nel testo e nel bottone delle tue campagne. Trovi l'elenco completo, con esempi e consigli, in [Personalizza le tue Campagne con le Variabili](https://supporto.unipiazza.it/it/articles/NUOVO_ID-personalizza-le-campagne-con-le-variabili).
+Oltre a nome e genere ci sono il cognome, il telefono, l'email e il saldo Gettoni. Puoi usare tutte le variabili nell'oggetto, nell'anteprima dell'oggetto, nel titolo, nel testo e nel bottone delle tue campagne. Trovi l'elenco completo, con esempi e consigli, in [Personalizza le tue Campagne con le Variabili](https://supporto.unipiazza.it/it/articles/67839-personalizza-le-campagne-con-le-variabili).
 
 - **Oggetto**
 
