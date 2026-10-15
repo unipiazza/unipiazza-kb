@@ -232,7 +232,7 @@ Abbonamento, fatture, contatto assistenza, referral, cancellazione. 1 articolo a
 
 ### 11 — Integrazioni · `collection_id: 8104`
 
-Installazione app su Android/Windows e connessione a Zapier/Make. ⚠️ Online l'articolo Android (61666) ha ancora il link che punta a `unpz.it/desktop` invece di `unpz.it/android`: corretto in locale il 2026-10-14 (insieme a 48423 zip Windows, 48446 casse Android, 48419 Kit Lite), **da sincronizzare**.
+Installazione app su Android/Windows e connessione a Zapier/Make. Il link dell'articolo Android (61666) è stato corretto su `unpz.it/android` e sincronizzato il 2026-10-14, insieme a 48423 (zip Windows), 48446 (casse Android) e 48419 (Kit Lite).
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
