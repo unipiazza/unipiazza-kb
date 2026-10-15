@@ -44,7 +44,7 @@ Ovunque nella campagna, in qualunque campo di testo.
 
 🔎 **Anteprima dell'oggetto**, cioè la riga che si legge nella casella di posta prima di aprire il messaggio
 
-🏷️ **Titolo**
+🏷️ **Messaggio principale**, cioè il titolo che i clienti vedono per primo
 
 📝 **Testo della campagna**
 
@@ -58,7 +58,7 @@ Ovunque nella campagna, in qualunque campo di testo.
 
 3️⃣ **Scegli la variabile dal menu**<br>Nel campo compare un'etichetta, per esempio **Nome**, che nel messaggio diventerà il nome vero di ogni cliente.
 
-![Il menu "Inserisci variabile" nel campo Oggetto della campagna, con l'elenco delle sei variabili e l'anteprima dell'email](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/NUOVO_ID_Inserisci-variabile.png)
+![Il menu "Inserisci variabile" nel campo Messaggio principale della campagna, con l'elenco delle sei variabili](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/NUOVO_ID_Inserisci-variabile.png)
 
 Se preferisci puoi anche scriverle a mano, ma copiale esattamente come le vedi nel menu, con le doppie parentesi graffe.
 
@@ -80,7 +80,7 @@ Se preferisci puoi anche scriverle a mano, ma copiale esattamente come le vedi n
 
 🎁 **Per far tornare i clienti**<br>Oggetto: "`{{FNAME}}`, il tuo saldo Gettoni è `{{SALDO_GETTONI}}`. Passa a trovarci!" → "Giulia, il tuo saldo Gettoni è 120. Passa a trovarci!"
 
-💌 **Per accogliere i nuovi iscritti**<br>Titolo: "Benvenut`{{GENDER}}` `{{FNAME}}` tra i nostri clienti!" → "Benvenuto Marco tra i nostri clienti!" oppure "Benvenuta Alessia tra i nostri clienti!"
+💌 **Per accogliere i nuovi iscritti**<br>Messaggio principale: "Benvenut`{{GENDER}}` `{{FNAME}}` tra i nostri clienti!" → "Benvenuto Marco tra i nostri clienti!" oppure "Benvenuta Alessia tra i nostri clienti!"
 
 📱 **Per ricordare con quale recapito si sono iscritti**<br>Testo: "Hai cambiato telefono o perso la Tessera Fedeltà? Nessun problema, il tuo Profilo ti aspetta. Per ritrovarlo usa l'email `{{EMAIL}}` o il numero `{{TELEFONO}}`." È utile anche per chi vuole una nuova Tessera Fedeltà o iscriversi dall'App.
 
