@@ -15,7 +15,7 @@ keywords:
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2026-06-16'
+updated_at: '2026-10-16'
 last_synced: '2026-06-16'
 ---
 
@@ -23,7 +23,7 @@ Le Autopromo già lavorano per te in automatico, raggiungendo i clienti via emai
 
 Puoi attivare WhatsApp su ogni Autopromo singolarmente: non devi accenderlo su tutte, scegli tu dove ha più senso.
 
-> **Prerequisito**: per attivare WhatsApp sulle Autopromo devi aver già collegato un numero WhatsApp Business al tuo Gestionale Unipiazza. Se non l'hai ancora fatto, leggi [Campagne WhatsApp: come funzionano, quanto costano e come iniziare](https://supporto.unipiazza.it/it/articles/61972-campagne-whatsapp-come-funzionano-costi-e-come-iniziare).
+> **Prerequisito**: per attivare WhatsApp sulle Autopromo devi aver già collegato un numero WhatsApp Business al tuo Gestionale Unipiazza, e Meta lo deve aver approvato. Se non l'hai ancora fatto, segui [Come collegare WhatsApp Business a Unipiazza](https://supporto.unipiazza.it/it/articles/61919-come-collegare-whatsapp-business-a-unipiazza). Per costi e limiti leggi [Campagne WhatsApp: come funzionano, quanto costano e come iniziare](https://supporto.unipiazza.it/it/articles/61972-campagne-whatsapp-come-funzionano-costi-e-come-iniziare).
 
 ## Come si fa
 

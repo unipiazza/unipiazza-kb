@@ -19,7 +19,7 @@ keywords:
 sort: 1
 is_featured: false
 locale: it
-updated_at: '2026-10-15'
+updated_at: '2026-10-16'
 last_synced: '2026-10-15'
 ---
 
@@ -89,6 +89,8 @@ Il titolo della campagna è il testo principale e comparirà appena sotto l'imma
 "Prenota due massaggi il terzo te lo regaliamo noi! 🎁"
 
 "Giovedì 20 Aprile Serata Live!"
+
+> 💡 **Consigli, non limiti.** I 50 caratteri dell'oggetto e i 40/50 del titolo sono consigli per farti leggere di più. I limiti veri dei campi sono più larghi. Nelle campagne email l'oggetto arriva a 100 caratteri, il testo di anteprima a 150, il messaggio principale a 100 e il testo del pulsante a 30. Nelle campagne WhatsApp il testo del messaggio arriva a 950 caratteri e quello del pulsante a 25. Nelle Autopromo la Ricompensa arriva a 80.
 
 - **Testo centrale**
 

@@ -8,12 +8,13 @@ description: 'Piano attivo, utilizzi, funzionalità incluse e fatture scaricabil
 status: published
 written_by: 2961
 locale: it
+updated_at: '2026-10-16'
 last_synced: '2026-10-15'
 ---
 
 Vuoi sapere quanto stai pagando, quanti crediti ti restano e quali funzionalità hai attive? La sezione **Piano & Consumi** è la tua pagina di controllo: tutto in un colpo d'occhio. 👀
 
-Per arrivarci: clicca sul **tuo nome in alto a destra** nel gestionale → scegli **Piano & Consumi** dal menu a tendina.
+Per arrivarci: clicca sul **tuo nome in alto a destra** nel gestionale → scegli **Piano & Consumi** dal menu a tendina. Se gestisci più punti vendita, scegli prima quello giusto dal menu in alto. (Fino a luglio 2026 questa pagina si chiamava "Abbonamento & Fatture".)
 
 ---
 
@@ -27,16 +28,16 @@ Qui trovi il riepilogo dell'abbonamento attivo:
 
 ---
 
-## Utilizzi
+## Consumi
 
 Tre barre di avanzamento mostrano quanto hai consumato rispetto ai limiti inclusi nel tuo piano:
 
-- 🤖 **Olivia AI (mensile):** i crediti AI disponibili nel mese corrente per creare campagne e contenuti
-- 📣 **Campagne marketing disponibili:** le campagne che puoi ancora inviare nell'anno in corso
-- 🪪 **Tessere Fedeltà incluse:** le Tessere Fedeltà che puoi ancora richiedere nell'anno
+- ✨ **Olivia AI (mensile):** i crediti AI usati nel mese, che si rinnovano il 1° di ogni mese
+- 📣 **Campagne marketing:** le campagne che hai già inviato rispetto a quelle incluse nell'anno
+- 🪪 **Tessere Fedeltà:** le Tessere Fedeltà che hai già richiesto rispetto a quelle incluse nell'anno, con la data in cui si rinnovano
 
 Hai esaurito i crediti Olivia AI? Clicca su **"Ottieni altri crediti"** direttamente sotto la barra.
-Hai finito le Tessere Fedeltà? Premi su **"Richiedi un nuovo pacco"** per farne arrivare altre: è proprio da qui che si richiedono le tessere standard. Trovi tutti i dettagli in [Ho finito le tessere, come posso richiederne delle altre?](https://supporto.unipiazza.it/it/articles/4366-ho-finito-le-tessere-come-posso-richiederne-delle-altre) [[ho-finito-le-tessere-come-posso-richiederne-delle-altre]]
+Hai finito le Tessere Fedeltà? Premi su **"Richiedi un nuovo pacco"** sotto la barra. È proprio da qui che si richiedono le Tessere Fedeltà standard. Sotto trovi anche il link **"Ti servono tessere personalizzate col tuo logo?"**. Tutti i dettagli sono in [Ho finito le tessere, come posso richiederne delle altre?](https://supporto.unipiazza.it/it/articles/4366-ho-finito-le-tessere-come-posso-richiederne-delle-altre) [[ho-finito-le-tessere-come-posso-richiederne-delle-altre]]
 
 ---
 

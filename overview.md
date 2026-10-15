@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 136 (109 published, 27 draft)
+- **Articoli totali:** 136 (109 published, 27 draft), più 2 nuovi solo in locale dal 2026-10-16, da creare su Customerly alla prossima sync
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -23,7 +23,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | 02-riepilogo | 7179 | Riepilogo | 5 | ⚠️ manca 2 metriche nel dashboard |
 | 03-clienti | 7180 | Clienti | 23 | ✅ |
 | 04-premi-e-gettoni | 7181 | Premi e Gettoni | 9 | ✅ |
-| 05-campagne-autopromo-whatsapp | 7182 | Campagne, Autopromo e WhatsApp | 20 | ✅ |
+| 05-campagne-autopromo-whatsapp | 7182 | Campagne, Autopromo e WhatsApp | 20 (+2 nuovi) | ✅ |
 | 06-modelli-campagne | 3911 | Modelli Campagne | 9 | ⚠️ contenuti 2021-22 datati, immagini rotte |
 | 07-booster-e-abbonamenti | 7236 | Booster Vendite e Abbonamenti | 4 | ✅ |
 | 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 4 | ❌ specifiche errate (slot, limiti) |
@@ -57,7 +57,7 @@ Articoli di benvenuto e troubleshooting hardware/app. Pilotati e validati (round
 |---|---|---|---|
 | 27438 | È arrivato il Kit Unipiazza, cosa devo fare? | e-arrivato-il-kit-unipiazza-cosa-devo-fare | published |
 | 28335 | Tutto quello che devi sapere per iniziare | tutto-quello-che-devi-sapere-per-iniziare | published |
-| 4366 | Ho finito le tessere, come posso richiederne delle altre? | ho-finito-le-tessere-come-posso-richiederne-delle-altre | published |
+| 4366 | Ho finito le tessere, come posso richiederne delle altre? | ho-finito-le-tessere-come-posso-richiederne-delle-altre | published (modificato in locale il 2026-10-16) |
 | 41599 | Il mio registratore di cassa è compatibile con Unipiazza? | la-mia-cassa-e-compatibile-con-unipiazza | published |
 | 41648 | Il mio Chiosco è bloccato, come lo resetto? | come-si-resetta-il-chiosco | published |
 | 40682 | L'app Unipiazza è sparita, cosa faccio? | l-app-unipiazza-e-sparita-cosa-faccio | published |
@@ -100,7 +100,7 @@ Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, im
 | 30306 | Come posso aggiungere o importare clienti? | aggiungere-importare-contatti-clienti | published |
 | 33516 | I clienti possono modificare i propri dati personali? | i-clienti-possono-modificare-i-propri-dati-personali | published |
 | 35025 | Posso aggiungere delle note ai clienti? | posso-aggiungere-delle-note-ai-clienti | published |
-| 41052 | Come correggere un importo errato nel gestionale Unipiazza | come-correggere-un-importo-errato-nel-gestionale-unipiazza | published |
+| 41052 | Come correggere un importo, dei gettoni o una visita caricati per errore | come-correggere-un-importo-errato-nel-gestionale-unipiazza | published |
 | 41054 | Come scalare un premio manualmente nel gestionale Unipiazza | come-scalare-un-premio-manualmente-nel-gestionale-unipiazza | published |
 | 41598 | Un mio cliente ha due profili, come posso fare per unirli? | un-mio-cliente-ha-due-profili-come-posso-fare-per-accorparli | published |
 | 44201 | Invita i clienti ad inserire il numero di Telefono | invita-i-clienti-ad-inserire-il-numero-di-telefono | published |
@@ -132,7 +132,7 @@ Meccaniche di fedeltà: gettoni, lista premi, creazione premi, limiti ritiro, ge
 
 ### 05 — Campagne, Autopromo e WhatsApp · `collection_id: 7182`
 
-Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. 27450: il web era stato modificato il 2026-07-03 (step 4 diverso); il 15/10 è stato allineato al file locale, mantenendo la frase finale "Inviata in verde".
+Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. Il 2026-10-16, in locale e non ancora sincronizzati, corretti 27453, 27452, 61640, 61919, 61971, 61972, 61973 e scritti due articoli nuovi senza article_id (regalo di compleanno alla cassa, WhatsApp bloccato), per i buchi trovati nelle conversazioni di Olivia ([[analisi-conversazioni-olivia-2026-10-15]]). 27450: il web era stato modificato il 2026-07-03 (step 4 diverso); il 15/10 è stato allineato al file locale, mantenendo la frase finale "Inviata in verde".
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
@@ -156,6 +156,8 @@ Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistich
 | 63782 | Le comunicazioni automatiche: come appaiono ai tuoi clienti | anteprime-comunicazioni-automatiche | published |
 | 65381 | Perché la campagna è arrivata a meno clienti di quelli selezionati? | perche-la-campagna-e-arrivata-a-meno-clienti-di-quelli-selezionati | published |
 | 67839 | Personalizza le tue Campagne con le Variabili | personalizza-le-campagne-con-le-variabili | published |
+| — | Il cliente viene a ritirare il regalo di compleanno: cosa deve fare il personale? | il-cliente-ritira-il-regalo-di-compleanno-cosa-fa-il-personale | nuovo, da creare |
+| — | WhatsApp non funziona o risulta bloccato: cosa controllare? | whatsapp-non-funziona-o-risulta-bloccato | nuovo, da creare |
 
 ---
 

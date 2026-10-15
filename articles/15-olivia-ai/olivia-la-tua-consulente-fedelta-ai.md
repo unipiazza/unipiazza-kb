@@ -16,11 +16,11 @@ keywords:
 sort: 0
 is_featured: true
 locale: it
-updated_at: '2026-06-16'
+updated_at: '2026-10-16'
 last_synced: '2026-08-05'
 ---
 
-Hai mai voluto avere un esperto di fidelizzazione sempre a disposizione, che conosce i tuoi dati e sa consigliarti in modo concreto? Da oggi ce l'hai. Si chiama **Olivia**, ed è la tua Consulente Fedeltà AI integrata direttamente nel Gestionale Unipiazza. 🤖✨
+Hai mai voluto una consulente di fidelizzazione sempre a disposizione, che conosce i tuoi dati e ti consiglia in modo concreto? Da oggi ce l'hai. Si chiama **Olivia** ed è la tua Consulente Fedeltà AI, dentro il Gestionale Unipiazza. Legge i dati del tuo locale, ti propone la prossima mossa e lascia sempre a te l'ultima parola. ✨
 
 ## Come si accede
 
@@ -53,6 +53,22 @@ Olivia ti segue in tutta la creazione di una campagna, in due momenti diversi:
 - **Più avanti, nell'editor**: se preferisci partire da zero, puoi comunque richiamare Olivia per **migliorare un testo già scritto** (corpo del messaggio o oggetto email)
 
 Per sapere come usarla in dettaglio in entrambi i momenti, leggi [Come usare Olivia per creare e migliorare le campagne](https://supporto.unipiazza.it/it/articles/61976-come-usare-olivia-per-creare-e-migliorare-le-campagne).
+
+## Cosa fa e cosa no
+
+✅ **Prepara, tu decidi**<br>Olivia ti propone idee, scrive i testi e prepara le bozze di campagne e Autopromo. Senza la tua conferma non parte niente.
+
+✍️ **Ti scrive il testo, non il file**<br>Non crea immagini, PDF o file da stampare. Se ti serve un cartello o un volantino ti prepara il testo, e il volantino lo crei in pochi minuti con il [generatore di volantini](https://supporto.unipiazza.it/it/articles/66239-porta-i-clienti-nella-tua-vetrina-con-qr-code-link-e-volantini).
+
+💬 **È un'AI, e te lo dice**<br>Sulle procedure del Gestionale risponde partendo dalle guide di Unipiazza. Se una cosa non la sa te lo dice, e ti manda all'assistenza invece di tirare a indovinare.
+
+## Dove ritrovi le conversazioni
+
+Le conversazioni con Olivia restano salvate. Nella sua pagina passa il mouse sulla colonna a sinistra e si apre l'elenco **Conversazioni recenti**. Premi su una conversazione per riprenderla da dove l'avevi lasciata, oppure su **Nuova conversazione** per cominciarne un'altra.
+
+## Quando ti serve una persona
+
+Per i problemi tecnici (il Chiosco Unipiazza offline, WhatsApp bloccato, un pagamento, i crediti finiti) scrivici dalla chat dell'assistenza, il pulsante in basso a destra nel Gestionale, oppure su WhatsApp al **388 8665987**.
 
 ## Il sistema a crediti
 

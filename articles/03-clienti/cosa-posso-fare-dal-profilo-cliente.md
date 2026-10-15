@@ -25,13 +25,13 @@ keywords:
 sort: 1
 is_featured: false
 locale: it
-updated_at: '2026-06-15'
+updated_at: '2026-10-16'
 last_synced: '2026-06-19'
 ---
 
 Per accedere al profilo di un cliente su Unipiazza e vedere tutte le informazioni dettagliate, è sufficiente cliccare sul suo nome da qualunque sezione. Ecco cosa troverai nella pagina del profilo cliente:
 
-- **Azioni:** Dal pulsante blu "Azioni" potrai aggiungere gettoni, scaricare un premio, gestire gli abbonamenti, modificare il saldo Wallet e eliminare il profilo del cliente
+- **Azioni:** Dal pulsante blu "Azioni" trovi **Accredita gettoni**, **Scarica premio** (per i premi e le promo attive), **Gestisci abbonamenti**, **Modifica Wallet** ed **Elimina cliente**. Da qui i gettoni si possono solo aggiungere
 - **Visualizzazione Visite, Euro Spesi, Premi e Gettoni:** Ottieni una visione chiara delle abitudini di spesa e della frequenza di visita del cliente.
 - **Indirizzo Email:** L'indirizzo che il cliente ha inserito in fase di iscrizione
 - **Numero di cellulare:** Il numero che il cliente ha inserito in fase di registrazione
@@ -40,6 +40,6 @@ Per accedere al profilo di un cliente su Unipiazza e vedere tutte le informazion
 - **Note**: Aggiungi note personali sul cliente per un servizio su misura o per tenere traccia di dettagli importanti.
 - **Compleanno del Cliente:** La data di compleanno che il cliente ha inserito in fase di iscrizione o successivamente.
 - **Data di iscrizione:** Quando il cliente si è unito alla tua attività
-- **Storico Azioni:** Esamina lo storico completo delle interazioni del cliente con la tua attività.
+- **Storico Azioni:** Esamina lo storico completo delle interazioni del cliente con la tua attività. È anche il posto dove correggi un importo o togli gettoni e visite caricati per errore, come spiegato in [Come correggere un importo, dei gettoni o una visita caricati per errore](https://supporto.unipiazza.it/it/articles/41052-come-correggere-un-importo-errato-nel-gestionale-unipiazza).
 
 <table style="min-width:25px;"><colgroup><col style="min-width:25px;" /></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento: </strong>Le note ti permetteranno di aggiungere delle informazioni aggiuntive sui clienti che saranno poi visualizzate sullo Smartphone al momento dell'accredito e, se nelle note saranno presenti delle tag (es: #pranzo #cena #nuovo), ti permetteranno di segmentare quei clienti per inviare solo a loro determinate comunicazioni o promozioni.</p></td></tr></tbody></table>

@@ -16,7 +16,7 @@ keywords:
 sort: 2
 is_featured: false
 locale: it
-updated_at: '2026-10-15'
+updated_at: '2026-10-16'
 last_synced: '2026-10-15'
 ---
 
@@ -48,16 +48,18 @@ Una volta collegato, i tuoi clienti riceveranno i messaggi **a nome della tua at
 
 ## Come iniziare
 
-Il setup è semplice e ti seguiamo passo dopo passo:
+Il collegamento lo fai da te, in pochi minuti, meglio da computer.
 
-**1. Contatta il team Unipiazza**
-Scrivici o chiamaci: un consulente ti guida nell'attivazione del numero WhatsApp e nel collegamento a Unipiazza.
+**1. Collega il numero**
+Nel Gestionale vai in **Impostazioni**, poi nella sezione **WhatsApp Business**, e premi **Inizia configurazione Whatsapp**. Si apre la procedura guidata di Meta. Trovi tutti i passaggi, compreso quello del fuso orario da non sbagliare, in [Come collegare WhatsApp Business a Unipiazza](https://supporto.unipiazza.it/it/articles/61919-come-collegare-whatsapp-business-a-unipiazza).
 
-**2. Collega il numero**
-Segui la procedura guidata insieme al consulente. Richiede pochi minuti.
+**2. Aspetta che Meta prepari il numero**
+Meta verifica il numero e prepara i modelli dei messaggi, di solito in un tempo da 4 a 24 ore. Finché in **Impostazioni** non vedi **WhatsApp è pronto**, WhatsApp non si può ancora usare nelle campagne e nelle Autopromo.
 
 **3. Inizia a creare campagne WhatsApp**
-Una volta collegato il numero, puoi subito creare la tua prima campagna WhatsApp e/o attivare WhatsApp sulle tue Autopromo (vedi [Come attivare WhatsApp sulle tue Autopromo](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo)).
+Una volta approvato il numero, puoi creare la tua prima campagna WhatsApp e attivare WhatsApp sulle tue Autopromo (vedi [Come attivare WhatsApp sulle tue Autopromo](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo)).
+
+Ti blocchi a metà strada? Scrivici su WhatsApp al **388 8665987** e ti guidiamo noi. 😊
 
 ---
 
@@ -67,7 +69,7 @@ Una volta collegato il numero, puoi subito creare la tua prima campagna WhatsApp
 L'app è gratuita per uso personale, ma le API ufficiali di WhatsApp Business (quelle che permettono invii massivi e professionali) sono a pagamento. Unipiazza gestisce il servizio per te e trattiene una piccola percentuale per la gestione.
 
 **Quanti messaggi posso inviare al giorno?**
-Dipende dallo stato del tuo account WhatsApp Business. Si parte da 250 messaggi al giorno e si sale a 2.000 quando verifichi la tua attività: trovi la procedura in [Come verificare il tuo account WhatsApp Business](https://supporto.unipiazza.it/it/articles/61640-come-verificare-il-tuo-account-whatsapp-business).
+Il limite di Meta non conta i messaggi ma i clienti diversi a cui scrivi nelle ultime 24 ore. Si parte da 250 clienti e si sale a 2.000 quando verifichi la tua attività su Meta. Trovi la procedura in [Come verificare il tuo account WhatsApp Business](https://supporto.unipiazza.it/it/articles/61640-come-verificare-il-tuo-account-whatsapp-business). Quando arrivi al limite, i clienti in più restano fuori finché non passano le 24 ore. Nella creazione della campagna vedi il tuo limite e puoi spuntare **Invia anche ai clienti esclusi dal limite giornaliero di WhatsApp**: chi resta fuori riceve la campagna con un nuovo invio automatico circa 24 ore dopo. In **Impostazioni** > **WhatsApp Business** vedi quanti clienti puoi ancora contattare.
 
 **Tutti i clienti riceveranno il messaggio, anche chi non mi ha salvato in rubrica?**
 Sì, il messaggio arriva a tutti. Però, se un cliente non ti ha salvato in rubrica, non puoi vedere se l'ha letto (i doppi segni di spunta restano grigi). Per questo ti consigliamo di invitare i clienti a salvarti!
@@ -78,8 +80,14 @@ Solo se ti ha aggiunto in rubrica. Questo si riflette anche nelle statistiche de
 **Posso usare il mio numero personale?**
 Sì, se è già un numero WhatsApp Business.
 
+**Posso inviare subito una campagna WhatsApp?**
+Per ora no. All'ultimo passo l'opzione **Invia subito** è ancora disattivata (**Presto in arrivo**), quindi scegli **Fai controllare la campagna** e premi **Richiedi revisione**. Un consulente Unipiazza la controlla dal lunedì al venerdì, dalle 9:00 alle 18:00. Se vuoi programmarla, l'orario di invio deve essere almeno 24 ore dopo.
+
 **Quanto ci vuole per approvare le campagne?**
-Da pochi secondi a qualche ora, dipende dalla campagna.
+Dopo il controllo del team, anche Meta approva il messaggio. Possono volerci pochi minuti o diverse ore, in base allo "stato di salute" del tuo numero WhatsApp. Se Meta lo rifiuta, nell'elenco delle campagne vedi **Rifiutata da META**: scrivici e ti diciamo perché.
+
+**Posso mandarmi una prova della campagna?**
+Per le campagne WhatsApp non c'è ancora l'invio di prova del messaggio. Nel passo del contenuto vedi l'anteprima di come arriva. Per controllare che il canale funzioni, in **Impostazioni** > **WhatsApp Business** premi **Invia Messaggio di Test**: ti arriva un messaggio di prova standard, su un numero diverso da quello collegato.
 
 **Posso comprare messaggi in anticipo per risparmiare?**
 Non ancora, ma arriverà presto!

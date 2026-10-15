@@ -8,7 +8,7 @@ description: Vuoi Tessere Fedeltà con la tua grafica? Ecco come crearle, quanto
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-10-02'
+updated_at: '2026-10-16'
 last_synced: '2026-10-02'
 ---
 
@@ -36,9 +36,15 @@ Ogni attività ha reso le sue Tessere uniche a modo suo. Ecco qualche esempio:
 
 ![Altri esempi di Tessere Fedeltà personalizzate: Bar Costa, Brunch Republic, Grandi Vivai](https://up-kb-assets.s3.eu-west-3.amazonaws.com/09-vetrina/42911_Esempi-tessere-2.jpg)
 
-**Come creare la grafica: 3 modalità**
+**La strada più veloce: il nostro strumento online**
 
-La grafica va fornita già pronta. Puoi crearla in tre modi, in base al risultato che cerchi e al tempo che hai:
+Su [tessera.unipiazza.it](https://tessera.unipiazza.it/?tessera=fisica) disegni la tua Tessera Fedeltà in pochi minuti e vedi subito fronte e retro. Scegli uno dei sei modelli pronti e cambi logo, colori e frase, oppure carichi la grafica del tuo grafico con **Ho già la grafica**. Lo strumento la impagina già nelle misure giuste, con il riquadro del QR Code al suo posto.
+
+Aprilo con il link della tua Vetrina, cioè **tessera.unipiazza.it/?tessera=fisica&shop=** seguito dal nome della tua Vetrina (se la tua Vetrina è barcosta.unipiazza.it, il nome è barcosta). Così alla fine trovi il tasto **Invia a Unipiazza**, scegli quante Tessere Fedeltà ti servono e ce la mandi. Controlliamo la grafica e ti mandiamo il preventivo prima di stamparla.
+
+**Come creare la grafica: le altre 3 modalità**
+
+Preferisci partire da un file tuo? Puoi preparare la grafica in tre modi, in base al risultato che cerchi e al tempo che hai:
 
 1️⃣ **Fai da Te**<br>Adatto a chiunque. Personalizzi da solə il design delle tessere in pochi minuti usando Canva, il sito gratuito di grafica. Zero sbatti.
 
@@ -62,12 +68,12 @@ Più tessere ordini, meno spendi per ognuna 😉
 
 Prima di ordinare, tieni a mente qualche dettaglio importante:
 
-1️⃣ **La grafica la prepari tu**<br>Il file grafico deve arrivarci già pronto. Noi ci occupiamo solo della stampa (a meno che tu non scelga la modalità Su misura, e in quel caso ci pensiamo noi).
+1️⃣ **La grafica la prepari tu**<br>Il file grafico deve arrivarci già pronto, e con lo strumento su tessera.unipiazza.it è già nel formato giusto. Noi ci occupiamo solo della stampa (a meno che tu non scelga la modalità Su misura, e in quel caso ci pensiamo noi).
 
 2️⃣ **Produzione in 4 settimane lavorative**<br>Dal via libera alla consegna passano circa 4 settimane lavorative. Meglio muoversi con un po’ di anticipo!
 
 3️⃣ **Quando parte l’ordine**<br>L’ordine parte ufficialmente solo dopo che abbiamo ricevuto la tua grafica corretta e il saldo anticipato.
 
-**Vuoi personalizzare le tue Tessere Fedeltà?** Contatta il nostro team e rendi il tuo programma fedeltà ancora più riconoscibile!
+**Vuoi personalizzare le tue Tessere Fedeltà?** Disegnale su [tessera.unipiazza.it](https://tessera.unipiazza.it/?tessera=fisica), oppure scrivici su WhatsApp al 388 8665987 e ti aiutiamo noi. Il tuo programma fedeltà diventa ancora più riconoscibile!
 
 💡 Vuoi dare il tuo stile anche alla Tessera Fedeltà digitale, quella che i tuoi clienti salvano nel telefono? Scopri come in [Come personalizzare la tua Tessera Fedeltà su Apple Wallet & Google Wallet](https://supporto.unipiazza.it/it/articles/65545-come-personalizzare-la-tessera-fedelta-su-apple-wallet-e-google-wallet).

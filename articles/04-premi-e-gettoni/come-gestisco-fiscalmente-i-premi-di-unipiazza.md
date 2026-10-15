@@ -7,13 +7,22 @@ slug: come-faccio-fiscalmente-a-dare-un-premio-con-unipiazza
 description: "Scopri come registrare fiscalmente un premio dato a un tuo cliente"
 status: published
 written_by: 2963
-keywords: []
+keywords:
+  - scontrino
+  - registratore di cassa
+  - sconto 100%
+  - non riscosso
+  - omaggio
+  - regalo di compleanno
+  - fiscale
 sort: 7
 is_featured: false
 locale: it
-updated_at: '2026-06-12'
+updated_at: '2026-10-16'
 last_synced: '2026-06-19'
 ---
+
+> 💡 **Due passaggi diversi.** Questa guida riguarda solo il **registratore di cassa**. Prima il cliente ritira il Premio o la promo su Unipiazza, cioè sul Chiosco o dal Gestionale con **Azioni** e poi **Scarica premio**. Poi tu batti lo scontrino come spieghiamo qui sotto. Vale per i Premi e anche per gli omaggi delle Autopromo, come il regalo di compleanno.
 
 ## 1. Cosa fare alla cassa quando consegni il premio?
 

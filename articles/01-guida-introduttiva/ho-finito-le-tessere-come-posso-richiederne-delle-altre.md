@@ -4,7 +4,7 @@ collection_id: 7178
 collection: "❇️ Guida Introduttiva"
 title: "Ho finito le tessere, come posso richiederne delle altre?"
 slug: ho-finito-le-tessere-come-posso-richiederne-delle-altre
-description: "Scopri come richiedere nuove tessere Unipiazza, sia standard che personalizzate, e quando eventuali costi vengono aggiunti alla fattura."
+description: "Le Tessere Fedeltà standard le richiedi da Piano & Consumi, quelle con la tua grafica le disegni su tessera.unipiazza.it. Ecco come."
 status: published
 written_by: 2963
 keywords:
@@ -12,32 +12,47 @@ keywords:
   - custom
   - gestionale
   - tessere
+  - tessere fedeltà
+  - ordinare tessere
+  - richiedi un nuovo pacco
+  - piano e consumi
+  - tessere personalizzate
+  - tessera fisica
 sort: 7
 is_featured: false
 locale: it
-updated_at: '2026-07-13'
+updated_at: '2026-10-16'
 last_synced: '2026-08-05'
 ---
 
-Hai finito le tessere Unipiazza o le stai per finire? Niente paura, richiederle è facile e veloce! Puoi richiedere nuove tessere Unipiazza in due modi diversi, in base al tipo di tessere di cui hai bisogno.
+Hai finito le Tessere Fedeltà o stai per finirle? Niente paura, richiederne altre è facile e veloce! La strada cambia in base alle Tessere Fedeltà che ti servono.
 
-**Tessere standard Unipiazza (arancioni o blu)**
+**Tessere Fedeltà standard (arancioni o blu)**
 
-Per richiederle:
+Le richiedi in autonomia dal Gestionale, in pochi clic.
 
-1. Accedi al gestionale Unipiazza
-2. Clicca sul **tuo nome in alto a destra** → scegli **Piano & Consumi** dal menu a tendina
-3. Nella sezione **Utilizzi** trovi la barra **🪪 Tessere Fedeltà incluse**, che mostra quante tessere hai già richiesto e quante te ne restano
-4. Premi su **"Richiedi un nuovo pacco"** proprio sotto la barra e completa la richiesta
+1️⃣ **Apri Piano & Consumi**<br>Clicca sul **tuo nome in alto a destra** nel Gestionale e scegli **Piano & Consumi** dal menu a tendina. Se gestisci più punti vendita, scegli prima quello giusto dal menu in alto.
 
-Una volta inviata la richiesta, il nostro team la prenderà in carico e procederà con la preparazione e la spedizione.
+2️⃣ **Guarda quante te ne restano**<br>Nella sezione **Consumi** trovi la barra **Tessere Fedeltà**. Ti dice quante ne hai già richieste quest'anno, quante te ne restano e quando si rinnovano.
 
-Se la quantità richiesta supera il pacchetto iniziale di tessere incluso nel tuo kit, il relativo costo verrà aggiunto alla successiva fattura.
+3️⃣ **Premi Richiedi un nuovo pacco**<br>Lo trovi proprio sotto la barra. Da qui le strade sono due.
 
-💡 Vuoi sapere cos'altro trovi in quella pagina? Dai un'occhiata a [Cosa vedo nella sezione "Piano & Consumi"?](https://supporto.unipiazza.it/it/articles/63774-cosa-vedo-nella-sezione-piano-e-consumi) [[cosa-vedo-nella-sezione-piano-e-consumi]]
+🎁 **Hai ancora Tessere Fedeltà incluse nel piano?**<br>Conferma con **Sì, richiedile**. Il nuovo pacco è gratis e te lo spediamo entro 3 o 4 giorni lavorativi.
 
-**Tessere custom personalizzate**
+💳 **Hai finito quelle incluse?**<br>Si apre **Richiedi nuove tessere**. Scegli **Ricarica solo le tessere**, indica quante te ne servono (da 100 in su, a gruppi di 100) e premi **Ordina le tessere**, poi **Conferma richiesta**. Costano 0,40€ + IVA l'una, non paghi niente subito e ricevi una fattura dedicata, separata da quella del canone. Le spediamo entro 48 ore. Nella stessa finestra puoi anche passare a Chiosco Plus, che ha più Tessere Fedeltà incluse ogni anno.
 
-Se invece vuoi richiedere tessere personalizzate, contattaci direttamente tramite il nostro numero di assistenza Whatsapp specificando la quantità desiderata.
+💡 Le Tessere Fedeltà standard si richiedono solo da **Piano & Consumi**. In **Impostazioni** non c'è nessun modulo per le Tessere Fedeltà, quindi non cercarlo lì. Se non vuoi aspettare il pacco, intanto i clienti possono iscriversi anche con il numero di telefono, senza Tessera Fedeltà. Vuoi sapere cos'altro trovi in quella pagina? Dai un'occhiata a [Cosa vedo nella sezione "Piano & Consumi"?](https://supporto.unipiazza.it/it/articles/63774-cosa-vedo-nella-sezione-piano-e-consumi) [[cosa-vedo-nella-sezione-piano-e-consumi]]
+
+**Tessere Fedeltà personalizzate, con la tua grafica**
+
+Vuoi le Tessere Fedeltà con il tuo logo e i tuoi colori? Le disegni da te in pochi minuti con il nostro strumento online, anche senza saper usare un programma di grafica. 😍 In **Piano & Consumi** il link **Ti servono tessere personalizzate col tuo logo?** ti porta alla guida completa.
+
+1️⃣ **Apri lo strumento con il link della tua Vetrina**<br>Il tuo link è **tessera.unipiazza.it/?tessera=fisica&shop=** seguito dal nome della tua Vetrina. Se la tua Vetrina è barcosta.unipiazza.it, per esempio, apri [tessera.unipiazza.it/?tessera=fisica&shop=barcosta](https://tessera.unipiazza.it/?tessera=fisica&shop=barcosta). Così lo strumento riconosce il tuo locale e ti saluta per nome.
+
+2️⃣ **Scegli un modello o carica la tua grafica**<br>Ci sono sei modelli pronti, con logo, colori e frase che cambi tu. Se hai già la grafica del tuo grafico, scegli **Ho già la grafica** e carica fronte e retro. Ti serve un'idea? Premi **Lasciati ispirare dai nostri clienti** e prendi lo stile di una tessera che ti piace.
+
+3️⃣ **Mandacela**<br>Premi **Invia a Unipiazza**, scegli quante Tessere Fedeltà ti servono e premi **Invia**. Controlliamo la grafica e ti mandiamo il preventivo. Appena confermi, la mandiamo in stampa.
+
+Prezzi, quantità minime e tempi di produzione li trovi in [Come personalizzare graficamente le tue Tessere Fedeltà fisiche](https://supporto.unipiazza.it/it/articles/42911-pacchetto-custom-personalizza-il-tuo-kit-fedelta) [[pacchetto-custom-personalizza-il-tuo-kit-fedelta]].
 
 Se qualcosa non ti torna o hai bisogno di una mano, scrivici su WhatsApp al **388 8665987** 😊

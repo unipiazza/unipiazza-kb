@@ -7,11 +7,16 @@ slug: come-collegare-whatsapp-business-a-unipiazza
 description: "Scopri come collegare il tuo account WhatsApp a Unipiazza"
 status: published
 written_by: 2963
-keywords: []
+keywords:
+  - collegare whatsapp
+  - whatsapp business
+  - inizia configurazione whatsapp
+  - messaggio di test
+  - migrazione template
 sort: 11
 is_featured: false
 locale: it
-updated_at: '2026-10-15'
+updated_at: '2026-10-16'
 last_synced: '2026-10-15'
 ---
 
@@ -38,7 +43,7 @@ Finché non colleghi il tuo numero, partono dal numero WhatsApp di Unipiazza. Ap
 Per una configurazione rapida e senza intoppi, assicurati di avere a portata di mano:
 
 - Le credenziali di accesso al tuo gestionale Unipiazza.
-- Le credenziali del profilo **Facebook** con cui gestisci la Pagina della tua attività commerciale.
+- Le credenziali del profilo **Facebook** con cui gestisci la Pagina della tua attività commerciale. Prima di iniziare apri [business.facebook.com](https://business.facebook.com) e controlla di riuscire ad accedere al tuo **Account Business Meta**.
 - Il tuo smartphone con l'app **WhatsApp Business** installata e il numero di telefono pronto per ricevere un SMS/whatsapp con il codice di verifica.
 - L'indirizzo del **sito web** della tua attività. Se non hai un sito, va benissimo il link alla tua pagina **Instagram**.
 
@@ -49,7 +54,9 @@ Per una configurazione rapida e senza intoppi, assicurati di avere a portata di 
 1. Accedi alla tua area riservata su [partner.unipiazza.it](https://partner.unipiazza.it).
 2. Nel menu principale, clicca sulla voce **Impostazioni**.
 3. Seleziona la sezione **WhatsApp Business**.
-4. Clicca sul pulsante **Inizia configurazione con WhatsApp**.
+4. Clicca sul pulsante **Inizia configurazione Whatsapp**.
+
+> Non trovi la sezione **WhatsApp Business** in Impostazioni? Compare solo se WhatsApp è incluso nel tuo piano. Scrivici e verifichiamo insieme.
 
 ![](https://blackhole.customerly.io/pictures/apps/2662e53a/contents/bd375f1b70af8f62e597250abf3d4a17.png)
 
@@ -79,14 +86,22 @@ Durante i passaggi di configurazione proposti da Meta, ti verrà richiesto di se
 - Assicurati di selezionare **Europa/Roma** (o semplicemente **Roma**).
 - *Attenzione:* Se salti questo passaggio o inserisci un fuso orario diverso, **l'operazione non andrà a buon fine** e dovrai ripetere la procedura.
 
-### Passaggio 5: Completa il collegamento su Unipiazza
+### Passaggio 5: Il numero si registra da solo
 
-1. Terminata la configurazione nella finestra di Facebook/Meta, torna alla pagina delle **Impostazioni** > **WhatsApp Business** su partner.unipiazza.it.
-2. Ora vedrai comparire il tuo numero di telefono nella schermata.
-3. Clicca sul pulsante **Collega numero** per finalizzare l'operazione.
+Quando chiudi la procedura di Meta non devi premere altro. Il numero si registra in automatico e nella sezione **WhatsApp Business** vedi **Numero registrato con successo**.
 
-## ⏳ Tempi di approvazione e prossimi passi
+Se qualcosa va storto (hai chiuso la finestra, è scaduto il tempo, Meta non ha completato il collegamento) compare un avviso rosso. Nessun problema, premi di nuovo **Inizia configurazione Whatsapp** e ripeti la procedura.
 
-Hai completato la configurazione! Ora non ti resta che attendere l'approvazione ufficiale del tuo numero da parte di Meta.
+## ⏳ Tempi di attivazione e prossimi passi
 
-Il tempo stimato per l'approvazione è di **massimo 24 ore**. Non appena il tuo numero sarà verificato e approvato dal sistema, la funzione sarà attiva al 100% e potrai iniziare subito a inviare le tue prime **Campagne WhatsApp** e configurare le **Autopromo** per i tuoi clienti.
+Hai completato la configurazione! Ora Meta verifica il numero e prepara i modelli dei messaggi. Nella sezione vedi l'avviso **Migrazione template**, e di solito servono **da 4 a 24 ore**. In questo tempo WhatsApp non si può ancora usare, ed è normale che nella creazione delle campagne la scelta **WhatsApp** resti grigia.
+
+Quando è tutto pronto la sezione dice **WhatsApp è pronto** (oppure **WhatsApp collegato**). Da quel momento puoi inviare le tue prime **Campagne WhatsApp** e accendere WhatsApp sulle **Autopromo**.
+
+## 📲 Manda un messaggio di prova
+
+Vuoi vedere se funziona? Quando WhatsApp è pronto, nella sezione **WhatsApp Business** premi **Invia Messaggio di Test**, scrivi il tuo numero e premi **Invia Test**. Usa un numero diverso da quello che hai collegato, altrimenti scriveresti a te stesso.
+
+Ti arriva un messaggio di prova standard con il tuo nome. Serve a controllare che il canale sia attivo, non è l'anteprima di una campagna.
+
+Qualcosa non torna? Scrivici dalla chat del Gestionale o su WhatsApp al **388 8665987**, ti aiutiamo noi.

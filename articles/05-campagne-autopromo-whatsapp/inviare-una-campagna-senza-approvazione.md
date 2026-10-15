@@ -14,7 +14,7 @@ keywords:
 sort: 1
 is_featured: false
 locale: it
-updated_at: '2026-10-15'
+updated_at: '2026-10-16'
 last_synced: '2026-10-15'
 ---
 
@@ -28,6 +28,8 @@ Quando arrivi all'ultimo step del nuovo flow di creazione campagna, trovi due op
 
 - **Fai controllare la campagna** (come sempre): un consulente Unipiazza controlla testi, immagini, destinatari e orario prima dell'invio. Il servizio è attivo **dal lunedì al venerdì, dalle 9:00 alle 18:00**: la campagna non parte finché non viene controllata. Puoi anche lasciare una nota facoltativa con richieste o informazioni in più per il consulente.
 - **Invia subito**: la campagna parte direttamente ai destinatari, esattamente come l'hai configurata tu
+
+> 📲 **E le campagne WhatsApp?** Per ora l'invio diretto non c'è. Nelle campagne WhatsApp l'opzione **Invia subito** è disattivata (**Presto in arrivo**), quindi scegli **Fai controllare la campagna** e premi **Richiedi revisione**. Dopo il nostro controllo il messaggio passa anche dall'approvazione di Meta.
 
 ## Cosa significa inviare senza approvazione
 

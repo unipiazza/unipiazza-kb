@@ -12,10 +12,16 @@ keywords:
   - automatizzato
   - autopromo
   - invita
+  - compleanno
+  - ricompensa
+  - caratteri
+  - duplicare autopromo
+  - scade dopo
+  - modifica autopromo
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2026-10-15'
+updated_at: '2026-10-16'
 last_synced: '2026-10-15'
 ---
 
@@ -23,14 +29,19 @@ last_synced: '2026-10-15'
 
 Le [Autopromo](https://partner.unipiazza.it/autopromo) di Unipiazza sono strumenti automatici che inviano offerte **mirate ai clienti per incrementare visite e acquisti.** Funzionano come un aiutante virtuale che gestisce promozioni, motivando i clienti a visitare più spesso il tuo locale.
 
-Ci sono 8 tipi di Autopromo, ognuna con un obiettivo specifico. Vengono inviate ai tuoi clienti tramite **Email e messaggi RCS** — Unipiazza gestisce tutto in automatico.
+Ci sono 8 tipi di Autopromo, ognuna con un obiettivo specifico. Arrivano ai tuoi clienti con **messaggi RCS, email e notifiche dell'app Unipiazza**, e Unipiazza gestisce tutto in automatico.
 
-Per ogni Autopromo puoi configurare:
+Le modifichi dalla sezione **Autopromo** con il pulsante **Modifica autopromo**. Si apre la tabella con tutte le Autopromo e per ognuna puoi configurare:
 
-- 🖊️ **Il testo dell'offerta**: fino a **80 caratteri**, per descrivere la promo in modo chiaro e convincente.
-- 🖼️ **Un'immagine**: visibile nelle email e nei messaggi RCS.
-- 📅 **La scadenza**: 3, 7, 14 o 30 giorni entro cui il cliente può ritirare l'offerta.
-- ✅ **Lo stato attivo/inattivo**: puoi accendere o spegnere ogni Autopromo quando vuoi.
+- 🖊️ **Ricompensa**: è il testo dell'offerta, fino a **80 caratteri**, ed è l'unico testo che scrivi tu. Non c'è un nome separato, e il resto del messaggio lo scriviamo noi. Se superi gli 80 caratteri compare l'avviso **nome troppo lungo**, che si riferisce proprio a questo testo. Se aggiungi una traduzione tra parentesi quadre, per esempio [EN: ...], conta anche lei negli 80.
+- 🖼️ **Immagine**: visibile nelle email e nei messaggi RCS.
+- 📅 **Scade dopo**: 3, 7, 14, 30, 45 o 60 giorni, contati da quando la promo arriva al cliente.
+- ✅ **Attiva**: puoi accendere o spegnere ogni Autopromo quando vuoi.
+- 📲 **Whatsapp**: se hai collegato WhatsApp Business, la invii anche lì.
+
+Quando hai finito premi **Salva**.
+
+> 🚫 **Le Autopromo non si duplicano.** Sono 8, una per tipo: puoi accenderle, spegnerle e cambiarle, ma non copiarle né crearne di nuove. Ti serve una seconda offerta, per esempio per un'altra lista di clienti? Usa una [Campagna Marketing](https://supporto.unipiazza.it/it/articles/27450-cosa-sono-le-campagne-marketing-e-come-si-creano), che invece puoi duplicare dall'elenco delle campagne.
 
 > ⚠️ **Il testo dell'offerta deve sempre essere una promozione vera e propria** (sconto, omaggio, premio, "2x1"...), non un annuncio o una comunicazione generica: il cliente deve poter ritirarla entro la scadenza. Per le comunicazioni generiche usa una [Campagna Marketing](https://supporto.unipiazza.it/it/articles/27450-cosa-sono-le-campagne-marketing-e-come-si-creano). Unica eccezione: l'Autopromo Recensioni, senza promozione associata.
 
@@ -68,7 +79,9 @@ Promo inviata 3 giorni prima del compleanno del cliente. È un modo carino per a
 
 **Promo consigliata:** Sii creativo! Potresti offrire qualcosa di speciale per il festeggiato e i suoi amici.
 
-> Per ricevere questa Autopromo, i tuoi clienti devono aver inserito la loro data di nascita. Attiva la richiesta già in fase di iscrizione dal Chiosco: [scopri come attivare il Compleanno all'iscrizione](https://supporto.unipiazza.it/it/articles/65570-come-attivare-compleanno-all-iscrizione).
+> Per ricevere questa Autopromo, i tuoi clienti devono aver inserito la loro data di nascita ed essere già passati da te almeno una volta. Attiva la richiesta della data di nascita già in fase di iscrizione dal Chiosco: [scopri come attivare il Compleanno all'iscrizione](https://supporto.unipiazza.it/it/articles/65570-come-attivare-compleanno-all-iscrizione).
+
+⏳ **I 3 giorni sono fissi.** La promo parte sempre 3 giorni prima del compleanno e questo anticipo non si può cambiare. Anche **Scade dopo** si conta da quel giorno, non dal compleanno. Con 3 giorni la promo scade il giorno prima del compleanno, quindi scegli almeno 7 giorni.
 
 **😖 A Rischio**
 
@@ -85,6 +98,18 @@ Inviata ai clienti che non tornano da molto tempo, cioè quando l'assenza supera
 **📝 Recensioni**
 
 Questa speciale Autopromo non include una promozione associata, ma invita i clienti a recensire la tua attività. Puoi scegliere la piattaforma (Google, Tripadvisor o Facebook) e inserire il link diretto alla tua pagina di recensioni. L'invito viene inviato 2 ore dopo che un cliente ha ritirato un premio, per sfruttare il momento di entusiasmo e aumentare le probabilità di ottenere recensioni positive. Ogni cliente lo riceve **una sola volta**, anche se ritira altri premi in seguito.
+
+---
+
+## 🎁 Quando il cliente viene a ritirare la promo
+
+La promo va sempre ritirata su Unipiazza, altrimenti resta valida e non risulta nelle statistiche.
+
+📟 **Dal Chiosco Unipiazza**: il cliente si identifica, tocca la sua promo tra i Premi e conferma con **Oh yeah!**.
+
+💻 **Dal Gestionale**: nel profilo del cliente premi **Azioni**, poi **Scarica premio**, e scegli la promo tra le card blu.
+
+L'omaggio poi si batte anche sul registratore di cassa, come un Premio. Trovi tutti i passaggi in [Come gestisco fiscalmente i premi di Unipiazza?](https://supporto.unipiazza.it/it/articles/61921-come-faccio-fiscalmente-a-dare-un-premio-con-unipiazza).
 
 ---
 
