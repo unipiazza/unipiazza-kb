@@ -132,7 +132,7 @@ Meccaniche di fedeltà: gettoni, lista premi, creazione premi, limiti ritiro, ge
 
 ### 05 — Campagne, Autopromo e WhatsApp · `collection_id: 7182`
 
-Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. ⚠️ 27450: sul web il testo dello step 4 e l'ultima frase ("Inviata in verde") differiscono dal file locale (modifica web del 2026-07-03). La sync del 15/10 ha tenuto il testo web e aggiunto solo la frase sulle variabili.
+Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. 27450: il web era stato modificato il 2026-07-03 (step 4 diverso); il 15/10 è stato allineato al file locale, mantenendo la frase finale "Inviata in verde".
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
