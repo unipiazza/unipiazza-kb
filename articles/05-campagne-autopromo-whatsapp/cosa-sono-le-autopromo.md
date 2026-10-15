@@ -72,19 +72,19 @@ Promo inviata 3 giorni prima del compleanno del cliente. È un modo carino per a
 
 **😖 A Rischio**
 
-Questa promo è per i clienti che non sono tornati da 30 giorni. Dopo 30 giorni, la probabilità che un cliente torni si riduce del 50-75%, quindi è molto importante inviare delle promo ai clienti a rischio per riportarli e far sì che si ricordino di te.
+Questa promo è per i clienti che non tornano da un po' di tempo. Dopo quanti giorni di assenza un cliente è "a rischio" dipende dal settore della tua attività: un bar, una gelateria e un parrucchiere hanno ritmi di visita molto diversi. Più passa il tempo dall'ultima visita, meno è probabile che un cliente torni, quindi è molto importante inviare delle promo ai clienti a rischio per riportarli e far sì che si ricordino di te.
 
 **Promo consigliata:** Scegli un'offerta molto invitante come il 25% di sconto, "Compra uno, ottieni uno gratis" o un articolo in omaggio con una spesa minima.
 
 **😴 Dormienti**
 
-Inviata ai clienti che non tornano da 90 o più giorni. È pensata per attirare quelli che non hanno approfittato dell'offerta "A Rischio". Con il tempo, diventa più difficile che i clienti tornino, ma una buona offerta può convincerli a visitarti di nuovo.
+Inviata ai clienti che non tornano da molto tempo, cioè quando l'assenza supera la soglia "a rischio" del tuo settore. È pensata per attirare quelli che non hanno approfittato dell'offerta "A Rischio". Con il tempo, diventa più difficile che i clienti tornino, ma una buona offerta può convincerli a visitarti di nuovo.
 
 **Promo consigliata:** Proponi qualcosa di molto vantaggioso, come uno sconto del 40% o un regalo con un acquisto. Queste offerte possono aumentare di 4 volte le possibilità che un cliente assente da tempo decida di tornare.
 
 **📝 Recensioni**
 
-Questa speciale Autopromo non include una promozione associata, ma invita i clienti a recensire la tua attività. Puoi scegliere la piattaforma (Google, Tripadvisor o Facebook) e inserire il link diretto alla tua pagina di recensioni. L'invito viene inviato 2 ore dopo che un cliente ha ritirato un premio, per sfruttare il momento di entusiasmo e aumentare le probabilità di ottenere recensioni positive.
+Questa speciale Autopromo non include una promozione associata, ma invita i clienti a recensire la tua attività. Puoi scegliere la piattaforma (Google, Tripadvisor o Facebook) e inserire il link diretto alla tua pagina di recensioni. L'invito viene inviato 2 ore dopo che un cliente ha ritirato un premio, per sfruttare il momento di entusiasmo e aumentare le probabilità di ottenere recensioni positive. Ogni cliente lo riceve **una sola volta**, anche se ritira altri premi in seguito.
 
 ---
 
