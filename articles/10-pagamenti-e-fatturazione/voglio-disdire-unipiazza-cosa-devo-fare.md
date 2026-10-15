@@ -22,14 +22,14 @@ Per avviare la disdetta, [contattaci al nostro numero WhatsApp 388 8665987](http
 
 In base alla **data del tuo contratto**, cambia ciò che va restituito:
 
-📅 **Contratti firmati prima del 1° settembre 2025<br>**Devi restituire l’intero **Kit Unipiazza**:
+📅 **Contratti firmati prima del 1° settembre 2025**<br>Devi restituire l’intero **Kit Unipiazza**:
 
 -   **Tablet Chiosco** (inclusa la cornice di supporto)
     
 -   **Smartphone Gestore**, se fornito
     
 
-📅 **Contratti firmati dal 1° settembre 2025 in poi<br>**Dal 1° settembre 2025 i clienti acquistano direttamente il Kit più adatto alla propria attività:
+📅 **Contratti firmati dal 1° settembre 2025 in poi**<br>Dal 1° settembre 2025 i clienti acquistano direttamente il Kit più adatto alla propria attività:
 
 -   Se hai acquistato un **Kit Full**, il **Tablet rimane tuo per sempre** e **non va restituito**.
     
