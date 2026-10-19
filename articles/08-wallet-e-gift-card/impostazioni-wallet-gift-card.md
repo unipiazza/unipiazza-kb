@@ -8,7 +8,7 @@ description: 'La sezione "Impostazioni Wallet & Gift Card" ti permette di attiva
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-10-15'
+updated_at: '2026-10-19'
 last_synced: '2026-10-15'
 ---
 
@@ -32,7 +32,7 @@ Nella sezione "[Impostazioni Wallet & Gift Card](https://partner.unipiazza.it/wa
     
 -   **Promuovi un Taglio di Ricarica Specifico:** Scegli quale taglio di ricarica vuoi etichettare come 'Il più scelto' per influenzare la scelta dei clienti, rendendolo più attraente.
     
--   **Attiva le Gift Card:** Questa opzione ti permette di vendere Gift Card che i clienti possono regalare o utilizzare come credito prepagato, incrementando ulteriormente le vendite anticipate.
+-   **Attiva le Gift Card:** Questa opzione ti permette di vendere Gift Card che i clienti possono regalare o utilizzare come credito prepagato, incrementando ulteriormente le vendite anticipate. Per venderle ti servono le Tessere Fedeltà, perché ogni GiftCard viene caricata su una tessera nuova che consegni al cliente (va bene una qualunque fra quelle che ti abbiamo spedito). Trovi tutti i passaggi in [Cosa sono e come si attivano le GiftCard?](https://supporto.unipiazza.it/it/wallet-e-gift-card/cosa-sono-e-come-si-attivano-le-giftcard).
     
 -   **Imposta i Tagli di Acquisto per le Gift Card:** Similmente al Wallet, puoi impostare fino a sei diversi tagli di acquisto per le Gift Card (cinque se attivi l'opzione "Altro importo"), come 20€, 50€, 100€, offrendo una gamma di opzioni per i regali.
     

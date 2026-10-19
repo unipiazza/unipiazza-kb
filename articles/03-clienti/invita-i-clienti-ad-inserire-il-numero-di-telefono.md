@@ -21,6 +21,8 @@ last_synced: '2026-09-07'
 
 Dalla versione 6.0.0 del Chiosco Unipiazza, i tuoi clienti possono raccogliere Gettoni anche senza Tessera o App. Basta digitare il proprio numero di telefono sul Chiosco Fedeltà. Qui scopri due modi rapidi per invitare ogni cliente ad aggiornare il proprio profilo aggiungendo il numero di telefono.
 
+<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota Bene!</strong> Il numero di telefono sostituisce la Tessera Fedeltà per raccogliere Gettoni e usare il Wallet. Per le GiftCard invece la Tessera Fedeltà serve sempre, perché il credito regalato viene caricato su una tessera nuova. Scopri come in <a target="_blank" rel="noopener noreferrer nofollow" href="https://supporto.unipiazza.it/it/wallet-e-gift-card/cosa-sono-e-come-si-attivano-le-giftcard">Cosa sono e come si attivano le GiftCard?</a></p></td></tr></tbody></table>
+
 **1️⃣ Aggiorna il Profilo direttamente dal Chiosco.**
 
 **Cosa dire al cliente**

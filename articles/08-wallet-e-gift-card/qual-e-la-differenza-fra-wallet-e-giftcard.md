@@ -8,7 +8,7 @@ description: 'Il Wallet è un credito prepagato per pagare più velocemente in c
 status: published
 written_by: 2961
 locale: it
-updated_at: '2024-12-24'
+updated_at: '2026-10-19'
 last_synced: '2026-06-10'
 ---
 
