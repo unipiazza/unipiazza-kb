@@ -4,7 +4,7 @@ collection_id: 7182
 collection: "📢 Campagne, Autopromo e Whatsapp"
 title: "Cosa sono le Campagne Marketing e come si creano?"
 slug: cosa-sono-le-campagne-marketing-e-come-si-creano
-description: "Le Campagne Marketing permettono di inviare email e notifiche ai clienti per motivarli a tornare a trovarti o aggiornarli sulle ultime novità della tua attività."
+description: "Le Campagne Marketing permettono di raggiungere i tuoi clienti con email, notifiche dell'app e messaggi RCS, per motivarli a tornare a trovarti o aggiornarli sulle ultime novità della tua attività."
 status: published
 written_by: 2961
 keywords:
@@ -21,11 +21,11 @@ keywords:
 sort: 0
 is_featured: false
 locale: it
-updated_at: '2026-10-15'
-last_synced: '2026-10-15'
+updated_at: '2026-10-19'
+last_synced: '2026-10-19'
 ---
 
-Le [Campagne](https://partner.unipiazza.it/campagne) marketing sono un pezzo forte del tuo programma fedeltà. Con queste, puoi mandare email e notifiche push ai tuoi clienti per far conoscere un prodotto, un evento, una promozione o qualsiasi cosa tu voglia.
+Le [Campagne](https://partner.unipiazza.it/campagne) marketing sono un pezzo forte del tuo programma fedeltà. Con queste puoi raggiungere i tuoi clienti con email, notifiche dell'app e messaggi RCS, per far conoscere un prodotto, un evento, una promozione o qualsiasi cosa tu voglia.
 
 Sono di 3 tipologie diverse in base all'obiettivo che vuoi raggiungere:
 
@@ -38,6 +38,18 @@ Sono di 3 tipologie diverse in base all'obiettivo che vuoi raggiungere:
 <div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/tQJRWodvYyA" frameborder="0" allowfullscreen="true"></iframe></div>
 
 *⚠️ Il video mostra l'interfaccia precedente.*
+
+**Su quali canali arriva la tua campagna**
+
+Ogni cliente riceve la campagna dai canali che ha a disposizione e in base alle preferenze che ha scelto nelle impostazioni del suo profilo. I canali sono tre:
+
+1. 📧 **Email**: arriva a chi ha lasciato un indirizzo valido e ha dato il consenso alle email.
+2. 📲 **Notifica dell'app**: arriva a chi ha installato l'app Unipiazza sul telefono.
+3. 💬 **RCS**: arriva a chi ha lasciato il **numero di telefono** e ha uno smartphone compatibile (dipende dal modello e dall'operatore, e non tutti lo sono). È il messaggio che il cliente trova nell'app Messaggi, come un normale SMS, e non richiede l'app Unipiazza. [Scopri come funzionano gli RCS](https://supporto.unipiazza.it/it/articles/43309-cosa-sono-gli-rcs).
+
+**E se il cliente non ha l'email?** Può ricevere la campagna con la notifica dell'app o con l'RCS, se ha uno dei due. Se non ha nessuno dei tre canali, la campagna non può arrivargli. Per questo all'iscrizione conviene chiedere sempre l'email, che resta il recapito più prezioso, e anche il numero di telefono.
+
+Quanti dei tuoi clienti sono raggiungibili, e su quale canale, lo vedi in Clienti, poi Analisi clienti, nel riquadro "Clienti contattabili". Se una campagna è arrivata a meno persone del previsto, trovi i motivi in [Perché la campagna è arrivata a meno clienti di quelli selezionati?](https://supporto.unipiazza.it/it/articles/65381-perche-la-campagna-e-arrivata-a-meno-clienti-di-quelli-selezionati).
 
 Ecco come creare una campagna passo passo:
 

@@ -6,15 +6,15 @@ title: "Cosa sono gli RCS e come funzionano con Unipiazza?"
 slug: cosa-sono-gli-rcs
 description: "Gli RCS (Rich Communication Services) sono l'evoluzione degli SMS: messaggi più interattivi, ricchi di contenuti e senza costi. Scopri come usarli con Unipiazza!"
 status: published
-written_by: 45263
+written_by: 2961
 keywords:
   - rcs
   - sms
 sort: 9
 is_featured: false
 locale: it
-updated_at: '2026-06-22'
-last_synced: '2026-06-22'
+updated_at: '2026-10-19'
+last_synced: '2026-10-19'
 ---
 
 Gli **RCS** (Rich Communication Services) sono i nuovi messaggi "evoluti" che stanno rimpiazzando gli SMS tradizionali su molti smartphone. Funzionano come una chat e permettono di inviare testi, immagini, pulsanti e link in modo più moderno, simile a WhatsApp o Telegram.
@@ -31,7 +31,7 @@ Ecco una panoramica semplice per capire le differenze:
 
 Gli RCS sono **attivi e gratuiti su tutti i piani**!
 
-Se il tuo cliente ha inserito il numero di telefono in fase di iscrizione (o successivamente dal suo profilo), ogni volta che invii una [**Campagna**](https://supporto.unipiazza.it/it/campagne-e-autopromo/cosa-sono-le-campagne-marketing-e-come-si-creano) o un'[**Autopromo**](https://supporto.unipiazza.it/it/campagne-e-autopromo/cosa-sono-le-autopromo), il cliente riceverà il messaggio **sia via email che via RCS** e nelle statistiche di invio troverai il dettaglio su quanti RCS sono stati inviati e aperti.
+Ogni volta che invii una [**Campagna**](https://supporto.unipiazza.it/it/campagne-e-autopromo/cosa-sono-le-campagne-marketing-e-come-si-creano) o un'[**Autopromo**](https://supporto.unipiazza.it/it/campagne-e-autopromo/cosa-sono-le-autopromo), il messaggio arriva **via RCS** ai clienti che hanno inserito il numero di telefono (all'iscrizione o dal loro profilo) e hanno un telefono compatibile. Gli altri clienti la ricevono via email o con la notifica dell'app, se hanno uno dei due. In ogni caso contano anche le preferenze che il cliente ha scelto nelle impostazioni del suo profilo. Nelle statistiche di invio trovi quanti RCS sono stati inviati e aperti.
 
 > ⚠️ **Nota sulle aperture RCS:** il tasso di apertura mostrato potrebbe risultare più basso rispetto al reale, perché i dati di lettura vengono trasmessi solo dai clienti che hanno salvato il tuo numero in rubrica.
 
@@ -43,4 +43,4 @@ Eccoti alcuni esempi di come appare un messaggio RCS ad un cliente Unipiazza �
 
 **4. Informazioni aggiuntive**
 
-Ad oggi (aprile 2025), **gli RCS non sono compatibili con dispositivi Apple né con operatori Vodafone**. Per questo motivo, **solo il 35% degli utenti Unipiazza può riceverli**. Il restante 65% riceverà in ogni caso le comunicazioni via email e via notifica push con la nostra App Unipiazza.
+Gli RCS non arrivano a tutti. Servono un numero di telefono e uno smartphone compatibile, e oggi molti numeri non lo sono (dipende dal modello e dall'operatore). Chi non può riceverli riceve comunque la campagna via email, se ha un indirizzo valido, o con la notifica dell'app, se l'ha installata.
