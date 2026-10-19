@@ -31,7 +31,7 @@ Se il Booster è attivo, in automatico il cliente riceverà i suoi gettoni omagg
     
 -   **Stato**: Mostra se il Booster è attivo o no.
     
--   **Visite generate:** Numero di visite in cui i clienti hanno approfittato del Booster. Se lo stesso cliente viene più volte, ogni visita viene contata.
+-   **Visite generate:** Numero di visite in cui i clienti hanno approfittato del Booster.
     
 -   **Profitti generati**: L'incasso ottenuto grazie al Booster, cioè l'importo intero degli acquisti fatti con il Booster attivo. Non è il guadagno netto, perché i tuoi costi non vengono sottratti.
     
