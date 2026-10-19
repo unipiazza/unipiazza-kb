@@ -9,7 +9,7 @@ status: published
 written_by: 2961
 locale: it
 updated_at: '2026-10-19'
-last_synced: '2026-10-15'
+last_synced: '2026-10-19'
 ---
 
 <div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/2dLSuiFcImo" frameborder="0" allowfullscreen="true"></iframe></div>
