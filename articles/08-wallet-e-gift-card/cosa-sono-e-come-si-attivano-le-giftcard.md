@@ -4,7 +4,7 @@ collection_id: 7199
 collection: 💳 Wallet e Gift Card
 title: Cosa sono e come si attivano le GiftCard?
 slug: cosa-sono-e-come-si-attivano-le-giftcard
-description: 'Le GiftCard Unipiazza, un''estensione del Wallet, permettono ai clienti di regalare credito da spendere in una specifica attività commerciale. '
+description: 'Le GiftCard Unipiazza permettono ai clienti di regalare credito da spendere nella tua attività. Il credito vive nel cloud e si carica su una Tessera Fedeltà.'
 status: published
 written_by: 2961
 locale: it
