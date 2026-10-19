@@ -15,3 +15,5 @@ Customerly e conserva i campi obbligatori per l'upsert: non rimuoverlo. È un **
 Specifica completa in `BRIEF.md` [[BRIEF]] · audit dei problemi aperti in `AUDIT-KB.md`.
 
 > Le istruzioni operative per Claude stanno nel `CLAUDE.md` di questa cartella.
+
+- Confronto con il sito V3: [[CONFRONTO-SITO-V3]]
