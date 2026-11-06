@@ -1,7 +1,7 @@
 ---
 article_id:
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "WhatsApp non funziona o risulta bloccato: cosa controllare?"
 slug: whatsapp-non-funziona-o-risulta-bloccato
 description: "La scelta WhatsApp è grigia, la campagna non parte o hai raggiunto il limite? Ecco cosa controllare, un passo alla volta."

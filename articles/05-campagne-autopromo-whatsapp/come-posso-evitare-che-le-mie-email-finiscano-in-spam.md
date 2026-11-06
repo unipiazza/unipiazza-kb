@@ -1,7 +1,7 @@
 ---
 article_id: 37262
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Come posso evitare che le mie Email finiscano in Spam?"
 slug: come-posso-evitare-che-le-mie-email-finiscano-in-spam
 description: "Scopri perché le email possono finire nello spam e segui i nostri consigli pratici per migliorare la ricezione delle tue campagne."

@@ -1,7 +1,7 @@
 ---
 article_id: 61974
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Il Calendario Eventi: trova l'occasione giusta per la tua prossima campagna"
 slug: calendario-marketing-unipiazza
 description: "93 date e ricorrenze selezionate per locali e negozi italiani: festività, giornate mondiali, eventi sportivi e culturali. Ogni occasione è già pronta con idee di campagna."

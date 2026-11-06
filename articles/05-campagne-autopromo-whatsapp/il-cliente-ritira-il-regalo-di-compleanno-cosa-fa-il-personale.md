@@ -1,7 +1,7 @@
 ---
 article_id:
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Il cliente viene a ritirare il regalo di compleanno: cosa deve fare il personale?"
 slug: il-cliente-ritira-il-regalo-di-compleanno-cosa-fa-il-personale
 description: "Due passaggi, uno su Unipiazza e uno sul registratore di cassa. Vale per il Compleanno e per tutte le promo delle Autopromo."
@@ -24,10 +24,10 @@ keywords:
 sort: 4
 is_featured: false
 locale: it
-updated_at: '2026-10-16'
+updated_at: '2026-11-06'
 ---
 
-Un cliente entra e ti dice «Mi è arrivato il regalo di compleanno!». Ottimo, l'Autopromo sta lavorando per te 🎂 Per consegnarlo nel modo giusto servono due passaggi, uno su Unipiazza e uno sul registratore di cassa. Funziona allo stesso modo per tutte le promo delle Autopromo, come Prima visita, A rischio e Dormienti.
+Un cliente entra e ti dice «Mi è arrivato il regalo di compleanno!». Ottimo, l'Automazione sta lavorando per te 🎂 Per consegnarlo nel modo giusto servono due passaggi, uno su Unipiazza e uno sul registratore di cassa. Funziona allo stesso modo per tutte le promozioni delle Automazioni, come Prima visita, A rischio e Dormienti. Se come premio hai scelto dei gettoni o una ricarica del Wallet, non c'è niente da ritirare, perché sono già sul saldo del cliente.
 
 **1. Ritira la promo su Unipiazza**
 
@@ -47,10 +47,10 @@ Questo passaggio è solo fiscale e su Unipiazza non c'è niente da fare. Se la p
 
 **Qualche dubbio frequente**
 
-⏳ **Quanto tempo ha il cliente per ritirarla?**<br>Lo decidi tu con **Scade dopo** nella sezione Autopromo. I giorni si contano da quando la promo arriva, cioè 3 giorni prima del compleanno. Con 3 giorni la promo scade il giorno prima del compleanno, quindi scegli almeno 7 giorni. Se il cliente non l'ha ancora ritirata, 2 giorni prima della scadenza gli arriva un promemoria.
+⏳ **Quanto tempo ha il cliente per ritirarla?**<br>Lo decidi tu in **Il cliente ha tempo di usarla**, nella sezione Automazioni. I giorni si contano da quando la promozione arriva, che di partenza è 3 giorni prima del compleanno. Se è valida solo 3 giorni scade prima del compleanno, quindi scegli almeno 7 giorni. Puoi anche attivare un promemoria, che arriva prima della scadenza se il cliente non l'ha ancora ritirata.
 
 📅 **La promo è scaduta, cosa faccio?**<br>Una promo scaduta non compare più, né sul Chiosco né in **Scarica premio**. Se vuoi fargli il regalo lo stesso, decidi tu. Su Unipiazza non c'è niente da ritirare, ma l'omaggio va comunque battuto sul registratore di cassa.
 
-🎂 **Perché un cliente non ha ricevuto il regalo?**<br>L'Autopromo Compleanno arriva solo ai clienti che hanno inserito la data di nascita e che sono già passati da te almeno una volta. Non parte se nei giorni di validità della promo hai attiva la Modalità Vacanza. Puoi far chiedere la data di nascita già all'iscrizione, come spiegato in [Come attivare il Compleanno all'iscrizione](https://supporto.unipiazza.it/it/articles/65570-come-attivare-compleanno-all-iscrizione).
+🎂 **Perché un cliente non ha ricevuto il regalo?**<br>L'Automazione Compleanno arriva solo ai clienti che hanno inserito la data di nascita e che sono già passati da te almeno una volta. Non parte se nei giorni di validità della promo hai attiva la Modalità Vacanza. Puoi far chiedere la data di nascita già all'iscrizione, come spiegato in [Come attivare il Compleanno all'iscrizione](https://supporto.unipiazza.it/it/articles/65570-come-attivare-compleanno-all-iscrizione).
 
-Vuoi sapere come si imposta il regalo? Leggi [Cosa sono e come funzionano le Autopromo?](https://supporto.unipiazza.it/it/articles/27453-cosa-sono-le-autopromo). Se qualcosa non torna, scrivici su WhatsApp al **388 8665987**, siamo qui per aiutarti!
+Vuoi sapere come si imposta il regalo? Leggi [Cosa sono e come funzionano le Automazioni?](https://supporto.unipiazza.it/it/articles/27453-cosa-sono-le-autopromo). Se qualcosa non torna, scrivici su WhatsApp al **388 8665987**, siamo qui per aiutarti!

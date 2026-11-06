@@ -1,7 +1,7 @@
 ---
 article_id: 30681
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Posso inviare una campagna solo ad alcuni clienti?"
 slug: posso-inviare-una-campagna-solo-ad-alcuni-clienti
 description: "Ecco come puoi selezionare solo alcuni clienti per inviargli una campagna marketing"

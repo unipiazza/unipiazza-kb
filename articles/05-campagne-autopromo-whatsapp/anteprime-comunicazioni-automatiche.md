@@ -1,13 +1,14 @@
 ---
 article_id: 63782
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Le comunicazioni automatiche: come appaiono ai tuoi clienti"
 slug: anteprime-comunicazioni-automatiche
-description: "Scopri il testo di ogni messaggio automatico che Unipiazza invia ai tuoi clienti, via Email, RCS e WhatsApp."
+description: "Scopri i testi già pronti dei messaggi automatici che Unipiazza invia ai tuoi clienti, e che puoi cambiare quando vuoi."
 status: published
 written_by: 2961
 keywords:
+  - automazioni
   - autopromo
   - comunicazioni
   - anteprime
@@ -17,17 +18,17 @@ is_featured: false
 last_synced: '2026-10-15'
 ---
 
-Qui trovi il testo di ogni comunicazione automatica che Unipiazza invia ai tuoi clienti, via **Email, messaggi RCS e WhatsApp**. Il contenuto è lo stesso sui tre canali (cambia solo il formato grafico).
+Qui trovi i testi già pronti delle comunicazioni automatiche che Unipiazza invia ai tuoi clienti, via **email, notifica dell'app e RCS**. Il formato cambia da un canale all'altro, ma il messaggio è lo stesso.
 
-> 🔒 Al momento i testi sono fissi e non personalizzabili dal gestionale. Stiamo lavorando per rendere questa funzione disponibile per tutti i tipi di comunicazione.
+> ✏️ **Questi testi li puoi cambiare.** Li modifichi dalla sezione **Automazioni**, nel blocco **Il messaggio** di ogni Automazione. Se non li tocchi, il cliente riceve quelli che vedi qui. Su WhatsApp invece arriva sempre il messaggio standard approvato da Meta, come spieghiamo in [Come attivare WhatsApp sulle tue Automazioni](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo).
 
-I nomi negli esempi ("Marco") e il nome dell'attività ("Bar Centrale") vengono personalizzati automaticamente con i dati reali di ogni cliente.
+I nomi negli esempi ("Marco") e il nome dell'attività ("Bar Centrale") vengono personalizzati in automatico con i dati reali di ogni cliente. Sotto trovi i testi delle promozioni. Se scegli gettoni, una ricarica del Wallet o solo un messaggio, il testo di partenza cambia di conseguenza e lo vedi nell'editor.
 
 ---
 
 ## 👋 Iscrizione al programma fedeltà
 
-*Inviato nel momento in cui il cliente si iscrive al Chiosco Unipiazza.*
+*Inviato quando il cliente si iscrive. Lo puoi sostituire con il [Messaggio di benvenuto personalizzato](https://supporto.unipiazza.it/it/articles/LINK_BENVENUTO).*
 
 > 👋 **Benvenuto Marco nel nostro Programma Fedeltà!**
 >
@@ -40,39 +41,47 @@ I nomi negli esempi ("Marco") e il nome dell'attività ("Bar Centrale") vengono 
 
 ---
 
-## 1️⃣ Prima Visita
+## 1️⃣ Prima visita
 
-*Inviata 24 ore dopo la prima raccolta gettoni. Scade dopo il numero di giorni impostato (default: 7 giorni).*
+*Inviata dopo la prima raccolta gettoni, con l'attesa che scegli (di partenza 24 ore).*
 
-> **[Testo dell'offerta impostato dal gestore]** — valido fino al [data di scadenza]
+> **[Testo promozione impostato da te]**, valido fino al [data di scadenza]
 >
 > Marco, abbiamo pensato di farti un piccolo regalo per complimentarci della tua prima raccolta gettoni da noi. Passa a ritirarlo, ti aspettiamo!
+
+## ⏰ Promemoria Prima visita, A rischio e Dormienti
+
+*Inviato prima della scadenza, se il cliente non ha ancora ritirato la promozione. L'anticipo lo scegli tu.*
+
+> **[Testo promozione impostato da te]**, valido fino al [data di scadenza]
+>
+> Marco, il regalo che abbiamo riservato per te aspetta solo di essere ritirato! Passa a trovarci da Bar Centrale entro il [data], ti aspettiamo!
 
 ---
 
 ## 🎂 Compleanno
 
-*Inviata 3 giorni prima del compleanno del cliente. Scade dopo il numero di giorni impostato (default: 7 giorni).*
+*Inviata prima del compleanno del cliente, con l'anticipo che scegli (di partenza 3 giorni).*
 
-> **[Testo dell'offerta impostato dal gestore]** — valido fino al [data di scadenza]
+> **[Testo promozione impostato da te]**, valido fino al [data di scadenza]
 >
 > Marco, un uccellino ci ha riferito che sta per arrivare il tuo compleanno 🎂. Per festeggiarti abbiamo deciso di farti un regalo! Affrettati, hai tempo fino al [data] per ritirare il nostro omaggio.
 
-## ⏰ Reminder Compleanno
+## ⏰ Promemoria Compleanno
 
-*Inviato automaticamente 2 giorni prima della scadenza, se il cliente non ha ancora ritirato il premio.*
+*Inviato prima della scadenza, se il cliente non ha ancora ritirato la promozione. L'anticipo lo scegli tu.*
 
-> **[Testo dell'offerta impostato dal gestore]** — valido fino al [data di scadenza]
+> **[Testo promozione impostato da te]**, valido fino al [data di scadenza]
 >
-> Marco, tanti auguri di compleanno da tutti noi 🎂! Volevamo ricordarti che c'è un premio che ti aspetta qui da noi! Passa a ritirarlo entro il [data], ti aspettiamo!
+> Marco, volevamo ricordarti che c'è un regalo di compleanno che ti aspetta da Bar Centrale! Passa a ritirarlo entro il [data], ti aspettiamo!
 
 ---
 
-## 😖 A Rischio
+## 😖 A rischio
 
-*Inviata quando il cliente non torna da più tempo della soglia "a rischio" del tuo settore. Scade dopo il numero di giorni impostato (default: 7 giorni).*
+*Inviata quando il cliente non torna da più giorni di quelli che hai scelto (di partenza 30).*
 
-> **[Testo dell'offerta impostato dal gestore]** — valido fino al [data di scadenza]
+> **[Testo promozione impostato da te]**, valido fino al [data di scadenza]
 >
 > Hai capito bene, abbiamo un premio per te Marco! Passa a trovarci entro il [data] per ritirarlo!
 
@@ -80,42 +89,40 @@ I nomi negli esempi ("Marco") e il nome dell'attività ("Bar Centrale") vengono 
 
 ## 😴 Dormienti
 
-*Inviata quando l'assenza del cliente si prolunga oltre la fase "a rischio". Scade dopo il numero di giorni impostato (default: 7 giorni).*
+*Inviata quando il cliente entra nella lista Inattivi.*
 
-> **[Testo dell'offerta impostato dal gestore]** — valido fino al [data di scadenza]
+> **[Testo promozione impostato da te]**, valido fino al [data di scadenza]
 >
-> Marco è da un po' che non ti vediamo, perché non passi a salutarci? Vieni a ritirare il tuo premio entro il [data], ti aspettiamo!
-
-## ⏰ Reminder A Rischio e Dormienti
-
-*Inviato automaticamente 2 giorni prima della scadenza, se il cliente non ha ancora ritirato il premio.*
-
-> **[Testo dell'offerta impostato dal gestore]** — valido fino al [data di scadenza]
->
-> Marco, il premio che trovi qui sopra aspetta solo te! Passa a ritirarlo entro i prossimi due giorni, ti aspettiamo!
+> Marco è da un po' che non ti vediamo, perché non passi a salutarci? Vieni a ritirare il tuo regalo entro il [data], ti aspettiamo!
 
 ---
 
-## 🆕 Invita un Amico
+## 🆕 Invita un amico
 
-*Inviata dopo la 3ª visita del cliente.*
+*Inviata alla visita che scegli (di partenza la terza).*
 
-> Marco, ti piace Bar Centrale? Invita un amico ad iscriversi al programma fedeltà! Il tuo amico riceverà subito [X] gettoni di benvenuto e tu ne sbloccherai altrettanti appena raccoglierà i suoi primi gettoni. Puoi invitarlo tramite WhatsApp, Facebook, Telegram o email.
+> **Guadagna [X] gettoni per ogni amico che inviti!**
+>
+> Marco ti piace Bar Centrale? Invita un amico ad iscriversi al nostro programma fedeltà! Il tuo amico riceverà subito [X] gettoni e tu ne sbloccherai [X] appena lui raccoglierà i suoi primi gettoni!
 
-## ⏰ Reminder Invita un Amico
+## 🙌 Grazie a chi ha invitato
 
-*Inviato se il cliente non ha ancora invitato nessun amico.*
+*Inviata quando l'amico raccoglie i suoi primi gettoni.*
 
-> Marco, lo sapevi che puoi guadagnare gettoni ogni volta che un amico si iscrive grazie a te? Invitalo subito: lui riceve [X] gettoni di benvenuto e tu ne sblocchi altrettanti appena raccoglierà i suoi primi gettoni!
+> **😍 Grazie Marco! Ecco i tuoi [X] gettoni omaggio!**
+>
+> Laura ha appena effettuato il suo primo acquisto e ti ha fatto guadagnare [X] gettoni. Grazie ancora per averci aiutati a crescere!
 
 ---
 
 ## ⭐ Recensioni
 
-*Inviata 2 ore dopo che il cliente ha ritirato un premio, una sola volta per cliente. La piattaforma di recensione (Google, Tripadvisor o Facebook) la scegli tu.*
+*Inviata dopo il ritiro del primo premio oppure dopo la visita che scegli, una sola volta per cliente. La piattaforma (Google, Tripadvisor o Facebook) la scegli tu.*
 
-> Marco, ti è piaciuto il nostro servizio o hai dei suggerimenti da proporci? Lasciaci una recensione su Google per aiutarci a crescere!
+> **Aiuta Bar Centrale a migliorare! 💗**
+>
+> Marco ti è piaciuto il nostro servizio o hai dei suggerimenti da proporci? Lasciaci una recensione su Google per aiutarci a crescere!
 
 ---
 
-👈 [Torna all'articolo sulle Autopromo](https://supporto.unipiazza.it/it/articles/27453-cosa-sono-le-autopromo) per scoprire come configurarle.
+👈 [Torna all'articolo sulle Automazioni](https://supporto.unipiazza.it/it/articles/27453-cosa-sono-le-autopromo) per scoprire come configurarle.

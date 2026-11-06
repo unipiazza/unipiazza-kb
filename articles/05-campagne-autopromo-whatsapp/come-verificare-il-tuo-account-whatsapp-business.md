@@ -1,7 +1,7 @@
 ---
 article_id: 61640
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Come verificare il tuo account WhatsApp Business"
 slug: come-verificare-il-tuo-account-whatsapp-business
 description: "Verifica la tua attività su Meta e passa da 250 a 2.000 clienti contattabili su WhatsApp ogni 24 ore."
@@ -11,11 +11,11 @@ keywords: []
 sort: 10
 is_featured: false
 locale: it
-updated_at: '2026-10-16'
+updated_at: '2026-11-06'
 last_synced: '2026-06-19'
 ---
 
-Hai collegato il tuo account WhatsApp Business? Ottimo! Di partenza Meta ti fa scrivere a **250 clienti diversi ogni 24 ore**. Il limite conta le persone, non i messaggi, e vale su tutte le campagne e le Autopromo insieme. Per salire a **2.000 clienti ogni 24 ore** devi completare la verifica dell'azienda su Meta.
+Hai collegato il tuo account WhatsApp Business? Ottimo! Di partenza Meta ti fa scrivere a **250 clienti diversi ogni 24 ore**. Il limite conta le persone, non i messaggi, e vale su tutte le campagne e le Automazioni insieme. Per salire a **2.000 clienti ogni 24 ore** devi completare la verifica dell'azienda su Meta.
 Ecco una guida semplice, passo dopo passo, per farlo correttamente.
 
 **Dove iniziare**

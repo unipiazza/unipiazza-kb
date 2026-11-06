@@ -1,7 +1,7 @@
 ---
 article_id: 30013
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Dove si possono scaricare immagini gratuite per le Campagne?"
 slug: dove-si-possono-scaricare-immagini-gratuite-per-le-campagne
 description: "Per immagini gratuite per le tue campagne, utilizza Pexels e Pixabay, che offrono una vasta scelta di foto di alta qualità senza costi."

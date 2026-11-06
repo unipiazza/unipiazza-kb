@@ -15,7 +15,7 @@ keywords:
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2025-08-14'
+updated_at: '2026-11-06'
 last_synced: '2026-06-19'
 ---
 
@@ -34,5 +34,5 @@ Ecco cosa trovi in dettaglio:
 <table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento: </strong>Crea dei Booster gettoni per aumentare il traffico dei clienti nei giorni o nelle fasce orarie in cui hai meno affluenza e invia loro una campagna marketing per farglielo sapere!</p></td></tr></tbody></table>
 
 - **Età:** L'età dei tuoi clienti in percentuale, utile per capire cosa potrebbero volere di più e per le tue campagne marketing.
-- **Clienti contattabili:** Quanti clienti hanno detto sì a ricevere le tue campagne e le autopromo, e il canale di contatto: email, messaggio RCS e notifica app.
+- **Clienti contattabili:** Quanti clienti hanno detto sì a ricevere le tue campagne e le Automazioni, e il canale di contatto: email, messaggio RCS e notifica app.
 - **Clienti per categoria:** Un grafico che mostra la suddivisione dei tuoi clienti in Nuovi, Regolari, VIP, Ti seguono, Inattivi e A Rischio.

@@ -18,11 +18,11 @@ keywords:
 sort: 7
 is_featured: false
 locale: it
-updated_at: '2026-10-16'
+updated_at: '2026-11-06'
 last_synced: '2026-06-19'
 ---
 
-> 💡 **Due passaggi diversi.** Questa guida riguarda solo il **registratore di cassa**. Prima il cliente ritira il Premio o la promo su Unipiazza, cioè sul Chiosco o dal Gestionale con **Azioni** e poi **Scarica premio**. Poi tu batti lo scontrino come spieghiamo qui sotto. Vale per i Premi e anche per gli omaggi delle Autopromo, come il regalo di compleanno.
+> 💡 **Due passaggi diversi.** Questa guida riguarda solo il **registratore di cassa**. Prima il cliente ritira il Premio o la promo su Unipiazza, cioè sul Chiosco o dal Gestionale con **Azioni** e poi **Scarica premio**. Poi tu batti lo scontrino come spieghiamo qui sotto. Vale per i Premi e anche per gli omaggi delle Automazioni, come il regalo di compleanno.
 
 ## 1. Cosa fare alla cassa quando consegni il premio?
 

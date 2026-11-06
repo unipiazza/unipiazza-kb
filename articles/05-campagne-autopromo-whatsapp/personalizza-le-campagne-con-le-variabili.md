@@ -1,7 +1,7 @@
 ---
 article_id: 67839
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Personalizza le tue Campagne con le Variabili"
 slug: personalizza-le-campagne-con-le-variabili
 description: "Con le variabili ogni cliente trova nella tua campagna il proprio nome, il proprio saldo Gettoni e molto altro. Ecco come inserirle."

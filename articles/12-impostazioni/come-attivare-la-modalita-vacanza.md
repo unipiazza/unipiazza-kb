@@ -8,13 +8,13 @@ description: Se vai in ferie o ti prendi qualche giorno di pausa, avvisa i tuoi 
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-09-18'
+updated_at: '2026-11-06'
 last_synced: '2026-09-18'
 ---
 
 Prima di abbassare la serranda per qualche giorno o settimana, è bene avvisare i tuoi clienti. Con Unipiazza lo fai in un minuto dal Gestionale, attivando la Modalità Vacanza. 🏖️
 
-Non è solo un avviso di cortesia. Mette anche in pausa le Autopromo, così nessun cliente riceve un omaggio che poi non può ritirare perché trova chiuso.
+Non è solo un avviso di cortesia. Mette anche in pausa le Automazioni con una promozione da ritirare, così nessun cliente riceve un omaggio che poi non può ritirare perché trova chiuso.
 
 ## Cosa succede quando la attivi
 

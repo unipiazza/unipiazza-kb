@@ -13,7 +13,7 @@ keywords:
 sort: 0
 is_featured: false
 locale: it
-updated_at: '2026-10-15'
+updated_at: '2026-11-06'
 last_synced: '2026-10-15'
 ---
 
@@ -23,7 +23,7 @@ last_synced: '2026-10-15'
 
 **💌** [**Invita i tuoi clienti ad iscriversi:**](https://supporto.unipiazza.it/it/clienti/quali-sono-le-3-frasi-perfette-per-invitare-un-cliente-a-iscriversi) Ecco cosa ti consigliamo di dire per far iscrivere più clienti possibili
 
-**🎁** [**Attiva le Autopromo:**](https://unipiazza.customerly.help/it/campagne-e-autopromo/cosa-sono-le-autopromo) Ri-contatta i tuoi clienti in modo automatico per farli tornare da te
+**🎁** [**Attiva le Automazioni:**](https://supporto.unipiazza.it/it/articles/27453-cosa-sono-le-autopromo) Ri-contatta i tuoi clienti in modo automatico per farli tornare da te
 
 **📣** [**Crea una campagna per contattare i tuoi clienti:**](https://unipiazza.customerly.help/it/campagne-e-autopromo/come-creo-una-campagna) Invia email, RCS e WhatsApp ai tuoi clienti per informarli su novità, offerte o inviargli una promo!
 

@@ -2,7 +2,7 @@
 article_id: 65381
 collection_id: 7182
 slug: perche-la-campagna-e-arrivata-a-meno-clienti-di-quelli-selezionati
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Perché la campagna è arrivata a meno clienti di quelli selezionati?"
 description: "Il numero dei destinatari cambia lungo il percorso: ecco tutti i motivi, spiegati uno per uno."
 status: published

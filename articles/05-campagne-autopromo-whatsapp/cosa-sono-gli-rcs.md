@@ -1,7 +1,7 @@
 ---
 article_id: 43309
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Cosa sono gli RCS e come funzionano con Unipiazza?"
 slug: cosa-sono-gli-rcs
 description: "Gli RCS (Rich Communication Services) sono l'evoluzione degli SMS: messaggi più interattivi, ricchi di contenuti e senza costi. Scopri come usarli con Unipiazza!"
@@ -13,7 +13,7 @@ keywords:
 sort: 9
 is_featured: false
 locale: it
-updated_at: '2026-10-19'
+updated_at: '2026-11-06'
 last_synced: '2026-10-19'
 ---
 
@@ -31,7 +31,7 @@ Ecco una panoramica semplice per capire le differenze:
 
 Gli RCS sono **attivi e gratuiti su tutti i piani**!
 
-Ogni volta che invii una [**Campagna**](https://supporto.unipiazza.it/it/campagne-e-autopromo/cosa-sono-le-campagne-marketing-e-come-si-creano) o un'[**Autopromo**](https://supporto.unipiazza.it/it/campagne-e-autopromo/cosa-sono-le-autopromo), il messaggio arriva **via RCS** ai clienti che hanno inserito il numero di telefono (all'iscrizione o dal loro profilo) e hanno un telefono compatibile. Gli altri clienti la ricevono via email o con la notifica dell'app, se hanno uno dei due. In ogni caso contano anche le preferenze che il cliente ha scelto nelle impostazioni del suo profilo. Nelle statistiche di invio trovi quanti RCS sono stati inviati e aperti.
+Ogni volta che invii una [**Campagna**](https://supporto.unipiazza.it/it/campagne-e-autopromo/cosa-sono-le-campagne-marketing-e-come-si-creano) o un'[**Automazione**](https://supporto.unipiazza.it/it/campagne-e-autopromo/cosa-sono-le-autopromo), il messaggio arriva **via RCS** ai clienti che hanno inserito il numero di telefono (all'iscrizione o dal loro profilo) e hanno un telefono compatibile. Gli altri clienti la ricevono via email o con la notifica dell'app, se hanno uno dei due. In ogni caso contano anche le preferenze che il cliente ha scelto nelle impostazioni del suo profilo. Nelle statistiche di invio trovi quanti RCS sono stati inviati e aperti.
 
 > ⚠️ **Nota sulle aperture RCS:** il tasso di apertura mostrato potrebbe risultare più basso rispetto al reale, perché i dati di lettura vengono trasmessi solo dai clienti che hanno salvato il tuo numero in rubrica.
 

@@ -1,10 +1,10 @@
 ---
 article_id: 37235
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Personalizza il Mittente delle Tue Campagne Email"
 slug: personalizza-il-mittente-delle-campagne-email
-description: "Guida passo-passo per i gestori di Unipiazza su come personalizzare il mittente delle campagne email e delle autopromo con il proprio dominio."
+description: "Guida passo-passo per i gestori di Unipiazza su come personalizzare il mittente delle campagne email e delle Automazioni con il proprio dominio."
 status: published
 written_by: 2961
 keywords:
@@ -16,7 +16,7 @@ keywords:
 sort: 6
 is_featured: false
 locale: it
-updated_at: '2024-11-18'
+updated_at: '2026-11-06'
 last_synced: '2026-06-19'
 ---
 

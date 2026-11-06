@@ -1,49 +1,64 @@
 ---
 article_id: 61973
 collection_id: 7182
-collection: "📢 Campagne Autopromo e Whatsapp"
-title: "Come attivare WhatsApp sulle tue Autopromo"
+collection: "📢 Campagne, Automazioni e Whatsapp"
+title: "Come attivare WhatsApp sulle tue Automazioni"
 slug: come-attivare-whatsapp-sulle-autopromo
-description: "Aumenta il tasso di lettura delle Autopromo aggiungendo WhatsApp come canale di invio: in pochi secondi lo attivi su ogni singola Autopromo."
+description: "Aggiungi WhatsApp alle tue Automazioni. Lo accendi in pochi secondi su ognuna, dalla pagina di modifica."
 status: published
 written_by: 2961
 keywords:
+  - whatsapp automazioni
   - whatsapp autopromo
   - attivare whatsapp
   - autopromo whatsapp
-  - canali autopromo
+  - canali automazioni
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2026-10-16'
+updated_at: '2026-11-06'
 last_synced: '2026-06-16'
 ---
 
-Le Autopromo già lavorano per te in automatico, raggiungendo i clienti via email, RCS e notifica app. Ora puoi aggiungere anche **WhatsApp**, il canale con i tassi di apertura più alti. 📲
+Le Automazioni lavorano già per te via email, RCS e notifica dell'app. Puoi aggiungere anche **WhatsApp**, il canale con i tassi di apertura più alti 📲 Lo accendi su ogni Automazione singolarmente, così scegli tu dove ha più senso.
 
-Puoi attivare WhatsApp su ogni Autopromo singolarmente: non devi accenderlo su tutte, scegli tu dove ha più senso.
-
-> **Prerequisito**: per attivare WhatsApp sulle Autopromo devi aver già collegato un numero WhatsApp Business al tuo Gestionale Unipiazza, e Meta lo deve aver approvato. Se non l'hai ancora fatto, segui [Come collegare WhatsApp Business a Unipiazza](https://supporto.unipiazza.it/it/articles/61919-come-collegare-whatsapp-business-a-unipiazza). Per costi e limiti leggi [Campagne WhatsApp: come funzionano, quanto costano e come iniziare](https://supporto.unipiazza.it/it/articles/61972-campagne-whatsapp-come-funzionano-costi-e-come-iniziare).
+> **Prerequisito**: devi aver già collegato un numero WhatsApp Business al tuo Gestionale Unipiazza, e Meta lo deve aver approvato. Se non l'hai ancora fatto, segui [Come collegare WhatsApp Business a Unipiazza](https://supporto.unipiazza.it/it/articles/61919-come-collegare-whatsapp-business-a-unipiazza). Per costi e limiti leggi [Campagne WhatsApp: come funzionano, quanto costano e come iniziare](https://supporto.unipiazza.it/it/articles/61972-campagne-whatsapp-come-funzionano-costi-e-come-iniziare).
 
 ## Come si fa
 
-**1. Vai su Autopromo**
-Accedi al Gestionale Unipiazza e apri la sezione **Autopromo**: trovi la tabella con tutte le tue Autopromo (Acquisizione Clienti, Invita un amico, Gettoni bonus iscrizione, Prima visita, Compleanno...).
+**1. Apri l'Automazione**
+Vai nella sezione **Automazioni** del Gestionale e premi la matita sulla riga che ti interessa.
 
-**2. Attiva il toggle WhatsApp sulla riga che ti interessa**
-Ogni riga ha una colonna **Whatsapp** con un interruttore dedicato, separato da quello generale di attivazione dell'Autopromo. Accendilo solo dove ha senso per la tua attività.
+**2. Accendi WhatsApp nel blocco del messaggio**
+In **Il messaggio** trovi i canali. Email, App e RCS sono sempre attivi, mentre **WhatsApp** ha il suo interruttore.
 
-**3. Controlla il costo stimato**
-Appena attivi il toggle, sotto compare subito una **stima del costo mensile** basata sull'utilizzo degli ultimi 30 giorni di quella specifica Autopromo. Non serve nessun passaggio di salvataggio: l'attivazione è immediata.
+**3. Salva**
+Premi **Salva ed esci**. Da quel momento l'Automazione parte anche su WhatsApp.
 
-![Tabella Autopromo con i toggle WhatsApp e la stima costo](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/61973_Autopromo-ToggleWhatsapp.jpg)
+## Cosa riceve il cliente su WhatsApp
+
+Su WhatsApp non arriva il testo che scrivi nel Gestionale. Il cliente riceve il nostro **messaggio standard approvato da Meta**, con i dati della tua offerta. Meta approva ogni modello prima dell'invio, e per questo il testo non si può cambiare.
+
+WhatsApp vale solo per il messaggio principale. Il promemoria arriva sugli altri canali.
+
+## Se non riesci ad accenderlo
+
+Dipende da cosa vedi accanto ai canali.
+
+⏳ **Il template WhatsApp non è ancora approvato per il tuo negozio**<br>Meta sta ancora controllando il modello. L'Automazione funziona sugli altri canali, e puoi accendere WhatsApp appena è pronto.
+
+🚫 **WhatsApp non disponibile**<br>Con il premio che hai scelto non c'è un modello WhatsApp. Succede con **Solo un messaggio**. Iscrizione non ha proprio messaggi, quindi nemmeno WhatsApp.
+
+⚪ **WhatsApp non attivo**<br>Il tuo numero non è ancora collegato o approvato.
+
+Serve anche un'immagine di copertina nella tua Vetrina, perché il messaggio WhatsApp la usa in apertura.
 
 ## Cosa succede dopo l'attivazione?
 
-Una volta attivata, il sistema invia ogni Autopromo dando **priorità al canale WhatsApp** per i clienti che possono riceverla tramite questo canale. Se un cliente non ha WhatsApp collegato o non può ricevere messaggi via WhatsApp, il sistema usa automaticamente email o RCS come sempre.
+Sul telefono del cliente proviamo prima WhatsApp, e se non è raggiungibile mandiamo il messaggio via RCS. Non riceve mai entrambi. Email e notifica dell'app partono comunque, se il cliente le ha disponibili e ha dato il consenso.
 
-Non devi fare nulla: il sistema gestisce tutto in autonomia.
+Non devi fare nulla, il sistema gestisce tutto in autonomia.
 
 ---
 
-Hai dubbi sul costo mensile o vuoi capire meglio come funziona la tariffazione? Leggi [Campagne WhatsApp: come funzionano, quanto costano e come iniziare](https://supporto.unipiazza.it/it/articles/61972-campagne-whatsapp-come-funzionano-costi-e-come-iniziare). 💡
+Hai dubbi sul costo o vuoi capire meglio come funziona la tariffazione? Leggi [Campagne WhatsApp: come funzionano, quanto costano e come iniziare](https://supporto.unipiazza.it/it/articles/61972-campagne-whatsapp-come-funzionano-costi-e-come-iniziare). 💡

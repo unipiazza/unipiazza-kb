@@ -1,7 +1,7 @@
 ---
 article_id: 61919
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Come collegare WhatsApp Business a Unipiazza"
 slug: come-collegare-whatsapp-business-a-unipiazza
 description: "Scopri come collegare il tuo account WhatsApp a Unipiazza"
@@ -16,7 +16,7 @@ keywords:
 sort: 11
 is_featured: false
 locale: it
-updated_at: '2026-10-16'
+updated_at: '2026-11-06'
 last_synced: '2026-10-15'
 ---
 
@@ -28,13 +28,13 @@ Integrare il tuo account **WhatsApp Business** con il gestionale Unipiazza ti pe
 
 ## ✨ Non solo Campagne: un vantaggio in più
 
-Collegare il tuo WhatsApp Business non serve solo a inviare Campagne e Autopromo a pagamento. C'è un altro vantaggio, e per te è completamente gratuito.
+Collegare il tuo WhatsApp Business non serve solo a inviare Campagne e Automazioni a pagamento. C'è un altro vantaggio, e per te è completamente gratuito.
 
 Unipiazza invia già oggi in automatico alcuni **messaggi transazionali** ai tuoi clienti: il benvenuto all'iscrizione, la conferma quando scali un credito dal Wallet, l'avviso di ritiro di un Premio e alcuni promemoria. Quando un cliente si è iscritto con il numero di telefono ma non è compatibile con gli [RCS](https://supporto.unipiazza.it/it/articles/43309-cosa-sono-gli-rcs), questi messaggi gli arrivano via WhatsApp.
 
 Finché non colleghi il tuo numero, partono dal numero WhatsApp di Unipiazza. Appena colleghi il tuo WhatsApp Business, da quel momento in poi arrivano al cliente direttamente dal tuo numero: vede la comunicazione con il nome della tua attività, come se gliela mandassi tu di persona. Molto più professionale e riconoscibile. 💪
 
-> 💡 Tranquillo: a differenza delle Campagne e delle Autopromo WhatsApp, questi messaggi transazionali restano **gratuiti** anche dopo aver collegato il tuo numero.
+> 💡 Tranquillo: a differenza delle Campagne e delle Automazioni WhatsApp, questi messaggi transazionali restano **gratuiti** anche dopo aver collegato il tuo numero.
 
 > 📱 **Il tuo numero resta quello di sempre.** Con la **coexistence** puoi continuare a usare WhatsApp Business dal telefono e da WhatsApp Web per chattare con i clienti, mentre lo stesso numero manda le campagne e le Promozioni automatiche di Unipiazza. Non serve un secondo numero e la coexistence è gratuita.
 
@@ -96,7 +96,7 @@ Se qualcosa va storto (hai chiuso la finestra, è scaduto il tempo, Meta non ha 
 
 Hai completato la configurazione! Ora Meta verifica il numero e prepara i modelli dei messaggi. Nella sezione vedi l'avviso **Migrazione template**, e di solito servono **da 4 a 24 ore**. In questo tempo WhatsApp non si può ancora usare, ed è normale che nella creazione delle campagne la scelta **WhatsApp** resti grigia.
 
-Quando è tutto pronto la sezione dice **WhatsApp è pronto** (oppure **WhatsApp collegato**). Da quel momento puoi inviare le tue prime **Campagne WhatsApp** e accendere WhatsApp sulle **Autopromo**.
+Quando è tutto pronto la sezione dice **WhatsApp è pronto** (oppure **WhatsApp collegato**). Da quel momento puoi inviare le tue prime **Campagne WhatsApp** e accendere WhatsApp sulle **Automazioni**.
 
 ## 📲 Manda un messaggio di prova
 

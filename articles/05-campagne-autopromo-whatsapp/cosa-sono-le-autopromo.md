@@ -1,126 +1,151 @@
 ---
 article_id: 27453
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
-title: "Cosa sono e come funzionano le Autopromo?"
+collection: "📢 Campagne, Automazioni e Whatsapp"
+title: "Cosa sono e come funzionano le Automazioni?"
 slug: cosa-sono-le-autopromo
-description: "Le Autopromo di Unipiazza sono strumenti automatizzati che inviano offerte mirate ai clienti per incrementare visite e acquisti."
+description: "Le Automazioni di Unipiazza premiano e ricontattano i tuoi clienti da sole, al momento giusto. Prima si chiamavano Autopromo."
 status: published
 written_by: 2961
 keywords:
-  - amico
-  - automatizzato
+  - automazioni
   - autopromo
-  - invita
+  - automatizzato
+  - invita un amico
   - compleanno
-  - ricompensa
-  - caratteri
-  - duplicare autopromo
-  - scade dopo
-  - modifica autopromo
+  - iscrizione
+  - a rischio
+  - dormienti
+  - recensioni
+  - premio
+  - promemoria
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2026-10-16'
+updated_at: '2026-11-06'
 last_synced: '2026-10-15'
 ---
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/75f8e54d509ea13902c6ed8f44e5311f/Supporto-Autopromo.png)
+Immagina un collaboratore che non dimentica mai un compleanno, che si accorge quando un cliente non passa da un po' e che ringrazia chi viene per la prima volta. Sono le **[Automazioni](https://partner.unipiazza.it/automazioni)** 🤖 Le imposti una volta sola e da quel momento lavorano da sole, al momento giusto, per ogni cliente.
 
-Le [Autopromo](https://partner.unipiazza.it/autopromo) di Unipiazza sono strumenti automatici che inviano offerte **mirate ai clienti per incrementare visite e acquisti.** Funzionano come un aiutante virtuale che gestisce promozioni, motivando i clienti a visitare più spesso il tuo locale.
+Fino a novembre 2026 questa sezione si chiamava **Autopromo**. Le tue impostazioni sono state portate qui, e le promozioni che i clienti avevano già ricevuto restano valide e si ritirano come sempre.
 
-Ci sono 8 tipi di Autopromo, ognuna con un obiettivo specifico. Arrivano ai tuoi clienti con **messaggi RCS, email e notifiche dell'app Unipiazza**, e Unipiazza gestisce tutto in automatico.
+## Cosa trovi nella sezione
 
-Le modifichi dalla sezione **Autopromo** con il pulsante **Modifica autopromo**. Si apre la tabella con tutte le Autopromo e per ognuna puoi configurare:
+La sezione **Automazioni** è divisa in due gruppi.
 
-- 🖊️ **Ricompensa**: è il testo dell'offerta, fino a **80 caratteri**, ed è l'unico testo che scrivi tu. Non c'è un nome separato, e il resto del messaggio lo scriviamo noi. Se superi gli 80 caratteri compare l'avviso **nome troppo lungo**, che si riferisce proprio a questo testo. Se aggiungi una traduzione tra parentesi quadre, per esempio [EN: ...], conta anche lei negli 80.
-- 🖼️ **Immagine**: visibile nelle email e nei messaggi RCS.
-- 📅 **Scade dopo**: 3, 7, 14, 30, 45 o 60 giorni, contati da quando la promo arriva al cliente.
-- ✅ **Attiva**: puoi accendere o spegnere ogni Autopromo quando vuoi.
-- 📲 **Whatsapp**: se hai collegato WhatsApp Business, la invii anche lì.
+👋 **Messaggi**<br>Mandano solo un messaggio, senza premi da ritirare. Oggi c'è il [Messaggio di benvenuto personalizzato](https://supporto.unipiazza.it/it/articles/LINK_BENVENUTO).
 
-Quando hai finito premi **Salva**.
+🎁 **Autopromo**<br>Sono le sette Automazioni che premiano i clienti o che chiedono loro una recensione. Trovi Iscrizione, Prima visita, Compleanno, Invita un amico, Recensioni, A rischio e Dormienti.
 
-> 🚫 **Le Autopromo non si duplicano.** Sono 8, una per tipo: puoi accenderle, spegnerle e cambiarle, ma non copiarle né crearne di nuove. Ti serve una seconda offerta, per esempio per un'altra lista di clienti? Usa una [Campagna Marketing](https://supporto.unipiazza.it/it/articles/27450-cosa-sono-le-campagne-marketing-e-come-si-creano), che invece puoi duplicare dall'elenco delle campagne.
+Su ogni riga hai tre icone. L'**occhio** ti mostra il messaggio, la **matita** apre la modifica e il **grafico** ti porta ai risultati. In cima alla pagina trovi i numeri generali, e il periodo lo scegli dal menu in alto a destra. Cosa significa ogni numero te lo spieghiamo in [Come leggere i risultati delle Automazioni](https://supporto.unipiazza.it/it/articles/LINK_RISULTATI).
 
-> ⚠️ **Il testo dell'offerta deve sempre essere una promozione vera e propria** (sconto, omaggio, premio, "2x1"...), non un annuncio o una comunicazione generica: il cliente deve poter ritirarla entro la scadenza. Per le comunicazioni generiche usa una [Campagna Marketing](https://supporto.unipiazza.it/it/articles/27450-cosa-sono-le-campagne-marketing-e-come-si-creano). Unica eccezione: l'Autopromo Recensioni, senza promozione associata.
+> 🚫 **Le Automazioni non si duplicano e non se ne creano di nuove.** Puoi accenderle, spegnerle e cambiarle. Ti serve un'offerta in più, per esempio per una lista di clienti? Usa una [Campagna Marketing](https://supporto.unipiazza.it/it/articles/27450-cosa-sono-le-campagne-marketing-e-come-si-creano), che invece puoi duplicare.
 
-Per le Autopromo Prima Visita, Compleanno, A Rischio e Dormienti viene inviato anche un **promemoria automatico** 2 giorni prima della scadenza, se il cliente non ha ancora ritirato il premio.
+## Come si modifica un'Automazione
 
-Vediamo in dettaglio tutti i tipi di Autopromo:
+Premi la **matita** sulla riga e trovi tutto in una pagina sola, divisa in blocchi.
 
-**💖 Acquisizione Clienti**
+⏰ **Quando parte**<br>È il momento in cui l'Automazione si mette in moto. Cambia da una all'altra, e trovi i dettagli più sotto.
 
-Promo dedicata a tutti i clienti che hanno dimostrato interesse nella tua attività premendo il tasto "Segui" sull'App o sul sito Unipiazza. Lo scopo è quello di incentivare la community Unipiazza a provare il tuo locale.
+🎁 **Cosa riceve il cliente**<br>Scegli il premio tra le opzioni disponibili per quell'Automazione.
 
-**Promo consigliata:** Scegli una promo accattivante per convincere questi potenziali clienti a venire da te per la prima volta. Ad esempio: un caffè omaggio, un articolo gratis legato ad un acquisto, uno sconto del 20% o un'offerta "Compra uno, ottieni uno gratis".
+💬 **Il messaggio**<br>Puoi riscrivere oggetto, anteprima, titolo e testo, e cambiare l'immagine. Parti da un testo già pronto, che puoi anche tenere così com'è. Con **Invia test** ricevi una email di prova, che non assegna premi e non parte sugli altri canali.
 
-**🆕 Invita un Amico**
+🔔 **Il promemoria**<br>Se lo attivi, il cliente riceve un secondo messaggio prima che la promozione scada. Il suo testo si modifica a parte.
 
-Promo inviata ai clienti dopo la 3a visita, invitandoli a far iscrivere un amico ad Unipiazza e a raccogliere gettoni nella tua attività. L'Autopromo premia sia i nuovi clienti che chi li invita con gettoni omaggio. Puoi scegliere quanti gettoni assegnare a ognuno dei due.
+Quando hai finito premi **Salva e attiva** (oppure **Salva ed esci**, se è già attiva). Per spegnerla usa **Disattiva**.
 
-**Promo consigliata:** Per chi invita ti consigliamo di impostare almeno il valore in gettoni dello scontrino medio. Ad esempio, se il tuo scontrino medio è di 18€, imposta 200 gettoni per chi invita.
+> 💡 **Le modifiche valgono da adesso in poi.** Se cambi il premio o le tempistiche, chi ha già ricevuto l'Automazione tiene quello che aveva. Il Gestionale te lo ricorda prima di salvare.
 
-**🪙 Gettoni Bonus Iscrizione**
+## I premi che puoi scegliere
 
-I clienti che si iscrivono dal Chiosco Unipiazza ricevono automaticamente dei gettoni omaggio. Puoi scegliere quanti gettoni bonus assegnare. Imposta il bonus ad almeno il 50% del valore del primo premio, così il cliente è invogliato a raggiungerlo con uno o due acquisti. [In questo articolo](https://unipiazza.it/blog/segreti-un-sistema-fedelta-efficace/) puoi leggere il caso studio di due ricercatori americani per capire quanto sia efficace far iniziare i clienti con dei gettoni omaggio!
+Le opzioni non sono uguali per tutte le Automazioni, e cambia anche quello che deve fare il cliente.
 
-**Promo consigliata:** Se il tuo primo premio è a 200 gettoni, imposta il bonus a 100 gettoni.
+🎟️ **Una promozione**<br>È un'offerta da ritirare in negozio, come un caffè omaggio o uno sconto. Scrivi il **Testo promozione**, fino a 80 caratteri, e scegli per quanti giorni è valida. Il giorno in cui arriva conta già, quindi una promozione di 7 giorni ricevuta il 6 scade alla fine del 12. Deve essere una promozione vera, che il cliente può ritirare entro la scadenza. Per le comunicazioni generiche usa una [Campagna Marketing](https://supporto.unipiazza.it/it/articles/27450-cosa-sono-le-campagne-marketing-e-come-si-creano).
 
-**1️⃣ Prima Visita**
+🪙 **Dei gettoni**<br>Li accreditiamo subito sul saldo del cliente, che non deve ritirare niente.
 
-Inviamo questa promo 24 ore dopo la prima visita del cliente per incoraggiarlo a tornare. Se il cliente è nuovo, questa promo può portarlo a tornare presto. Se è un cliente abituale, gli mostra i vantaggi del programma fedeltà.
+💳 **Una ricarica del Wallet**<br>Aggiungiamo subito 5, 10, 20 o 50€ al Wallet del cliente. Questa opzione c'è solo se hai il Wallet attivo.
 
-**Promo consigliata:** Una promo piccola, come una bibita gratis con un acquisto o il 10% di sconto sulla prossima visita.
+✉️ **Solo un messaggio**<br>Il cliente riceve un saluto o un augurio, senza offerte.
+
+<table><tbody><tr><th><p>Automazione</p></th><th><p>Promozione</p></th><th><p>Gettoni</p></th><th><p>Wallet</p></th><th><p>Solo messaggio</p></th></tr><tr><td><p>Iscrizione</p></td><td><p>✅</p></td><td><p>✅</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Prima visita</p></td><td><p>✅</p></td><td><p>✅</p></td><td><p></p></td><td><p>✅</p></td></tr><tr><td><p>Compleanno</p></td><td><p>✅</p></td><td><p>✅</p></td><td><p>✅</p></td><td><p>✅</p></td></tr><tr><td><p>Invita un amico</p></td><td><p>✅</p></td><td><p>✅</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>A rischio</p></td><td><p>✅</p></td><td><p>✅</p></td><td><p>✅</p></td><td><p>✅</p></td></tr><tr><td><p>Dormienti</p></td><td><p>✅</p></td><td><p>✅</p></td><td><p>✅</p></td><td><p>✅</p></td></tr></tbody></table>
+
+Recensioni non ha premi, perché chiede solo una recensione.
+
+## Le Automazioni, una per una
+
+**🎉 Iscrizione**
+
+Premia chi entra nel tuo programma fedeltà, e ogni cliente riceve il premio una volta sola. Puoi dare dei gettoni o una promozione. Prende il posto delle vecchie Autopromo **Gettoni Bonus Iscrizione** e **Acquisizione Clienti**, che non esistono più.
+
+In **Canali di iscrizione** scegli da dove deve arrivare il cliente per ricevere il premio. Le opzioni sono Chiosco, Vetrina web e app, Invito di un amico, Gestionale, Clienti importati e Integrazioni esterne. L'offerta compare sulla tua Vetrina, accanto al bottone per iscriversi, solo se hai selezionato **Vetrina web e app**.
+
+Iscrizione non manda un messaggio suo, perché al cliente arriva già il messaggio di benvenuto. Il premio lo trova in cassa, sul Chiosco e nell'app.
+
+**Premio consigliato:** Imposta i gettoni ad almeno il 50% del valore del primo premio, così il cliente è invogliato a raggiungerlo con uno o due acquisti. Se il tuo primo premio è a 200 gettoni, regalane 100.
+
+> ⚠️ **Avevi già un'Autopromo attiva?** Il tuo Gettoni Bonus Iscrizione è stato spostato qui, ma vale solo per il **Chiosco**. Per premiare anche chi si iscrive online seleziona **Vetrina web e app**. L'offerta di Acquisizione Clienti invece non è stata spostata. Se la usavi, impostala di nuovo qui.
+
+**1️⃣ Prima visita**
+
+Parte quando un cliente raccoglie gettoni da te per la prima volta, per invogliarlo a tornare. Scegli tu dopo quanto tempo, da subito fino a 30 giorni. Il valore di partenza è 24 ore.
+
+**Premio consigliato:** Una promozione piccola, come una bibita gratis con un acquisto o il 10% di sconto sulla prossima visita.
 
 **🎂 Compleanno**
 
-Promo inviata 3 giorni prima del compleanno del cliente. È un modo carino per augurare "Buon compleanno" e far sentire i clienti speciali. Se offri premi per più persone, usa questa Autopromo per invitarli a festeggiare con gli amici.
+Fa gli auguri al cliente con un premio. In **Quanto prima del compleanno** scegli l'anticipo, dal giorno stesso fino a 30 giorni prima. Il valore di partenza è 3 giorni.
 
-**Promo consigliata:** Sii creativo! Potresti offrire qualcosa di speciale per il festeggiato e i suoi amici.
+Arriva ai clienti che hanno inserito la data di nascita e che sono già passati da te almeno una volta. Puoi farla chiedere già all'iscrizione dal Chiosco, come spieghiamo in [Come attivare il Compleanno all'iscrizione](https://supporto.unipiazza.it/it/articles/65570-come-attivare-compleanno-all-iscrizione). Se scegli una promozione, ricorda che la validità si conta dal giorno in cui arriva, non dal compleanno. Con 3 giorni di anticipo imposta almeno 7 giorni di validità, così il cliente può ritirarla anche dopo la festa.
 
-> Per ricevere questa Autopromo, i tuoi clienti devono aver inserito la loro data di nascita ed essere già passati da te almeno una volta. Attiva la richiesta della data di nascita già in fase di iscrizione dal Chiosco: [scopri come attivare il Compleanno all'iscrizione](https://supporto.unipiazza.it/it/articles/65570-come-attivare-compleanno-all-iscrizione).
+**Premio consigliato:** Sii creativo! Potresti offrire qualcosa di speciale per il festeggiato e i suoi amici.
 
-⏳ **I 3 giorni sono fissi.** La promo parte sempre 3 giorni prima del compleanno e questo anticipo non si può cambiare. Anche **Scade dopo** si conta da quel giorno, non dal compleanno. Con 3 giorni la promo scade il giorno prima del compleanno, quindi scegli almeno 7 giorni.
+**🆕 Invita un amico**
 
-**😖 A Rischio**
+Alla visita che scegli (di partenza la terza) il cliente riceve un invito da girare a un amico. Premi entrambi con dei gettoni oppure con una promozione. L'amico riceve il suo premio quando si iscrive con l'invito, e chi ha invitato riceve il suo quando l'amico raccoglie i primi gettoni. Se scegli le promozioni ne imposti due, una per chi invita e una per il nuovo cliente.
 
-Questa promo è per i clienti che non tornano da un po' di tempo. Dopo quanti giorni di assenza un cliente è "a rischio" dipende dal settore della tua attività: un bar, una gelateria e un parrucchiere hanno ritmi di visita molto diversi. Più passa il tempo dall'ultima visita, meno è probabile che un cliente torni, quindi è molto importante inviare delle promo ai clienti a rischio per riportarli e far sì che si ricordino di te.
+Se l'amico non si iscrive, puoi mandare un solo promemoria dopo 7, 14 o 30 giorni. Puoi modificare anche il messaggio che ringrazia chi ha invitato.
 
-**Promo consigliata:** Scegli un'offerta molto invitante come il 25% di sconto, "Compra uno, ottieni uno gratis" o un articolo in omaggio con una spesa minima.
-
-**😴 Dormienti**
-
-Inviata ai clienti che non tornano da molto tempo, cioè quando l'assenza supera la soglia "a rischio" del tuo settore. È pensata per attirare quelli che non hanno approfittato dell'offerta "A Rischio". Con il tempo, diventa più difficile che i clienti tornino, ma una buona offerta può convincerli a visitarti di nuovo.
-
-**Promo consigliata:** Proponi qualcosa di molto vantaggioso, come uno sconto del 40% o un regalo con un acquisto. Queste offerte possono aumentare di 4 volte le possibilità che un cliente assente da tempo decida di tornare.
+**Premio consigliato:** Per chi invita imposta almeno il valore in gettoni dello scontrino medio. Se il tuo scontrino medio è di 18€, imposta 200 gettoni.
 
 **📝 Recensioni**
 
-Questa speciale Autopromo non include una promozione associata, ma invita i clienti a recensire la tua attività. Puoi scegliere la piattaforma (Google, Tripadvisor o Facebook) e inserire il link diretto alla tua pagina di recensioni. L'invito viene inviato 2 ore dopo che un cliente ha ritirato un premio, per sfruttare il momento di entusiasmo e aumentare le probabilità di ottenere recensioni positive. Ogni cliente lo riceve **una sola volta**, anche se ritira altri premi in seguito.
+Invita i clienti a lasciarti una recensione su Google, Tripadvisor o Facebook. Scegli tu il momento, cioè dopo il ritiro del primo premio oppure dopo la visita che preferisci, e quanto aspettare (di partenza 2 ore). Ogni cliente riceve l'invito **una sola volta**. Se hai più punti vendita, Recensioni si imposta su ogni singolo locale, perché ognuno ha la sua pagina.
 
----
+**😖 A rischio**
 
-## 🎁 Quando il cliente viene a ritirare la promo
+È per i clienti che non tornano da un po'. In **Non viene da** scegli dopo quanti giorni di assenza parte, e con **Solo se aveva almeno** decidi quante visite deve aver fatto il cliente. Di partenza sono 30 giorni e 1 visita. Ogni cliente la riceve una sola volta, e chi la riceve non prende anche Dormienti durante la stessa assenza.
 
-La promo va sempre ritirata su Unipiazza, altrimenti resta valida e non risulta nelle statistiche.
+**Premio consigliato:** Scegli un'offerta molto invitante, come il 25% di sconto o "Compra uno, ottieni uno gratis".
 
-📟 **Dal Chiosco Unipiazza**: il cliente si identifica, tocca la sua promo tra i Premi e conferma con **Oh yeah!**.
+**😴 Dormienti**
 
-💻 **Dal Gestionale**: nel profilo del cliente premi **Azioni**, poi **Scarica premio**, e scegli la promo tra le card blu.
+È l'ultimo tentativo con i clienti che non passano da te da mesi. Parte quando il cliente entra nella lista **Inattivi**, quindi la soglia non si cambia da qui ma da **Impostazioni**, in **Liste preimpostate**. La soglia di A rischio deve restare più bassa di quella di Inattivi. Anche Dormienti arriva una sola volta.
+
+**Premio consigliato:** Proponi qualcosa di molto vantaggioso, come uno sconto del 40% o un omaggio con un acquisto.
+
+## Su quali canali arrivano
+
+Le Automazioni partono da sole su **email, notifica dell'app e RCS**, e ogni cliente le riceve sui canali che ha disponibili e per cui ha dato il consenso. Non devi scegliere niente. Se aggiungi WhatsApp, sul telefono del cliente proviamo prima WhatsApp e poi RCS. Ti spieghiamo tutto in [Come attivare WhatsApp sulle tue Automazioni](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo).
+
+Se un cliente non ha dato il consenso o non ha un contatto, il premio gli spetta comunque. Non riceve il messaggio, ma lo trova in cassa, sul Chiosco e nell'app.
+
+## Se hai più punti vendita
+
+Se il tuo locale fa parte di una catena, una stessa Automazione può essere condivisa, e un avviso in cima alla pagina ti dice quali punti vendita coinvolge. In quel caso le modifiche valgono per tutti. Se un'Automazione cambia da locale a locale, seleziona un punto vendita dal menu in alto per vederne i dettagli.
+
+## Quando il cliente viene a ritirare la promozione
+
+I gettoni e le ricariche del Wallet sono già sul saldo del cliente, quindi non devi fare niente. Una promozione invece va sempre ritirata su Unipiazza, altrimenti resta valida e non risulta nelle statistiche.
+
+📟 **Dal Chiosco Unipiazza**<br>Il cliente si identifica, tocca la sua promozione tra i Premi e conferma con **Oh yeah!**.
+
+💻 **Dal Gestionale**<br>Nel profilo del cliente premi **Azioni**, poi **Scarica premio**, e scegli la promozione tra le card blu.
 
 L'omaggio poi si batte anche sul registratore di cassa, come un Premio. Trovi tutti i passaggi in [Come gestisco fiscalmente i premi di Unipiazza?](https://supporto.unipiazza.it/it/articles/61921-come-faccio-fiscalmente-a-dare-un-premio-con-unipiazza).
 
 ---
 
-## 💬 Potenzia le Autopromo con WhatsApp
-
-Le Autopromo raggiungono di default i clienti tramite Email e messaggi RCS. Se hai un numero WhatsApp Business collegato al gestionale, puoi attivare WhatsApp come canale prioritario: il sistema invia ogni Autopromo prima su WhatsApp, e ricade su Email o RCS solo se il cliente non è raggiungibile tramite questo canale.
-
-👉 [Scopri come attivare WhatsApp sulle tue Autopromo](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo)
-
----
-
-Vuoi vedere come appaiono le comunicazioni ai tuoi clienti? 👉 [Scopri le anteprime di tutte le comunicazioni automatiche](https://supporto.unipiazza.it/it/articles/63782-anteprime-comunicazioni-automatiche)
-
-<iframe src="https://www.youtube.com/embed/kUl4Y6kXZiE" frameborder="0" allowfullscreen="true"></iframe>
+Vuoi leggere i testi già pronti? 👉 [Scopri le anteprime di tutte le comunicazioni automatiche](https://supporto.unipiazza.it/it/articles/63782-anteprime-comunicazioni-automatiche)

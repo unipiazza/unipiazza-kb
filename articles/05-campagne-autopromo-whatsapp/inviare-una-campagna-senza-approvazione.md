@@ -1,7 +1,7 @@
 ---
 article_id: 61971
 collection_id: 7182
-collection: "📢 Campagne Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Inviare una campagna senza approvazione"
 slug: inviare-una-campagna-senza-approvazione
 description: "Vuoi inviare una campagna subito, senza aspettare il via libera del team Unipiazza? Ora puoi farlo, ma leggi prima come funziona."

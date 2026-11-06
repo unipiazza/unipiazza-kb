@@ -1,7 +1,7 @@
 ---
 article_id: 31070
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Posso escludere dei gruppi di Utenti dall'invio una campagna?"
 slug: posso-escludere-dei-gruppi-di-utenti-dall-invio-una-campagna
 description: "Ecco come puoi escludere dei gruppi specifici di clienti da una campagna."

@@ -16,7 +16,7 @@ keywords:
 sort: 0
 is_featured: true
 locale: it
-updated_at: '2026-10-16'
+updated_at: '2026-11-06'
 last_synced: '2026-08-05'
 ---
 
@@ -54,9 +54,19 @@ Olivia ti segue in tutta la creazione di una campagna, in due momenti diversi:
 
 Per sapere come usarla in dettaglio in entrambi i momenti, leggi [Come usare Olivia per creare e migliorare le campagne](https://supporto.unipiazza.it/it/articles/61976-come-usare-olivia-per-creare-e-migliorare-le-campagne).
 
+## Olivia e le Automazioni
+
+Olivia legge le tue Automazioni e i loro risultati. Puoi chiederle, per esempio, "Come sta andando il Compleanno?" o "Cosa cambieresti in A rischio?".
+
+Se le chiedi una modifica, ti prepara una scheda con quello che cambia. La modifica parte solo quando la confermi tu.
+
+✅ **Cosa può cambiare**<br>Può accendere o spegnere un'Automazione, cambiare impostazioni come tempi e visite, e aggiornare l'offerta del premio attuale, cioè testo e durata della promozione, gettoni o importo del Wallet.
+
+🚫 **Cosa non può cambiare**<br>Il tipo di premio, i testi dei messaggi, le immagini e i canali. Per questi apri l'Automazione dalla sezione [Automazioni](https://supporto.unipiazza.it/it/articles/27453-cosa-sono-le-autopromo).
+
 ## Cosa fa e cosa no
 
-✅ **Prepara, tu decidi**<br>Olivia ti propone idee, scrive i testi e prepara le bozze di campagne e Autopromo. Senza la tua conferma non parte niente.
+✅ **Prepara, tu decidi**<br>Olivia ti propone idee, scrive i testi, prepara le bozze delle campagne e le modifiche alle Automazioni. Senza la tua conferma non parte niente.
 
 ✍️ **Ti scrive il testo, non il file**<br>Non crea immagini, PDF o file da stampare. Se ti serve un cartello o un volantino ti prepara il testo, e il volantino lo crei in pochi minuti con il [generatore di volantini](https://supporto.unipiazza.it/it/articles/66239-porta-i-clienti-nella-tua-vetrina-con-qr-code-link-e-volantini).
 

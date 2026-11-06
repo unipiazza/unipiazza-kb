@@ -1,7 +1,7 @@
 ---
 article_id: 27450
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Cosa sono le Campagne Marketing e come si creano?"
 slug: cosa-sono-le-campagne-marketing-e-come-si-creano
 description: "Le Campagne Marketing permettono di raggiungere i tuoi clienti con email, notifiche dell'app e messaggi RCS, per motivarli a tornare a trovarti o aggiornarli sulle ultime novità della tua attività."

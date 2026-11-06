@@ -26,7 +26,7 @@ keywords:
 sort: 0
 is_featured: false
 locale: it
-updated_at: '2026-10-15'
+updated_at: '2026-11-06'
 last_synced: '2026-10-15'
 ---
 
@@ -76,4 +76,4 @@ Vuol dire che parti già da soglie sensate per il tuo tipo di attività, senza d
 
 E resti sempre libero di personalizzarle: dalle [Impostazioni](https://partner.unipiazza.it/impostazioni) del gestionale, nella card **Liste preimpostate**, puoi modificare i criteri di **Nuovi**, **Vip**, **Inattivi** e **Archiviati** (la lista "Ti seguono" resta fissa).
 
-⚠️ Ricorda: cambiando questi criteri cambia anche chi rientra in ciascuna lista e, di conseguenza, quali clienti raggiungono le tue Autopromo e le tue campagne.
+⚠️ Ricorda: cambiando questi criteri cambia anche chi rientra in ciascuna lista e, di conseguenza, quali clienti raggiungono le tue Automazioni e le tue campagne.

@@ -3,7 +3,7 @@ collection_id: 7182
 collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Come leggere i risultati delle Automazioni"
 slug: come-leggere-i-risultati-delle-automazioni
-description: "Clienti raggiunti, regali dati, visite generate e incassi. Ecco cosa significa ogni numero, e perché cambia in base al premio."
+description: "Clienti raggiunti, messaggi aperti, visite generate e incassi. Ecco cosa significa ogni numero, e perché cambia in base al premio."
 status: published
 written_by: 2961
 keywords:
@@ -30,9 +30,7 @@ Nella pagina dei risultati trovi anche l'elenco dei clienti, con quello che ha r
 
 ## Cosa significa ogni numero
 
-👥 **Clienti raggiunti**<br>I clienti a cui il messaggio è partito su almeno un canale. Un cliente raggiunto via email e RCS conta uno, e il promemoria non si aggiunge. Il numero ti dice che il messaggio è partito, non che è stato letto.
-
-🎁 **Regali dati**<br>I premi assegnati davvero, anche a chi non ha ricevuto il messaggio. Se vedi **regali senza messaggio** sono clienti senza consenso o senza un contatto. Il premio lo trovano in cassa, sul Chiosco e nell'app.
+👥 **Clienti raggiunti**<br>I clienti a cui il messaggio è partito su almeno un canale. Un cliente raggiunto via email e RCS conta uno, e il promemoria non si aggiunge. Il numero ti dice che il messaggio è partito, non che è stato letto. Se sotto leggi **regali senza messaggio**, sono clienti senza consenso o senza un contatto. Il premio gli spetta comunque, e lo trovano in cassa, sul Chiosco e nell'app.
 
 👀 **Messaggi aperti**<br>I messaggi con almeno un'apertura. Questo dato può risultare incompleto su email, WhatsApp e RCS, perché dipende dalla rubrica e dalle impostazioni privacy del cliente.
 

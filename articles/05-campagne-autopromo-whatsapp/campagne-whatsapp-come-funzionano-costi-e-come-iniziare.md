@@ -1,7 +1,7 @@
 ---
 article_id: 61972
 collection_id: 7182
-collection: "📢 Campagne Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Campagne WhatsApp: come funzionano, quanto costano e come iniziare"
 slug: campagne-whatsapp-come-funzionano-costi-e-come-iniziare
 description: "WhatsApp è ora disponibile come canale per le tue campagne Unipiazza. Tassi di apertura fino al 90%, costi chiari e setup semplice."
@@ -16,7 +16,7 @@ keywords:
 sort: 2
 is_featured: false
 locale: it
-updated_at: '2026-10-16'
+updated_at: '2026-11-06'
 last_synced: '2026-10-15'
 ---
 
@@ -54,10 +54,10 @@ Il collegamento lo fai da te, in pochi minuti, meglio da computer.
 Nel Gestionale vai in **Impostazioni**, poi nella sezione **WhatsApp Business**, e premi **Inizia configurazione Whatsapp**. Si apre la procedura guidata di Meta. Trovi tutti i passaggi, compreso quello del fuso orario da non sbagliare, in [Come collegare WhatsApp Business a Unipiazza](https://supporto.unipiazza.it/it/articles/61919-come-collegare-whatsapp-business-a-unipiazza).
 
 **2. Aspetta che Meta prepari il numero**
-Meta verifica il numero e prepara i modelli dei messaggi, di solito in un tempo da 4 a 24 ore. Finché in **Impostazioni** non vedi **WhatsApp è pronto**, WhatsApp non si può ancora usare nelle campagne e nelle Autopromo.
+Meta verifica il numero e prepara i modelli dei messaggi, di solito in un tempo da 4 a 24 ore. Finché in **Impostazioni** non vedi **WhatsApp è pronto**, WhatsApp non si può ancora usare nelle campagne e nelle Automazioni.
 
 **3. Inizia a creare campagne WhatsApp**
-Una volta approvato il numero, puoi creare la tua prima campagna WhatsApp e attivare WhatsApp sulle tue Autopromo (vedi [Come attivare WhatsApp sulle tue Autopromo](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo)).
+Una volta approvato il numero, puoi creare la tua prima campagna WhatsApp e attivare WhatsApp sulle tue Automazioni (vedi [Come attivare WhatsApp sulle tue Automazioni](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo)).
 
 Ti blocchi a metà strada? Scrivici su WhatsApp al **388 8665987** e ti guidiamo noi. 😊
 

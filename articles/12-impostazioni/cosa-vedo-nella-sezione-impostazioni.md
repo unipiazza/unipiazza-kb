@@ -15,13 +15,13 @@ keywords:
   - vacanza
   - liste preimpostate
 locale: it
-updated_at: '2026-09-22'
+updated_at: '2026-11-06'
 last_synced: '2026-09-22'
 ---
 
 La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pannello di controllo Unipiazza è il luogo dove puoi personalizzare e configurare diverse opzioni per ottimizzare la gestione della tua attività. Ecco una panoramica dettagliata di cosa puoi fare in questa sezione:
 
-1. **Modalità Vacanza:** Se prevedi di chiudere per ferie o per qualche giorno, attiva questa modalità per informare i tuoi clienti. Un messaggio comparirà sulla tua vetrina web e nell'app Unipiazza, così i tuoi clienti sapranno quando tornerai e non verranno inviate Autopromo durante questo periodo.
+1. **Modalità Vacanza:** Se prevedi di chiudere per ferie o per qualche giorno, attiva questa modalità per informare i tuoi clienti. Un messaggio comparirà sulla tua vetrina web e nell'app Unipiazza, così i tuoi clienti sapranno quando tornerai e non verranno inviate promozioni automatiche durante questo periodo.
 
 2. **Orario Spegnimento Chiosco:** Scegli l'orario in cui vuoi che il Chiosco si spenga da solo.
 

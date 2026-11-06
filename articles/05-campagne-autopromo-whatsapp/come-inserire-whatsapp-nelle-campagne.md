@@ -1,7 +1,7 @@
 ---
 article_id: 37253
 collection_id: 7182
-collection: "📢 Campagne, Autopromo e Whatsapp"
+collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Come inserire Whatsapp nelle Campagne"
 slug: come-inserire-whatsapp-nelle-campagne
 description: "Con questo piccolo suggerimento puoi favorire una comunicazione facile e diretta con i tuoi clienti tramite WhatsApp, migliorando l'interazione e la soddisfazione del cliente."

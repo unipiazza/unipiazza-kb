@@ -8,7 +8,7 @@ description: Ecco una guida rapida alle risoluzioni delle immagini consigliate p
 status: published
 written_by: 2961
 locale: it
-updated_at: '2025-11-04'
+updated_at: '2026-11-06'
 last_synced: '2026-06-10'
 ---
 
@@ -46,7 +46,7 @@ Se utilizzi altri tablet, la risoluzione potrebbe variare in base al modello, ma
 
 <table style="min-width: 25px;"><colgroup><col style="min-width: 25px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota:</strong> È da tenere presente che sopra all’immagine cover compariranno degli elementi dell’interfaccia che copriranno alcune zone dell’immagine. Qui sopra vedi un esempio.</p></td></tr></tbody></table>
 
-**Autopromo Campagne**
+**Automazioni e Campagne**
 
 \- Formato: Libero, ma si consiglia 16:10 per una migliore leggibilità
 
