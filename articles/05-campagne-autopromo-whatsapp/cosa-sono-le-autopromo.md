@@ -36,7 +36,7 @@ La sezione **Automazioni** è divisa in due gruppi.
 
 ![La sezione Automazioni del Gestionale con i numeri generali e il gruppo Messaggi](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/27453_Automazioni-Elenco.jpg)
 
-👋 **Messaggi**<br>Mandano solo un messaggio, senza premi da ritirare. Oggi c'è il [Messaggio di benvenuto personalizzato](https://supporto.unipiazza.it/it/articles/LINK_BENVENUTO).
+👋 **Messaggi**<br>Mandano solo un messaggio, senza premi da ritirare. Oggi c'è il [Messaggio di benvenuto personalizzato](https://supporto.unipiazza.it/it/articles/70105-messaggio-di-benvenuto-personalizzato).
 
 🎁 **Autopromo**<br>Sono le sette Automazioni che premiano i clienti o che chiedono loro una recensione. Trovi Iscrizione, Prima visita, Compleanno, Invita un amico, Recensioni, A rischio e Dormienti.
 

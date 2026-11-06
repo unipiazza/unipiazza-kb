@@ -28,7 +28,7 @@ I nomi negli esempi ("Marco") e il nome dell'attività ("Bar Centrale") vengono 
 
 ## 👋 Iscrizione al programma fedeltà
 
-*Inviato quando il cliente si iscrive. Lo puoi sostituire con il [Messaggio di benvenuto personalizzato](https://supporto.unipiazza.it/it/articles/LINK_BENVENUTO).*
+*Inviato quando il cliente si iscrive. Lo puoi sostituire con il [Messaggio di benvenuto personalizzato](https://supporto.unipiazza.it/it/articles/70105-messaggio-di-benvenuto-personalizzato).*
 
 > 👋 **Benvenuto Marco nel nostro Programma Fedeltà!**
 >

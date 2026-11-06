@@ -1,4 +1,5 @@
 ---
+article_id: 70105
 collection_id: 7182
 collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Il Messaggio di benvenuto personalizzato"
@@ -17,6 +18,7 @@ sort: 3
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
+last_synced: '2026-11-06'
 ---
 
 Il primo messaggio che un cliente riceve dopo l'iscrizione è un po' come la stretta di mano all'ingresso 👋 Di partenza ci pensa Unipiazza con un benvenuto standard, che spiega come funziona il programma fedeltà. Se vuoi, puoi sostituirlo con un messaggio scritto da te.
