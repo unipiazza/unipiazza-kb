@@ -73,7 +73,9 @@ const mdIt = new MarkdownIt({
 export function markdownToHtml(md) {
   // Rimuovi il frontmatter se presente.
   const body = md.replace(/^---\n[\s\S]*?\n---\n?/, "");
-  return mdIt.render(body).trim();
+  // I wiki-link di Obsidian restano nel vault: su Customerly non devono arrivare.
+  const clean = body.replace(/[ \t]*\[\[[^\]\n]+\]\]/g, "");
+  return mdIt.render(clean).trim();
 }
 
 // --- Utility per estrarre gli <img src> da un body HTML ---------------------
