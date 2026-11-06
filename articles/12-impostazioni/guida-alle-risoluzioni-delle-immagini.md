@@ -26,7 +26,7 @@ Quando carichi immagini su Unipiazza, è essenziale utilizzare le dimensioni cor
 
 ![](../../assets/12-impostazioni/38701_AD_4nXeIZbDNBhXhmdlGtfaYFJMxzA8KYWMi7cqUQAGUUylOyp7LNQfCnXBKejTlmrN1rjaWGdAOxd146fiAUx5h5yIITnw011nn6iO1o4SpnqtZnMNOps9EPlCd6OHjkHHkNeo_8jy5jA)
 
-<table style="min-width: 25px;"><colgroup><col style="min-width: 25px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota:</strong> Come vedi nell’immagine qui sopra, su App Android e iOS, la parte superiore e inferiore delle immagini viene leggermente tagliata (il formato visualizzato è 21:9).&nbsp;</p></td></tr></tbody></table>
+<table style="min-width: 25px;"><colgroup><col style="min-width: 25px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota:</strong> Come vedi nell’immagine qui sopra, su App Android e iOS, la parte superiore e inferiore delle immagini viene leggermente tagliata (il formato visualizzato è 21:9). Sul sito web invece l’immagine si vede sempre intera. Sugli schermi più larghi, come quelli dei computer, ai lati compare una versione sfocata della stessa immagine.&nbsp;</p></td></tr></tbody></table>
 
 **Immagini Cover Chiosco**
 
