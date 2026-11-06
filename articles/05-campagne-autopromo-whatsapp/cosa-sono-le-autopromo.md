@@ -34,6 +34,8 @@ Fino a novembre 2026 questa sezione si chiamava **Autopromo**. Le tue impostazio
 
 La sezione **Automazioni** è divisa in due gruppi.
 
+![La sezione Automazioni del Gestionale con i numeri generali e il gruppo Messaggi](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/27453_Automazioni-Elenco.jpg)
+
 👋 **Messaggi**<br>Mandano solo un messaggio, senza premi da ritirare. Oggi c'è il [Messaggio di benvenuto personalizzato](https://supporto.unipiazza.it/it/articles/LINK_BENVENUTO).
 
 🎁 **Autopromo**<br>Sono le sette Automazioni che premiano i clienti o che chiedono loro una recensione. Trovi Iscrizione, Prima visita, Compleanno, Invita un amico, Recensioni, A rischio e Dormienti.
@@ -44,23 +46,27 @@ Su ogni riga hai tre icone. L'**occhio** ti mostra il messaggio, la **matita** a
 
 ## Come si modifica un'Automazione
 
-Premi la **matita** sulla riga e trovi tutto in una pagina sola, divisa in blocchi.
+Premi la **matita** sulla riga e trovi tutto in una pagina sola. In cima **Come funziona** ti mostra in un colpo d'occhio cosa succede e quando, e sotto ci sono i blocchi da impostare.
+
+![La pagina di modifica del Compleanno con la sezione Come funziona e il blocco Quando parte](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/27453_Automazione-Modifica.jpg)
 
 ⏰ **Quando parte**<br>È il momento in cui l'Automazione si mette in moto. Cambia da una all'altra, e trovi i dettagli più sotto.
 
 🎁 **Cosa riceve il cliente**<br>Scegli il premio tra le opzioni disponibili per quell'Automazione.
 
-💬 **Il messaggio**<br>Puoi riscrivere oggetto, anteprima, titolo e testo, e cambiare l'immagine. Parti da un testo già pronto, che puoi anche tenere così com'è. Con **Invia test** ricevi una email di prova, che non assegna premi e non parte sugli altri canali.
+💬 **Il messaggio**<br>Parti da un testo già pronto, che puoi anche tenere così com'è. Con **Modifica messaggio** riscrivi oggetto, anteprima, titolo e testo, e cambi l'immagine. Con **Invia test** ricevi una email di prova, che non assegna premi e non parte sugli altri canali.
 
 🔔 **Il promemoria**<br>Se lo attivi, il cliente riceve un secondo messaggio prima che la promozione scada. Il suo testo si modifica a parte.
 
-Quando hai finito premi **Salva e attiva** (oppure **Salva ed esci**, se è già attiva). Per spegnerla usa **Disattiva**.
+Quando hai finito premi **Salva e attiva** (oppure **Salva ed esci**, se è già attiva). Puoi anche scegliere **Salva senza attivare**. Per spegnerla usa **Disattiva**.
 
 > 💡 **Le modifiche valgono da adesso in poi.** Se cambi il premio o le tempistiche, chi ha già ricevuto l'Automazione tiene quello che aveva. Il Gestionale te lo ricorda prima di salvare.
 
 ## I premi che puoi scegliere
 
 Le opzioni non sono uguali per tutte le Automazioni, e cambia anche quello che deve fare il cliente.
+
+![Il blocco Cosa riceve il cliente con la scelta del premio, la durata e il Testo promozione](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/27453_Automazione-Premio.jpg)
 
 🎟️ **Una promozione**<br>È un'offerta da ritirare in negozio, come un caffè omaggio o uno sconto. Scrivi il **Testo promozione**, fino a 80 caratteri, e scegli per quanti giorni è valida. Il giorno in cui arriva conta già, quindi una promozione di 7 giorni ricevuta il 6 scade alla fine del 12. Deve essere una promozione vera, che il cliente può ritirare entro la scadenza. Per le comunicazioni generiche usa una [Campagna Marketing](https://supporto.unipiazza.it/it/articles/27450-cosa-sono-le-campagne-marketing-e-come-si-creano).
 
@@ -81,6 +87,8 @@ Recensioni non ha premi, perché chiede solo una recensione.
 Premia chi entra nel tuo programma fedeltà, e ogni cliente riceve il premio una volta sola. Puoi dare dei gettoni o una promozione. Prende il posto delle vecchie Autopromo **Gettoni Bonus Iscrizione** e **Acquisizione Clienti**, che non esistono più.
 
 In **Canali di iscrizione** scegli da dove deve arrivare il cliente per ricevere il premio. Le opzioni sono Chiosco, Vetrina web e app, Invito di un amico, Gestionale, Clienti importati e Integrazioni esterne. L'offerta compare sulla tua Vetrina, accanto al bottone per iscriversi, solo se hai selezionato **Vetrina web e app**.
+
+![I Canali di iscrizione dell'Automazione Iscrizione](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/27453_Automazione-Iscrizione-Canali.jpg)
 
 Iscrizione non manda un messaggio suo, perché al cliente arriva già il messaggio di benvenuto. Il premio lo trova in cassa, sul Chiosco e nell'app.
 
@@ -134,7 +142,7 @@ Se un cliente non ha dato il consenso o non ha un contatto, il premio gli spetta
 
 ## Se hai più punti vendita
 
-Se il tuo locale fa parte di una catena, una stessa Automazione può essere condivisa, e un avviso in cima alla pagina ti dice quali punti vendita coinvolge. In quel caso le modifiche valgono per tutti. Se un'Automazione cambia da locale a locale, seleziona un punto vendita dal menu in alto per vederne i dettagli.
+Se il tuo locale fa parte di una catena, una stessa Automazione può essere condivisa, e un avviso in cima alla pagina ti dice quali punti vendita coinvolge. In quel caso le modifiche valgono per tutti. Con tutti i punti vendita selezionati vedi le Automazioni solo se formano una catena. Altrimenti scegli un punto vendita dal menu in alto.
 
 ## Quando il cliente viene a ritirare la promozione
 

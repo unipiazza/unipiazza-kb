@@ -32,6 +32,8 @@ Vai nella sezione **Automazioni** del Gestionale e premi la matita sulla riga ch
 **2. Accendi WhatsApp nel blocco del messaggio**
 In **Il messaggio** trovi i canali. Email, App e RCS sono sempre attivi, mentre **WhatsApp** ha il suo interruttore.
 
+![I canali di un'Automazione, con Email, App, RCS e WhatsApp](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/61973_Automazione-Canali.jpg)
+
 **3. Salva**
 Premi **Salva ed esci**. Da quel momento l'Automazione parte anche su WhatsApp.
 

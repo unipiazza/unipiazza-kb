@@ -28,6 +28,8 @@ In cima alla sezione **Automazioni** ci sono i numeri generali. Sotto, ogni riga
 
 Nella pagina dei risultati trovi anche l'elenco dei clienti, con quello che ha ricevuto ognuno.
 
+![I risultati del Compleanno con Clienti raggiunti, Messaggi aperti, Promo ritirate, Visite generate e Incassi](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/Risultati-Automazione.jpg)
+
 ## Cosa significa ogni numero
 
 👥 **Clienti raggiunti**<br>I clienti a cui il messaggio è partito su almeno un canale. Un cliente raggiunto via email e RCS conta uno, e il promemoria non si aggiunge. Il numero ti dice che il messaggio è partito, non che è stato letto. Se sotto leggi **regali senza messaggio**, sono clienti senza consenso o senza un contatto. Il premio gli spetta comunque, e lo trovano in cassa, sul Chiosco e nell'app.

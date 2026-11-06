@@ -31,11 +31,13 @@ Premi la matita sulla riga **Messaggio di benvenuto personalizzato**.
 **2. Scegli quando farlo partire**
 In **Dopo quanto tempo** puoi mandarlo subito, dopo 1 ora o dopo 24 ore dall'iscrizione.
 
+![La pagina del Messaggio di benvenuto personalizzato con i Canali di iscrizione e Dopo quanto tempo](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/Benvenuto-Modifica.jpg)
+
 **3. Scrivi il tuo testo**
-In **Il messaggio** cambi oggetto, titolo, testo e immagine. Con **Invia test** ricevi una email di prova.
+In **Il messaggio** premi **Modifica messaggio** per cambiare oggetto, titolo, testo e immagine. Con **Invia test** ricevi una email di prova.
 
 **4. Aggiungi un secondo messaggio, se ti serve**
-In **Un secondo messaggio** puoi mandare un altro testo dopo 1, 2, 3, 7 o 14 giorni, per esempio per raccontare i tuoi prodotti o il tuo primo premio.
+In **Un secondo messaggio** puoi mandare un altro testo dopo 1, 2, 3, 7 o 14 giorni, per esempio per raccontare i tuoi prodotti o il tuo primo premio. È un messaggio di marketing, quindi parte solo sui canali autorizzati dal cliente e solo se il benvenuto è partito.
 
 **5. Salva**
 Premi **Salva e attiva**. Se usi **Disattiva**, i nuovi clienti tornano a ricevere il benvenuto standard di Unipiazza.
