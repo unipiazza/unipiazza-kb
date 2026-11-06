@@ -15,7 +15,7 @@ keywords:
 sort: 0
 is_featured: false
 locale: it
-updated_at: '2026-06-16'
+updated_at: '2026-11-06'
 last_synced: '2026-06-16'
 ---
 
@@ -64,11 +64,19 @@ Chiude il pannello e mostra i risultati nella lista. Da qui puoi anche **salvare
 - **Consenso marketing**: menù a tendina
 
 **💬 Comunicazioni**
-- **Cliente contattabile tramite un canale specifico**: scegli il canale (email, app, RCS...) per trovare solo i clienti raggiungibili da quella parte
+- **Cliente Contattabile / Non Contattabile tramite**: scegli il canale tra Email o RCS, Email, RCS e Whatsapp. Con **Non Contattabile** la prima voce diventa **Email e RCS**, e trova i clienti che non puoi raggiungere su nessuno dei due
 
 **🗒️ Altro**
 - **Contiene nota**: ricerca libera nel testo delle note dei clienti
 - **Interazioni**: ha ricevuto/ritirato una campagna o promozione specifica, oppure ha ritirato un premio specifico
+
+## Contattabile e Consenso marketing sono due cose diverse
+
+I due filtri non si influenzano a vicenda. **Contattabile** ti dice se abbiamo un canale per raggiungere il cliente, per esempio un'email valida, e non guarda i consensi. Per quelli c'è **Consenso marketing**. Se ti servono i clienti a cui puoi mandare una promozione, usali insieme.
+
+💬 **Vuoi scrivere su WhatsApp a chi non è raggiungibile in altro modo?**<br>Seleziona **Non Contattabile** tramite **Email e RCS**, **Telefono inserito** su Sì e, se serve, **Consenso marketing**.
+
+> 💡 **I destinatari sono meno dei clienti filtrati?** È normale. Il filtro controlla che il telefono ci sia, ma non sa se il numero è giusto o se su quel numero c'è WhatsApp. Chi non è raggiungibile viene escluso quando prepari la campagna.
 
 ---
 

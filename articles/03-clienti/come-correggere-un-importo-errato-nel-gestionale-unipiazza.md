@@ -20,7 +20,7 @@ keywords:
 sort: 4
 is_featured: false
 locale: it
-updated_at: '2026-10-16'
+updated_at: '2026-11-06'
 last_synced: '2026-06-19'
 ---
 
@@ -36,15 +36,15 @@ Dal menu principale del gestionale, seleziona **"Clienti"** e poi **"Lista clien
 
 ![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/69c77e64d00bfc8badef87e6f79cb85d/Screenshot%202025-01-23%20alle%2016.01.05.png)
 
-Nella scheda del cliente scorri fino a **"Storico Azioni"** e cerca la riga **Raccolta gettoni** da correggere. Attenzione, va usato lo Storico Azioni dentro il profilo. Quello generale, nel menu Clienti, serve solo a consultare e lì non si modifica niente.
+Nella scheda del cliente scorri fino a **"Storico Azioni"** e cerca la riga **Raccolta gettoni** da correggere. Attenzione, va usato lo Storico Azioni dentro il profilo. In quello generale, nel menu Clienti, si correggono solo le visite segnalate da [Visite da verificare](https://supporto.unipiazza.it/it/articles/LINK_VISITE).
 
 **3. Correggi o elimina**
 
-Clicca sul valore di quella riga. Si apre un campo con l'importo in euro e, accanto, l'icona per eliminare la visita. Hai due strade.
+Clicca su quella riga. Si apre la finestra **Visita**, con spesa, gettoni, data e ora. Hai due strade.
 
-✏️ **Modifica l'importo**<br>Scrivi l'importo giusto e conferma con **Si** alla domanda **Modificare l'importo della visita?**. I gettoni si ricalcolano da soli. La visita invece resta, quindi questa è la strada giusta quando il cliente è passato davvero ma hai sbagliato la cifra. L'importo non può scendere a zero. Se l'accredito non andava proprio fatto, elimina la visita.
+✏️ **Modifica l'importo**<br>Premi **Modifica importo**, scrivi l'importo giusto e premi **Salva**. I gettoni si ricalcolano da soli e nello storico resta anche l'importo di prima. La visita invece resta, quindi questa è la strada giusta quando il cliente è passato davvero ma hai sbagliato la cifra. L'importo non può scendere a zero. Se l'accredito non andava proprio fatto, elimina la visita.
 
-🗑️ **Elimina la visita**<br>Premi l'icona per eliminare e conferma con **Si** alla domanda **Eliminare la visita?**. Spariscono i gettoni, gli euro e anche la visita. È la strada giusta per un accredito doppio o fatto al cliente sbagliato.
+🗑️ **Elimina la visita**<br>Premi **Elimina** e conferma con **Sì, elimina** alla domanda **Eliminare la visita?**. Spariscono i gettoni, gli euro e anche la visita. È la strada giusta per un accredito doppio o fatto al cliente sbagliato.
 
 **Cosa non si può fare**
 
@@ -54,4 +54,4 @@ Clicca sul valore di quella riga. Si apre un campo con l'importo in euro e, acca
 
 3️⃣ **Spostare una Tessera Fedeltà**<br>Se una Tessera Fedeltà è finita sul cliente sbagliato, o un cliente ne ha attivate due, dal Gestionale non si può scollegare né spostare. Anche eliminare il cliente non la libera. Scrivici con il codice della tessera e i dati del cliente, e ci pensiamo noi. Se invece il cliente ha perso la tessera e ne vuole una nuova, lo fai da te dal Chiosco, come spiegato in [Il cliente ha una nuova Tessera Fedeltà: come collegare il profilo esistente?](https://supporto.unipiazza.it/it/articles/63765-il-cliente-ha-una-nuova-tessera-fedelta-come-collegare-il-profilo-esistente).
 
-Hai un dubbio o la correzione non va a buon fine? Scrivici su WhatsApp al **388 8665987**, siamo qui per aiutarti!
+Vuoi accorgerti subito degli importi sbagliati? Attiva [Visite da verificare](https://supporto.unipiazza.it/it/articles/LINK_VISITE) e ti avvisiamo noi. Hai un dubbio o la correzione non va a buon fine? Scrivici su WhatsApp al **388 8665987**, siamo qui per aiutarti!
