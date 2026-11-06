@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 136 (109 published, 27 draft), più 2 nuovi solo in locale dal 2026-10-16, da creare su Customerly alla prossima sync
+- **Articoli totali:** 140 (113 published, 27 draft)
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -23,7 +23,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | 02-riepilogo | 7179 | Riepilogo | 5 | ⚠️ manca 2 metriche nel dashboard |
 | 03-clienti | 7180 | Clienti | 23 | ✅ |
 | 04-premi-e-gettoni | 7181 | Premi e Gettoni | 9 | ✅ |
-| 05-campagne-autopromo-whatsapp | 7182 | Campagne, Autopromo e WhatsApp | 20 (+2 nuovi) | ✅ |
+| 05-campagne-autopromo-whatsapp | 7182 | Campagne, Automazioni e WhatsApp | 24 | ✅ |
 | 06-modelli-campagne | 3911 | Modelli Campagne | 9 | ⚠️ contenuti 2021-22 datati, immagini rotte |
 | 07-booster-e-abbonamenti | 7236 | Booster Vendite e Abbonamenti | 4 | ✅ |
 | 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 4 | ❌ specifiche errate (slot, limiti) |
@@ -57,7 +57,7 @@ Articoli di benvenuto e troubleshooting hardware/app. Pilotati e validati (round
 |---|---|---|---|
 | 27438 | È arrivato il Kit Unipiazza, cosa devo fare? | e-arrivato-il-kit-unipiazza-cosa-devo-fare | published |
 | 28335 | Tutto quello che devi sapere per iniziare | tutto-quello-che-devi-sapere-per-iniziare | published |
-| 4366 | Ho finito le tessere, come posso richiederne delle altre? | ho-finito-le-tessere-come-posso-richiederne-delle-altre | published (modificato in locale il 2026-10-16) |
+| 4366 | Ho finito le tessere, come posso richiederne delle altre? | ho-finito-le-tessere-come-posso-richiederne-delle-altre | published |
 | 41599 | Il mio registratore di cassa è compatibile con Unipiazza? | la-mia-cassa-e-compatibile-con-unipiazza | published |
 | 41648 | Il mio Chiosco è bloccato, come lo resetto? | come-si-resetta-il-chiosco | published |
 | 40682 | L'app Unipiazza è sparita, cosa faccio? | l-app-unipiazza-e-sparita-cosa-faccio | published |
@@ -130,15 +130,15 @@ Meccaniche di fedeltà: gettoni, lista premi, creazione premi, limiti ritiro, ge
 
 ---
 
-### 05 — Campagne, Autopromo e WhatsApp · `collection_id: 7182`
+### 05 — Campagne, Automazioni e WhatsApp · `collection_id: 7182`
 
-Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. Il 2026-10-16, in locale e non ancora sincronizzati, corretti 27453, 27452, 61640, 61919, 61971, 61972, 61973 e scritti due articoli nuovi senza article_id (regalo di compleanno alla cassa, WhatsApp bloccato), per i buchi trovati nelle conversazioni di Olivia. Lo strumento tessera.unipiazza.it per ora resta fuori dalla KB (Edoardo, 16/10) ([[analisi-conversazioni-olivia-2026-10-15]]). 27450: il web era stato modificato il 2026-07-03 (step 4 diverso); il 15/10 è stato allineato al file locale, mantenendo la frase finale "Inviata in verde".
+Invio campagne email/SMS/WhatsApp, Automazioni, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-11-06 la sezione Autopromo è diventata Automazioni (issue kb#3): riscritti 27453, 61973 e 63782, creati 70104 e 70105, pubblicati i due articoli del 16/10 (70106, 70107) e tutte le correzioni rimaste in locale. Slug e cartella restano con "autopromo" per non rompere i link. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. Il 2026-10-16, in locale e non ancora sincronizzati, corretti 27453, 27452, 61640, 61919, 61971, 61972, 61973 e scritti due articoli nuovi senza article_id (regalo di compleanno alla cassa, WhatsApp bloccato), per i buchi trovati nelle conversazioni di Olivia. Lo strumento tessera.unipiazza.it per ora resta fuori dalla KB (Edoardo, 16/10) ([[analisi-conversazioni-olivia-2026-10-15]]). 27450: il web era stato modificato il 2026-07-03 (step 4 diverso); il 15/10 è stato allineato al file locale, mantenendo la frase finale "Inviata in verde".
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
 | 27450 | Cosa sono le Campagne Marketing e come si creano? | cosa-sono-le-campagne-marketing-e-come-si-creano | published |
 | 27452 | Suggerimenti per scrivere una Campagna Marketing perfetta | suggerimenti-per-scrivere-una-campagna-marketing-perfetta | published |
-| 27453 | Cosa sono e come funzionano le Autopromo? | cosa-sono-le-autopromo | published |
+| 27453 | Cosa sono e come funzionano le Automazioni? | cosa-sono-le-autopromo | published |
 | 30013 | Dove si possono scaricare immagini gratuite per le Campagne? | dove-si-possono-scaricare-immagini-gratuite-per-le-campagne | published |
 | 30681 | Posso inviare una campagna solo ad alcuni clienti? | posso-inviare-una-campagna-solo-ad-alcuni-clienti | published |
 | 31070 | Posso escludere dei gruppi di Utenti dall'invio una campagna? | posso-escludere-dei-gruppi-di-utenti-dall-invio-una-campagna | published |
@@ -151,13 +151,15 @@ Invio campagne email/SMS/WhatsApp, autopromo, RCS, calendario eventi, statistich
 | 61970 | Il dettaglio della campagna inviata: statistiche e analisi | dettaglio-campagna-inviata-statistiche-e-analisi | published |
 | 61971 | Inviare una campagna senza approvazione | inviare-una-campagna-senza-approvazione | published |
 | 61972 | Campagne WhatsApp: come funzionano, quanto costano e come iniziare | campagne-whatsapp-come-funzionano-costi-e-come-iniziare | published |
-| 61973 | Come attivare WhatsApp sulle tue Autopromo | come-attivare-whatsapp-sulle-autopromo | published |
+| 61973 | Come attivare WhatsApp sulle tue Automazioni | come-attivare-whatsapp-sulle-autopromo | published |
 | 61974 | Il Calendario Eventi: trova l'occasione giusta per la tua prossima campagna | calendario-marketing-unipiazza | published |
 | 63782 | Le comunicazioni automatiche: come appaiono ai tuoi clienti | anteprime-comunicazioni-automatiche | published |
 | 65381 | Perché la campagna è arrivata a meno clienti di quelli selezionati? | perche-la-campagna-e-arrivata-a-meno-clienti-di-quelli-selezionati | published |
 | 67839 | Personalizza le tue Campagne con le Variabili | personalizza-le-campagne-con-le-variabili | published |
-| — | Il cliente viene a ritirare il regalo di compleanno: cosa deve fare il personale? | il-cliente-ritira-il-regalo-di-compleanno-cosa-fa-il-personale | nuovo, da creare |
-| — | WhatsApp non funziona o risulta bloccato: cosa controllare? | whatsapp-non-funziona-o-risulta-bloccato | nuovo, da creare |
+| 70107 | Il cliente viene a ritirare il regalo di compleanno: cosa deve fare il personale? | il-cliente-ritira-il-regalo-di-compleanno-cosa-fa-il-personale | published |
+| 70106 | WhatsApp non funziona o risulta bloccato: cosa controllare? | whatsapp-non-funziona-o-risulta-bloccato | published |
+| 70104 | Come leggere i risultati delle Automazioni | come-leggere-i-risultati-delle-automazioni | published |
+| 70105 | Il Messaggio di benvenuto personalizzato | messaggio-di-benvenuto-personalizzato | published |
 
 ---
 

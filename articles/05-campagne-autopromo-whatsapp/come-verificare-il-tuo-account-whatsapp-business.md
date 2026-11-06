@@ -12,7 +12,7 @@ sort: 10
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-06-19'
+last_synced: '2026-11-06'
 ---
 
 Hai collegato il tuo account WhatsApp Business? Ottimo! Di partenza Meta ti fa scrivere a **250 clienti diversi ogni 24 ore**. Il limite conta le persone, non i messaggi, e vale su tutte le campagne e le Automazioni insieme. Per salire a **2.000 clienti ogni 24 ore** devi completare la verifica dell'azienda su Meta.

@@ -9,7 +9,7 @@ status: published
 written_by: 2961
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-06-10'
+last_synced: '2026-11-06'
 ---
 
 Quando carichi immagini su Unipiazza, è essenziale utilizzare le dimensioni corrette per garantire una visualizzazione ottimale su tutte le piattaforme. Ecco una guida rapida alle risoluzioni delle immagini consigliate per le diverse funzioni di Unipiazza.

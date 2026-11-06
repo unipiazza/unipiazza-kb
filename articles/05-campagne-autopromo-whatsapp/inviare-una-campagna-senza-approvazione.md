@@ -15,7 +15,7 @@ sort: 1
 is_featured: false
 locale: it
 updated_at: '2026-10-16'
-last_synced: '2026-10-15'
+last_synced: '2026-11-06'
 ---
 
 Fino a oggi ogni campagna passava dall'approvazione del team Unipiazza, che controllava eventuali errori e ottimizzava data e orario di invio. Un passaggio utile, ma che richiedeva tempo. Da oggi puoi scegliere di **inviare direttamente**, senza aspettare. 🚀

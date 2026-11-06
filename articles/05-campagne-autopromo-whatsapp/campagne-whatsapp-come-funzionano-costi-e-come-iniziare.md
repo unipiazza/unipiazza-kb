@@ -17,7 +17,7 @@ sort: 2
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-10-15'
+last_synced: '2026-11-06'
 ---
 
 WhatsApp è il canale di messaggistica più usato dai tuoi clienti, con tassi di apertura che possono superare il **90%**. Ottima notizia: da oggi puoi usarlo anche per le tue campagne Unipiazza! 🎉

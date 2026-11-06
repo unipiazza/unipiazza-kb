@@ -17,7 +17,7 @@ sort: 3
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-06-16'
+last_synced: '2026-11-06'
 ---
 
 Le Automazioni lavorano già per te via email, RCS e notifica dell'app. Puoi aggiungere anche **WhatsApp**, il canale con i tassi di apertura più alti 📲 Lo accendi su ogni Automazione singolarmente, così scegli tu dove ha più senso.

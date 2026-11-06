@@ -17,7 +17,7 @@ sort: 6
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-06-19'
+last_synced: '2026-11-06'
 ---
 
 Con Unipiazza, puoi aumentare la riconoscibilità e la reputazione del tuo locale personalizzando il mittente delle tue campagne email. Invece di inviare le comunicazioni da promo@unipiazza.it, puoi farle apparire con il tuo dominio (es. info@tuosito.it). Questa funzionalità è dedicata ai clienti che hanno un pacchetto Elite o hanno acquistato una personalizzazione grafica extra.

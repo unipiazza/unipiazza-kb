@@ -9,7 +9,7 @@ status: published
 written_by: 2961
 locale: it
 updated_at: '2026-10-16'
-last_synced: '2026-10-15'
+last_synced: '2026-11-06'
 ---
 
 Vuoi sapere quanto stai pagando, quanti crediti ti restano e quali funzionalità hai attive? La sezione **Piano & Consumi** è la tua pagina di controllo: tutto in un colpo d'occhio. 👀

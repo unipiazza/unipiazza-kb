@@ -16,7 +16,7 @@ sort: 3
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-06-19'
+last_synced: '2026-11-06'
 ---
 
 Nella sezione "[Analisi Clienti](https://partner.unipiazza.it/clienti/analisi_clienti)", trovi un sacco di informazioni sui tuoi clienti, tipo chi sono e come si comportano. La vista predefinita mostra gli ultimi 365 giorni, ma puoi cambiare il periodo dal menù a tendina.

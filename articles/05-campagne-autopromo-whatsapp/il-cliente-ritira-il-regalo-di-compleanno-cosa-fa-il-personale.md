@@ -25,6 +25,7 @@ sort: 4
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
+last_synced: '2026-11-06'
 ---
 
 Un cliente entra e ti dice «Mi è arrivato il regalo di compleanno!». Ottimo, l'Automazione sta lavorando per te 🎂 Per consegnarlo nel modo giusto servono due passaggi, uno su Unipiazza e uno sul registratore di cassa. Funziona allo stesso modo per tutte le promozioni delle Automazioni, come Prima visita, A rischio e Dormienti. Se come premio hai scelto dei gettoni o una ricarica del Wallet, non c'è niente da ritirare, perché sono già sul saldo del cliente.
