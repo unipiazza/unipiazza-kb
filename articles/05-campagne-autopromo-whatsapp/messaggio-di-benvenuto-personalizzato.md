@@ -56,4 +56,4 @@ Il tuo testo arriva via email, notifica dell'app e RCS. Se il numero del cliente
 
 Se fai parte di una catena puoi scegliere a chi si applicano i testi, solo al locale selezionato oppure a **Tutto il brand**. Con **Tutto il brand** il testo vale per tutti i punti vendita, e modificarlo cambia gli invii futuri di tutti.
 
-Dai risultati del messaggio vedi chi l'ha ricevuto, da quale canale si è iscritto e quali messaggi ha aperto. Ti spieghiamo come leggerli in [Come leggere i risultati delle Automazioni](https://supporto.unipiazza.it/it/articles/LINK_RISULTATI). Un buon benvenuto è il primo passo perché quel cliente torni 😉
+Dai risultati del messaggio vedi chi l'ha ricevuto, da quale canale si è iscritto e quali messaggi ha aperto. Ti spieghiamo come leggerli in [Come leggere i risultati delle Automazioni](https://supporto.unipiazza.it/it/articles/70104-come-leggere-i-risultati-delle-automazioni). Un buon benvenuto è il primo passo perché quel cliente torni 😉

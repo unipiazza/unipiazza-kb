@@ -1,4 +1,5 @@
 ---
+article_id: 70104
 collection_id: 7182
 collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Come leggere i risultati delle Automazioni"
@@ -18,6 +19,7 @@ sort: 3
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
+last_synced: '2026-11-06'
 ---
 
 Hai acceso le tue Automazioni e ora vuoi sapere se funzionano? I numeri te lo dicono 📊 Per leggerli bene basta ricordare una cosa, cioè che **cambiano in base al premio che hai scelto**.

@@ -40,7 +40,7 @@ La sezione **Automazioni** è divisa in due gruppi.
 
 🎁 **Autopromo**<br>Sono le sette Automazioni che premiano i clienti o che chiedono loro una recensione. Trovi Iscrizione, Prima visita, Compleanno, Invita un amico, Recensioni, A rischio e Dormienti.
 
-Su ogni riga hai tre icone. L'**occhio** ti mostra il messaggio, la **matita** apre la modifica e il **grafico** ti porta ai risultati. In cima alla pagina trovi i numeri generali, e il periodo lo scegli dal menu in alto a destra. Cosa significa ogni numero te lo spieghiamo in [Come leggere i risultati delle Automazioni](https://supporto.unipiazza.it/it/articles/LINK_RISULTATI).
+Su ogni riga hai tre icone. L'**occhio** ti mostra il messaggio, la **matita** apre la modifica e il **grafico** ti porta ai risultati. In cima alla pagina trovi i numeri generali, e il periodo lo scegli dal menu in alto a destra. Cosa significa ogni numero te lo spieghiamo in [Come leggere i risultati delle Automazioni](https://supporto.unipiazza.it/it/articles/70104-come-leggere-i-risultati-delle-automazioni).
 
 > 🚫 **Le Automazioni non si duplicano e non se ne creano di nuove.** Puoi accenderle, spegnerle e cambiarle. Ti serve un'offerta in più, per esempio per una lista di clienti? Usa una [Campagna Marketing](https://supporto.unipiazza.it/it/articles/27450-cosa-sono-le-campagne-marketing-e-come-si-creano), che invece puoi duplicare.
 
