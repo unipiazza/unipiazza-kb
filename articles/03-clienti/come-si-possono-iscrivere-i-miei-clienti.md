@@ -22,13 +22,13 @@ keywords:
 sort: 6
 is_featured: false
 locale: it
-updated_at: '2026-10-06'
+updated_at: '2026-11-06'
 last_synced: '2026-10-06'
 ---
 
 Vuoi sapere come i tuoi clienti possono iscriversi al tuo programma fedeltà? È facile, e hanno tre strade 😉
 
-🏪 **Dalla tua Vetrina**<br>È la strada più semplice e quella da far conoscere per prima. Il cliente inquadra il QR Code della tua Vetrina (sul banco, su un volantino, su un adesivo) oppure apre il link che gli mandi, e si iscrive gratis in un minuto dal suo telefono. Non deve scaricare niente. Da quel momento, a ogni acquisto da te mostra il QR Code della sua area personale per raccogliere i gettoni.
+🏪 **Dalla tua Vetrina**<br>È la strada più semplice e quella da far conoscere per prima. Il cliente inquadra il QR Code della tua Vetrina (sul banco, su un volantino, su un adesivo) oppure apre il link che gli mandi, preme **Iscriviti gratis** e si iscrive in un minuto dal suo telefono, con email o telefono, Google o Facebook. Non deve scaricare niente. Chi si iscrive con l'email può lasciare anche il telefono, e viceversa, così lo ritrovi in cassa anche senza Tessera Fedeltà. Alla fine può inserire il compleanno, oppure saltare il passaggio. Da quel momento, a ogni acquisto da te mostra il QR Code della sua area personale per raccogliere i gettoni.
 
 📟 **Dal Chiosco Unipiazza**<br>Metti il Chiosco vicino alla cassa e invita i clienti a iscriversi lì. Devono solo inquadrare il QR Code di una Tessera Fedeltà nuova sul Chiosco, oppure inserire il loro numero di telefono.
 

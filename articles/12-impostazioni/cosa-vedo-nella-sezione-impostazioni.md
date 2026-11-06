@@ -37,4 +37,4 @@ La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pan
 
    **Visite da verificare:** Ti avvisiamo quando una visita ha un importo molto più alto del solito. Scegli la soglia e scopri come funziona in [questo articolo](https://supporto.unipiazza.it/it/articles/LINK_VISITE).
 
-8. **Liste preimpostate:** Modifica i criteri con cui i tuoi clienti entrano nelle liste automatiche **Nuovi**, **Vip**, **Inattivi** e **Archiviati** (per esempio la soglia di giorni dei "Nuovi"). Attenzione: cambiando i criteri cambiano anche i destinatari delle tue Autopromo e campagne. Clicca [qui](https://supporto.unipiazza.it/it/articles/27444-cosa-sono-le-etichette-clienti-nuovi-vip-ti-seguono-e-inattivi) per i dettagli.
+8. **Liste preimpostate:** Modifica i criteri con cui i tuoi clienti entrano nelle liste automatiche **Nuovi**, **Vip**, **Inattivi** e **Archiviati** (per esempio la soglia di giorni dei "Nuovi"). Attenzione: cambiando i criteri cambiano anche i destinatari delle tue Automazioni e campagne. Clicca [qui](https://supporto.unipiazza.it/it/articles/27444-cosa-sono-le-etichette-clienti-nuovi-vip-ti-seguono-e-inattivi) per i dettagli.

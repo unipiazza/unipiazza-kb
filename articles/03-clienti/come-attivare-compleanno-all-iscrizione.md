@@ -16,7 +16,7 @@ keywords:
 sort: 18
 is_featured: false
 locale: it
-updated_at: '2026-09-22'
+updated_at: '2026-11-06'
 last_synced: '2026-09-22'
 ---
 
@@ -38,6 +38,6 @@ Una volta attivata l'opzione, durante l'iscrizione dal Chiosco Unipiazza compari
 
 **A cosa serve raccogliere questo dato?**
 
-Con la data di nascita in mano, Unipiazza invia in automatico l'[Autopromo Compleanno](https://supporto.unipiazza.it/it/articles/27453-cosa-sono-le-autopromo) 3 giorni prima del compleanno del cliente: un augurio con una promo dedicata, per fargli venire ancora più voglia di festeggiare da te. 🎉
+Con la data di nascita in mano, puoi attivare l'[Automazione Compleanno](https://supporto.unipiazza.it/it/articles/27453-cosa-sono-le-autopromo), che parte da sola con l'anticipo che scegli (di partenza 3 giorni prima). Un augurio con un premio dedicato, per fargli venire ancora più voglia di festeggiare da te. 🎉
 
-> 💡 **Nota bene:** l'opzione vale solo per l'iscrizione dal Chiosco. I clienti possono comunque aggiungere o modificare la propria data di nascita in qualsiasi momento dal proprio Profilo, come spiegato in [questo articolo](https://supporto.unipiazza.it/it/articles/33516-i-clienti-possono-modificare-i-propri-dati-personali).
+> 💡 **Nota bene:** l'opzione vale per l'iscrizione dal Chiosco. Chi si iscrive dal sito o dalla Vetrina trova sempre il passaggio del compleanno, che può saltare. I clienti possono comunque aggiungere o modificare la propria data di nascita in qualsiasi momento dal proprio Profilo, come spiegato in [questo articolo](https://supporto.unipiazza.it/it/articles/33516-i-clienti-possono-modificare-i-propri-dati-personali).

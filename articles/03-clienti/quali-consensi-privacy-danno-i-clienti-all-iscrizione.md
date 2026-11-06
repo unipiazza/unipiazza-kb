@@ -28,13 +28,21 @@ keywords:
 sort: 7
 is_featured: false
 locale: it
-updated_at: '2023-12-27'
+updated_at: '2026-11-06'
 last_synced: '2026-06-19'
 ---
 
 ![](https://blackhole.customerly.io/attachments/2662e53a/accounts/41139/1eef83c0a0f282da004da66e897fbda2/Sign-In%206.0%20-%20Bv2%20%E2%80%93%201%20%281%29.png)
 
-Noi di Unipiazza siamo particolarmente attenti alla sicurezza dei dati e alla Privacy dei nostri utenti e clienti. Durante l'iscrizione vengono proposte all'utente due domande distinte riguardo al consenso per la ricezione di comunicazioni via email da Unipiazza. Vediamo cosa significano:
+Noi di Unipiazza siamo particolarmente attenti alla sicurezza dei dati e alla Privacy dei nostri utenti e clienti.
+
+**🏪 Dalla tua Vetrina**
+
+Chi si iscrive dalla tua Vetrina o dalla pagina della catena accetta i Termini d'uso, il [Regolamento e la Privacy Policy del tuo locale](https://supporto.unipiazza.it/it/articles/LINK_REGOLAMENTO). Poi trova una sola domanda sulle promozioni, per esempio **Mi piacerebbe ricevere promozioni e aggiornamenti da Bar Centrale via Email, messaggio o WhatsApp**.
+
+**📟 Dal Chiosco e dall'app**
+
+Durante l'iscrizione vengono proposte all'utente due domande distinte riguardo al consenso per la ricezione di comunicazioni da Unipiazza. Vediamo cosa significano:
 
 1. ***Acconsento a rimanere aggiornato via email sulle ultime novità di Unipiazza***
    Spuntando questa casella, il cliente acconsente a ricevere gli ultimi aggiornamenti (via email o notifiche App) della piattaforma Unipiazza. Ad esempio, le ultime funzionalità o servizi pubblicati o le nuove città raggiunte dal servizio.

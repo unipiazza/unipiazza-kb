@@ -8,7 +8,7 @@ description: La Vetrina è la pagina della tua attività dove i clienti si iscri
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-10-06'
+updated_at: '2026-11-06'
 last_synced: '2026-10-06'
 ---
 
@@ -16,7 +16,25 @@ La tua Vetrina è la porta d’ingresso del tuo programma fedeltà 🏪 È la pa
 
 È anche il tuo biglietto da visita online. È ottimizzata per i motori di ricerca, così ti trovano anche i nuovi clienti che cercano online, e compare pure nell’app Unipiazza.
 
-Dalla sezione “[Vetrina](https://partner.unipiazza.it/vetrina)” gestionale partner puoi inserire tutte le informazioni da visualizzare pubblicamente. Vediamole in dettaglio:  
+**Come la vedono i tuoi clienti**
+
+Da ottobre 2026 la Vetrina ha una grafica tutta nuova, e a parlare è la tua attività, con i tuoi colori e le tue foto. Il marchio Unipiazza resta sullo sfondo.
+
+🖼️ **Le tue foto**<br>A mosaico da computer e a carosello da telefono, con tutta la pagina nel colore del tuo locale.
+
+🪙 **Il tuo programma fedeltà in primo piano**<br>In alto ci sono i gettoni per euro, il premio di benvenuto e il bottone **Iscriviti gratis**. Chi è già iscritto vede il suo saldo, il prossimo premio e il suo QR Code.
+
+📍 **Tutte le informazioni**<br>Sotto trovi premi, orari, contatti, mappa e novità, con una barra per saltare da una sezione all'altra.
+
+📜 **Il fondo della pagina**<br>Ci sono contatti, social, ragione sociale e il link al [regolamento del tuo locale](https://supporto.unipiazza.it/it/articles/LINK_REGOLAMENTO).
+
+🔗 **Se fai parte di una catena**<br>La Vetrina lo dice e porta agli altri punti vendita. La catena ha anche una sua pagina con tutti i locali, la ricerca per città o via e il bottone **Vicino a me**. Gettoni e premi condivisi compaiono solo se la catena li condivide davvero.
+
+📱 **Sul telefono del cliente**<br>La tua Vetrina può diventare un'icona sulla schermata Home, come ti spieghiamo in [questo articolo](https://supporto.unipiazza.it/it/articles/LINK_HOME).
+
+**Cosa puoi inserire**
+
+Dalla sezione “[Vetrina](https://partner.unipiazza.it/vetrina)” del Gestionale puoi inserire tutte le informazioni da visualizzare pubblicamente. Vediamole in dettaglio:  
 
 -   **Nome attività commerciale:** Questo sarà il nome che comparirà sulla Vetrina Web, sull’App Unipiazza e nelle intestazioni delle campagne marketing che invii ai tuoi clienti.
     
