@@ -71,8 +71,8 @@ const mdIt = new MarkdownIt({
 });
 
 export function markdownToHtml(md) {
-  // Rimuovi il frontmatter se presente.
-  const body = md.replace(/^---\n[\s\S]*?\n---\n?/, "");
+  // Rimuovi il frontmatter se presente (anche nei file salvati con a capo Windows).
+  const body = md.replace(/\r\n/g, "\n").replace(/^---\n[\s\S]*?\n---\n?/, "");
   // I wiki-link di Obsidian restano nel vault: su Customerly non devono arrivare.
   const clean = body.replace(/[ \t]*\[\[[^\]\n]+\]\]/g, "");
   return mdIt.render(clean).trim();
