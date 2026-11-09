@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 143 (116 published, 27 draft)
+- **Articoli totali:** 146 in locale, 145 su Customerly (117 published, 28 draft). Il 4364 è solo in locale: su Customerly non esiste più
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -29,7 +29,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 4 | ❌ specifiche errate (slot, limiti) |
 | 09-vetrina | 7200 | Vetrina | 7 | ✅ |
 | 10-pagamenti-e-fatturazione | 676 | Pagamenti & Fatturazione | 5 | ⚠️ 1 articolo in draft |
-| 11-integrazioni | 8104 | Integrazioni | 3 | ⚠️ articolo Android con errori copia-incolla |
+| 11-integrazioni | 8104 | Integrazioni | 4 | ⚠️ articolo Android con errori copia-incolla |
 | 12-impostazioni | 7257 | Impostazioni | 3 | ✅ |
 | 13-eshop | 3416 | eShop | 10 | ❌ duplicati, articoli vuoti, copy off-brand |
 | 14-tablet-e-tessere | 171 | Tablet Unipiazza & Tessere | 7 | ⚠️ 5 draft legacy, 2 published |
@@ -247,6 +247,7 @@ Installazione app su Android/Windows e connessione a Zapier/Make. Il link dell'a
 | 36692 | Connettere Unipiazza a Zapier e Make (ex Integromat) | connettere-unipiazza-a-zapier-e-make-ex-integromat | published |
 | 48423 | Come installare l'App Operatore Unipiazza sul tuo PC Windows | come-installare-l-app-unipiazza-sul-tuo-pc-windows | published |
 | 61666 | Come installare l'App Operatore Unipiazza sul tuo dispositivo Android | come-installare-l-app-operatore-unipiazza-sul-tuo-dispositivo-android | published |
+| 65542 | "App Operatore assente" sul tuo Chiosco Unipiazza | app-operatore-assente-sul-tuo-chiosco-unipiazza | published (creato dal web, file locale dal 2026-11-09) |
 
 ---
 
@@ -289,7 +290,7 @@ Guide tablet e tessere fedeltà. ⚠️ 5 articoli in draft (contenuto legacy da
 | 1249 | Ho cambiato la password del wifi, come la cambio nel tablet? | ho-cambiato-la-password-del-wifi-come-la-cambio-nel-tablet | published |
 | 1250 | E' comparsa la scritta blu "dispositivo non trovato" cosa posso fare? | e-comparsa-la-scritta-blu-dispositivo-non-trovato-cosa-posso-fare | **draft** |
 | 1251 | Visualizzo una schermata rossa con scritto "Wifi assente" cosa posso fare? | visualizzo-una-schermata-rossa-con-scritto-wifi-assente-cosa-posso-fare | **draft** |
-| 4364 | Come accreditare gettoni tramite App Partner | come-accreditare-gettoni-tramite-app-partner | **draft** |
+| 4364 | Come accreditare gettoni tramite App Partner | come-accreditare-gettoni-tramite-app-partner | **draft**, non esiste più su Customerly |
 | 15851 | Il Tablet è acceso ma bloccato | il-tablet-e-acceso-ma-bloccato | **draft** |
 | 61811 | Tessere arancioni e blu con codice KC-KH e KR-KZ | tessere-arancioni-e-blu-con-codice-kc-kh-e-kr-kz | published |
 | 65545 | Come personalizzare la tua Tessera Fedeltà su Apple Wallet & Google Wallet | come-personalizzare-la-tessera-fedelta-su-apple-wallet-e-google-wallet | published |

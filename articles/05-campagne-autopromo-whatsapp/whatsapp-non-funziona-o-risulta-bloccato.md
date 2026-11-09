@@ -1,5 +1,5 @@
 ---
-article_id:
+article_id: 70106
 collection_id: 7182
 collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "WhatsApp non funziona o risulta bloccato: cosa controllare?"

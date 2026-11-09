@@ -1,5 +1,5 @@
 ---
-article_id:
+article_id: 70107
 collection_id: 7182
 collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Il cliente viene a ritirare il regalo di compleanno: cosa deve fare il personale?"

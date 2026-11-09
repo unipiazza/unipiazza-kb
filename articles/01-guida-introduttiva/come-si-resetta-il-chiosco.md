@@ -4,7 +4,7 @@ collection_id: 7178
 collection: ❇️ Guida Introduttiva
 title: Il mio Chiosco è bloccato, come lo resetto?
 slug: come-si-resetta-il-chiosco
-description: Il tuo Chiosco ti sta dando problemi? Niente che un reset non possa risolvere!
+description: Il tuo tablet ti sta dando problemi? Niente che un reset non possa risolvere!
 status: published
 written_by: 45263
 keywords: []
@@ -12,16 +12,16 @@ sort: 4
 is_featured: false
 locale: it
 updated_at: '2025-02-21'
-last_synced: '2026-06-10'
+last_synced: '2026-11-09'
 ---
 
-Può capitare che il Chiosco si blocchi e che nemmeno tenendo premuto il tasto di riavvio si riattivi. Non preoccuparti, con pochi passaggi tornerà operativo e pronto a stupire i tuoi clienti! 😊
+Può capitare che il Chiosco (tablet, non smartphone) si blocchi e che nemmeno tenendo premuto il tasto di riavvio si riattivi. Non preoccuparti, con pochi passaggi tornerà operativo e pronto a stupire i tuoi clienti! 😊
 
 A seconda del modello di tablet, sul retro potrebbe essere già attaccata una spilla per aiutarti a gestire questa evenienza.
 
 **1\. Trova il tastino magico**
 
-Sul retro del Chiosco, in alto a sinistra, c’è un piccolo tasto di reset nascosto in un foro.
+Sul retro del Chiosco (tablet, non smartphone), in alto a sinistra, c’è un piccolo tasto di reset nascosto in un foro.
 
 **2\. Usa un ago (o un oggetto simile)** 
 
