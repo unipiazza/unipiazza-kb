@@ -8,7 +8,7 @@ description: La Vetrina è la pagina della tua attività dove i clienti si iscri
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-11-06'
+updated_at: '2026-11-09'
 last_synced: '2026-11-09'
 ---
 
@@ -48,7 +48,9 @@ Dalla sezione “[Vetrina](https://partner.unipiazza.it/vetrina)” del Gestiona
     
 -   **Orari di Apertura:** Gli orari specifici di apertura della tua attività commerciale. Assicurati di tenerli aggiornati per evitare che i clienti vengano da te e trovino chiuso! 😉
     
--   **Icona**: Scegli una fra le 25 icone che più rappresenta la tua attività commerciale. 
+-   **Icona:** Premi **Cambia** e scegli tra le nostre illustrazioni quella che rappresenta meglio la tua attività. La usiamo sulla mappa e negli spazi piccoli, come email, notifiche e liste. Si salva con **Salva modifiche**, come il resto della pagina.
+    
+-   **Logo:** Premi **Carica il logo** e scegli il logo della tua attività, in PNG o JPG e di almeno 512 x 512 pixel. Lo ritagli in un quadrato, controlli come viene sul telefono e sulla Vetrina e premi **Salva il logo**. Va online subito, senza passare da **Salva modifiche**. Compare in cima alla Vetrina e sul telefono dei clienti, quando la aggiungono alla Home. Se non lo carichi, al suo posto compare l'icona. Per cambiarlo premi **Cambia**, poi **Sostituisci** o **Rimuovi**.
     
 -   **Categoria merceologica**: Scegli una fra le 52 categorie che più rappresentano la tua attività commerciale.
     
