@@ -26,7 +26,7 @@ sort: 1
 is_featured: false
 locale: it
 updated_at: '2026-10-16'
-last_synced: '2026-06-19'
+last_synced: '2026-11-09'
 ---
 
 Per accedere al profilo di un cliente su Unipiazza e vedere tutte le informazioni dettagliate, è sufficiente cliccare sul suo nome da qualunque sezione. Ecco cosa troverai nella pagina del profilo cliente:

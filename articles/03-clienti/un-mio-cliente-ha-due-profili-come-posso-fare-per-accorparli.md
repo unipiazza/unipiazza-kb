@@ -12,7 +12,7 @@ sort: 16
 is_featured: false
 locale: it
 updated_at: '2026-10-16'
-last_synced: '2026-06-19'
+last_synced: '2026-11-09'
 ---
 
 Se un cliente ha due tessere o account e desidera unirli, segui questi passaggi. Vale anche quando una Tessera Fedeltà è finita sul cliente sbagliato. Dal Gestionale non si scollega né si sposta, e anche eliminare il cliente non la libera.

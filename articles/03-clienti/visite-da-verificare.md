@@ -1,4 +1,5 @@
 ---
+article_id: 70111
 collection_id: 7180
 collection: "👨‍👩‍👧‍👦 Clienti"
 title: "Visite da verificare: come scoprire gli errori alla cassa"
@@ -19,6 +20,7 @@ sort: 4
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
+last_synced: '2026-11-09'
 ---
 
 Capita a tutti, una virgola dimenticata e 8,70€ diventano 870€. Il cliente si ritrova con una montagna di gettoni e tu con i conti che non tornano 😅 Con **Visite da verificare** il Gestionale tiene d'occhio gli importi per te, e ti avvisa quando una visita è molto più alta del solito. Quasi sempre è un errore alla cassa, a volte qualcuno che se ne approfitta.

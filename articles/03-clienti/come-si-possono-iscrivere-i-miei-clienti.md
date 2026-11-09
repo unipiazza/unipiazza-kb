@@ -23,7 +23,7 @@ sort: 6
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-10-06'
+last_synced: '2026-11-09'
 ---
 
 Vuoi sapere come i tuoi clienti possono iscriversi al tuo programma fedeltà? È facile, e hanno tre strade 😉

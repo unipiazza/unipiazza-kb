@@ -1,4 +1,5 @@
 ---
+article_id: 70109
 collection_id: 7200
 collection: 🏪 Vetrina
 title: "I tuoi clienti possono tenere la tua Vetrina sulla Home del telefono"
@@ -18,7 +19,8 @@ keywords:
 sort: 2
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
+updated_at: '2026-11-07'
+last_synced: '2026-11-07'
 ---
 
 E se la tua attività avesse un posto fisso sul telefono dei tuoi clienti, accanto alle loro app? 📱 Ora ce l'ha. Dalla tua Vetrina, un cliente può aggiungere un'icona alla schermata Home. Un tocco e ritrova gettoni, premi e QR Code, senza scaricare niente.
@@ -43,9 +45,9 @@ Se il browser non lo permette, per esempio su alcune versioni di Samsung Interne
 
 Apple non permette di aggiungere l'icona con un solo tocco. Per questo il bottone apre una guida con i passi da seguire, che in Safari sono questi.
 
-1️⃣ Tocca il tasto **Condividi**. Se non lo vedi, apri prima il menu **⋯**.
+1️⃣ Tocca il tasto **Condividi**. Se non lo vedi, lo trovi nel menu accanto all'indirizzo.
 
-2️⃣ Scorri e scegli **Aggiungi alla schermata Home**.
+2️⃣ Scorri e scegli **Aggiungi alla schermata Home**. Se non c'è, tocca prima **Visualizza altro** in basso a destra.
 
 3️⃣ Conferma con **Aggiungi**.
 

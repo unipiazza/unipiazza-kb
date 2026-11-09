@@ -1,4 +1,5 @@
 ---
+article_id: 70112
 collection_id: 7200
 collection: 🏪 Vetrina
 title: "Il regolamento del tuo programma fedeltà"
@@ -17,6 +18,7 @@ sort: 3
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
+last_synced: '2026-11-09'
 ---
 
 Scrivere un regolamento non è esattamente il modo in cui sogni di passare la serata 😅 Buone notizie, ci abbiamo già pensato noi. Ogni locale e ogni catena ha la sua pagina con il **regolamento fedeltà** e l'**informativa privacy**, pronta e sempre aggiornata.

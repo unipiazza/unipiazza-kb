@@ -22,7 +22,7 @@ keywords:
   - condividi
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-10-06'
+last_synced: '2026-11-09'
 ---
 
 Sai qual è la porta d’ingresso del tuo programma fedeltà? È la tua Vetrina. Da lì i tuoi clienti si iscrivono, scoprono i premi, leggono le novità e controllano quanti gettoni hanno. Più persone ci arrivano, più iscritti raccogli 😉<br><br>Per farle arrivare c’è un modo semplicissimo, il QR Code della tua Vetrina. Ti spieghiamo dove trovarlo, come condividerlo e come trasformarlo in volantini, locandine e post in pochi minuti.
@@ -85,6 +85,6 @@ Puoi aprire il generatore anche senza passare dal gestionale.<br>🖨️ [**Crea
 
 4️⃣ **Dillo anche a voce**<br>Un “inquadra il QR Code e ti iscrivi in un minuto” detto alla cassa vale più di dieci volantini 😉
 
-Una volta che il cliente è arrivato, fallo restare. Può [tenere la tua Vetrina sulla Home del telefono](https://supporto.unipiazza.it/it/articles/LINK_HOME), come un'app.
+Una volta che il cliente è arrivato, fallo restare. Può [tenere la tua Vetrina sulla Home del telefono](https://supporto.unipiazza.it/it/articles/70109-la-tua-vetrina-sulla-home-del-telefono), come un'app.
 
 Vuoi sapere tutto quello che puoi mettere nella tua Vetrina? Leggi [Cos’è e a cosa serve la Vetrina](https://supporto.unipiazza.it/it/articles/28255-cos-e-e-a-cosa-serve-la-vetrina).<br><br>Hai dubbi o vuoi una mano a scegliere il materiale giusto? Scrivici su WhatsApp al 388 8665987, siamo qui per aiutarti!

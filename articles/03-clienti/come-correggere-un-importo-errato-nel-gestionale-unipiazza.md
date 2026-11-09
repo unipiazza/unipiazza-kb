@@ -21,7 +21,7 @@ sort: 4
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-06-19'
+last_synced: '2026-11-09'
 ---
 
 Può capitare a tutti di sbagliare un importo, accreditare i gettoni due volte o registrare una visita di troppo. Nessun problema! Dal [gestionale Unipiazza](http://partner.unipiazza.it) si corregge in pochi passaggi.
@@ -36,7 +36,7 @@ Dal menu principale del gestionale, seleziona **"Clienti"** e poi **"Lista clien
 
 ![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/69c77e64d00bfc8badef87e6f79cb85d/Screenshot%202025-01-23%20alle%2016.01.05.png)
 
-Nella scheda del cliente scorri fino a **"Storico Azioni"** e cerca la riga **Raccolta gettoni** da correggere. Attenzione, va usato lo Storico Azioni dentro il profilo. In quello generale, nel menu Clienti, si correggono solo le visite segnalate da [Visite da verificare](https://supporto.unipiazza.it/it/articles/LINK_VISITE).
+Nella scheda del cliente scorri fino a **"Storico Azioni"** e cerca la riga **Raccolta gettoni** da correggere. Attenzione, va usato lo Storico Azioni dentro il profilo. In quello generale, nel menu Clienti, si correggono solo le visite segnalate da [Visite da verificare](https://supporto.unipiazza.it/it/articles/70111-visite-da-verificare).
 
 **3. Correggi o elimina**
 
@@ -54,4 +54,4 @@ Clicca su quella riga. Si apre la finestra **Visita**, con spesa, gettoni, data 
 
 3️⃣ **Spostare una Tessera Fedeltà**<br>Se una Tessera Fedeltà è finita sul cliente sbagliato, o un cliente ne ha attivate due, dal Gestionale non si può scollegare né spostare. Anche eliminare il cliente non la libera. Scrivici con il codice della tessera e i dati del cliente, e ci pensiamo noi. Se invece il cliente ha perso la tessera e ne vuole una nuova, lo fai da te dal Chiosco, come spiegato in [Il cliente ha una nuova Tessera Fedeltà: come collegare il profilo esistente?](https://supporto.unipiazza.it/it/articles/63765-il-cliente-ha-una-nuova-tessera-fedelta-come-collegare-il-profilo-esistente).
 
-Vuoi accorgerti subito degli importi sbagliati? Attiva [Visite da verificare](https://supporto.unipiazza.it/it/articles/LINK_VISITE) e ti avvisiamo noi. Hai un dubbio o la correzione non va a buon fine? Scrivici su WhatsApp al **388 8665987**, siamo qui per aiutarti!
+Vuoi accorgerti subito degli importi sbagliati? Attiva [Visite da verificare](https://supporto.unipiazza.it/it/articles/70111-visite-da-verificare) e ti avvisiamo noi. Hai un dubbio o la correzione non va a buon fine? Scrivici su WhatsApp al **388 8665987**, siamo qui per aiutarti!

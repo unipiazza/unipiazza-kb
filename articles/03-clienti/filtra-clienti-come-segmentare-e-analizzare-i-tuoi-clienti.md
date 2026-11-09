@@ -16,7 +16,7 @@ sort: 0
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-06-16'
+last_synced: '2026-11-09'
 ---
 
 Immagina di avere una lente d'ingrandimento puntata sulla tua lista clienti: in pochi secondi scopri chi spende di più, chi non torna da mesi, chi compie gli anni la prossima settimana. Il nuovo strumento **Filtra Clienti** ti dà esattamente questo. 🔍

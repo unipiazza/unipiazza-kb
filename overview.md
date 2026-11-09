@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 140 (113 published, 27 draft)
+- **Articoli totali:** 143 (116 published, 27 draft)
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -21,13 +21,13 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 |---|---|---|---|---|
 | 01-guida-introduttiva | 7178 | Guida Introduttiva | 9 | ✅ |
 | 02-riepilogo | 7179 | Riepilogo | 5 | ⚠️ manca 2 metriche nel dashboard |
-| 03-clienti | 7180 | Clienti | 23 | ✅ |
+| 03-clienti | 7180 | Clienti | 24 | ✅ |
 | 04-premi-e-gettoni | 7181 | Premi e Gettoni | 9 | ✅ |
 | 05-campagne-autopromo-whatsapp | 7182 | Campagne, Automazioni e WhatsApp | 24 | ✅ |
 | 06-modelli-campagne | 3911 | Modelli Campagne | 9 | ⚠️ contenuti 2021-22 datati, immagini rotte |
 | 07-booster-e-abbonamenti | 7236 | Booster Vendite e Abbonamenti | 4 | ✅ |
 | 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 4 | ❌ specifiche errate (slot, limiti) |
-| 09-vetrina | 7200 | Vetrina | 5 | ✅ |
+| 09-vetrina | 7200 | Vetrina | 7 | ✅ |
 | 10-pagamenti-e-fatturazione | 676 | Pagamenti & Fatturazione | 5 | ⚠️ 1 articolo in draft |
 | 11-integrazioni | 8104 | Integrazioni | 3 | ⚠️ articolo Android con errori copia-incolla |
 | 12-impostazioni | 7257 | Impostazioni | 3 | ✅ |
@@ -83,7 +83,7 @@ Accesso al gestionale e panoramica della sezione Riepilogo. ⚠️ Articolo 2744
 
 ### 03 — Clienti · `collection_id: 7180`
 
-Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, importazione. Tutti pubblicati.
+Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, importazione, visite da verificare. Il 2026-11-09 è stato creato 70111 (Visite da verificare) e sono stati aggiornati 41052, 27445, 61967 (Contattabile e Consenso marketing), 41054, 28262, 41598, 28260, 27446, 33516 e 65570.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
@@ -110,6 +110,7 @@ Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, im
 | 40695 | Come posso esportare i dati dei miei clienti? | come-posso-esportare-i-dati-dei-miei-clienti | published |
 | 63765 | Il cliente ha una nuova Tessera Fedeltà: come collegare il profilo esistente? | il-cliente-ha-una-nuova-tessera-fedelta-come-collegare-il-profilo-esistente | published |
 | 65570 | Come attivare il Compleanno all'iscrizione | come-attivare-compleanno-all-iscrizione | published |
+| 70111 | Visite da verificare: come scoprire gli errori alla cassa | visite-da-verificare | published |
 
 ---
 
@@ -209,7 +210,7 @@ Pagamenti prepagati e gift card digitali. ❌ Specifiche errate: articoli indica
 
 ### 09 — Vetrina · `collection_id: 7200`
 
-Vetrina, QR Code e volantini, cover chiosco, pacchetto custom. Il vecchio articolo sui flyer (42912) è in bozza dal 06/10/2026, sostituito dal 66239.
+Vetrina, QR Code e volantini, vetrina sulla Home del telefono, regolamento del locale, cover chiosco, pacchetto custom. Il 2026-11-09 è stato creato 70112 (regolamento) e aggiornati 28255 (nuova grafica, con screenshot di Panificio Demo) e 66239. Il vecchio articolo sui flyer (42912) è in bozza dal 06/10/2026, sostituito dal 66239.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
@@ -218,6 +219,8 @@ Vetrina, QR Code e volantini, cover chiosco, pacchetto custom. Il vecchio artico
 | 42911 | Come personalizzare graficamente le tue Tessere Fedeltà fisiche | pacchetto-custom-personalizza-il-tuo-kit-fedelta | published |
 | 42912 | Come creare Flyer personalizzati per il tuo locale | come-creare-flyer-personalizzati-per-il-tuo-locale | draft |
 | 66239 | Porta i clienti nella tua Vetrina con QR Code, link e volantini | porta-i-clienti-nella-tua-vetrina-con-qr-code-link-e-volantini | published |
+| 70109 | I tuoi clienti possono tenere la tua Vetrina sulla Home del telefono | la-tua-vetrina-sulla-home-del-telefono | published |
+| 70112 | Il regolamento del tuo programma fedeltà | il-regolamento-del-tuo-programma-fedelta | published |
 
 ---
 
@@ -249,7 +252,7 @@ Installazione app su Android/Windows e connessione a Zapier/Make. Il link dell'a
 
 ### 12 — Impostazioni · `collection_id: 7257`
 
-Panoramica impostazioni, modalità vacanza, specifiche immagini. Tutti pubblicati.
+Panoramica impostazioni (con Visite da verificare dal 2026-11-09), modalità vacanza, specifiche immagini. Tutti pubblicati.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|

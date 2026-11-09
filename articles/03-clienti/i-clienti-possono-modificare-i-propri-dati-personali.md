@@ -18,7 +18,7 @@ sort: 14
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-06-19'
+last_synced: '2026-11-09'
 ---
 
 I tuoi clienti hanno diversi modi per modificare i propri dati personali quali indirizzo email, nome, cognome, data di compleanno, genere, numero di telefono o consensi marketing. Vediamoli in dettaglio:

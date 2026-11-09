@@ -29,7 +29,7 @@ sort: 7
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-06-19'
+last_synced: '2026-11-09'
 ---
 
 ![](https://blackhole.customerly.io/attachments/2662e53a/accounts/41139/1eef83c0a0f282da004da66e897fbda2/Sign-In%206.0%20-%20Bv2%20%E2%80%93%201%20%281%29.png)
@@ -38,7 +38,7 @@ Noi di Unipiazza siamo particolarmente attenti alla sicurezza dei dati e alla Pr
 
 **🏪 Dalla tua Vetrina**
 
-Chi si iscrive dalla tua Vetrina o dalla pagina della catena accetta i Termini d'uso, il [Regolamento e la Privacy Policy del tuo locale](https://supporto.unipiazza.it/it/articles/LINK_REGOLAMENTO). Poi trova una sola domanda sulle promozioni, per esempio **Mi piacerebbe ricevere promozioni e aggiornamenti da Bar Centrale via Email, messaggio o WhatsApp**.
+Chi si iscrive dalla tua Vetrina o dalla pagina della catena accetta i Termini d'uso, il [Regolamento e la Privacy Policy del tuo locale](https://supporto.unipiazza.it/it/articles/70112-il-regolamento-del-tuo-programma-fedelta). Poi trova una sola domanda sulle promozioni, per esempio **Mi piacerebbe ricevere promozioni e aggiornamenti da Bar Centrale via Email, messaggio o WhatsApp**.
 
 **📟 Dal Chiosco e dall'app**
 

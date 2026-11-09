@@ -9,7 +9,7 @@ status: published
 written_by: 2961
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-10-06'
+last_synced: '2026-11-09'
 ---
 
 La tua Vetrina è la porta d’ingresso del tuo programma fedeltà 🏪 È la pagina della tua attività dove i clienti si iscrivono, scoprono i premi, leggono le novità e controllano quanti gettoni hanno.
@@ -20,17 +20,21 @@ La tua Vetrina è la porta d’ingresso del tuo programma fedeltà 🏪 È la pa
 
 Da ottobre 2026 la Vetrina ha una grafica tutta nuova, e a parlare è la tua attività, con i tuoi colori e le tue foto. Il marchio Unipiazza resta sullo sfondo.
 
+![La nuova Vetrina da computer, con le foto a mosaico e il nome del locale in primo piano](https://up-kb-assets.s3.eu-west-3.amazonaws.com/09-vetrina/28255_Vetrina-Mosaico.jpg)
+
 🖼️ **Le tue foto**<br>A mosaico da computer e a carosello da telefono, con tutta la pagina nel colore del tuo locale.
 
 🪙 **Il tuo programma fedeltà in primo piano**<br>In alto ci sono i gettoni per euro, il premio di benvenuto e il bottone **Iscriviti gratis**. Chi è già iscritto vede il suo saldo, il prossimo premio e il suo QR Code.
 
+![Il riquadro Il tuo saldo sulla Vetrina, con i gettoni, il premio da ritirare e il bottone del QR Code](https://up-kb-assets.s3.eu-west-3.amazonaws.com/09-vetrina/28255_Vetrina-Saldo.jpg)
+
 📍 **Tutte le informazioni**<br>Sotto trovi premi, orari, contatti, mappa e novità, con una barra per saltare da una sezione all'altra.
 
-📜 **Il fondo della pagina**<br>Ci sono contatti, social, ragione sociale e il link al [regolamento del tuo locale](https://supporto.unipiazza.it/it/articles/LINK_REGOLAMENTO).
+📜 **Il fondo della pagina**<br>Ci sono contatti, social, ragione sociale e il link al [regolamento del tuo locale](https://supporto.unipiazza.it/it/articles/70112-il-regolamento-del-tuo-programma-fedelta).
 
 🔗 **Se fai parte di una catena**<br>La Vetrina lo dice e porta agli altri punti vendita. La catena ha anche una sua pagina con tutti i locali, la ricerca per città o via e il bottone **Vicino a me**. Gettoni e premi condivisi compaiono solo se la catena li condivide davvero.
 
-📱 **Sul telefono del cliente**<br>La tua Vetrina può diventare un'icona sulla schermata Home, come ti spieghiamo in [questo articolo](https://supporto.unipiazza.it/it/articles/LINK_HOME).
+📱 **Sul telefono del cliente**<br>La tua Vetrina può diventare un'icona sulla schermata Home, come ti spieghiamo in [questo articolo](https://supporto.unipiazza.it/it/articles/70109-la-tua-vetrina-sulla-home-del-telefono).
 
 **Cosa puoi inserire**
 

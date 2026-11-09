@@ -29,7 +29,7 @@ sort: 2
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-06-19'
+last_synced: '2026-11-09'
 ---
 
 Nella sezione "[Storico Azioni](https://partner.unipiazza.it/clienti/cronologia)", puoi dare un'occhiata veloce a come i tuoi clienti interagiscono con la tua attività. Questa pagina ti aiuta a tenere traccia di ogni movimento e a capire meglio i tuoi clienti.
@@ -55,6 +55,6 @@ Puoi scegliere di vedere le cose in diversi periodi di tempo:
 - Dall'inizio (da quando hai iniziato a usare Unipiazza)
 - Scegli periodo: Scegli tu la data di inizio e di fine del periodo
 
-🟡 Se hai attivato [Visite da verificare](https://supporto.unipiazza.it/it/articles/LINK_VISITE), qui trovi anche la striscia gialla con le visite da controllare e il bottone **Verifica visita** accanto a ogni visita segnalata. Dal menu **Mostra** puoi scegliere **Da verificare** per vedere solo quelle.
+🟡 Se hai attivato [Visite da verificare](https://supporto.unipiazza.it/it/articles/70111-visite-da-verificare), qui trovi anche la striscia gialla con le visite da controllare e il bottone **Verifica visita** accanto a ogni visita segnalata. Dal menu **Mostra** puoi scegliere **Da verificare** per vedere solo quelle.
 
 💡 Per il resto questa pagina serve a consultare. Per correggere un importo o togliere gettoni e visite caricati per errore, apri il profilo del cliente e usa lo Storico Azioni che trovi lì dentro. Ti spieghiamo come in [Come correggere un importo, dei gettoni o una visita caricati per errore](https://supporto.unipiazza.it/it/articles/41052-come-correggere-un-importo-errato-nel-gestionale-unipiazza).

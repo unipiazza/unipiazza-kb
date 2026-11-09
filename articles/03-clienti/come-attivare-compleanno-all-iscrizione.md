@@ -17,7 +17,7 @@ sort: 18
 is_featured: false
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-09-22'
+last_synced: '2026-11-09'
 ---
 
 Il compleanno di un cliente è un'occasione d'oro: un augurio al momento giusto lo fa sentire speciale e gli dà un motivo in più per tornare da te. 🎂

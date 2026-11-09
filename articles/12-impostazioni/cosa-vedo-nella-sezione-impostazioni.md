@@ -16,7 +16,7 @@ keywords:
   - liste preimpostate
 locale: it
 updated_at: '2026-11-06'
-last_synced: '2026-09-22'
+last_synced: '2026-11-09'
 ---
 
 La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pannello di controllo Unipiazza è il luogo dove puoi personalizzare e configurare diverse opzioni per ottimizzare la gestione della tua attività. Ecco una panoramica dettagliata di cosa puoi fare in questa sezione:
@@ -35,6 +35,6 @@ La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pan
 
 7. **WhatsApp Business:** Collega il tuo account WhatsApp per iniziare a inviare comunicazioni ai tuoi clienti.
 
-   **Visite da verificare:** Ti avvisiamo quando una visita ha un importo molto più alto del solito. Scegli la soglia e scopri come funziona in [questo articolo](https://supporto.unipiazza.it/it/articles/LINK_VISITE).
+   **Visite da verificare:** Ti avvisiamo quando una visita ha un importo molto più alto del solito. Scegli la soglia e scopri come funziona in [questo articolo](https://supporto.unipiazza.it/it/articles/70111-visite-da-verificare).
 
 8. **Liste preimpostate:** Modifica i criteri con cui i tuoi clienti entrano nelle liste automatiche **Nuovi**, **Vip**, **Inattivi** e **Archiviati** (per esempio la soglia di giorni dei "Nuovi"). Attenzione: cambiando i criteri cambiano anche i destinatari delle tue Automazioni e campagne. Clicca [qui](https://supporto.unipiazza.it/it/articles/27444-cosa-sono-le-etichette-clienti-nuovi-vip-ti-seguono-e-inattivi) per i dettagli.
