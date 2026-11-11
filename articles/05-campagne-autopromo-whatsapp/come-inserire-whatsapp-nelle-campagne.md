@@ -32,4 +32,4 @@ Lo stesso pulsante può fare anche altro. In **Tipo di azione** puoi scegliere *
 
 <table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡 Ti serve un link WhatsApp da usare altrove?</strong> Per un volantino, la bio di Instagram o il tuo sito usa il nostro <a href="https://unipiazza.it/generatore-link-whatsapp/">Generatore Link WhatsApp</a>. Inserisci il numero e, se vuoi, un messaggio già scritto, poi premi "Copia Link". Puoi scaricare anche il QR Code da stampare.</p></td></tr></tbody></table>
 
-**Suggerimento**: Invitare i clienti a contattarti su WhatsApp può rendere il servizio più personale e immediato. Usa un testo invitante sul pulsante, come ad esempio "Scrivici su WhatsApp per qualsiasi domanda!"
+**Suggerimento**: Invitare i clienti a contattarti su WhatsApp può rendere il servizio più personale e immediato. Sul pulsante hai al massimo 30 caratteri, quindi scegli un testo breve e invitante, come "Scrivici su WhatsApp" o "Prenota su WhatsApp".
