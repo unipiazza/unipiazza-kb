@@ -12,14 +12,15 @@ keywords:
   - statistiche automazioni
   - metriche
   - clienti raggiunti
+  - messaggi inviati
   - visite generate
   - incassi
   - autopromo
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-06'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Hai acceso le tue Automazioni e ora vuoi sapere se funzionano? I numeri te lo dicono 📊 Per leggerli bene basta ricordare una cosa, cioè che **cambiano in base al premio che hai scelto**.
@@ -27,6 +28,8 @@ Hai acceso le tue Automazioni e ora vuoi sapere se funzionano? I numeri te lo di
 ## Dove li trovi
 
 In cima alla sezione **Automazioni** ci sono i numeri generali. Sotto, ogni riga mostra i risultati principali di quell'Automazione. Per vedere tutto premi l'icona del **grafico**, oppure **Vedi i risultati** dalla pagina di modifica. Il periodo lo scegli dal menu in alto a destra.
+
+In cima alla sezione trovi anche **Messaggi inviati**, che somma i messaggi partiti da tutte le Automazioni. Ogni messaggio conta una volta, anche se arriva su più canali. Se allo stesso cliente arrivano il Benvenuto e il Compleanno, invece, contano due. Per questo il numero può essere più alto dei tuoi clienti.
 
 Nella pagina dei risultati trovi anche l'elenco dei clienti, con quello che ha ricevuto ognuno.
 
