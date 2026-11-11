@@ -5,11 +5,11 @@ collection: ✉️ Modelli Campagne
 title: Campagna di Carnevale
 slug: campagna-di-carnevale
 description: Esempi di testi e immagini per creare la tua campagna di Carnevale
-status: published
-written_by: 2963
+status: draft
+written_by: 2961
 locale: it
-updated_at: '2021-02-25'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 **A carnevale ogni scherzo vale!** 

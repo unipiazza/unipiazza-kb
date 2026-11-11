@@ -5,11 +5,11 @@ collection: ✉️ Modelli Campagne
 title: Campagna di Pasqua
 slug: campagna-di-pasqua
 description: Esempi di testi e immagini per creare la tua campagna di Pasqua
-status: published
-written_by: 2963
+status: draft
+written_by: 2961
 locale: it
-updated_at: '2022-08-10'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 **A Natale con i tuoi a Pasqua con chi vuoi. 😁**

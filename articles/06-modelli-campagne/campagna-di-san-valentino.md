@@ -5,11 +5,11 @@ collection: ✉️ Modelli Campagne
 title: Campagna di San Valentino
 slug: campagna-di-san-valentino
 description: Esempi di testi e immagini per creare la tua campagna di San Valentino
-status: published
-written_by: 2963
+status: draft
+written_by: 2961
 locale: it
-updated_at: '2021-02-25'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 _“Love is the air!”_ ▶ “**l’amore è nell’aria**” dice una famosa canzone di John Paul Young. Approfitta per inviare una campagna email ai tuoi clienti. Come sempre ti lascio qualche spunto che potrai tranquillamente prendere e adattare in base alle tue esigenze.

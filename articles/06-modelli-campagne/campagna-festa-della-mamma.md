@@ -5,11 +5,11 @@ collection: ✉️ Modelli Campagne
 title: Campagna Festa della Mamma
 slug: campagna-festa-della-mamma
 description: Esempi di testi e immagini per creare la tua campagna per la Festa della mamma
-status: published
-written_by: 2963
+status: draft
+written_by: 2961
 locale: it
-updated_at: '2022-08-10'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 La mamma è sempre la mamma! Nessuno ci conosce meglio di lei. Fai sapere alle tue amate clienti se hai qualche promozione attiva o se hai qualche prodotto per l’occasione.

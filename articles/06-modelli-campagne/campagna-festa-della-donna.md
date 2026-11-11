@@ -5,11 +5,11 @@ collection: ✉️ Modelli Campagne
 title: Campagna Festa della Donna
 slug: campagna-festa-della-donna
 description: Esempi di testi e immagini per creare la tua campagna per la Festa della donna
-status: published
-written_by: 2963
+status: draft
+written_by: 2961
 locale: it
-updated_at: '2022-08-10'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 A quale donna in questo magnifico giorno non piace ricevere regali! 🎁🥰

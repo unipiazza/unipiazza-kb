@@ -5,11 +5,11 @@ collection: eShop
 title: Come comunicare ai tuoi clienti che hai un eShop!
 slug: come-comunicare-ai-tuoi-clienti-che-hai-un-eshop
 description: Come far sapere ai clienti che hai un eShop
-status: published
-written_by: 2963
+status: draft
+written_by: 2961
 locale: it
-updated_at: '2024-04-24'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Ciao Gestore,

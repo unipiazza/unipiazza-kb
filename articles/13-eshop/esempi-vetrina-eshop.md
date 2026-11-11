@@ -5,11 +5,11 @@ collection: eShop
 title: Esempi vetrina eShop
 slug: esempi-vetrina-eshop
 description: Esempi vetrina eShop
-status: published
+status: draft
 written_by: 2961
 locale: it
-updated_at: '2024-04-24'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Il modulo eShop ti permette di vendere online e di gestire ordini e prenotazioni comodamente dalla piattaforma Unipiazza. 

@@ -5,11 +5,11 @@ collection: eShop
 title: Come collegare Stripe
 slug: come-collegare-stripe
 description: Collega un metodo di pagamento al tuo eShop Unipiazza e inizia a guadagnare
-status: published
-written_by: 2963
+status: draft
+written_by: 2961
 locale: it
-updated_at: '2024-04-24'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Stripe è un **software sicuro** usato da milioni di aziende che ti permette di accettare  pagamenti e gestire l'attività online. Stripe dà la possibilità di pagare tramite carta di credito e prepagate (Poste Pay inclusa nel circuito Visa).

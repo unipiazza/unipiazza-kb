@@ -5,11 +5,11 @@ collection: eShop
 title: Crea codici sconto
 slug: crea-codici-sconto
 description: Sfrutta al meglio eShop, crea codici sconto e aumenta le vendita
-status: published
-written_by: 2963
+status: draft
+written_by: 2961
 locale: it
-updated_at: '2024-04-24'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 ciao a tutti

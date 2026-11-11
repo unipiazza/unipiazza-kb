@@ -5,11 +5,11 @@ collection: eShop
 title: Imballo e Spedizione
 slug: imballo-e-spedizione
 description: Scopri come imballare i tuoi articoli e trova il corriere perfetto per il tuo eSHopUnipiazza
-status: published
-written_by: 2963
+status: draft
+written_by: 2961
 locale: it
-updated_at: '2024-04-24'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Ciao Gestore, 

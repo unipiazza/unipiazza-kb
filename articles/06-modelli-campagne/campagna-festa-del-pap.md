@@ -5,11 +5,11 @@ collection: ✉️ Modelli Campagne
 title: Campagna Festa del Papà
 slug: campagna-festa-del-pap
 description: Esempi di testi e immagini per creare la tua campagna per la Festa del papà
-status: published
-written_by: 2963
+status: draft
+written_by: 2961
 locale: it
-updated_at: '2021-04-22'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Offri qualcosa di speciale in questa giornata dedicata al mondo maschile (non solo alle donne piace ricevere regali! 😁). Ecco qui sotto alcuni esempi di campagne da inviare ai tuoi clienti:

@@ -5,11 +5,11 @@ collection: ✉️ Modelli Campagne
 title: Campagna per comunicare che effettui servizio da asporto
 slug: campagna-per-comunicare-che-effettui-servizio-da-asporto
 description: Comunica che servizio offri anche in questo periodo di incertezze.
-status: published
-written_by: 2963
+status: draft
+written_by: 2961
 locale: it
-updated_at: '2021-03-23'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 L'Italia è un arcobaleno di colori che cambiano continuamente, sicuramente la situazioni non è delle più incoraggianti al momento, ma si sa, che noi italiani non diamo per vinti. Se effettui servizi di prenotazione o Take Away comunicalo ai tuoi clienti. 
