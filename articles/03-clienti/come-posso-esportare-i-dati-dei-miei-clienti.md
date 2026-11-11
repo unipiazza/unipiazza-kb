@@ -21,7 +21,7 @@ Scaricare la lista dei clienti dal tuo gestionale Unipiazza è semplice e veloce
 
 Una volta effettuato l'accesso al tuo gestionale da [partner.unipiazza.it](https://partner.unipiazza.it), apri la sezione Lista Clienti dal menu a sinistra e clicca sul pulsante **"Scarica lista"** presente nella barra degli strumenti in alto a destra
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/924269bbca239cd6dcae728985260020/Screenshot%202025-01-08%20alle%2016.26.57.png)
+![Lista clienti con il pulsante Scarica lista in alto a destra](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/41054_ListaClienti.jpg)
 
 **2. Scegli il formato del file**
 
