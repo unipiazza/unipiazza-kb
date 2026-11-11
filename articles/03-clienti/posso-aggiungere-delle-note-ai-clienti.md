@@ -16,7 +16,7 @@ keywords:
 sort: 15
 is_featured: false
 locale: it
-updated_at: '2025-01-13'
+updated_at: '2026-11-11'
 last_synced: '2026-06-19'
 ---
 
@@ -26,8 +26,10 @@ Le note clienti ti permettono di comprendere meglio le abitudini dei tuoi client
 
 1. Accedi alla sezione "Lista Clienti" del tuo gestionale Unipiazza.
 2. Premi sul nome del cliente per aprire il suo profilo.
-3. Trova la sezione "Note" sulla destra e premi su "Aggiungi Nota".
-4. Scrivi tutte le informazioni che vuoi e premi su Salva
+3. Trova la sezione **Note** sulla destra e premi su **Modifica**.
+4. Nella finestra "Modifica nota" scrivi tutte le informazioni che vuoi e premi su **Salva**.
+
+![La finestra «Modifica nota» con la tag #cialde e il bottone Salva](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/35025_ModificaNota.jpg)
 
 <table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡 Suggerimento: </strong>Se all'interno della nota inserisci delle parole precedute dal cancelletto (#), verrà creata una Tag specifica che sarà visualizzata sul tuo Smartphone Unipiazza durante l'accreditamento gettoni, di fianco al nome del cliente e nell'elenco clienti del gestionale.</p></td></tr></tbody></table>
 
@@ -35,19 +37,20 @@ Le tag ti permettono di contrassegnare i clienti, facilitando le ricerche (nella
 
 **Come inviare promo o comunicazioni mirate usando le Tag?**
 
-- Vai nella Lista Clienti
-- Nella barra di ricerca, scrivi il nome della tag (ad esempio "pranzo") per far comparire tutti i clienti che hanno quella tag fra le note
-- Premi su "Seleziona tutti" per selezionare tutti i clienti (comparirà fra parentesi il numero di clienti selezionato)
-- Vai alla sezione "Campagne" e premi su "Crea nuova campagna"
-- Al momento della selezione dei destinatari, seleziona "Clienti selezionati"
-- Completa le altre informazioni sulla campagna e… inviala!
+1. Vai nella **Lista Clienti**.
+2. Nella barra "Cerca per nome, email, telefono o nota" scrivi la tag (ad esempio "#pranzo") e premi Invio. Compaiono tutti i clienti che hanno quella tag fra le note, con la tag in arancione sotto il nome.
+3. Premi su **"Seleziona tutti"**.
+4. Premi su **"Aggiungi ad una lista"** e mettili in una lista nuova o in una che hai già.
+5. Vai in **Campagne**, crea la tua campagna e in **"Invia a:"** scegli quella lista.
+
+![La Lista Clienti filtrata con la ricerca #cialde, con 31 risultati e la tag sotto il nome di ogni cliente](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/35025_RicercaTag-ListaClienti.jpg)
+
+La ricerca trova anche le tag che cominciano con le stesse lettere. Cercando "#cialde" trovi anche i clienti con "#cialde44", quindi controlla la lista prima di selezionare tutti. Tutti i passaggi per creare la lista sono in [Posso inviare una campagna solo ad alcuni clienti?](https://supporto.unipiazza.it/it/articles/30681-posso-inviare-una-campagna-solo-ad-alcuni-clienti) [[posso-inviare-una-campagna-solo-ad-alcuni-clienti]]
 
 **Esempi di utilizzi delle Tag**
 
 Puoi sfruttare le tag per organizzare e conoscere meglio i tuoi clienti. Ecco alcuni esempi pratici:
 
-- Eventuali intolleranze o diete (#vegan #celiaco)
-- I clienti con partita iva (#piva) o gli studenti (#studenti)
 - Diete e Intolleranze: #vegan, #celiaco, #senza_lattosio
 - Tipologia di Cliente: #piva, #studenti, #turisti.
 - Preferenze di Prodotti: #vino_rosso, #birra_artigianale #dolci.
