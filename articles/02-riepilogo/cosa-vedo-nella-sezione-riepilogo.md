@@ -8,8 +8,8 @@ description: 'La sezione "Riepilogo" del Gestionale Unipiazza offre un''analisi 
 status: published
 written_by: 2961
 locale: it
-updated_at: '2025-08-14'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Il [Riepilogo](https://partner.unipiazza.it/) è la prima pagina che vedi quando entri nel Gestionale Unipiazza. In un colpo d'occhio ti dice come sta andando il tuo programma fedeltà, dall'apertura fino a oggi e nel periodo che scegli tu. Vediamo cosa trovi, dall'alto verso il basso.
