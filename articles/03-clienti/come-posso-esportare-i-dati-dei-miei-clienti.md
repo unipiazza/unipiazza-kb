@@ -30,13 +30,11 @@ Una volta cliccato su "Scarica lista", si aprirà una finestra che ti permette d
 - **Excel (.xls):** per lavorare sui dati con Microsoft Excel o programmi simili.
 - **CSV (.csv):** per utilizzare i dati con altri software o strumenti di analisi.
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/ceec6942a101c280d15cd5edc7ea5a60/Screenshot%202025-01-08%20alle%2016.27.25.png)
+![Finestra Scarica lista clienti con i formati Excel e CSV](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/40695_ScaricaLista-Modal.jpg)
 
 **3. Ricevi il file via email**
 
 Una volta selezionato il formato, il sistema invierà automaticamente il file alla tua email. Comparirà una notifica che ti confermerà l'invio.
-
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/3e6b49af4a01917c9e56e25a37b5ea13/Screenshot%202025-01-08%20alle%2016.33.19.png)
 
 Controlla la tua casella di posta per scaricare il file con la lista dei tuoi clienti e utilizzarlo per sfruttare il tuo programma Unipiazza al meglio!
 
