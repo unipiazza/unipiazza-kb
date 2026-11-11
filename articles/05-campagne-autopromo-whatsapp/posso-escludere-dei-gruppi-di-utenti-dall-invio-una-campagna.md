@@ -14,8 +14,8 @@ keywords:
 sort: 5
 is_featured: false
 locale: it
-updated_at: '2024-03-01'
-last_synced: '2026-06-19'
+updated_at: '2026-11-12'
+last_synced: '2026-11-12'
 ---
 
 Quando crei una campagna, i destinatari li scegli dal menù **"Invia a:"**. Lì trovi tutti i clienti, le liste preimpostate (Nuovi, Vip, Inattivi e le altre) e le liste che hai creato tu. L'opzione per escludere un gruppo non c'è più. Se vuoi lasciare fuori qualcuno, prepari prima una lista con i soli clienti che vuoi raggiungere e poi la scegli in "Invia a:".

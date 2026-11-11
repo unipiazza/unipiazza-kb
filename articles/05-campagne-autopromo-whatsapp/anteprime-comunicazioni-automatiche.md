@@ -15,7 +15,8 @@ keywords:
   - messaggi
 locale: it
 is_featured: false
-last_synced: '2026-11-06'
+last_synced: '2026-11-12'
+updated_at: '2026-11-12'
 ---
 
 Qui trovi i testi già pronti delle comunicazioni automatiche che Unipiazza invia ai tuoi clienti, via **email, notifica dell'app e RCS**. Il formato cambia da un canale all'altro, ma il messaggio è lo stesso. Su RCS il titolo è più corto, perché è scritto apposta per la chat.

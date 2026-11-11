@@ -11,8 +11,8 @@ keywords: []
 sort: 7
 is_featured: false
 locale: it
-updated_at: '2026-04-27'
-last_synced: '2026-06-19'
+updated_at: '2026-11-12'
+last_synced: '2026-11-12'
 ---
 
 Vuoi che i tuoi clienti ti scrivano su WhatsApp con un tocco? Nelle campagne puoi aggiungere un **pulsante WhatsApp** che apre direttamente una chat con il tuo numero. Non devi più creare il link a parte.
