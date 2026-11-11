@@ -28,7 +28,7 @@ Nella sezione "[Impostazioni Wallet & Gift Card](https://partner.unipiazza.it/wa
     
 -   **Incentiva le Ricariche del Wallet:** Motiva i tuoi clienti a ricaricare il loro Wallet offrendo loro un credito aggiuntivo. Ad esempio, dando un 10% di credito extra su ogni ricarica può spingere i clienti a caricare di più sul loro Wallet. Questo tipo di incentivo non solo può aumentare la frequenza delle ricariche ma anche l'importo medio per ricarica, generando un maggiore anticipo di cassa per la tua attività.
     
--   **Stabilisci un Limite di Credito:** Decidi la massima quantità di denaro che un cliente può tenere nel proprio Wallet, per esempio impostando un limite di 250€. Questo aiuta a mantenere sotto controllo le ricariche e il bilancio del tuo negozio.
+-   **Limite Credito:** È la cifra massima che un cliente può tenere nel proprio Wallet, cioè 250€. La vedi nel campo "Limite credito" ma non puoi modificarla. Se una ricarica farebbe superare il limite, sul Chiosco quel taglio appare disattivato, così il saldo resta sempre sotto controllo.
     
 -   **Promuovi un Taglio di Ricarica Specifico:** Scegli quale taglio di ricarica vuoi etichettare come 'Il più scelto' per influenzare la scelta dei clienti, rendendolo più attraente.
     
