@@ -8,8 +8,8 @@ description: La Lista Premi è il fulcro del tuo programma fedeltà, permettendo
 status: published
 written_by: 2961
 locale: it
-updated_at: '2023-12-27'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 La [Lista Premi](https://partner.unipiazza.it/premi) è dove gestisci i tuoi premi fedeltà. I tuoi clienti li vedono sul Chiosco, sulla tua vetrina web e sull'App Mobile Unipiazza. Ecco come funziona:

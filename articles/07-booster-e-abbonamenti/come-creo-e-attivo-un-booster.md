@@ -8,8 +8,8 @@ description: 'Creare e attivare un Booster Vendite su Unipiazza è un processo s
 status: published
 written_by: 2961
 locale: it
-updated_at: '2024-02-02'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Prima di tutto, accedi al tuo Gestionale Partner Unipiazza. Da qui, clicca sulla sezione 'Booster vendite' che troverai nel menu a sinistra. Dopo aver aperto la sezione, vedrai un grande pulsante blu che dice "Crea booster" – cliccaci sopra per iniziare a impostare la tua nuova strategia per attirare più clienti e aumentare le vendite.

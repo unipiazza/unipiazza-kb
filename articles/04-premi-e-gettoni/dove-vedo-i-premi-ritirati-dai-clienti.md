@@ -8,13 +8,17 @@ description: Scopri nella sezione dedicata del tuo gestionale Unipiazza dove vis
 status: published
 written_by: 2961
 locale: it
-updated_at: '2023-12-27'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Nella parte superiore della sezione [Premi ritirati](https://partner.unipiazza.it/premi/ritirati) vedrai quanti premi sono stati ritirati dai tuoi clienti, i premi che non sono più visibili ai clienti sono contrassegnati da un’icona in bianco e nero. 
 
+![Parte alta di Premi ritirati, con quante volte è stato ritirato ogni premio](https://up-kb-assets.s3.eu-west-3.amazonaws.com/04-premi-e-gettoni/27449_PremiRitirati.jpg)
+
 -   Nella parte inferiore della sezione troverai l’elenco dei clienti che hanno ritirato i premi in ordine cronologico (i più recenti per primi). 
+    
+    ![Elenco Chi li ha ritirati, con data, cliente e premio](https://up-kb-assets.s3.eu-west-3.amazonaws.com/04-premi-e-gettoni/27449_ChiLiHaRitirati.jpg)
     
 -   Potrai filtrare queste sezioni selezionando un determinato periodo di tempo dal menù a tendina in alto (di default è “Ultimi 30 giorni”).
     

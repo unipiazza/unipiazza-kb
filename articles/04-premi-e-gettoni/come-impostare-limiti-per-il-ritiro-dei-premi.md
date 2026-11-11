@@ -8,8 +8,8 @@ description: È possibile gestire i limiti di ritiro dei premi aggiungendo una b
 status: published
 written_by: 45263
 locale: it
-updated_at: '2025-01-24'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Vorresti limitare il ritiro di un premio per cliente, ad esempio a **uno al giorno**? Tramite il gestionale Unipiazza, è possibile aggiungere una descrizione ai premi per comunicare queste regole direttamente ai clienti. Ecco come fare:

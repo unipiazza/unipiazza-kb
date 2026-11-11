@@ -8,8 +8,8 @@ description: Creare un premio nel programma fedeltà Unipiazza è semplice e str
 status: published
 written_by: 2961
 locale: it
-updated_at: '2024-01-12'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Per creare un premio nel tuo programma fedeltà segui questi semplici passi:

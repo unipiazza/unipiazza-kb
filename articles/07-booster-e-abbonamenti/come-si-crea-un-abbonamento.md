@@ -8,8 +8,8 @@ description: 'Impostare un Abbonamento prepagato su Unipiazza è un processo che
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-10-15'
-last_synced: '2026-10-15'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Creare un Abbonamento prepagato è un ottimo modo per offrire valore aggiunto ai tuoi clienti e assicurarti un introito costante. Ecco i passi da seguire nel tuo Gestionale Partner Unipiazza per impostare un nuovo abbonamento:
@@ -27,6 +27,8 @@ Creare un Abbonamento prepagato è un ottimo modo per offrire valore aggiunto ai
 -   **Icona:** Scegli un'icona che rappresenti al meglio l'abbonamento e lo renda immediatamente riconoscibile.
     
 -   **Anteprima Abbonamento:** Dà un'occhiata a come apparirà ai tuoi clienti. Questa anteprima ti aiuterà a capire se l'abbonamento è presentato nel modo giusto.
+    
+    ![Modulo Crea abbonamento compilato con l'anteprima 10 COLAZIONI](https://up-kb-assets.s3.eu-west-3.amazonaws.com/07-booster-e-abbonamenti/28249_CreaAbbonamento.jpg)
     
 -   **Dettagli:** Decide se vuoi che l'abbonamento venga pubblicizzato automaticamente sulla tua vetrina.
     

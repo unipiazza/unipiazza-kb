@@ -116,7 +116,7 @@ Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, im
 
 ### 04 — Premi e Gettoni · `collection_id: 7181`
 
-Meccaniche di fedeltà: gettoni, lista premi, creazione premi, limiti ritiro, gestione fiscale. Tutti pubblicati.
+Meccaniche di fedeltà: gettoni, lista premi, creazione premi, limiti ritiro, gestione fiscale. Tutti pubblicati. Il 2026-11-11 sono stati aggiunti o rifatti gli screenshot di 27448, 28264, 41456, 27449 e 41597 (Rainbow Birreria con Privacy Mode). Nel 28264 ora si spiega che prima va premuto «Modifica premi».
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
@@ -184,7 +184,7 @@ Template stagionali per festività e occasioni. ⚠️ Contenuti 2021-22 con cod
 
 ### 07 — Booster Vendite e Abbonamenti · `collection_id: 7236`
 
-Strumenti per accelerare le vendite: booster e abbonamenti. Tutti pubblicati. Mancano screenshot UI.
+Strumenti per accelerare le vendite: booster e abbonamenti. Tutti pubblicati. Il 2026-11-11 sono stati aggiunti gli screenshot del gestionale a tutti e 4 (booster di Rainbow, abbonamenti di GIULY in wonderBAR) e il 27455 spiega il riquadro Dettagli.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|

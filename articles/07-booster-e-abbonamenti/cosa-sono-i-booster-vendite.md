@@ -8,8 +8,8 @@ description: 'I Booster Vendite di Unipiazza sono progettati per incrementare il
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-10-19'
-last_synced: '2026-10-19'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 I [Booster](https://partner.unipiazza.it/boosters) permettono di premiare i clienti con gettoni doppi o gettoni extra e sono lo strumento perfetto per aumentare il traffico nei giorni o orari a bassa affluenza o per incentivare l'acquisto di un determinato prodotto o servizio.<br><br>Vediamo degli esempi per capire meglio: 
@@ -21,11 +21,13 @@ I [Booster](https://partner.unipiazza.it/boosters) permettono di premiare i clie
 
 Una volta che attiverai i Booster, quando i clienti appoggeranno la propria tessera o inquadreranno il QR Code ti comparirà un nuovo bottone sul tuo Smartphone nella schermata di accredito. Questo bottone potrà essere già attivo o sarà da premere per l'attivazione in base alle impostazioni che hai selezionato (checkbox “Attiva automaticamente”)
 
-![](../../assets/07-booster-e-abbonamenti/27454_knowledgebase-merchant-booster-on-off.jpg)
+![Bottone del Booster nella schermata di accredito dello smartphone](https://blackhole.customerly.io/attachments/2662e53a/accounts/41139/4d7a5f4539c9b6e5b9c1abf45fb378a9/knowledgebase-merchant-booster-on-off.jpg)
 
 Se il Booster è attivo, in automatico il cliente riceverà i suoi gettoni omaggio (grazie al moltiplicatore o ai gettoni extra) e verranno conteggiati in modo diverso sul gestionale. 
 
 <br>Potrai vedere i Booster attivi e quanto incasso ti stanno portando dalla sezione “Booster Vendite”. Ecco le informazioni che vedrai:
+
+![Sezione Booster vendite con un Booster attivo, visite e profitti generati](https://up-kb-assets.s3.eu-west-3.amazonaws.com/07-booster-e-abbonamenti/27454_BoosterVendite.jpg)
 
 -   **Booster**: Il nome dell'offerta o promozione.
     

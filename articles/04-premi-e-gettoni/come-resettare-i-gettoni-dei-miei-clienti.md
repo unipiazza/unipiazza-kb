@@ -8,8 +8,8 @@ description: Vuoi poter azzerare i gettoni dei tuoi clienti? Nessun problema!
 status: published
 written_by: 45263
 locale: it
-updated_at: '2026-07-01'
-last_synced: '2026-07-01'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Se vuoi resettare i gettoni dei tuoi clienti, puoi programmare il reset in autonomia direttamente dal tuo Gestionale. Le visite, i premi già ritirati e le altre statistiche non saranno toccati. Puoi scegliere se azzerare i gettoni a **tutti i clienti** oppure solo a una **lista specifica**.
@@ -59,10 +59,10 @@ In entrambi i casi il reset avverrà alle **23:59** del giorno selezionato e pot
 
 Se hai attivato l'opzione, i clienti riceveranno automaticamente un'email e/o un messaggio RCS che li informa della scadenza 14 giorni prima e 2 giorni prima la data scelta.<br><br>Ecco la comunicazione che verrà inviata 14 giorni prima 👇
 
-![](../../assets/04-premi-e-gettoni/41597_Screenshot_5.jpg)
+![Email di promemoria inviata 14 giorni prima del reset](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/29a0e6d53823def3c5c789caa4e5c20b/Screenshot_5.jpg)
 
 Ecco la comunicazione che verrà inviata 2 giorni prima 👇
 
-![](../../assets/04-premi-e-gettoni/41597_Screenshot_6.jpg)
+![Email di promemoria inviata 2 giorni prima del reset](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/6a49206e87ecfb948b6f042455095400/Screenshot_6.jpg)
 
 💡 _Il promemoria è facoltativo, ma consigliatissimo: aiuta i tuoi clienti a usare gli ultimi gettoni prima dell’azzeramento._
