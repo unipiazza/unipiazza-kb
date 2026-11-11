@@ -32,33 +32,32 @@ updated_at: '2026-11-06'
 last_synced: '2026-11-09'
 ---
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/41139/1eef83c0a0f282da004da66e897fbda2/Sign-In%206.0%20-%20Bv2%20%E2%80%93%201%20%281%29.png)
-
-Noi di Unipiazza siamo particolarmente attenti alla sicurezza dei dati e alla Privacy dei nostri utenti e clienti.
+Noi di Unipiazza siamo particolarmente attenti alla sicurezza dei dati e alla Privacy dei nostri utenti e clienti. Quando un cliente si iscrive al tuo programma fedeltà accetta i Termini d'uso, il [Regolamento e la Privacy Policy del tuo locale](https://supporto.unipiazza.it/it/articles/70112-il-regolamento-del-tuo-programma-fedelta) [[il-regolamento-del-tuo-programma-fedelta]]. Poi trova **una sola domanda** sulle promozioni, che cambia un po' a seconda di dove si iscrive.
 
 **🏪 Dalla tua Vetrina**
 
-Chi si iscrive dalla tua Vetrina o dalla pagina della catena accetta i Termini d'uso, il [Regolamento e la Privacy Policy del tuo locale](https://supporto.unipiazza.it/it/articles/70112-il-regolamento-del-tuo-programma-fedelta). Poi trova una sola domanda sulle promozioni, per esempio **Mi piacerebbe ricevere promozioni e aggiornamenti da Bar Centrale via Email, messaggio o WhatsApp**.
+Chi si iscrive dalla tua Vetrina o dalla pagina della catena trova la domanda con il nome del tuo locale, per esempio **Mi piacerebbe ricevere promozioni e aggiornamenti da Bar Centrale via Email, messaggio o WhatsApp**.
 
-**📟 Dal Chiosco e dall'app**
+**📟 Dal Chiosco**
 
-Durante l'iscrizione vengono proposte all'utente due domande distinte riguardo al consenso per la ricezione di comunicazioni da Unipiazza. Vediamo cosa significano:
+Alla fine dell'iscrizione il cliente legge l'informativa della Privacy e risponde **Sì grazie** oppure **No** a una domanda. Se si è iscritto con il numero di telefono la domanda è **Mi piacerebbe ricevere promozioni e aggiornamenti via messaggio o Whatsapp**, se si è iscritto con l'email è **Mi piacerebbe ricevere promozioni e aggiornamenti via Email**. Deve scegliere una delle due risposte per andare avanti.
 
-1. ***Acconsento a rimanere aggiornato via email sulle ultime novità di Unipiazza***
-   Spuntando questa casella, il cliente acconsente a ricevere gli ultimi aggiornamenti (via email o notifiche App) della piattaforma Unipiazza. Ad esempio, le ultime funzionalità o servizi pubblicati o le nuove città raggiunte dal servizio.
+**📱 Dall'app Unipiazza**
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota Bene! </strong>Negli ultimi 7 anni abbiamo inviato meno di 10 comunicazioni di questo tipo quindi puoi rassicurare il tuo cliente sul fatto che non verrà bombardato 😉</p></td></tr></tbody></table>
+Chi si iscrive dall'app legge l'Informativa Privacy e i Termini d'uso e risponde alla domanda **Voglio ricevere promozioni & comunicazioni dai locali dove raccolgo gettoni**.
 
-2. **Acconsento a rimanere aggiornato su tutte le iniziative promozionali e marketing dai Locali dove raccolgo gettoni Unipiazza**
+<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota Bene! </strong>La stessa risposta vale anche per le novità di Unipiazza. Negli ultimi 7 anni abbiamo inviato meno di 10 comunicazioni di questo tipo quindi puoi rassicurare il tuo cliente sul fatto che non verrà bombardato 😉</p></td></tr></tbody></table>
 
-   Spuntando questa casella, il cliente acconsente a ricevere (via email o notifiche App) le promozioni e campagne dalle attività commerciali affiliate ad Unipiazza in cui raccoglie gettoni, cioè anche dalla tua.
+**Il cliente può cambiare idea?**
 
-**Perché è cruciale rispondere "Sì, grazie" ad entrambe le domande?**
+Sì, quando vuole. Sul Chiosco, dopo aver mostrato il suo QR Code, preme **Aggiorna Consensi** e sceglie se ricevere aggiornamenti e promozioni dal tuo locale e le novità di Unipiazza. Lo stesso può farlo dalle impostazioni dell'app o del suo profilo web. Nel profilo del cliente, nel tuo gestionale, la voce **Comunicazioni** ti dice se può ricevere le tue campagne.
 
-Dire "sì" a entrambe le domande è un vantaggio sia per i clienti che per i gestori dei locali. Ecco perché:
+**Perché è importante rispondere "Sì grazie"?**
+
+Dire "sì" è un vantaggio sia per i clienti che per i gestori dei locali. Ecco perché:
 
 - **Più Coinvolgimento:** Clienti informati partecipano di più alle iniziative, aumentando la loro fedeltà ai locali.
 - **Promozioni Su Misura:** Con il consenso, i gestori possono inviare offerte personalizzate basate su ciò che piace e come comprano i clienti.
-- **Feedback Migliore:** I clienti che ricevono comunicazioni regolari da Unipiazza sono più propensi a dare feedback utili, aiutando i gestori a migliorare i loro servizi.
+- **Feedback Migliore:** I clienti che ricevono comunicazioni regolari sono più propensi a dare feedback utili, aiutando i gestori a migliorare i loro servizi.
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento: </strong>Richiedere il consenso alle comunicazioni non è solo un obbligo legale normato dal GDPR, ma un pilastro per un marketing efficace. Assicurati di ottenere questo consenso in fase di iscrizione: è fondamentale per poter inviare comunicazioni su misura che catturino l'interesse dei clienti e alimentino la loro fedeltà verso la tua attività commerciale.</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento: </strong>Richiedere il consenso alle comunicazioni non è solo un obbligo legale normato dal GDPR, ma un pilastro per un marketing efficace. Quando un cliente si iscrive al Chiosco, spiegagli in due parole che con il "Sì grazie" riceverà le tue promozioni e il regalo di compleanno.</p></td></tr></tbody></table>

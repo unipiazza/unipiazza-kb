@@ -37,11 +37,15 @@ Con il nostro generatore crei in pochi minuti un post per Instagram e Facebook e
 
 🖨️ [**Crea il tuo post**](https://volantini.unipiazza.it)
 
+![Il generatore di volantini: a sinistra testi e immagini da personalizzare, a destra l’anteprima con i premi della Vetrina e il QR Code](https://up-kb-assets.s3.eu-west-3.amazonaws.com/09-vetrina/66239_Generatore-volantini.jpg)
+
 Dal gestionale ci arrivi anche con il tasto **Crea volantino**, in **Vetrina** e poi **Web & App**, e così trovi già tutto compilato. Nella storia, al posto del QR Code, c’è una freccia che indica dove mettere l’adesivo Link di Instagram con l’indirizzo della tua Vetrina.
+
+![Il riquadro «Condividi la tua Vetrina» con il QR Code, il link da copiare e i bottoni «Scarica QR» e «Crea volantino»](https://up-kb-assets.s3.eu-west-3.amazonaws.com/09-vetrina/66239_Condividi-la-tua-Vetrina.png)
 
 ## Metti il link della Vetrina nella bio
 
-Il link della tua Vetrina (per esempio nomeattivita.unipiazza.it) è la cosa più utile da avere sul profilo. Mettilo nella bio di Instagram e tra le informazioni della pagina Facebook. Chi lo apre si iscrive in un minuto, senza scaricare niente. Ti spieghiamo dove trovarlo in [Porta i clienti nella tua Vetrina con QR Code, link e volantini](https://supporto.unipiazza.it/it/articles/66239-porta-i-clienti-nella-tua-vetrina-con-qr-code-link-e-volantini).
+Il link della tua Vetrina (per esempio nomeattivita.unipiazza.it) è la cosa più utile da avere sul profilo. Mettilo nella bio di Instagram e tra le informazioni della pagina Facebook. Chi lo apre si iscrive in un minuto, senza scaricare niente. Ti spieghiamo dove trovarlo in [Porta i clienti nella tua Vetrina con QR Code, link e volantini](https://supporto.unipiazza.it/it/articles/66239-porta-i-clienti-nella-tua-vetrina-con-qr-code-link-e-volantini) [[porta-i-clienti-nella-tua-vetrina-con-qr-code-link-e-volantini]].
 
 ## Esempi di testo per il post
 

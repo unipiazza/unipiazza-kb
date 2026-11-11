@@ -27,26 +27,30 @@ Ampliare la tua lista clienti e gestirla efficacemente è un gioco da ragazzi co
 
 **➕ Aggiungi manualmente un nuovo cliente**
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/9988e9b823c1b64da07603ee7c8e8f7f/aggiungi-clienti-unipiazza-v2.png)
-
 1. Accedi alla sezione "Lista Clienti" del [Gestionale Partner Unipiazza](https://partner.unipiazza.it).
-2. In alto a destra, premi sul bottone "Aggiungi Cliente".
-3. Compila con Nome, Cognome e Indirizzo Email, che sono i dati indispensabili. Poi, se vuoi, puoi aggiungere anche Numero di Telefono, Data di Compleanno o Note personalizzate
+2. In alto a destra, premi il bottone **"Aggiungi cliente"**.
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/c951871e46e3fb2b3beb9ea023e57822/aggiungi-clienti.png)
+![La Lista Clienti con i bottoni «Scarica lista» e «Aggiungi cliente» in alto a destra](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/30306_ListaClienti-AggiungiCliente.jpg)
+
+3. Compila **Nome** e **Cognome**, che sono obbligatori, e almeno uno fra **Indirizzo Email** e **Telefono**. Se vuoi, aggiungi anche Compleanno, Note e il **Codice Tessera**, cioè il codice della Tessera Fedeltà che gli consegni.
+4. Lascia acceso **"Invia l'email o il messaggio RCS di benvenuto"** se vuoi che il cliente riceva subito il benvenuto.
+5. Spunta **"Confermo che il cliente ha dato il consenso per iscriversi e ricevere promozioni da me"** e premi **"Aggiungi cliente"**.
+
+![La finestra «Aggiungi cliente» con i campi Nome, Cognome, Email, Telefono, Compleanno, Note e Codice Tessera](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/30306_AggiungiCliente-Finestra.jpg)
 
 **🔄 Importa più clienti in una volta sola**
 
-1. Se hai una lunga lista di clienti da aggiungere puoi caricare l'elenco completo in modo semplice:
-2. Prepara il tuo file di contatti in formato .xlsx, .csv o .txt. Assicurati di includere almeno Nome, Cognome e Indirizzo Email per ogni contatto, aggiungi Numero di Telefono e Data di Compleanno se disponibili. Puoi anche inserire una nota personalizzata per ognuno (ad esempio "Cliente #Asporto")
-3. Carica il tuo file visitando [il seguente modulo](https://tally.so/r/3EPoy4) e segui le istruzioni ([qui trovi un esempio](https://unipiazza-api.s3.amazonaws.com/supporto/ESEMPIO-ListaClientidaImportare.xlsx) di file da caricare)
-4. I contatti verranno aggiunti nel giro di poche ore ai tuoi clienti totali e riceverai un messaggio di conferma via Whatsapp
-5. I contatti importati avranno automaticamente l'etichetta #importati e li troverai tutti raggruppati dentro alla pagina "[Lista Clienti](https://partner.unipiazza.it/clienti)" nel gruppo "Importati senza visite"
+Se hai una lunga lista di clienti da aggiungere, puoi caricare l'elenco completo in modo semplice.
+
+1. Prepara il tuo file di contatti in formato .xlsx, .csv o .txt. Assicurati di includere almeno Nome, Cognome e Indirizzo Email per ogni contatto, aggiungi Numero di Telefono e Data di Compleanno se disponibili. Puoi anche inserire una nota personalizzata per ognuno (ad esempio "Cliente #Asporto")
+2. Carica il tuo file nel [modulo per l'importazione](https://tally.so/r/3EPoy4) e segui le istruzioni ([qui trovi un esempio](https://unipiazza-api.s3.amazonaws.com/supporto/ESEMPIO-ListaClientidaImportare.xlsx) di file da caricare). Al modulo arrivi anche dal link **"Premi qui"** nella finestra "Aggiungi cliente".
+3. I contatti verranno aggiunti nel giro di poche ore ai tuoi clienti totali e riceverai un messaggio di conferma via Whatsapp
+4. I contatti importati avranno automaticamente l'etichetta #importati e li troverai tutti raggruppati dentro alla pagina "[Lista Clienti](https://partner.unipiazza.it/clienti)" nel gruppo "Importati senza visite"
 
 Se nell'elenco che stai per importare ci sono indirizzi email di clienti esistenti, non verranno duplicati. Questo assicura che la tua lista rimanga ordinata e senza ripetizioni.
 
-**✉️ Email di Benvenuto**
+**✉️ Messaggio di Benvenuto**
 
-Tutti i clienti aggiunti, sia che siano aggiunti manualmente che importati in una volta sola, riceveranno l'email di Benvenuto che vedi qui sotto in cui troveranno anche il loro QR Code personale che potranno usare fin da subito per raccogliere gettoni nella tua attività commerciale.
+I clienti importati e quelli che aggiungi a mano con l'interruttore acceso ricevono il messaggio di Benvenuto, via email oppure via RCS se hanno lasciato solo il numero di telefono. Dentro trovano anche il loro QR Code personale, che possono usare fin da subito per raccogliere gettoni nella tua attività commerciale.
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/fa6df9946a3c7d4426adc9a4294ac9a5/Iscrizione%20-%20Shop%20-%20Compilato.png)
+![L'email di Benvenuto con i premi del locale, il saldo gettoni e il QR Code personale del cliente](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/fa6df9946a3c7d4426adc9a4294ac9a5/Iscrizione%20-%20Shop%20-%20Compilato.png)
