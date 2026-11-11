@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 146 in locale, 145 su Customerly (117 published, 28 draft). Il 4364 è solo in locale: su Customerly non esiste più
+- **Articoli totali:** 147 in locale, 146 su Customerly (101 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -23,15 +23,15 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | 02-riepilogo | 7179 | Riepilogo | 5 | ⚠️ manca 2 metriche nel dashboard |
 | 03-clienti | 7180 | Clienti | 24 | ✅ |
 | 04-premi-e-gettoni | 7181 | Premi e Gettoni | 9 | ✅ |
-| 05-campagne-autopromo-whatsapp | 7182 | Campagne, Automazioni e WhatsApp | 24 | ✅ |
-| 06-modelli-campagne | 3911 | Modelli Campagne | 9 | ⚠️ contenuti 2021-22 datati, immagini rotte |
+| 05-campagne-autopromo-whatsapp | 7182 | Campagne, Automazioni e WhatsApp | 26 | ✅ |
+| 06-modelli-campagne | 3911 | Modelli Campagne | 8 | 🙈 tutti draft dal 2026-11-11, collezione nascosta |
 | 07-booster-e-abbonamenti | 7236 | Booster Vendite e Abbonamenti | 4 | ✅ |
 | 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 4 | ❌ specifiche errate (slot, limiti) |
 | 09-vetrina | 7200 | Vetrina | 7 | ✅ |
 | 10-pagamenti-e-fatturazione | 676 | Pagamenti & Fatturazione | 5 | ⚠️ 1 articolo in draft |
 | 11-integrazioni | 8104 | Integrazioni | 4 | ⚠️ articolo Android con errori copia-incolla |
 | 12-impostazioni | 7257 | Impostazioni | 3 | ✅ |
-| 13-eshop | 3416 | eShop | 10 | ❌ duplicati, articoli vuoti, copy off-brand |
+| 13-eshop | 3416 | eShop | 9 | 🙈 tutti draft dal 2026-11-11, modulo non in vendita |
 | 14-tablet-e-tessere | 171 | Tablet Unipiazza & Tessere | 7 | ⚠️ 5 draft legacy, 2 published |
 | 15-olivia-ai | 12061 | Olivia - Consulente Fedeltà AI | 2 | ✅ |
 
@@ -133,7 +133,7 @@ Meccaniche di fedeltà: gettoni, lista premi, creazione premi, limiti ritiro, ge
 
 ### 05 — Campagne, Automazioni e WhatsApp · `collection_id: 7182`
 
-Invio campagne email/SMS/WhatsApp, Automazioni, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-11-06 la sezione Autopromo è diventata Automazioni (issue kb#3): riscritti 27453, 61973 e 63782, creati 70104 e 70105, pubblicati i due articoli del 16/10 (70106, 70107) e tutte le correzioni rimaste in locale. Slug e cartella restano con "autopromo" per non rompere i link. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. Il 2026-10-16, in locale e non ancora sincronizzati, corretti 27453, 27452, 61640, 61919, 61971, 61972, 61973 e scritti due articoli nuovi senza article_id (regalo di compleanno alla cassa, WhatsApp bloccato), per i buchi trovati nelle conversazioni di Olivia. Lo strumento tessera.unipiazza.it per ora resta fuori dalla KB (Edoardo, 16/10) ([[analisi-conversazioni-olivia-2026-10-15]]). 27450: il web era stato modificato il 2026-07-03 (step 4 diverso); il 15/10 è stato allineato al file locale, mantenendo la frase finale "Inviata in verde".
+Invio campagne email/SMS/WhatsApp, Automazioni, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-11-06 la sezione Autopromo è diventata Automazioni (issue kb#3): riscritti 27453, 61973 e 63782, creati 70104 e 70105, pubblicati i due articoli del 16/10 (70106, 70107) e tutte le correzioni rimaste in locale. Slug e cartella restano con "autopromo" per non rompere i link. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. Il 2026-10-16, in locale e non ancora sincronizzati, corretti 27453, 27452, 61640, 61919, 61971, 61972, 61973 e scritti due articoli nuovi senza article_id (regalo di compleanno alla cassa, WhatsApp bloccato), per i buchi trovati nelle conversazioni di Olivia. Il 2026-11-11 aggiunto 70276 (idee di campagna per le feste, al posto dei vecchi Modelli Campagne) e spostato qui da Modelli Campagne il 25651 (GiftCard), riscritto ([[proposta-modelli-eshop]]). Lo strumento tessera.unipiazza.it per ora resta fuori dalla KB (Edoardo, 16/10) ([[analisi-conversazioni-olivia-2026-10-15]]). 27450: il web era stato modificato il 2026-07-03 (step 4 diverso); il 15/10 è stato allineato al file locale, mantenendo la frase finale "Inviata in verde".
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
@@ -161,24 +161,25 @@ Invio campagne email/SMS/WhatsApp, Automazioni, RCS, calendario eventi, statisti
 | 70106 | WhatsApp non funziona o risulta bloccato: cosa controllare? | whatsapp-non-funziona-o-risulta-bloccato | published |
 | 70104 | Come leggere i risultati delle Automazioni | come-leggere-i-risultati-delle-automazioni | published |
 | 70105 | Il Messaggio di benvenuto personalizzato | messaggio-di-benvenuto-personalizzato | published |
+| 70276 | Idee di campagna per le feste dell'anno | idee-di-campagna-per-le-feste | published |
+| 25651 | Promuovi le tue GiftCard! | promuovi-le-tue-giftcard | published |
 
 ---
 
 ### 06 — Modelli Campagne · `collection_id: 3911`
 
-Template stagionali per festività e occasioni. ⚠️ Contenuti 2021-22 con codici sconto datati ("DONNA21"); articolo takeout con linguaggio COVID-era. Immagini rotte (googleusercontent.com). Articolo "Siti immagini" duplicato di 30013.
+Template stagionali per festività e occasioni, scritti nel 2021-22. Il 2026-11-11, con l'ok di Edoardo, tutti gli 8 articoli sono passati in **draft**. La collezione non si vede più nel centro assistenza (404) ma non è stata cancellata, per tenere le bozze. Al loro posto c'è il 70276 nella collezione 05, dove è stato spostato anche il 25651 (GiftCard). Dettagli in `_drafts/proposta-modelli-eshop.md` [[proposta-modelli-eshop]]. Problemi noti se si volessero riprendere: codici sconto datati ("DONNA21"), articolo takeout con linguaggio COVID-era, immagini rotte (googleusercontent.com), "Siti immagini" duplicato di 30013.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
-| 8883 | Campagna di San Valentino | campagna-di-san-valentino | published |
-| 8931 | Campagna di Carnevale | campagna-di-carnevale | published |
-| 8932 | Campagna Festa della Donna | campagna-festa-della-donna | published |
-| 8933 | Campagna di Pasqua | campagna-di-pasqua | published |
-| 8968 | Campagna Festa del Papà | campagna-festa-del-pap | published |
-| 8969 | Siti per scaricare immagini gratuiti | siti-per-scaricare-immagini-gratuiti | published |
-| 9156 | Campagna per comunicare che effettui servizio da asporto | campagna-per-comunicare-che-effettui-servizio-da-asporto | published |
-| 9571 | Campagna Festa della Mamma | campagna-festa-della-mamma | published |
-| 25651 | Promuovi le tue GiftCard! | promuovi-le-tue-giftcard | published |
+| 8883 | Campagna di San Valentino | campagna-di-san-valentino | draft |
+| 8931 | Campagna di Carnevale | campagna-di-carnevale | draft |
+| 8932 | Campagna Festa della Donna | campagna-festa-della-donna | draft |
+| 8933 | Campagna di Pasqua | campagna-di-pasqua | draft |
+| 8968 | Campagna Festa del Papà | campagna-festa-del-pap | draft |
+| 8969 | Siti per scaricare immagini gratuiti | siti-per-scaricare-immagini-gratuiti | draft |
+| 9156 | Campagna per comunicare che effettui servizio da asporto | campagna-per-comunicare-che-effettui-servizio-da-asporto | draft |
+| 9571 | Campagna Festa della Mamma | campagna-festa-della-mamma | draft |
 
 ---
 
@@ -265,19 +266,19 @@ Panoramica impostazioni (con Visite da verificare dal 2026-11-09), modalità vac
 
 ### 13 — eShop · `collection_id: 3416`
 
-Vendita online: Stripe, prodotti, foto, codici sconto, spedizioni. ❌ 2 articoli duplicati (6994 e 7855 testo identico); 2 articoli quasi vuoti (6978, 6977); intera collezione usa tono "voi"/formale (off-brand, da riscrivere con unipiazza-copy). Immagini rotte su googleusercontent.com.
+Vendita online: Stripe, prodotti, foto, codici sconto, spedizioni. Il 2026-11-11, per decisione di Edoardo, tutti i 9 articoli sono passati in **draft**, perché il modulo eShop non si vende più (non è stato eliminato). La collezione dà 404 nel centro assistenza e resta su Customerly ([[proposta-modelli-eshop]]). Problemi noti se si volesse riprenderla: 2 articoli duplicati (6994 e 7855 testo identico), 2 quasi vuoti (6978, 6977), tono "voi"/formale off-brand, immagini rotte su googleusercontent.com.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
-| 6866 | Come scattare una foto perfetta! | come-scattare-una-foto-perfetta | published |
-| 6975 | Imballo e Spedizione | imballo-e-spedizione | published |
-| 6977 | Crea codici sconto | crea-codici-sconto | published |
-| 6978 | Carica i tuoi prodotti | carica-i-tuoi-prodotti | published |
-| 6994 | Come comunicare ai tuoi clienti che hai un eShop! | come-comunicare-ai-tuoi-clienti-che-hai-un-eshop | published |
-| 7003 | Come collegare Stripe | come-collegare-stripe | published |
-| 7026 | Come organizzare le informazioni dei prodotti | come-organizzare-le-informazioni-dei-prodotti | published |
-| 7855 | Come comunicare ai tuoi clienti che hai un eShop | come-promuovere-il-proprio-eshop | published |
-| 11870 | Esempi vetrina eShop | esempi-vetrina-eshop | published |
+| 6866 | Come scattare una foto perfetta! | come-scattare-una-foto-perfetta | draft |
+| 6975 | Imballo e Spedizione | imballo-e-spedizione | draft |
+| 6977 | Crea codici sconto | crea-codici-sconto | draft |
+| 6978 | Carica i tuoi prodotti | carica-i-tuoi-prodotti | draft |
+| 6994 | Come comunicare ai tuoi clienti che hai un eShop! | come-comunicare-ai-tuoi-clienti-che-hai-un-eshop | draft |
+| 7003 | Come collegare Stripe | come-collegare-stripe | draft |
+| 7026 | Come organizzare le informazioni dei prodotti | come-organizzare-le-informazioni-dei-prodotti | draft |
+| 7855 | Come comunicare ai tuoi clienti che hai un eShop | come-promuovere-il-proprio-eshop | draft |
+| 11870 | Esempi vetrina eShop | esempi-vetrina-eshop | draft |
 
 ---
 
