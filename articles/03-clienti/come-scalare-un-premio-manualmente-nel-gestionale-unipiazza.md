@@ -16,8 +16,8 @@ keywords:
 sort: 5
 is_featured: false
 locale: it
-updated_at: '2026-10-16'
-last_synced: '2026-11-09'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Se il chiosco non funziona o hai bisogno di scalare manualmente un premio assegnato a un cliente, segui questi semplici passaggi:

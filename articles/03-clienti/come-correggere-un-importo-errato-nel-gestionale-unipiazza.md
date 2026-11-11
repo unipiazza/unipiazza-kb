@@ -20,8 +20,8 @@ keywords:
 sort: 4
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-09'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Può capitare a tutti di sbagliare un importo, accreditare i gettoni due volte o registrare una visita di troppo. Nessun problema! Dal [gestionale Unipiazza](http://partner.unipiazza.it) si corregge in pochi passaggi.

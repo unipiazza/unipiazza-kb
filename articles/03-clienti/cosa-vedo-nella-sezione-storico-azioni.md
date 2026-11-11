@@ -28,8 +28,8 @@ keywords:
 sort: 2
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-09'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Nella sezione "[Storico Azioni](https://partner.unipiazza.it/clienti/cronologia)", puoi dare un'occhiata veloce a come i tuoi clienti interagiscono con la tua attività. Questa pagina ti aiuta a tenere traccia di ogni movimento e a capire meglio i tuoi clienti.

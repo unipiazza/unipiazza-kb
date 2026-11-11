@@ -83,7 +83,7 @@ Accesso al gestionale e panoramica della sezione Riepilogo. ⚠️ Articolo 2744
 
 ### 03 — Clienti · `collection_id: 7180`
 
-Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, importazione, visite da verificare. Il 2026-11-09 è stato creato 70111 (Visite da verificare) e sono stati aggiornati 41052, 27445, 61967 (Contattabile e Consenso marketing), 41054, 28262, 41598, 28260, 27446, 33516 e 65570.
+Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, importazione, visite da verificare. Il 2026-11-09 è stato creato 70111 (Visite da verificare) e sono stati aggiornati 41052, 27445, 61967 (Contattabile e Consenso marketing), 41054, 28262, 41598, 28260, 27446, 33516 e 65570. Il 2026-11-11 sono stati rifatti gli screenshot di 41054, 41052, 40695, 27444 e 27445, perché quelli del 2025 mostravano nomi e contatti veri dei clienti. I nuovi sono fatti con il Privacy Mode del gestionale (Ctrl+Shift+B) e stanno su `up-kb-assets`.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|

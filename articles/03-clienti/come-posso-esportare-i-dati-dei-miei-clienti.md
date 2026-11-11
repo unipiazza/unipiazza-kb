@@ -11,8 +11,8 @@ keywords: []
 sort: 13
 is_featured: false
 locale: it
-updated_at: '2025-01-09'
-last_synced: '2026-06-19'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Scaricare la lista dei clienti dal tuo gestionale Unipiazza è semplice e veloce. Segui questi passaggi per ottenere i dati in formato Excel o CSV.

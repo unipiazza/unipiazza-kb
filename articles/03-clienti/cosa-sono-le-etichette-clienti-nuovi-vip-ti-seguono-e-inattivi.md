@@ -26,8 +26,8 @@ keywords:
 sort: 0
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-06'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 La sezione "[Lista Clienti](https://partner.unipiazza.it/clienti)" nel tuo gestionale Unipiazza è una miniera d'oro di informazioni su di loro. Vediamo insieme come interpretare le diverse categorie e sfruttarle al meglio.
