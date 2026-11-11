@@ -1,10 +1,11 @@
 ---
+article_id: 70276
 collection_id: 7182
 collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Idee di campagna per le feste dell'anno"
 slug: idee-di-campagna-per-le-feste
 description: "San Valentino, Carnevale, Pasqua e le altre feste: testi pronti da copiare, adattare e inviare ai tuoi clienti."
-status: draft
+status: published
 written_by: 2961
 is_ai_enabled: true
 keywords:
@@ -20,6 +21,8 @@ keywords:
 sort: 5
 is_featured: false
 locale: it
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Ogni festa è una scusa perfetta per farti sentire dai tuoi clienti. Il difficile è trovare le parole giuste... e ricordarsi di farlo in tempo! 😉

@@ -16,8 +16,8 @@ keywords:
 sort: 6
 is_featured: false
 locale: it
-updated_at: '2024-05-28'
-last_synced: '2026-06-10'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Hai attivato le GiftCard? Ottimo! Ora manca solo una cosa, cioè dirlo ai tuoi clienti 🎁
