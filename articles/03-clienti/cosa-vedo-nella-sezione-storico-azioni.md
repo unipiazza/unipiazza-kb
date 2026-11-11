@@ -34,7 +34,7 @@ last_synced: '2026-11-09'
 
 Nella sezione "[Storico Azioni](https://partner.unipiazza.it/clienti/cronologia)", puoi dare un'occhiata veloce a come i tuoi clienti interagiscono con la tua attività. Questa pagina ti aiuta a tenere traccia di ogni movimento e a capire meglio i tuoi clienti.
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/b40c60e8bb0a0d8eba816f164abbdfcd/Screenshot%202025-01-13%20alle%2016.09.57.png)
+![Sezione Storico azioni con il riepilogo del periodo e l'elenco delle azioni](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/27445_StoricoAzioni.jpg)
 
 Appena entri nella pagina, trovi subito un riassunto delle cose più importanti. La vista predefinita mostra gli ultimi 30 giorni, ma puoi cambiare il periodo dal menù a tendina.
 
@@ -44,8 +44,6 @@ Appena entri nella pagina, trovi subito un riassunto delle cose più importanti.
 - **Nuove iscrizioni:** Numero di clienti che si sono iscritti in quel periodo
 
 Inoltre, trovi un elenco di tutto quello che i tuoi clienti hanno fatto, messo in ordine per data e ora. Per ogni azione, vedi chi l'ha fatta, cosa ha fatto, e quanti gettoni ha raccolto o soldi spesi se ha raccolto gettoni.
-
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/74b2dc6fea1d07a4765f1cf0f450816e/Screenshot%202025-01-13%20alle%2016.13.36.png)
 
 Puoi scegliere di vedere le cose in diversi periodi di tempo:
 
