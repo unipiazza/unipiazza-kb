@@ -1,7 +1,19 @@
 # Proposta per Modelli Campagne ed eShop
 
-Bozza del 2026-11-11, da far decidere a Dodo. Nessun articolo è stato toccato.
+Bozza del 2026-11-11, decisa da Dodo lo stesso giorno. Nessun articolo è ancora stato toccato.
 Riferimenti: [AUDIT-KB.md](../AUDIT-KB.md) [[AUDIT-KB]] (sezioni A6, A7, B1, B2, B5, D1, D2, E6) e [overview.md](../overview.md) [[overview]].
+
+## Decisioni di Dodo (2026-11-11)
+
+1. **eShop.** Non c'è una decisione ufficiale. Non si propone in vendita e oggi nessun cliente lo ha
+   attivo. Se qualcuno lo chiede si valuta caso per caso, e dal sito è già stato tolto. Il modulo non
+   si elimina, perché potrebbe tornare. Per la KB vuol dire che gli articoli eShop si **nascondono**
+   (passano a `draft`) senza riscriverli, e i file `.md` restano nel repo per un eventuale ritorno.
+2. **Modelli stagionali.** Si fa **un articolo unico** con un paragrafo per festa e il rimando al
+   Calendario Eventi.
+3. **Articoli tolti.** Si **nascondono** (`draft`), non si cancellano.
+4. **Collezione Modelli Campagne (3911).** Si **chiude**. L'articolo unico e «Promuovi le tue
+   GiftCard!» passano nella collezione Campagne (7182).
 
 ## Cosa ho trovato prima di proporre
 
