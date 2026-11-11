@@ -18,7 +18,11 @@ is_featured: false
 last_synced: '2026-11-06'
 ---
 
-Qui trovi i testi già pronti delle comunicazioni automatiche che Unipiazza invia ai tuoi clienti, via **email, notifica dell'app e RCS**. Il formato cambia da un canale all'altro, ma il messaggio è lo stesso.
+Qui trovi i testi già pronti delle comunicazioni automatiche che Unipiazza invia ai tuoi clienti, via **email, notifica dell'app e RCS**. Il formato cambia da un canale all'altro, ma il messaggio è lo stesso. Su RCS il titolo è più corto, perché è scritto apposta per la chat.
+
+Vuoi vedere come appare il messaggio della tua attività? In **Automazioni** premi l'icona dell'occhio accanto a un'Automazione. Si apre l'**Anteprima**, con una scheda per ogni canale (Email, App e RCS), già compilata con la tua promozione e i dati del tuo locale.
+
+![L'Anteprima della Prima visita di Caffetteria Rossi vista come email, come notifica dell'app e come messaggio RCS](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/63782_PrimaVisita-Email-App-RCS.jpg)
 
 > ✏️ **Questi testi li puoi cambiare.** Li modifichi dalla sezione **Automazioni**, nel blocco **Il messaggio** di ogni Automazione. Se non li tocchi, il cliente riceve quelli che vedi qui. Su WhatsApp invece arriva sempre il messaggio standard approvato da Meta, come spieghiamo in [Come attivare WhatsApp sulle tue Automazioni](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo).
 
