@@ -83,3 +83,53 @@ Nessuna riscrittura.
 3. Archiviare vuol dire passare a `draft` o cancellare su Customerly? Proposta: `draft`, così i
    link esterni non si rompono di colpo e si può tornare indietro.
 4. I due articoli rimasti dei Modelli restano nella collezione 3911 o passano nella collezione Campagne?
+
+## Piano di esecuzione (preparato il 2026-11-11, da approvare)
+
+**Articoli nuovi o riscritti, in locale e non ancora pubblicati**
+1. **Nuovo** «Idee di campagna per le feste dell'anno», nella collezione Campagne (7182), file
+   [idee-di-campagna-per-le-feste.md](../articles/05-campagne-autopromo-whatsapp/idee-di-campagna-per-le-feste.md) [[idee-di-campagna-per-le-feste]].
+   Ha due testi per ognuna delle 6 feste e uno per l'asporto, senza codici con l'anno, e rimanda al Calendario Eventi (61974).
+2. **25651** «Promuovi le tue GiftCard!», spostato nella collezione Campagne (7182), file
+   [promuovi-le-tue-giftcard.md](../articles/05-campagne-autopromo-whatsapp/promuovi-le-tue-giftcard.md) [[promuovi-le-tue-giftcard]].
+   Il tono è riscritto, il link rotto è tolto, i campi hanno i nomi di oggi (Messaggio principale) e i testi non parlano più solo di Natale.
+3. **28252**, un link solo. Il rimando a 25651 usava l'indirizzo della collezione Modelli e adesso usa `/it/articles/25651-promuovi-le-tue-giftcard`.
+
+**Articoli da nascondere (status `draft`, i file restano nel repo)**
+
+| ID | Articolo | Collezione |
+|---|---|---|
+| 8883 | Campagna di San Valentino | 3911 |
+| 8931 | Campagna di Carnevale | 3911 |
+| 8932 | Campagna Festa della Donna | 3911 |
+| 8933 | Campagna di Pasqua | 3911 |
+| 8968 | Campagna Festa del Papà | 3911 |
+| 9571 | Campagna Festa della Mamma | 3911 |
+| 9156 | Campagna servizio da asporto | 3911 |
+| 8969 | Siti per scaricare immagini gratuiti | 3911 |
+| 6866 | Come scattare una foto perfetta! | 3416 |
+| 6975 | Imballo e Spedizione | 3416 |
+| 6977 | Crea codici sconto | 3416 |
+| 6978 | Carica i tuoi prodotti | 3416 |
+| 6994 | Come comunicare ai tuoi clienti che hai un eShop! | 3416 |
+| 7003 | Come collegare Stripe | 3416 |
+| 7026 | Come organizzare le informazioni dei prodotti | 3416 |
+| 7855 | Come comunicare ai tuoi clienti che hai un eShop | 3416 |
+| 11870 | Esempi vetrina eShop | 3416 |
+
+**Link da correggere prima di nascondere**
+Nessun articolo pubblicato punta a 8969 o agli articoli eShop. L'unico link a 8969 sta in 9472, che è
+già in bozza. L'unico link verso la collezione Modelli è quello del 28252 (punto 3 qui sopra).
+
+**Collezioni**
+1. **3911 Modelli Campagne.** Quando è vuota si cancella su Customerly (`delete_kb_collection`).
+   Va fatto dopo lo spostamento del 25651, se no l'articolo si perde.
+2. **3416 eShop.** Senza articoli pubblicati resta vuota. Per ora non la cancello, così se il modulo
+   torna si ripubblica tutto com'era. Va deciso se va bene vederla vuota nel centro assistenza.
+
+**Da segnalare all'altra sessione (cura `overview.md`)**
+Le righe delle collezioni 06 e 13 nell'overview, l'articolo nuovo e lo spostamento del 25651 nella collezione 05.
+
+**Da segnalare a parte**
+L'articolo 27450 «Cosa sono le Campagne Marketing e come si creano» al passo 3 cita ancora «una
+selezione manuale di clienti» fra i destinatari, ma oggi quella voce non c'è più (verificato per il 30681).
