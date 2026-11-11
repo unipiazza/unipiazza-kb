@@ -16,13 +16,13 @@ Vorresti limitare il ritiro di un premio per cliente, ad esempio a **uno al gior
 
 **1\. Accedi alla lista premi**
 
-![](../../assets/04-premi-e-gettoni/41456_Screenshot 2025-01-24 alle 16.25.17.png)
+![Lista premi nel gestionale, con la colonna Limiti premio](https://up-kb-assets.s3.eu-west-3.amazonaws.com/04-premi-e-gettoni/27448_ListaPremi.jpg)
 
 Dal menu principale del gestionale, clicca su **"Premi"** e seleziona **"Lista premi"**. Qui troverai l’elenco di tutti i premi attivi nella tua vetrina online, sull’app mobile e sul chiosco interattivo.
 
 **2\. Modifica il premio**
 
-![](../../assets/04-premi-e-gettoni/41456_Screenshot 2025-01-24 alle 16.25.48.png)
+![Modifica premi con i campi Limiti Premio](https://up-kb-assets.s3.eu-west-3.amazonaws.com/04-premi-e-gettoni/41456_ModificaPremi-Limiti.jpg)
 
 Individua il premio per cui desideri impostare un limite e clicca su **"Modifica premi"** in alto a destra. Nella colonna **"Limiti Premio"**, puoi aggiungere una breve descrizione (fino a 80 caratteri) per specificare le regole di ritiro.
 
@@ -41,7 +41,7 @@ Assicurati che il testo sia semplice e diretto, in modo che sia facilmente compr
 
 **4\. Salva le modifiche**
 
-![](../../assets/04-premi-e-gettoni/41456_Screenshot 2025-01-24 alle 16.26.03.png)
+![Fondo della lista in modifica, con i pulsanti Annulla e Salva](https://up-kb-assets.s3.eu-west-3.amazonaws.com/04-premi-e-gettoni/28264_NuovoPremio-Salva.jpg)
 
 Dopo aver aggiunto le descrizioni, clicca su **"Salva"** in basso.
 

@@ -23,6 +23,8 @@ Per iniziare:
 3.  Cerca la sezione **"Resetta i gettoni clienti"**.
     
 
+![Riquadro Resetta i gettoni clienti nelle Impostazioni](https://up-kb-assets.s3.eu-west-3.amazonaws.com/04-premi-e-gettoni/41597_ResettaGettoni.jpg)
+
 ## Resettare i gettoni di tutti i clienti
 
 Puoi impostare in anticipo la data in cui desideri che tutti i gettoni vengano azzerati.
@@ -30,6 +32,8 @@ Puoi impostare in anticipo la data in cui desideri che tutti i gettoni vengano a
 1.  In corrispondenza di **"Resetta i gettoni clienti"**, clicca su **"Programma cancellazione"**.
     
 2.  Scegli la **data di azzeramento** dal calendario.
+    
+    ![Finestra per scegliere la data del reset e il promemoria](https://up-kb-assets.s3.eu-west-3.amazonaws.com/04-premi-e-gettoni/41597_ResettaGettoni-Data.jpg)
     
 3.  Se vuoi avvisare i tuoi clienti, attiva l'opzione **“Invia un promemoria ai clienti 14 e 2 giorni prima”**.
     
