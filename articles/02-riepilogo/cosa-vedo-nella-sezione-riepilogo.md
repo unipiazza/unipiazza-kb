@@ -19,17 +19,17 @@ Il [Riepilogo](https://partner.unipiazza.it/) è la prima pagina che vedi quando
 In alto ci sono sei riquadri con i totali da quando usi Unipiazza.
 
 - **Visite Totali:** quante volte i clienti hanno raccolto gettoni nella tua attività.
-- **Clienti Totali:** quanti clienti sono iscritti al tuo programma fedeltà.
+- **Clienti Totali:** quanti clienti hanno raccolto gettoni da te almeno una volta.
 - **Premi & Promo ritirate:** quanti premi e quante promozioni i clienti hanno ritirato.
 - **Ricavi Totali:** il totale speso dai clienti quando hanno raccolto gettoni.
 - **Ricavi Autopromo:** quanto hanno speso i clienti tornati grazie alle Autopromo, i messaggi automatici che trovi in Automazioni.
 - **Scontrino medio:** quanto spende in media un cliente a ogni visita.
 
-Ogni riquadro si può premere. Clienti Totali ti porta alla Lista Clienti, Ricavi Autopromo alle Automazioni e gli altri allo [Storico Azioni](https://supporto.unipiazza.it/it/articles/27445-cosa-vedo-nella-sezione-storico-azioni).
+Ogni riquadro si può premere. Clienti Totali ti porta alla Lista Clienti, Ricavi Autopromo alle Automazioni e gli altri allo [Storico Azioni](https://supporto.unipiazza.it/it/articles/27445-cosa-vedo-nella-sezione-storico-azioni) [[cosa-vedo-nella-sezione-storico-azioni]].
 
 ## Obiettivo iscritti del mese
 
-Accanto ai numeri trovi l'obiettivo di nuovi iscritti del mese in corso, con quanti ne hai già e quanti te ne mancano. Conta tutti i clienti che durante il mese si sono iscritti con una tessera sul Chiosco o hanno raccolto gettoni da te per la prima volta. L'obiettivo lo cambi dalle [Impostazioni](https://supporto.unipiazza.it/it/articles/30018-cosa-vedo-nella-sezione-impostazioni).
+Accanto ai numeri trovi l'obiettivo di nuovi iscritti del mese in corso, con quanti ne hai già e quanti te ne mancano. Conta tutti i clienti che durante il mese si sono iscritti con una tessera sul Chiosco o hanno raccolto gettoni da te per la prima volta. L'obiettivo lo cambi dalle [Impostazioni](https://supporto.unipiazza.it/it/articles/30018-cosa-vedo-nella-sezione-impostazioni) [[cosa-vedo-nella-sezione-impostazioni]].
 
 ## Andamento nel tempo
 
