@@ -12,8 +12,6 @@ updated_at: '2026-11-11'
 last_synced: '2026-11-11'
 ---
 
-<div class="iframe-wrapper"><iframe src="https://www.youtube.com/embed/2dLSuiFcImo" frameborder="0" allowfullscreen="true"></iframe></div>
-
 La [GiftCard](https://partner.unipiazza.it/wallet) di Unipiazza non è un semplice buono regalo. È un'estensione del Wallet, che permette ai tuoi clienti di regalare a qualcun altro del credito da spendere nella tua attività (o nella tua catena). Le GiftCard si acquistano direttamente nel tuo punto vendita, dal Chiosco Unipiazza.
 
 Il credito della GiftCard vive nel cloud, ma viaggia sempre su una **Tessera Fedeltà fisica**. Al momento dell'acquisto carichi l'importo su una Tessera Fedeltà nuova, e chi la riceve la usa per riscattare il regalo. Va bene una qualunque delle Tessere Fedeltà che ti abbiamo spedito, non serve una tessera dedicata.
