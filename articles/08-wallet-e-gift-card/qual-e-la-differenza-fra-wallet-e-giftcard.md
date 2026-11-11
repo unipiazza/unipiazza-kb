@@ -8,8 +8,8 @@ description: 'Il Wallet è un credito prepagato per pagare più velocemente in c
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-10-19'
-last_synced: '2026-10-19'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Il Wallet e la GiftCard sono due facce della stessa medaglia su Unipiazza, ma si usano in momenti diversi. Il credito di entrambi vive nel cloud. La differenza sta nel supporto, perché il Wallet è legato al Profilo del cliente, mentre la GiftCard viene caricata su una Tessera Fedeltà fisica.

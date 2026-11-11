@@ -15,8 +15,8 @@ keywords:
 sort: 4
 is_featured: false
 locale: it
-updated_at: '2024-07-19'
-last_synced: '2026-06-19'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Vuoi mandare una promozione solo ai clienti del pranzo, solo agli amici storici o solo a chi è venuto alla serata degustazione? Si può fare! 🎯
