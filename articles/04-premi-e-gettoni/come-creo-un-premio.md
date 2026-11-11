@@ -16,7 +16,11 @@ Per creare un premio nel tuo programma fedeltà segui questi semplici passi:
 
 -   Entra nella sezione "[Lista Premi](https://partner.unipiazza.it/premi)" del tuo gestionale Unipiazza.
     
--   Clicca su "Aggiungi un nuovo premio". Sfoglia le icone disponibili e seleziona quella che ti piace di più.
+-   Clicca su "Modifica premi", in alto a destra, e poi su "Aggiungi un nuovo premio", in fondo alla lista. Compare una riga vuota. Clicca sulla sua icona per sfogliare le immagini disponibili e seleziona quella che ti piace di più.
+    
+    ![Riga di un nuovo premio con i pulsanti Annulla e Salva](https://up-kb-assets.s3.eu-west-3.amazonaws.com/04-premi-e-gettoni/28264_NuovoPremio-Salva.jpg)
+    
+    ![Finestra Immagine del premio per scegliere l'icona](https://up-kb-assets.s3.eu-west-3.amazonaws.com/04-premi-e-gettoni/28264_ImmagineDelPremio.jpg)
     
 -   Ora, nella parte "Descrizione", scrivi cosa offri. Tipo "Pizza gigante + bibita gratis". Questo è ciò che i tuoi clienti leggeranno, quindi rendilo invitante!
     

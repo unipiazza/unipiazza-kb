@@ -26,13 +26,19 @@ Ecco come si fa:
         
     -   **Gettoni Bonus:** A differenza del moltiplicatore, i gettoni bonus aggiungono una quantità fissa di gettoni extra a quelli già guadagnati. Ad esempio, se offri 50 gettoni bonus, il cliente riceverà questi 50 gettoni extra oltre ai gettoni normali per ogni acquisto. Questo può essere particolarmente utile per promuovere un nuovo prodotto o servizio.
         
+    ![Nome, tipo e valore del Booster nel modulo Crea booster](https://up-kb-assets.s3.eu-west-3.amazonaws.com/07-booster-e-abbonamenti/27455_CreaBooster-Tipo.jpg)
+    
 3.  **Imposta la Durata:** Decidi quando il tuo Booster inizia e finisce. Puoi scegliere date e orari specifici per massimizzare l'effetto.
     
 4.  **Seleziona i Giorni e l'Orario:** Definisci i giorni della settimana e gli orari in cui il Booster sarà attivo, per indirizzare il flusso dei clienti o la vendita di un servizio o prodotto in particolari momenti.
     
-5.  **Conferma e Attiva:** Dopo aver impostato tutti i dettagli, salva e attiva il Booster. Sarà automaticamente applicato alle transazioni idonee nel periodo che hai scelto.
+    ![Durata del Booster e giorni con gli orari](https://up-kb-assets.s3.eu-west-3.amazonaws.com/07-booster-e-abbonamenti/27455_CreaBooster-Giorni.jpg)
+    
+5.  **Dettagli, poi Salva:** Nel riquadro **Dettagli** scegli due cose. Con **Attiva automaticamente il Booster nella schermata di accredito gettoni** il Booster parte da solo nei giorni e negli orari impostati. Se lo lasci spento, sarà chi accredita i gettoni a premere il bottone del Booster. Con **Pubblicizza automaticamente il Booster sulla tua vetrina Chiosco** i clienti lo vedono sul Chiosco. Alla fine premi **Salva**.
+    
+    ![Riquadro Dettagli con le due opzioni e il pulsante Salva](https://up-kb-assets.s3.eu-west-3.amazonaws.com/07-booster-e-abbonamenti/27455_CreaBooster-Dettagli.jpg)
     
 
 Ricorda, un Booster ben pensato può fare la differenza nel fare ritornare i clienti più spesso o nel far provare loro qualcosa di nuovo che offri.
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p>💡<strong>Ricordati di promuovere i Booster!</strong> Una volta che hai creato un Booster, ricordati di creare una campagna da inviare ai tuoi clienti per informarli! Usa i nostri template che trovi qui per trovare ispirazione.</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="1" rowspan="1"><p>💡<strong>Ricordati di promuovere i Booster!</strong> Una volta che hai creato un Booster, ricordati di creare una <strong>campagna</strong> da inviare ai tuoi clienti per informarli! Usa i nostri template che trovi qui per trovare ispirazione.</p></td></tr></tbody></table>

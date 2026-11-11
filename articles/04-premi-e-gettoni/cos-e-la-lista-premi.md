@@ -14,6 +14,8 @@ last_synced: '2026-06-10'
 
 La [Lista Premi](https://partner.unipiazza.it/premi) è dove gestisci i tuoi premi fedeltà. I tuoi clienti li vedono sul Chiosco, sulla tua vetrina web e sull'App Mobile Unipiazza. Ecco come funziona:
 
+![Lista premi nel gestionale, con descrizione, limiti premio e gettoni](https://up-kb-assets.s3.eu-west-3.amazonaws.com/04-premi-e-gettoni/27448_ListaPremi.jpg)
+
 -   **Icona:** Scegli un'immagine tra le nostre 80 opzioni per far capire subito ai clienti di che premio si tratta. Se non trovi l'immagine giusta, contattaci e la aggiungiamo velocemente!
     
 -   **Descrizione:** Metti una spiegazione breve, massimo 80 caratteri, su cosa ricevono i clienti.
