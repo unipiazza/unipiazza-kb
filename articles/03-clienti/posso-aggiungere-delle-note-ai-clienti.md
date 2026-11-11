@@ -17,7 +17,7 @@ sort: 15
 is_featured: false
 locale: it
 updated_at: '2026-11-11'
-last_synced: '2026-06-19'
+last_synced: '2026-11-11'
 ---
 
 Le note clienti ti permettono di comprendere meglio le abitudini dei tuoi clienti e di contrassegnarli in base alle informazioni inserite. Ad esempio, ti permettono di ricordare le preferenze su un certo tipo di prodotto o servizio acquistato, raggruppare i clienti in gruppi specifici o annotare richieste speciali.

@@ -16,7 +16,7 @@ keywords:
   - liste preimpostate
 locale: it
 updated_at: '2026-11-11'
-last_synced: '2026-11-09'
+last_synced: '2026-11-11'
 ---
 
 La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pannello di controllo Unipiazza è il luogo dove puoi personalizzare e configurare diverse opzioni per ottimizzare la gestione della tua attività. Ecco una panoramica dettagliata di cosa puoi fare in questa sezione, nell'ordine in cui la trovi:
