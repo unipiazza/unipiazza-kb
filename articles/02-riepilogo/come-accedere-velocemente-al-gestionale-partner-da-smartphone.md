@@ -2,48 +2,81 @@
 article_id: 37647
 collection_id: 7179
 collection: 🏠 Riepilogo
-title: Come accedere velocemente al gestionale Partner da Smartphone
+title: "Il gestionale sulla Home del telefono"
 slug: come-accedere-velocemente-al-gestionale-partner-da-smartphone
-description: Vuoi avere la comodità di accedere al gestionale Unipiazza direttamente dal tuo smartphone? Segui questi semplici passaggi per iPhone (Safari e Chrome) e Android (Chrome).
+description: "Un tocco sull'icona e sei dentro, come in un'app. Ecco come aggiungerla da Android, da iPhone e dal computer."
 status: published
 written_by: 2961
+keywords:
+  - gestionale
+  - schermata home
+  - aggiungi alla home
+  - installa
+  - icona
+  - android
+  - iphone
+  - app
+  - notifiche
+  - computer
+  - safari
+  - chrome
+sort: 2
+is_featured: false
 locale: it
-updated_at: '2026-10-15'
-last_synced: '2026-10-15'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
-Vuoi avere la comodità di accedere al gestionale Unipiazza direttamente dal tuo smartphone? Segui questi semplici passaggi per iPhone (Safari e Chrome) e Android (Chrome).
+Apri il gestionale più volte al giorno? Allora merita un posto fisso sul tuo telefono, accanto alle altre app 📱 Con l'icona sulla schermata Home sei dentro con un tocco, senza cercarlo tra le schede del browser. E su iPhone è anche l'unico modo per ricevere le notifiche.
 
-### **Aggiungi il collegamento su Smartphone iPhone (Safari&Chrome)**
+Non scarichi niente dagli store. L'icona apre il gestionale di sempre, a tutto schermo, come un'app, e sotto c'è scritto **Unipiazza**.
 
-![](../../assets/02-riepilogo/37647_apple-unipiazza-partner-schermata-home.png)
+## Dove trovi il bottone
 
-1) **Apri Safar**i: Avvia il browser Safari sul tuo iPhone.
+💬 **Nella card del Riepilogo**<br>Da telefono e tablet, in cima al Riepilogo compare l'invito **Tieni il gestionale sulla schermata Home**, con il bottone **Aggiungi alla Home**. Se premi **Non ora**, la card sparisce per un mese.
 
-2) **Vai a** [**partner.unipiazza.it**](https://partner.unipiazza.it): Nella barra degli indirizzi, digita l'URL `partner.unipiazza.it` e premi "Vai".
+📋 **In fondo al menu**<br>In fondo al menu a sinistra, staccato dalle altre voci, c'è sempre **Aggiungi alla Home**, anche dopo che hai chiuso la card. Da telefono il menu si apre con le tre righe in alto a sinistra.
 
-3) **Aggiungi alla Schermata Home**:
+🔔 **Nella campanella, su iPhone e iPad**<br>Se apri il gestionale da Safari, la campanella in alto apre la guida per aggiungere l'icona.
 
-\- Premi il pulsante di condivisione (un quadrato con una freccia verso l'alto) situato nella parte inferiore del browser.
+Quando apri il gestionale dall'icona, card e bottone non si vedono più, perché hai già fatto tutto 😉
 
-\- Scorri verso il basso e premi "Aggiungi alla schermata Home".
+## Su Android
 
-\- Assegna un nome all'icona, ad esempio "Unipiazza Gestionale".
+Premi **Aggiungi alla Home** e il telefono ti propone subito di installare il gestionale. Conferma con **Installa** e l'icona è pronta, tra le tue app e sulla schermata Home. Resti collegato, quindi dall'icona entri senza rifare l'accesso.
 
-\- Premi "Aggiungi". Ora troverai l'icona sulla tua schermata Home e potrai accedere rapidamente come se fosse un'App.<br>
+Se il browser non te lo propone, si apre una guida con i passaggi da fare nel suo menu. In Chrome sono questi.
 
-### **Aggiungi il collegamento su Smartphone Android (Chrome)**
+1️⃣ Tocca i tre puntini in alto a destra.
 
-![](../../assets/02-riepilogo/37647_android-unipiazza-partner-schermata-home.png)1) **Apri Chrome**: Avvia il browser Chrome sul tuo dispositivo Android.
+2️⃣ Scegli **Aggiungi a schermata Home** o **Installa app**.
 
-2) **Vai a** [**partner.unipiazza.it**](https://partner.unipiazza.it): Nella barra degli indirizzi, digita l'URL `partner.unipiazza.it`
+3️⃣ Conferma con **Installa**.
 
-3) **Aggiungi a Schermata Home**:
+## Su iPhone e iPad
 
-\- Premi il pulsante del menu (tre puntini verticali) situato nell'angolo in alto a destra del browser.
+Apple non permette di aggiungere l'icona con un tocco solo. Per questo il bottone apre una guida con i passi da seguire, che in Safari sono questi.
 
-\- Seleziona "Aggiungi a schermata Home".
+1️⃣ Tocca il tasto **Condividi** nella barra di Safari. Se non lo vedi, lo trovi nel menu accanto all'indirizzo.
 
-\- Premi “Installa". Ora troverai l'icona sulla tua schermata Home e potrai accedere rapidamente come se fosse un'App.
+2️⃣ Scorri e scegli **Aggiungi alla schermata Home**. Se non c'è, tocca prima **Visualizza altro** in basso a destra.
 
-<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento:&nbsp; </strong>Se hai problemi con le credenziali, chiamaci o scrivici su WhatsApp al 388 8665987<strong>.</strong></p></td></tr></tbody></table>
+3️⃣ Conferma con **Aggiungi**.
+
+Anche Chrome su iPhone ha la sua guida, con il tasto Condividi accanto alla barra degli indirizzi.
+
+> 💡 **La prima volta che apri il gestionale dall'icona, accedi di nuovo con la tua email e la tua password.** Su iPhone l'icona tiene i suoi dati separati da Safari. Dopo il primo accesso resti collegato, e dalla campanella puoi attivare le notifiche.
+
+> 💡 **Hai aperto il gestionale da un link dentro WhatsApp o un'altra app?** Da lì non si può aggiungere l'icona. La guida ti dice di aprire la pagina in Safari o in Chrome e di farlo da lì.
+
+## E dal computer?
+
+Il gestionale si installa anche sul computer e si apre in una finestra sua, come gli altri programmi. In fondo al menu a sinistra trovi **Installa sul PC**, oppure **Installa sul Mac**.
+
+💻 **Chrome ed Edge**<br>Si apre subito la finestra per installarlo. Conferma con **Installa**.
+
+🍎 **Safari su Mac**<br>Si apre una guida. Nella barra dei menu in alto scegli **File**, poi **Aggiungi al Dock**, e conferma con **Aggiungi**.
+
+Su Firefox il gestionale non si può installare, e il bottone non compare.
+
+Hai problemi ad accedere dall'icona? Chiamaci o scrivici su WhatsApp al 388 8665987, siamo qui per aiutarti!
