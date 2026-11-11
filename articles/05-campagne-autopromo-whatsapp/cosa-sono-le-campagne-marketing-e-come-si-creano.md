@@ -57,7 +57,7 @@ Ecco come creare una campagna passo passo:
 
 **2. Scegli il tipo** tra Annuncio, Evento o Promozione.
 
-**3. Seleziona i destinatari**: puoi scegliere tra tutti i clienti, le etichette di default (Nuovi, Vip, Ti seguono, Inattivi), una tua lista clienti personalizzata o una selezione manuale di clienti.
+**3. Seleziona i destinatari**: puoi scegliere tra tutti i clienti, le etichette di default (Nuovi, Vip, Ti seguono, Inattivi) o una tua lista clienti personalizzata. Se vuoi scrivere solo ad alcuni clienti scelti da te, prima li metti in una lista dalla sezione Clienti con **Aggiungi ad una lista**, come spieghiamo in [Posso inviare una campagna solo ad alcuni clienti?](https://supporto.unipiazza.it/it/articles/30681-posso-inviare-una-campagna-solo-ad-alcuni-clienti).
 
 **4. Imposta i dettagli**: nome della campagna, oggetto email e il **testo di anteprima** dell'email (la riga che appare in anteprima nella casella di posta prima di aprire il messaggio).
 

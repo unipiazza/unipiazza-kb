@@ -20,7 +20,7 @@ Il credito della GiftCard vive nel cloud, ma viaggia sempre su una **Tessera Fed
 
 **Come si acquista una GiftCard?**
 
-1.  **Il cliente sceglie il taglio.** Sul Chiosco preme il bottone **"Acquista gift card"** a destra e sceglie uno dei tagli che hai impostato (fino a 250€, al massimo 6 tagli oppure 5 se attivi l'opzione "Permetti al cliente di scegliere un importo personalizzato"). Con quell'opzione attiva trova anche il bottone **"Altro importo"** e può digitare la cifra che preferisce. A quel punto il Chiosco gli chiede di attendere il gestore.
+1.  **Il cliente sceglie il taglio.** Sul Chiosco preme il bottone **"Acquista gift card"** a destra e sceglie uno dei tagli che hai impostato (fino a 250€, al massimo 5 tagli). Se hai attivato l'opzione "Permetti al cliente di scegliere un importo personalizzato", trova anche il bottone **"Altro importo"** e può digitare la cifra che preferisce. A quel punto il Chiosco gli chiede di attendere il gestore.
     
 2.  **Tu confermi.** Sull'app operatore (in cassa, sul tuo smartphone o sul tablet) ricevi il messaggio con il nome del cliente e l'importo della GiftCard che vuole acquistare, e scegli se accettare o rifiutare. Se rifiuti, il cliente vede sul Chiosco un messaggio che lo avvisa.
     

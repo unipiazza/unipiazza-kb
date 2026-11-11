@@ -16,12 +16,12 @@ Nella sezione "[Impostazioni Wallet & Gift Card](https://partner.unipiazza.it/wa
 
 -   **Attiva il Wallet Prepagato:** Questa funzione consente ai tuoi clienti di pagare in anticipo per servizi e prodotti, rendendo le transazioni più veloci e aumentando la loro fedeltà.
     
--   **Imposta i Tagli di Acquisto o Ricarica Wallet:** Puoi definire diversi tagli di ricarica, come 20€, 50€, 100€. Questo offre ai clienti la flessibilità di scegliere quanto spendere e quanto caricare sul loro Wallet. I tagli sono al massimo **6**, oppure **5** se attivi l'opzione "Permetti al cliente di scegliere un importo personalizzato" (vedi sotto).
+-   **Imposta i Tagli di Acquisto o Ricarica Wallet:** Puoi definire diversi tagli di ricarica, come 20€, 50€, 100€. Questo offre ai clienti la flessibilità di scegliere quanto spendere e quanto caricare sul loro Wallet. I tagli sono al massimo **5**. Se attivi l'opzione "Permetti al cliente di scegliere un importo personalizzato" (vedi sotto), accanto ai tagli compare anche il bottone **"Altro importo"**.
     
 
-<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Consiglio:</strong> Imposta da 4 a 6 tagli per dare più libertà ai clienti sul regalo da fare.&nbsp;</p></td></tr></tbody></table>
+<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Consiglio:</strong> Imposta 4 o 5 tagli per dare più libertà ai clienti sul regalo da fare.&nbsp;</p></td></tr></tbody></table>
 
--   **Permetti al cliente di scegliere un importo personalizzato:** Attivando questa opzione, accanto ai tagli comparirà il bottone **"Altro importo"**, così il cliente può inserire la cifra che preferisce. Con questa opzione attiva puoi impostare fino a **5** tagli (senza, fino a 6).
+-   **Permetti al cliente di scegliere un importo personalizzato:** Attivando questa opzione, accanto ai tagli comparirà il bottone **"Altro importo"**, così il cliente può inserire la cifra che preferisce. Il bottone si aggiunge ai tagli, che restano al massimo **5**.
     
 
 -   **Incentiva i Pagamenti con il Wallet:** Attivando questa opzione, potrai ricompensare i clienti che utilizzano il Wallet per i pagamenti, ad esempio, offrendo loro un moltiplicatore di gettoni per ogni euro speso.
@@ -34,7 +34,7 @@ Nella sezione "[Impostazioni Wallet & Gift Card](https://partner.unipiazza.it/wa
     
 -   **Attiva le Gift Card:** Questa opzione ti permette di vendere Gift Card che i clienti possono regalare o utilizzare come credito prepagato, incrementando ulteriormente le vendite anticipate. Per venderle ti servono le Tessere Fedeltà, perché ogni GiftCard viene caricata su una tessera nuova che consegni al cliente (va bene una qualunque fra quelle che ti abbiamo spedito). Trovi tutti i passaggi in [Cosa sono e come si attivano le GiftCard?](https://supporto.unipiazza.it/it/articles/28251-cosa-sono-e-come-si-attivano-le-giftcard).
     
--   **Imposta i Tagli di Acquisto per le Gift Card:** Similmente al Wallet, puoi impostare fino a sei diversi tagli di acquisto per le Gift Card (cinque se attivi l'opzione "Altro importo"), come 20€, 50€, 100€, offrendo una gamma di opzioni per i regali.
+-   **Imposta i Tagli di Acquisto per le Gift Card:** Similmente al Wallet, puoi impostare fino a cinque diversi tagli di acquisto per le Gift Card, come 20€, 50€, 100€, offrendo una gamma di opzioni per i regali. Con l'opzione "Altro importo" attiva, accanto ai tagli compare anche quel bottone.
     
 
 <table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p>💡<strong>Nota Bene! </strong>Puoi scegliere dei tagli di GiftCard diversi dai tagli del Wallet</p></td></tr></tbody></table>
