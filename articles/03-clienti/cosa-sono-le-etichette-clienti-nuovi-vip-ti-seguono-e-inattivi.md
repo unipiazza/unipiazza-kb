@@ -34,7 +34,7 @@ La sezione "[Lista Clienti](https://partner.unipiazza.it/clienti)" nel tuo gesti
 
 **Classificazione dei Clienti**
 
-![screenshot lista clienti](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/115f249d8cb1dd24bf181a6386fba134/Screenshot%202025-01-13%20alle%2016.00.34.png)
+![Lista clienti con le card Nuovi, VIP, Ti seguono e Inattivi e il menu delle liste](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/27444_ListaClienti-Etichette.jpg)
 
 Ecco cosa trovi in questa sezione:
 
