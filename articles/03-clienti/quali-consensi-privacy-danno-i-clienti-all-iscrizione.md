@@ -28,8 +28,8 @@ keywords:
 sort: 7
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-09'
+updated_at: '2026-11-12'
+last_synced: '2026-11-12'
 ---
 
 Noi di Unipiazza siamo particolarmente attenti alla sicurezza dei dati e alla Privacy dei nostri utenti e clienti. Quando un cliente si iscrive al tuo programma fedeltà accetta i Termini d'uso, il [Regolamento e la Privacy Policy del tuo locale](https://supporto.unipiazza.it/it/articles/70112-il-regolamento-del-tuo-programma-fedelta) [[il-regolamento-del-tuo-programma-fedelta]]. Poi trova **una sola domanda** sulle promozioni, che cambia un po' a seconda di dove si iscrive.

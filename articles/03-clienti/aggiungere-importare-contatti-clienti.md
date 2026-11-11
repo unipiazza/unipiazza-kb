@@ -17,8 +17,8 @@ keywords:
 sort: 12
 is_featured: false
 locale: it
-updated_at: '2024-09-19'
-last_synced: '2026-07-28'
+updated_at: '2026-11-12'
+last_synced: '2026-11-12'
 ---
 
 Ampliare la tua lista clienti e gestirla efficacemente è un gioco da ragazzi con Unipiazza. Con pochi click, potrai far crescere il tuo programma fedeltà e mantenere tutto l'elenco clienti aggiornato. Scopriamo insieme come procedere.

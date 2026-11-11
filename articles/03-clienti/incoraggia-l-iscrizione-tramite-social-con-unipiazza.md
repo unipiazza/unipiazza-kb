@@ -22,8 +22,8 @@ keywords:
 sort: 10
 is_featured: false
 locale: it
-updated_at: '2026-10-06'
-last_synced: '2026-10-06'
+updated_at: '2026-11-12'
+last_synced: '2026-11-12'
 ---
 
 Vuoi che più clienti si iscrivano al tuo programma fedeltà? I social sono il modo più veloce per farlo sapere a tutti. Qui trovi come creare le immagini da pubblicare, i testi da copiare e gli esempi di chi lo ha già fatto.
