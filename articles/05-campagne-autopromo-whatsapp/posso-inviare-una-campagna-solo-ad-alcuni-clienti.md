@@ -4,10 +4,14 @@ collection_id: 7182
 collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Posso inviare una campagna solo ad alcuni clienti?"
 slug: posso-inviare-una-campagna-solo-ad-alcuni-clienti
-description: "Ecco come puoi selezionare solo alcuni clienti per inviargli una campagna marketing"
+description: "Certo! Metti i clienti che ti interessano in una lista e mandi la campagna solo a loro."
 status: published
 written_by: 2961
-keywords: []
+keywords:
+  - selezionare clienti
+  - lista manuale
+  - destinatari campagna
+  - aggiungi ad una lista
 sort: 4
 is_featured: false
 locale: it
@@ -15,14 +19,28 @@ updated_at: '2024-07-19'
 last_synced: '2026-06-19'
 ---
 
-La funzionalità selezione permette di inviare delle campagne marketing solo a specifici clienti selezionati manualmente dalla sezione "Lista Clienti".
+Vuoi mandare una promozione solo ai clienti del pranzo, solo agli amici storici o solo a chi è venuto alla serata degustazione? Si può fare! 🎯
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/2b133392a90195476a67c24fe47a5efd/Screenshot_5.png)
+Il trucco è semplice. Prima metti quei clienti in una **lista**, poi scegli quella lista come destinatario della campagna.
 
-Puoi selezionare i clienti uno ad uno oppure premere su "Seleziona tutti" per selezionare in un colpo solo tutti i clienti che stai visualizzando. Nell'immagine qui sopra, premendo su Seleziona tutti selezionerei tutti e 2731 i clienti.
+## Come fare
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Usa le note dei clienti per selezionare solo determinati clienti</strong></p><p>Le note clienti ti permettono ad esempio di ricercare dei clienti con specifiche caratteristiche. Ad esempio puoi cercare dalla barra di ricerca i clienti che hanno la Tag "#pranzo" e selezionarli in un unico click premendo su "Seleziona tutti". In questo modo potrai inviare una campagna personalizzata solo a questi clienti aumentando la % di apertura e di eventuale ritiro della promozione! 💖</p></td></tr></tbody></table>
+**1. Seleziona i clienti in Lista clienti**
+Apri la sezione **Lista clienti** e premi il cerchio nella colonna a destra di ogni cliente che vuoi includere. Se vuoi prendere in un colpo solo tutti i clienti che stai visualizzando, premi **"Seleziona tutti"**.
 
-Se vuoi inviare una campagna ai clienti selezionati ti basta andare nella sezione "Campagne" e nella schermata in cui dovrai scegliere i destinatari della campagna ti comparirà la nuova voce "Clienti selezionati".
+**2. Premi "Aggiungi ad una lista"**
+Appena selezioni almeno un cliente, accanto a **"Deseleziona"** (con il numero dei clienti selezionati) compare il pulsante blu **"Aggiungi ad una lista"**.
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/764ff8b114aba7df3390086597e79ebb/Screenshot_6.png)
+![Lista clienti con tre clienti selezionati e il pulsante «Aggiungi ad una lista»](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/30681_ListaClienti-Selezione.jpg)
+
+**3. Crea una lista nuova o scegline una che hai già**
+Nella finestra che si apre puoi dare un nome a una lista nuova oppure aggiungere i clienti a una lista che esiste già.
+
+<!-- SCREENSHOT: finestra «Aggiungi ad una lista» con la scelta fra lista nuova e lista esistente (richiesto all'altra sessione, file 30681_AggiungiAdUnaLista-Finestra.jpg) -->
+
+**4. Scegli la lista come destinatario della campagna**
+Vai in **Campagne** e crea la tua campagna. Quando arrivi a **"Invia a:"** trovi le liste preimpostate (Tutti i clienti, Ti seguono, Inattivi, Nuovi, Vip, Importati senza visite, Archiviati) e sotto tutte le liste che hai creato tu. Scegli la tua e la campagna partirà solo verso quei clienti.
+
+<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Usa le note dei clienti per trovarli più in fretta</strong></p><p>Se scrivi nelle note dei clienti delle parole chiave, per esempio "#pranzo", puoi cercarle dalla barra di ricerca di Lista clienti e poi premere "Seleziona tutti". In un attimo hai tutti i clienti del pranzo in una lista, pronti per una campagna su misura. Più la promozione è mirata, più clienti la aprono e la usano! 💖</p></td></tr></tbody></table>
+
+Le liste restano salvate, quindi la prossima volta che vuoi scrivere agli stessi clienti la trovi già pronta in **"Invia a:"**. Per scoprire le liste automatiche, che si aggiornano da sole in base ai filtri, leggi [Come creare e gestire le Liste Clienti](https://supporto.unipiazza.it/it/articles/61968-come-creare-e-gestire-le-liste-clienti). 😉
