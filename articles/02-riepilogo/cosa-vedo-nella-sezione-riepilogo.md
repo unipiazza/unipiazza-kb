@@ -29,7 +29,11 @@ Ogni riquadro si può premere. Clienti Totali ti porta alla Lista Clienti, Ricav
 
 ## Obiettivo iscritti del mese
 
-Accanto ai numeri trovi l'obiettivo di nuovi iscritti del mese in corso, con quanti ne hai già e quanti te ne mancano. Conta tutti i clienti che durante il mese si sono iscritti con una tessera sul Chiosco o hanno raccolto gettoni da te per la prima volta. L'obiettivo lo cambi dalle [Impostazioni](https://supporto.unipiazza.it/it/articles/30018-cosa-vedo-nella-sezione-impostazioni) [[cosa-vedo-nella-sezione-impostazioni]].
+Accanto ai numeri trovi l'obiettivo di nuovi iscritti del mese in corso. Vedi quanti iscritti hai già, a quanti dovresti essere arrivato oggi e con quanti chiuderai il mese se continui con questo ritmo. Un'etichetta ti dice a colpo d'occhio se sei **In linea**, **In ritardo** o se hai già raggiunto l'obiettivo.
+
+![I sei numeri del Riepilogo e l'obiettivo iscritti del mese, con l'etichetta «In ritardo»](https://up-kb-assets.s3.eu-west-3.amazonaws.com/02-riepilogo/27442_Riepilogo-Numeri-Obiettivo.jpg)
+
+Il conteggio include tutti i clienti che durante il mese si sono iscritti con una tessera sul Chiosco o hanno raccolto gettoni da te per la prima volta. L'obiettivo lo cambi dalle [Impostazioni](https://supporto.unipiazza.it/it/articles/30018-cosa-vedo-nella-sezione-impostazioni) [[cosa-vedo-nella-sezione-impostazioni]].
 
 ## Andamento nel tempo
 
