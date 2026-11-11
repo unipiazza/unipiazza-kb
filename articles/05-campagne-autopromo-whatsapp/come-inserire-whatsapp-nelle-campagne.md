@@ -15,26 +15,21 @@ updated_at: '2026-04-27'
 last_synced: '2026-06-19'
 ---
 
-Vuoi rendere più facile per i tuoi clienti contattarti direttamente su WhatsApp? Aggiungere un link WhatsApp nelle tue campagne può migliorare l'interazione e la comunicazione con i tuoi clienti. Utilizza il nostro servizio gratuito per generare un link personalizzato da inserire nelle campagne o in qualunque altra comunicazione tu voglia fare.
+Vuoi che i tuoi clienti ti scrivano su WhatsApp con un tocco? Nelle campagne puoi aggiungere un **pulsante WhatsApp** che apre direttamente una chat con il tuo numero. Non devi più creare il link a parte.
 
-**1. Vai al nostro [Generatore Link Whatsapp](https://unipiazza.it/generatore-link-whatsapp/)**
+**Come aggiungere il pulsante WhatsApp**
 
-**2. Crea il tuo link WhatsApp:**
+1. Vai in **Campagne** e crea una campagna **Annuncio** o **Evento**, oppure apri una bozza che hai già.
+2. Nel contenuto della campagna accendi l'interruttore **Pulsante**.
+3. In **Tipo di azione** scegli **WhatsApp**.
+4. Scrivi il **Testo del pulsante**, per esempio "Scrivici su WhatsApp".
+5. In **Numero Whatsapp** inserisci il numero su cui vuoi ricevere i messaggi.
+6. Se vuoi, compila il **Messaggio WhatsApp precompilato** (è facoltativo). È il testo che il cliente trova già scritto nella chat, per esempio "Ciao, vorrei maggiori informazioni. Grazie!".
 
-- Inserisci il tuo numero di telefono
-- Puoi anche pre-configurare un messaggio che i clienti vedranno già scritto nel campo del messaggio su WhatsApp.
+Quando il cliente preme il pulsante, si apre una chat WhatsApp con il tuo numero, pronta da inviare.
 
-**3. Ottieni il link:**
+Lo stesso pulsante può fare anche altro. In **Tipo di azione** puoi scegliere **Link**, per aprire una pagina web, oppure **Chiamata**, per far partire una telefonata al tuo numero. Nelle campagne **Promo** il pulsante non c'è, perché il cliente ha già quello per vedere la promozione.
 
-- Dopo aver inserito il numero di telefono (e eventualmente il messaggio), premi su "Copia Link" per copiare il link generato (puoi anche salvarti l'immagine del QrCode se vuoi inserirla in un volantino!)
+<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡 Ti serve un link WhatsApp da usare altrove?</strong> Per un volantino, la bio di Instagram o il tuo sito usa il nostro <a href="https://unipiazza.it/generatore-link-whatsapp/">Generatore Link WhatsApp</a>. Inserisci il numero e, se vuoi, un messaggio già scritto, poi premi "Copia Link". Puoi scaricare anche il QR Code da stampare.</p></td></tr></tbody></table>
 
-**4. Inserisci il link nelle tue campagne email:**
-
-- Accedi al tuo gestionale Unipiazza
-- Vai alla sezione **Campagne** e crea una nuova campagna o modifica una esistente
-- Nella sezione **"Vuoi inserire un pulsante con un link?"**, clicca su **"Si voglio inserire un pulsante"**
-- Incolla il link generato e un testo che invogli a cliccarci sopra.
-
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/7ef8d41867173e39278ae0a4901e0072/Screenshot%202024-11-20%20alle%2018.24.13.png)
-
-**Suggerimento**: Invitare i clienti a contattarti su WhatsApp può rendere il servizio più personale e immediato. Usa un messaggio invitante, come ad esempio "Contattaci su WhatsApp per qualsiasi domanda!"
+**Suggerimento**: Invitare i clienti a contattarti su WhatsApp può rendere il servizio più personale e immediato. Usa un testo invitante sul pulsante, come ad esempio "Scrivici su WhatsApp per qualsiasi domanda!"
