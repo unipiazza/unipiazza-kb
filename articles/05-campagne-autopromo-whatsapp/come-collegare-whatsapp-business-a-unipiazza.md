@@ -58,7 +58,7 @@ Per una configurazione rapida e senza intoppi, assicurati di avere a portata di 
 
 > Non trovi la sezione **WhatsApp Business** in Impostazioni? Compare solo se WhatsApp è incluso nel tuo piano. Scrivici e verifichiamo insieme.
 
-![](https://blackhole.customerly.io/pictures/apps/2662e53a/contents/bd375f1b70af8f62e597250abf3d4a17.png)
+![Il riquadro WhatsApp Business nelle Impostazioni, con il box «Prima di iniziare» e il bottone «Inizia configurazione WhatsApp»](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/61919_WhatsAppBusiness-IniziaConfigurazione.jpg)
 
 ### Passaggio 2: Effettua l'accesso a Meta (Facebook)
 
@@ -96,7 +96,9 @@ Se qualcosa va storto (hai chiuso la finestra, è scaduto il tempo, Meta non ha 
 
 Hai completato la configurazione! Ora Meta verifica il numero e prepara i modelli dei messaggi. Nella sezione vedi l'avviso **Migrazione template**, e di solito servono **da 4 a 24 ore**. In questo tempo WhatsApp non si può ancora usare, ed è normale che nella creazione delle campagne la scelta **WhatsApp** resti grigia.
 
-Quando è tutto pronto la sezione dice **WhatsApp è pronto** (oppure **WhatsApp collegato**). Da quel momento puoi inviare le tue prime **Campagne WhatsApp** e accendere WhatsApp sulle **Automazioni**.
+Quando è tutto pronto la sezione dice **WhatsApp è pronto** (oppure **WhatsApp collegato**). Da quel momento puoi inviare le tue prime **Campagne WhatsApp** e accendere WhatsApp sulle **Automazioni**. Nello stesso riquadro vedi anche quanti clienti puoi ancora contattare oggi, perché Meta mette un limite giornaliero che sale quando verifichi la tua azienda. Ti spieghiamo come in [Come verificare il tuo account WhatsApp Business](https://supporto.unipiazza.it/it/articles/VERIFICA_ID) [[come-verificare-il-tuo-account-whatsapp-business]].
+
+![Il riquadro WhatsApp Business collegato, con il limite di clienti contattabili oggi e il bottone «Invia Messaggio di Test»](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/61919_WhatsAppBusiness-Collegato.jpg)
 
 ## 📲 Manda un messaggio di prova
 
