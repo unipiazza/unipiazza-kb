@@ -16,7 +16,7 @@ keywords:
 sort: 19
 is_featured: false
 locale: it
-updated_at: '2026-07-20'
+updated_at: '2026-11-11'
 last_synced: '2026-07-20'
 ---
 
@@ -74,11 +74,11 @@ Accedi al Gestionale Unipiazza e apri la sezione **Lista Clienti**. In alternati
 **2. Seleziona i clienti che vuoi aggiungere**
 Premi il bottone a destra della riga di ogni cliente che vuoi includere.
 
-**3. Premi "Aggiungi selezionati ad una lista"**
-Il bottone compare in alto non appena selezioni almeno un cliente.
+**3. Premi "Aggiungi ad una lista"**
+Il bottone blu compare in alto, accanto a "Deseleziona", non appena selezioni almeno un cliente.
 
 **4. Dai un nome e salva**
-Si apre un popup: scegli di **creare una nuova lista** e dai un nome, oppure **aggiungi i clienti a una lista già esistente**.
+Si apre la finestra **"Aggiungi selezionati ad una lista"**. Scegli di **creare una nuova lista** e dai un nome, oppure **aggiungi i clienti a una lista già esistente**.
 
 La lista compare nel menù a tendina a sinistra. Per aggiungere altri clienti in seguito, ripeti gli stessi passaggi e seleziona la lista esistente dal popup.
 
