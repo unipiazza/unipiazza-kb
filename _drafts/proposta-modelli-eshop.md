@@ -1,6 +1,6 @@
 # Proposta per Modelli Campagne ed eShop
 
-Bozza del 2026-11-11, decisa da Dodo lo stesso giorno. Nessun articolo è ancora stato toccato.
+Bozza del 2026-11-11, decisa da Dodo e eseguita lo stesso giorno (vedi «Esito» in fondo).
 Riferimenti: [AUDIT-KB.md](../AUDIT-KB.md) [[AUDIT-KB]] (sezioni A6, A7, B1, B2, B5, D1, D2, E6) e [overview.md](../overview.md) [[overview]].
 
 ## Decisioni di Dodo (2026-11-11)
@@ -133,3 +133,16 @@ Le righe delle collezioni 06 e 13 nell'overview, l'articolo nuovo e lo spostamen
 **Da segnalare a parte**
 L'articolo 27450 «Cosa sono le Campagne Marketing e come si creano» al passo 3 cita ancora «una
 selezione manuale di clienti» fra i destinatari, ma oggi quella voce non c'è più (verificato per il 30681).
+
+## Esito (2026-11-11)
+
+1. Pubblicato il nuovo articolo **70276** «Idee di campagna per le feste dell'anno» nella collezione 7182.
+2. **25651** spostato nella collezione 7182 e ripubblicato riscritto.
+3. **28252** ripubblicato con il link nuovo verso il 25651.
+4. I 17 articoli dell'elenco sono passati a `draft`, con `is_ai_enabled: false` (così Olivia e l'AI di
+   Customerly non rispondono più con contenuti vecchi) e `written_by: 2961`. Il body non è cambiato.
+5. **Collezioni 3911 e 3416 non cancellate.** Senza articoli pubblicati Customerly non le mostra più
+   (home del centro assistenza verificata, `/it/modelli-campagne` e `/it/eshop` danno 404). La
+   cancellazione è definitiva e potrebbe portarsi via le bozze, quindi l'ho lasciata. Se si vuole
+   cancellare la 3911, prima vanno spostate le sue 8 bozze in un'altra collezione.
+6. Segnalati all'altra sessione gli aggiornamenti per `overview.md` e l'errore nel 27450.
