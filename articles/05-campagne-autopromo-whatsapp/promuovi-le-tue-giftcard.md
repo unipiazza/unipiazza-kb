@@ -73,7 +73,7 @@ Se ti serve una mano con gli altri passaggi, leggi [Cosa sono le Campagne Market
 > **Testo**
 > {{FNAME}}, cerchi il regalo perfetto? Una GiftCard di [Nome della tua attività] mette d'accordo tutti. Ecco perché.
 >
-> ✅ **Libertà di scelta**<br>Chi la riceve sceglie esattamente quello che desidera da noi.<br>👍 **Facile da usare**<br>Basta mostrare la GiftCard al nostro Chiosco e il credito è subito pronto da spendere.<br>🪙 **Raccogli Gettoni**<br>Oltre a fare una sorpresa, per ogni GiftCard acquistata raccogli Gettoni anche tu!
+> ✅ **Libertà di scelta**<br>Chi la riceve sceglie esattamente quello che desidera da noi.<br>👍 **Facile da usare**<br>Chi la riceve mostra la tessera al nostro Chiosco, si iscrive in pochi secondi e il credito è pronto da spendere.<br>🪙 **Raccogli Gettoni**<br>Oltre a fare una sorpresa, per ogni GiftCard acquistata raccogli Gettoni anche tu!
 >
 > 💖 **E in più sostieni il negozio sotto casa**<br>Ogni GiftCard che regali resta nella tua città e aiuta le attività del tuo quartiere.
 >
