@@ -21,8 +21,8 @@ keywords:
 sort: 0
 is_featured: false
 locale: it
-updated_at: '2026-10-19'
-last_synced: '2026-10-19'
+updated_at: '2026-11-11'
+last_synced: '2026-11-11'
 ---
 
 Le [Campagne](https://partner.unipiazza.it/campagne) marketing sono un pezzo forte del tuo programma fedeltà. Con queste puoi raggiungere i tuoi clienti con email, notifiche dell'app e messaggi RCS, per far conoscere un prodotto, un evento, una promozione o qualsiasi cosa tu voglia.
