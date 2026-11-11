@@ -8,7 +8,7 @@ description: 'Le GiftCard Unipiazza permettono ai clienti di regalare credito da
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-10-19'
+updated_at: '2026-11-11'
 last_synced: '2026-10-19'
 ---
 
@@ -35,9 +35,17 @@ Il credito della GiftCard vive nel cloud, ma viaggia sempre su una **Tessera Fed
 
 **Cosa succede quando qualcuno riscatta una GiftCard?**
 
-1.  **Mostra la tessera al Chiosco.** Chi ha ricevuto la GiftCard viene nella tua attività e mostra il QR code della Tessera Fedeltà al Chiosco. Compare un messaggio che gli dice chi gli ha regalato la GiftCard e di che valore.
+Quando chi ha ricevuto la GiftCard mostra la tessera al Chiosco, compare questa schermata con il nome di chi gliel'ha regalata e l'importo.
+
+![Il Chiosco mostra "Wow, Edoardo ti ha regalato 50€!" con i bottoni "Sono già iscritto" e "Mi iscrivo ora!"](https://unipiazza-assets.s3.eu-west-3.amazonaws.com/illustrazioni/kiosk-e-cassa/ui-kiosk-iscrizione/illustration-kiosk-ui-giftcard-ricevuta-mittente-v1.png)
+
+Se la GiftCard è stata creata da zero, senza un cliente che la regala, al posto del nome compare "qualcuno".
+
+![Il Chiosco mostra "Wow, qualcuno ti ha regalato 50€!" con i bottoni "Sono già iscritto" e "Mi iscrivo ora!"](https://unipiazza-assets.s3.eu-west-3.amazonaws.com/illustrazioni/kiosk-e-cassa/ui-kiosk-iscrizione/illustration-kiosk-ui-giftcard-ricevuta-qualcuno-v1.png)
+
+1.  **Mostra la tessera al Chiosco.** Chi ha ricevuto la GiftCard viene nella tua attività e mostra il QR code della Tessera Fedeltà al Chiosco. Compare la schermata che gli dice chi gli ha regalato la GiftCard e di che valore.
     
-2.  **Si iscrive o accede.** Il Chiosco gli chiede se è già iscritto al tuo programma fedeltà. Se lo è, inserisce l'email con cui è iscritto. Se non lo è, si iscrive con nome, cognome ed email.
+2.  **Si iscrive o accede.** Il Chiosco gli chiede se è già iscritto al tuo programma fedeltà. Se lo è, preme **"Sono già iscritto"** e inserisce l'email con cui è iscritto. Se non lo è, preme **"Mi iscrivo ora!"** e si iscrive con nome, cognome ed email.
     
 3.  **Il credito passa nel suo Wallet.** Da quel momento l'importo della GiftCard diventa credito del suo Wallet Unipiazza. Sul Chiosco compare la lista premi del tuo locale e, a destra, il saldo (che si chiama saldo Wallet).
     
