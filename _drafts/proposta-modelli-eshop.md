@@ -15,7 +15,7 @@ Riferimenti: [AUDIT-KB.md](../AUDIT-KB.md) [[AUDIT-KB]] (sezioni A6, A7, B1, B2,
    **Template** (`/template`). In KB c'è già l'articolo 61974 «Il Calendario Eventi».
 3. **Gli articoli dei Modelli sono scritti dall'autore 2963**, non da 2961. Se li ripubblichiamo
    vanno passati a 2961 come da regola del progetto.
-4. Immagini rotte su googleusercontent: 26 nei Modelli (San Valentino, Carnevale, Pasqua, Festa della
+4. Immagini rotte su googleusercontent: 22 nei Modelli (San Valentino, Carnevale, Pasqua, Festa della
    Donna, Festa della Mamma) e 16 nell'eShop (6994, 7855, 6975). In più 6866 ha due immagini col
    percorso troncato.
 
@@ -31,7 +31,7 @@ Riferimenti: [AUDIT-KB.md](../AUDIT-KB.md) [[AUDIT-KB]] (sezioni A6, A7, B1, B2,
 | 9571 | Campagna Festa della Mamma | **Unire** | Testi 2022, 6 immagini rotte. |
 | 9156 | Campagna servizio da asporto | **Archiviare** | Linguaggio COVID (zona rossa, autocertificazione). Il tema asporto può stare come esempio nel nuovo articolo unico. |
 | 25651 | Promuovi le tue GiftCard! | **Tenere e riscrivere** | È l'unico modello legato a una funzione viva. Va allineato ai Wallet appena corretti, tolto il link rotto `[.](https://perfetto.Ecco)` e riscritto con unipiazza-copy. Lo linkano 28252 e 28250. |
-| 8969 | Siti per scaricare immagini gratuiti | **Archiviare** | Doppione di 30013 nella collezione Campagne (B5). Prima va fatto il redirect o cambiato il link che lo cita (8968, 9156). |
+| 8969 | Siti per scaricare immagini gratuiti | **Archiviare** | Doppione di 30013 nella collezione Campagne (B5). Prima vanno cambiati i link che lo citano: tutti i modelli stagionali e 27452 «Suggerimenti per scrivere una Campagna Marketing perfetta» (devono puntare a 30013). |
 
 **Gli 8 modelli stagionali diventano un articolo solo**, per esempio «Idee di campagna per le
 festività», con un paragrafo breve per ogni ricorrenza (testo d'esempio senza codici con l'anno, una
