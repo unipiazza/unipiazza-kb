@@ -15,24 +15,32 @@ keywords:
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
+updated_at: '2026-11-11'
 last_synced: '2026-11-06'
 ---
 
-Nella sezione "[Analisi Clienti](https://partner.unipiazza.it/clienti/analisi_clienti)", trovi un sacco di informazioni sui tuoi clienti, tipo chi sono e come si comportano. La vista predefinita mostra gli ultimi 365 giorni, ma puoi cambiare il periodo dal menù a tendina.
+Nella sezione "[Analisi Clienti](https://partner.unipiazza.it/clienti/analisi_clienti)", trovi un sacco di informazioni sui tuoi clienti, tipo chi sono e come si comportano. I numeri riguardano tutti i clienti iscritti al tuo programma fedeltà, da quando hai Unipiazza. Accanto a ogni titolo trovi una piccola "i" che spiega come si calcola quel dato.
 
 Ecco cosa trovi in dettaglio:
 
-- **Clienti Totali:** Numero di clienti che hanno fatto un'azione da te (iscrizione, raccolta gettoni, ritiro promo, ecc).
-- **Frequenza Media:** Indica quante visite in media hanno effettuato i tuoi clienti nel periodo selezionato (Frequenza = Visite/Clienti).
+![I numeri in cima ad Analisi Clienti (Clienti Iscritti, Frequenza media, Scontrino medio) e i grafici di Sesso ed Età](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/28263_AnalisiClienti-Numeri-Sesso-Eta.jpg)
+
+- **Clienti Iscritti:** Tutti i clienti iscritti al tuo programma fedeltà, in qualunque modo si siano registrati.
+- **Frequenza Media:** Quante volte, in media, sono tornati i clienti che hanno fatto almeno una visita (Frequenza = Visite totali / Clienti con almeno una visita).
 - **Scontrino Medio:** Quanto spendono in media i clienti iscritti ad Unipiazza.
-- **Sesso:** Percentuale di clienti uomini e donne. Si calcola automaticamente dal nome dato dal cliente durante l'iscrizione.
-- **Provenienza**: Da dove arrivano i tuoi iscritti? Community Unipiazza indica i clienti che erano già iscritti alla Community Unipiazza prima di venire da te mentre "Mio punto vendita" sono i clienti che si sono iscritti per la prima volta da te.
+- **Sesso:** Percentuale di clienti uomini e donne. Il dato lo inserisce il cliente oppure si ricava in automatico dal nome dato all'iscrizione.
+- **Età:** L'età dei tuoi clienti divisa per fasce, utile per capire cosa potrebbero volere di più e per le tue campagne marketing. Conta solo i clienti che hanno inserito la data di nascita.
+
+![I grafici Provenienza, Tessera vs App e Clienti contattabili](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/28263_AnalisiClienti-Provenienza-Contattabili.jpg)
+
+- **Provenienza:** Da dove arrivano i tuoi iscritti. Per esempio "Chiosco" sono quelli che si sono iscritti dal Chiosco, "Inseriti a mano" quelli che hai aggiunto tu dal gestionale, "Importati" quelli caricati da un tuo file e "Web" quelli iscritti online. "Community Unipiazza" indica i clienti che si erano già iscritti in un'altra attività del circuito prima di venire da te. Vedi solo le voci che hanno almeno un cliente.
 - **Tessera vs App:** Percentuale di clienti che hanno solo la tessera, solo l'app Unipiazza, o entrambe.
+- **Clienti contattabili:** Quanti clienti possono ricevere le tue campagne e le Automazioni, perché hanno dato il consenso e hanno almeno un recapito valido. A destra vedi quanti puoi raggiungere con email, messaggio RCS e notifica app. Un cliente può essere raggiungibile su più canali, per questo le percentuali dei canali possono superare il 100%.
+
+![La mappa degli Orari di punta, con i giorni della settimana in colonna e le ore in riga](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/28263_AnalisiClienti-OrariDiPunta.jpg)
+
 - **Orari di punta:** Un grafico che mostra quando i tuoi clienti visitano la tua attività, con colori più scuri per più traffico.
 
 <table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento: </strong>Crea dei Booster gettoni per aumentare il traffico dei clienti nei giorni o nelle fasce orarie in cui hai meno affluenza e invia loro una campagna marketing per farglielo sapere!</p></td></tr></tbody></table>
 
-- **Età:** L'età dei tuoi clienti in percentuale, utile per capire cosa potrebbero volere di più e per le tue campagne marketing.
-- **Clienti contattabili:** Quanti clienti hanno detto sì a ricevere le tue campagne e le Automazioni, e il canale di contatto: email, messaggio RCS e notifica app.
-- **Clienti per categoria:** Un grafico che mostra la suddivisione dei tuoi clienti in Nuovi, Regolari, VIP, Ti seguono, Inattivi e A Rischio.
+- **Clienti per categoria:** Un grafico che mostra la suddivisione dei tuoi clienti in Nuovi, Regolari, VIP, Ti seguono, Inattivi e A Rischio, in base a quanto spesso vengono, da quanto tempo non tornano e quanto spendono. Più è grande il riquadro, più clienti ci sono in quel gruppo. I clienti archiviati non vengono contati.

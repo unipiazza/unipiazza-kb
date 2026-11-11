@@ -14,6 +14,8 @@ last_synced: '2026-11-11'
 
 Nella sezione "[Impostazioni Wallet & Gift Card](https://partner.unipiazza.it/wallet/impostazioni)" del tuo gestionale Unipiazza, hai la possibilità di personalizzare come i clienti interagiscono con le opzioni di pagamento e regalo nel tuo negozio. Ecco come puoi impostare tutto passo per passo:
 
+![Le impostazioni del Wallet con i tagli di ricarica, il limite credito, l'etichetta «Il più scelto», l'opzione «Altro importo» e gli incentivi](https://up-kb-assets.s3.eu-west-3.amazonaws.com/08-wallet-e-gift-card/28252_ImpostazioniWallet.jpg)
+
 -   **Attiva il Wallet Prepagato:** Questa funzione consente ai tuoi clienti di pagare in anticipo per servizi e prodotti, rendendo le transazioni più veloci e aumentando la loro fedeltà.
     
 -   **Imposta i Tagli di Acquisto o Ricarica Wallet:** Puoi definire diversi tagli di ricarica, come 20€, 50€, 100€. Questo offre ai clienti la flessibilità di scegliere quanto spendere e quanto caricare sul loro Wallet. I tagli sono al massimo **5**. Se attivi l'opzione "Permetti al cliente di scegliere un importo personalizzato" (vedi sotto), accanto ai tagli compare anche il bottone **"Altro importo"**.

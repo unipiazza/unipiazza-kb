@@ -8,7 +8,7 @@ description: 'Piano attivo, utilizzi, funzionalità incluse e fatture scaricabil
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-10-16'
+updated_at: '2026-11-11'
 last_synced: '2026-11-06'
 ---
 
@@ -32,6 +32,8 @@ Qui trovi il riepilogo dell'abbonamento attivo:
 
 Tre barre di avanzamento mostrano quanto hai consumato rispetto ai limiti inclusi nel tuo piano:
 
+![Il riquadro Consumi con le barre di Olivia AI, Campagne marketing e Tessere Fedeltà](https://up-kb-assets.s3.eu-west-3.amazonaws.com/10-pagamenti-e-fatturazione/63774_Consumi.jpg)
+
 - ✨ **Olivia AI (mensile):** i crediti AI usati nel mese, che si rinnovano il 1° di ogni mese
 - 📣 **Campagne marketing:** le campagne che hai già inviato rispetto a quelle incluse nell'anno
 - 🪪 **Tessere Fedeltà:** le Tessere Fedeltà che hai già richiesto rispetto a quelle incluse nell'anno, con la data in cui si rinnovano
@@ -43,7 +45,15 @@ Hai finito le Tessere Fedeltà? Premi su **"Richiedi un nuovo pacco"** sotto la 
 
 ## Funzionalità del tuo piano
 
-Un elenco chiaro di tutto quello che è incluso nel tuo piano: Autopromo, Booster punti, Abbonamenti clienti, Wallet & GiftCard, Olivia AI, Campagne WhatsApp... e molto altro a seconda del piano sottoscritto.
+Un elenco chiaro di tutto quello che è incluso nel tuo piano: Autopromo, Booster Vendite, Abbonamenti Prepagati, Wallet & GiftCard, eShop, Olivia AI, Campagne WhatsApp... e molto altro a seconda del piano sottoscritto.
+
+---
+
+## Dati di fatturazione
+
+Nel riquadro **Intestazione fiscale** trovi i dati che usiamo per intestarti le fatture: intestazione, partita IVA, sede legale, codice destinatario e PEC. Se qualcosa non è giusto, o manca il codice destinatario, premi su **Modifica** e correggilo.
+
+![Il riquadro Intestazione fiscale con il bottone Modifica](https://up-kb-assets.s3.eu-west-3.amazonaws.com/10-pagamenti-e-fatturazione/63774_DatiFatturazione.jpg)
 
 ---
 
