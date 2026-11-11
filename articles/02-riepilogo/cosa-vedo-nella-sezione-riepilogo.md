@@ -37,7 +37,9 @@ Il conteggio include tutti i clienti che durante il mese si sono iscritti con un
 
 ## Andamento nel tempo
 
-Qui un grafico ti mostra giorno per giorno, o mese per mese, le visite, i nuovi iscritti e i ricavi. Dal menù in alto a destra scegli il periodo: ultimi 7, 30 o 365 giorni, questo mese, il mese scorso, dall'inizio, oppure un periodo con le date che vuoi tu.
+Qui un grafico ti mostra le visite e i nuovi iscritti (le colonne blu) e i ricavi (la linea verde). Dal menù in alto a destra scegli il periodo fra ultimi 7, 30 o 365 giorni, questo mese, il mese scorso, dall'inizio, oppure un periodo con le date che vuoi tu. A seconda del periodo il grafico raggruppa i dati per giorno, per settimana o per mese.
+
+![Il grafico «Andamento nel tempo» degli ultimi 30 giorni, con visite, nuovi iscritti e ricavi settimana per settimana](https://up-kb-assets.s3.eu-west-3.amazonaws.com/02-riepilogo/27442_Riepilogo-AndamentoNelTempo.jpg)
 
 Sotto il grafico ci sono i totali del periodo scelto.
 
@@ -49,5 +51,7 @@ Sotto il grafico ci sono i totali del periodo scelto.
 ## Ultime 10 azioni
 
 In fondo c'è la tabella con le ultime 10 cose che hanno fatto i tuoi clienti, per esempio una raccolta gettoni, un'iscrizione o il ritiro di un premio o di una promozione. Premi **Mostra tutte le azioni** per vederle tutte nello Storico Azioni.
+
+![La tabella «Ultime 10 azioni» con raccolte gettoni, promo e premi ritirati](https://up-kb-assets.s3.eu-west-3.amazonaws.com/02-riepilogo/27442_Riepilogo-Ultime10Azioni.jpg)
 
 <table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡 Vedi un avviso arancione in alto?</strong> Ti segnala che ci sono delle visite da controllare, per esempio un importo molto più alto del solito. Premi <strong>Verifica ora</strong> e leggi <a href="https://supporto.unipiazza.it/it/articles/70111-visite-da-verificare">Visite da verificare: come scoprire gli errori alla cassa</a>. Se invece vedi il riquadro per installare il gestionale, ti spieghiamo tutto in <a href="https://supporto.unipiazza.it/it/articles/37647-come-accedere-velocemente-al-gestionale-partner-da-smartphone">Il gestionale sulla Home del telefono</a>.</p></td></tr></tbody></table>
