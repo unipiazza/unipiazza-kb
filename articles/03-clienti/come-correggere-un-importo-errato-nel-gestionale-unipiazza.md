@@ -28,19 +28,21 @@ Può capitare a tutti di sbagliare un importo, accreditare i gettoni due volte o
 
 **1. Apri il profilo del cliente**
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/4da380ee5d866ac4837631fa0a7a3b15/Screenshot%202025-01-23%20alle%2016.00.20.png)
+![Lista clienti nel gestionale Unipiazza](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/41054_ListaClienti.jpg)
 
 Dal menu principale del gestionale, seleziona **"Clienti"** e poi **"Lista clienti"**. Cerca il cliente con la barra di ricerca e clicca sul suo nome. Se gestisci più punti vendita, scegli prima dal menu in alto quello dove hai fatto l'errore.
 
 **2. Trova la riga sbagliata nello Storico Azioni del profilo**
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/69c77e64d00bfc8badef87e6f79cb85d/Screenshot%202025-01-23%20alle%2016.01.05.png)
+![Scheda cliente con lo Storico Azioni](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/41052_Profilo-StoricoAzioni.jpg)
 
 Nella scheda del cliente scorri fino a **"Storico Azioni"** e cerca la riga **Raccolta gettoni** da correggere. Attenzione, va usato lo Storico Azioni dentro il profilo. In quello generale, nel menu Clienti, si correggono solo le visite segnalate da [Visite da verificare](https://supporto.unipiazza.it/it/articles/70111-visite-da-verificare).
 
 **3. Correggi o elimina**
 
-Clicca su quella riga. Si apre la finestra **Visita**, con spesa, gettoni, data e ora. Hai due strade.
+Clicca sull'importo di quella riga, a destra nella colonna **Gettoni/Euro**. Si apre la finestra **Visita**, con spesa, gettoni, data e ora. Hai due strade.
+
+![Finestra Visita con i pulsanti Elimina e Modifica importo](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/41052_Visita-Modal.jpg)
 
 ✏️ **Modifica l'importo**<br>Premi **Modifica importo**, scrivi l'importo giusto e premi **Salva**. I gettoni si ricalcolano da soli e nello storico resta anche l'importo di prima. La visita invece resta, quindi questa è la strada giusta quando il cliente è passato davvero ma hai sbagliato la cifra. L'importo non può scendere a zero. Se l'accredito non andava proprio fatto, elimina la visita.
 

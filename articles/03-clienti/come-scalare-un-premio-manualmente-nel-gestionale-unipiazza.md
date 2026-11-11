@@ -24,19 +24,19 @@ Se il chiosco non funziona o hai bisogno di scalare manualmente un premio assegn
 
 **1. Accedi al profilo del cliente**
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/4da380ee5d866ac4837631fa0a7a3b15/Screenshot%202025-01-23%20alle%2016.00.20.png)
+![Lista clienti nel gestionale Unipiazza](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/41054_ListaClienti.jpg)
 
 Dal menu principale, vai su **"Clienti"** e seleziona **"Lista clienti"**. Utilizza la barra di ricerca per trovare rapidamente il cliente desiderato e clicca sul suo nome per accedere alla scheda personale.
 
 **2. Apri il menu "Azioni"**
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/b2927e7c151e0fe152d06dfb5f5cdb18/Screenshot%202025-01-23%20alle%2016.35.32.png)
+![Menu Azioni nella scheda cliente, con la voce Scarica premio](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/41054_Profilo-MenuAzioni.jpg)
 
 Nella scheda del cliente, clicca sul pulsante **"Azioni"**. Dal menu a tendina che si apre, seleziona **"Scarica premio"**.
 
 **3. Scegli il premio da scalare**
 
-![](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/24e3a53e13604fd1fa8621de4b55727e/Screenshot%202025-01-23%20alle%2016.36.33.png)
+![Finestra Scarica Premi e Promo con la lista dei premi](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/41054_ScaricaPremiPromo-Modal.jpg)
 
 Si aprirà la finestra **Scarica Premi e Promo** con la lista dei premi disponibili. Seleziona il premio che hai già consegnato al cliente e conferma con **Oh yeah!**. Il sistema scalerà automaticamente il numero di gettoni necessario dal saldo del cliente.
 
