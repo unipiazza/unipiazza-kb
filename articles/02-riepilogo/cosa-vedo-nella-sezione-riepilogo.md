@@ -12,27 +12,38 @@ updated_at: '2025-08-14'
 last_synced: '2026-06-10'
 ---
 
-![](../../assets/02-riepilogo/27442_Screenshot 2025-08-14 alle 10.31.55.png)
+Il [Riepilogo](https://partner.unipiazza.it/) è la prima pagina che vedi quando entri nel Gestionale Unipiazza. In un colpo d'occhio ti dice come sta andando il tuo programma fedeltà, dall'apertura fino a oggi e nel periodo che scegli tu. Vediamo cosa trovi, dall'alto verso il basso.
 
-Sai che la sezione "[Riepilogo](https://partner.unipiazza.it/)" nel tuo Gestionale Unipiazza è come una mappa del tesoro per il tuo programma fedeltà? È qui che trovi tutte le informazioni importanti che ti mostrano come stanno andando le cose nel tuo locale. Vediamo insieme cosa puoi scoprire in questa sezione.
+## I numeri del tuo programma fedeltà
 
--   **Visite Totali:** Questo numero ti dice quante volte i clienti hanno raccolto gettoni nella tua attività commerciale
-    
--   **Clienti:** Qui scopri quanti clienti hanno raccolto gettoni almeno una volta da te 
-    
--   **Scontrino Medio:** Questo è lo scontrino medio dei clienti che hanno raccolto gettoni
-    
--   **Ricavi Totali:** Qui vedi il totale dei soldi spesi dai clienti che hanno raccolto gettoni (1€ = 10 Gettoni)
-    
+In alto ci sono sei riquadri con i totali da quando usi Unipiazza.
 
-**Obiettivo di Iscritti Mensile**
+- **Visite Totali:** quante volte i clienti hanno raccolto gettoni nella tua attività.
+- **Clienti Totali:** quanti clienti sono iscritti al tuo programma fedeltà.
+- **Premi & Promo ritirate:** quanti premi e quante promozioni i clienti hanno ritirato.
+- **Ricavi Totali:** il totale speso dai clienti quando hanno raccolto gettoni.
+- **Ricavi Autopromo:** quanto hanno speso i clienti tornati grazie alle Autopromo, i messaggi automatici che trovi in Automazioni.
+- **Scontrino medio:** quanto spende in media un cliente a ogni visita.
 
-A tutti piacciono gli obiettivi, giusto? Nella sezione "Riepilogo" trovi un grafico che ti mostra quanto sei vicino a raggiungere il tuo obiettivo di nuovi iscritti ogni mese. Questo numero conteggia tutti i clienti che si sono iscritti con un tessera sul Chiosco o hanno raccolto gettoni per la prima volta durante quel mese. Puoi modificare l'obiettivo di iscritti mensile direttamente dalla sezione impostazioni.
+Ogni riquadro si può premere. Clienti Totali ti porta alla Lista Clienti, Ricavi Autopromo alle Automazioni e gli altri allo [Storico Azioni](https://supporto.unipiazza.it/it/articles/27445-cosa-vedo-nella-sezione-storico-azioni).
 
-**Analisi delle Visite e Iscrizioni**
+## Obiettivo iscritti del mese
 
-In questa parte vedi un grafico che ti mostra quante visite e iscrizioni hai avuto in un periodo specifico. Puoi scegliere di vedere i dati dell'ultima settimana, dell'ultimo mese o dell'ultimo anno. Sotto il grafico trovi anche altri dati utili.
+Accanto ai numeri trovi l'obiettivo di nuovi iscritti del mese in corso, con quanti ne hai già e quanti te ne mancano. Conta tutti i clienti che durante il mese si sono iscritti con una tessera sul Chiosco o hanno raccolto gettoni da te per la prima volta. L'obiettivo lo cambi dalle [Impostazioni](https://supporto.unipiazza.it/it/articles/30018-cosa-vedo-nella-sezione-impostazioni).
 
-**Ultime 10 Azioni dei Clienti**
+## Andamento nel tempo
 
-Qui in fondo trovi una tabella delle ultime 10 azioni dei tuoi clienti che possono includere la raccolta gettoni, le iscrizioni, il ritiro di promozioni, premi o altro. Premi su “Mostra tutte le azioni” per vederle tutte.
+Qui un grafico ti mostra giorno per giorno, o mese per mese, le visite, i nuovi iscritti e i ricavi. Dal menù in alto a destra scegli il periodo: ultimi 7, 30 o 365 giorni, questo mese, il mese scorso, dall'inizio, oppure un periodo con le date che vuoi tu.
+
+Sotto il grafico ci sono i totali del periodo scelto.
+
+- **Visite**
+- **Clienti attivi:** i clienti che hanno fatto almeno una visita nel periodo.
+- **Nuovi iscritti**
+- **Ricavi**
+
+## Ultime 10 azioni
+
+In fondo c'è la tabella con le ultime 10 cose che hanno fatto i tuoi clienti, per esempio una raccolta gettoni, un'iscrizione o il ritiro di un premio o di una promozione. Premi **Mostra tutte le azioni** per vederle tutte nello Storico Azioni.
+
+<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡 Vedi un avviso arancione in alto?</strong> Ti segnala che ci sono delle visite da controllare, per esempio un importo molto più alto del solito. Premi <strong>Verifica ora</strong> e leggi <a href="https://supporto.unipiazza.it/it/articles/70111-visite-da-verificare">Visite da verificare: come scoprire gli errori alla cassa</a>. Se invece vedi il riquadro per installare il gestionale, ti spieghiamo tutto in <a href="https://supporto.unipiazza.it/it/articles/37647-come-accedere-velocemente-al-gestionale-partner-da-smartphone">Il gestionale sulla Home del telefono</a>.</p></td></tr></tbody></table>
