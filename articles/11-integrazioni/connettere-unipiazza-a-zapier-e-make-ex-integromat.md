@@ -8,8 +8,8 @@ description: Scopri come connettere Unipiazza a Zapier e Make per automatizzare 
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-01-14'
-last_synced: '2026-06-10'
+updated_at: '2026-11-12'
+last_synced: '2026-11-12'
 ---
 
 Zapier e Make sono strumenti potenti per automatizzare e integrare diversi servizi online. Con queste piattaforme, puoi creare delle automazioni che collegano Unipiazza ad oltre 10 mila altri strumenti e servizi, migliorando l'efficienza e le potenzialità del tuo programma fedeltà.

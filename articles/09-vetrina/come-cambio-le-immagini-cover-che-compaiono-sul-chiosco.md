@@ -8,8 +8,8 @@ description: 'Nella sezione "Cover Chiosco" del Gestionale Unipiazza puoi gestir
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-09-18'
-last_synced: '2026-09-18'
+updated_at: '2026-11-12'
+last_synced: '2026-11-12'
 ---
 
 La sezione del Gestionale [Cover Chiosco](https://partner.unipiazza.it/cover) ti permette di selezionare quali immagini (o cover) appariranno sul tuo Chiosco. La trovi nel menù a sinistra, in **Vetrina** e poi **Chiosco**. Queste immagini sono fondamentali per attirare l'attenzione dei tuoi clienti e per comunicare offerte speciali, promozioni o novità.
