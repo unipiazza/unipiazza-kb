@@ -46,13 +46,17 @@ Ecco alcuni esempi:
 
 \- Azioni: Un'Azione è ciò che accade in risposta al Trigger (es. aggiungere una nota al cliente appena iscritto).
 
-4) Crea il proprio Token (chiave segreta):
+4) Crea la tua chiave API (chiave segreta):
 
-\- Accedi al gestionale Unipiazza ([partner.unipiazza.it](https://partner.unipiazza.it)).
+\- Accedi al gestionale Unipiazza ([partner.unipiazza.it](https://partner.unipiazza.it)) e scegli in alto il punto vendita da collegare. La chiave si crea per un punto vendita alla volta.
 
-\- Vai in alto a destra sopra il tuo nome e clicca su "Integrazione API".
+\- In alto a destra premi sul tuo nome e scegli "Integrazione API".
 
-\- Premi su "Crea Token".
+![Il menu sotto il nome in alto a destra, con Piano & Consumi, Integrazione API, Dispositivi ed Esci](https://up-kb-assets.s3.eu-west-3.amazonaws.com/11-integrazioni/36692_Menu-IntegrazioneAPI.jpg)
+
+\- Premi su "Crea chiave API".
+
+![La pagina Integrazione API con il bottone «Crea chiave API» e l'elenco delle chiavi, ancora vuoto](https://up-kb-assets.s3.eu-west-3.amazonaws.com/11-integrazioni/36692_IntegrazioneAPI-CreaChiave.jpg)
 
 \- Copia e salva la chiave segreta e inseriscila quando richiesto da Zapier o Make.
 
