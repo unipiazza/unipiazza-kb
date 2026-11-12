@@ -12,9 +12,11 @@ updated_at: '2026-09-18'
 last_synced: '2026-09-18'
 ---
 
-![](../../assets/09-vetrina/28259_KnowlageBase-Cover.png)
+La sezione del Gestionale [Cover Chiosco](https://partner.unipiazza.it/cover) ti permette di selezionare quali immagini (o cover) appariranno sul tuo Chiosco. La trovi nel menù a sinistra, in **Vetrina** e poi **Chiosco**. Queste immagini sono fondamentali per attirare l'attenzione dei tuoi clienti e per comunicare offerte speciali, promozioni o novità.
 
-La sezione del Gestionale [Cover Chiosco](https://partner.unipiazza.it/cover) ti permette di selezionare quali immagini (o cover) appariranno sul tuo Chiosco. Queste immagini sono fondamentali per attirare l'attenzione dei tuoi clienti e per comunicare offerte speciali, promozioni o novità.
+La pagina ha due colonne, **Cover Attive** e **Cover Disattive**. Per attivare o disattivare una cover la trascini da una colonna all'altra, e trascinandola cambi anche l'ordine in cui compare sul Chiosco. Per crearne una nuova premi **Crea** in alto a destra e scegli **Cover Premio** o **Cover Generica**.
+
+![La pagina Cover Chiosco con le colonne Cover Attive e Cover Disattive e il bottone Crea](https://up-kb-assets.s3.eu-west-3.amazonaws.com/09-vetrina/28259_CoverChiosco-AttiveDisattive.jpg)
 
 Dovrai avere sempre almeno due cover attive e potrai attivarle o disattivarle quando vuoi in base alle tue esigenze promozionali o stagionali. 
 
