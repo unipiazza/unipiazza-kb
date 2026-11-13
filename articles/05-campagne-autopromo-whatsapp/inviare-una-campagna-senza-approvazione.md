@@ -15,7 +15,7 @@ sort: 1
 is_featured: false
 locale: it
 updated_at: '2026-11-13'
-last_synced: '2026-11-06'
+last_synced: '2026-11-13'
 ---
 
 Fino a oggi ogni campagna passava dall'approvazione del team Unipiazza, che controllava eventuali errori e ottimizzava data e orario di invio. Un passaggio utile, ma che richiedeva tempo. Da oggi puoi scegliere di **inviare direttamente**, senza aspettare. 🚀
@@ -38,7 +38,7 @@ Scegliendo l'invio diretto, la responsabilità dell'invio è tua. In pratica:
 - Il team Unipiazza non controlla il contenuto prima dell'invio
 - La data e l'orario sono quelli che hai impostato tu
 - Con **Invia subito** la campagna parte all'istante e non si può più fermare
-- Se invece l'hai programmata, puoi riportarla in bozza fino a 5 minuti prima dell'invio, come spieghiamo in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/ID_NUOVO-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza)
+- Se invece l'hai programmata, puoi riportarla in bozza fino a 5 minuti prima dell'invio, come spieghiamo in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/70971-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza)
 
 È una funzionalità potente... da usare con attenzione. 😅
 

@@ -26,7 +26,7 @@ sort: 12
 is_featured: false
 locale: it
 updated_at: '2026-11-13'
-last_synced: '2026-11-06'
+last_synced: '2026-11-13'
 ---
 
 Hai collegato WhatsApp ma qualcosa non va? La scelta **WhatsApp** è grigia, la campagna non parte, oppure i clienti non ricevono i messaggi. Niente panico, quasi sempre è una di queste situazioni e si sistema in fretta 😊
@@ -65,7 +65,7 @@ Ogni campagna WhatsApp passa prima dal nostro controllo e poi dall'approvazione 
 
 🚀 **In invio**<br>La campagna sta partendo e non si può più fermare.
 
-Devi cambiare qualcosa in una campagna che non è ancora partita? Puoi riportarla in bozza, come spieghiamo in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/ID_NUOVO-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza).
+Devi cambiare qualcosa in una campagna che non è ancora partita? Puoi riportarla in bozza, come spieghiamo in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/70971-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza).
 
 **6. Prova che il canale funzioni**
 

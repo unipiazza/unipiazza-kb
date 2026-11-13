@@ -22,7 +22,7 @@ sort: 0
 is_featured: false
 locale: it
 updated_at: '2026-11-13'
-last_synced: '2026-11-11'
+last_synced: '2026-11-13'
 ---
 
 Le [Campagne](https://partner.unipiazza.it/campagne) marketing sono un pezzo forte del tuo programma fedeltà. Con queste puoi raggiungere i tuoi clienti con email, notifiche dell'app e messaggi RCS, per far conoscere un prodotto, un evento, una promozione o qualsiasi cosa tu voglia.
@@ -65,6 +65,6 @@ Ecco come creare una campagna passo passo:
 
 **6. Scegli come inviare**: con la **revisione del team Unipiazza** (che controlla la campagna e ottimizza data e orario) oppure **senza revisione**, direttamente tu. Ti spieghiamo la differenza in [Inviare una campagna senza approvazione](https://supporto.unipiazza.it/it/articles/61971-inviare-una-campagna-senza-approvazione).
 
-Da quel momento, aprendo la campagna da **Le tue campagne**, vedi a che punto è (mandata al team, in revisione, programmata o inviata). Ti sei accorto di un errore? Finché non parte puoi riportarla in bozza e sistemarla, come spieghiamo in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/ID_NUOVO-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza).
+Da quel momento, aprendo la campagna da **Le tue campagne**, vedi a che punto è (mandata al team, in revisione, programmata o inviata). Ti sei accorto di un errore? Finché non parte puoi riportarla in bozza e sistemarla, come spieghiamo in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/70971-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza).
 
 Prima di creare la tua prima campagna ti consigliamo di leggere [questo nostro articolo](https://supporto.unipiazza.it/it/articles/27452-suggerimenti-per-scrivere-una-campagna-marketing-perfetta) che riassume i nostri suggerimenti per scrivere una campagna marketing perfetta. Una volta inviata, trovi tutte le statistiche nel dettaglio della campagna inviata.
