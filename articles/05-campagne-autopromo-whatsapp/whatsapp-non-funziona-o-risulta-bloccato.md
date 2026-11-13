@@ -51,13 +51,19 @@ Meta ti fa scrivere a un numero massimo di clienti diversi ogni 24 ore (si parte
 
 Ogni campagna WhatsApp passa prima dal nostro controllo e poi dall'approvazione di Meta. Nell'elenco delle campagne vedi a che punto è.
 
-🕐 **Inviata in approvazione dal team**<br>La sta controllando un consulente Unipiazza, dal lunedì al venerdì dalle 9:00 alle 18:00.
+🕐 **In revisione dal team**<br>La sta controllando un consulente Unipiazza, dal lunedì al venerdì dalle 9:00 alle 18:00.
 
-🕐 **Inviata in approvazione META**<br>Ora tocca a Meta. Possono volerci pochi minuti o diverse ore.
+🕐 **In approvazione da Meta**<br>Ora tocca a Meta. Possono volerci pochi minuti, di solito non più di 24 ore.
 
-❌ **Rifiutata da META**<br>Meta non ha approvato il messaggio. Scrivici, ti diciamo il motivo e ti aiutiamo a sistemarlo.
+❌ **Rifiutata da Meta**<br>Meta non ha approvato il messaggio. Puoi aprire la campagna, correggerla e rimandarla. Se non capisci cosa non va, scrivici e ti aiutiamo a sistemarla.
 
-⏰ **Approvata in ritardo da META, in attesa del team**<br>Meta ha approvato il messaggio dopo l'orario che avevi programmato, quindi la campagna non è partita. Ti contattiamo noi per concordare l'invio.
+⏰ **Approvata in ritardo da Meta**<br>Meta ha approvato il messaggio dopo l'orario che avevi programmato, quindi la campagna non è partita. Riportala in bozza e scegli un nuovo orario.
+
+⏹️ **Scaduta**<br>Il team Unipiazza ha chiuso la campagna senza inviarla. Aprendola trovi il motivo.
+
+🚀 **In invio**<br>La campagna sta partendo e non si può più fermare.
+
+Devi cambiare qualcosa in una campagna che non è ancora partita? Puoi riportarla in bozza, come spieghiamo in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/ID_NUOVO-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza).
 
 **6. Prova che il canale funzioni**
 

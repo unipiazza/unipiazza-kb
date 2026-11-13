@@ -14,7 +14,7 @@ keywords:
 sort: 1
 is_featured: false
 locale: it
-updated_at: '2026-10-16'
+updated_at: '2026-11-13'
 last_synced: '2026-11-06'
 ---
 
@@ -27,7 +27,7 @@ Quando arrivi all'ultimo step del nuovo flow di creazione campagna, trovi due op
 ![Finestra "Vuoi inviare la campagna?" con le due opzioni di invio](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/61971_InvioConSenzaRevisione-Modal.jpg)
 
 - **Fai controllare la campagna** (come sempre): un consulente Unipiazza controlla testi, immagini, destinatari e orario prima dell'invio. Il servizio è attivo **dal lunedì al venerdì, dalle 9:00 alle 18:00**: la campagna non parte finché non viene controllata. Puoi anche lasciare una nota facoltativa con richieste o informazioni in più per il consulente.
-- **Invia subito**: la campagna parte direttamente ai destinatari, esattamente come l'hai configurata tu
+- **Invia subito** (oppure **Invia come programmato**, se hai scelto un giorno e un'ora): la campagna parte senza controllo, esattamente come l'hai configurata tu.
 
 > 📲 **E le campagne WhatsApp?** Per ora l'invio diretto non c'è. Nelle campagne WhatsApp l'opzione **Invia subito** è disattivata (**Presto in arrivo**), quindi scegli **Fai controllare la campagna** e premi **Richiedi revisione**. Dopo il nostro controllo il messaggio passa anche dall'approvazione di Meta.
 
@@ -37,7 +37,8 @@ Scegliendo l'invio diretto, la responsabilità dell'invio è tua. In pratica:
 
 - Il team Unipiazza non controlla il contenuto prima dell'invio
 - La data e l'orario sono quelli che hai impostato tu
-- Non c'è modo di "ritirare" una campagna già partita
+- Con **Invia subito** la campagna parte all'istante e non si può più fermare
+- Se invece l'hai programmata, puoi riportarla in bozza fino a 5 minuti prima dell'invio, come spieghiamo in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/ID_NUOVO-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza)
 
 È una funzionalità potente... da usare con attenzione. 😅
 

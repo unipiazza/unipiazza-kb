@@ -21,7 +21,7 @@ keywords:
 sort: 0
 is_featured: false
 locale: it
-updated_at: '2026-11-11'
+updated_at: '2026-11-13'
 last_synced: '2026-11-11'
 ---
 
@@ -63,8 +63,8 @@ Ecco come creare una campagna passo passo:
 
 **5. Progetta il contenuto** nell'editor a tutto schermo: scrivi il testo, aggiungi immagini, formatta e, se vuoi, inserisci un bottone che porti il cliente a chiamarti o a scriverti su WhatsApp. L'anteprima mostra in tempo reale com'è sia l'email sia il messaggio RCS. Per rendere ogni messaggio personale puoi inserire nome, cognome, saldo Gettoni e altri dati dei clienti con il pulsante **Inserisci variabile**, in oggetto, anteprima, titolo, testo e bottone. Ti spieghiamo come in [Personalizza le tue Campagne con le Variabili](https://supporto.unipiazza.it/it/articles/67839-personalizza-le-campagne-con-le-variabili).
 
-**6. Scegli come inviare**: con la **consulenza del team Unipiazza** (che controlla la campagna e ottimizza data e orario) oppure **senza approvazione**, direttamente tu.
+**6. Scegli come inviare**: con la **revisione del team Unipiazza** (che controlla la campagna e ottimizza data e orario) oppure **senza revisione**, direttamente tu. Ti spieghiamo la differenza in [Inviare una campagna senza approvazione](https://supporto.unipiazza.it/it/articles/61971-inviare-una-campagna-senza-approvazione).
 
-Una volta approvata dal team, la campagna risulterà "Inviata" in verde.
+Da quel momento, aprendo la campagna da **Le tue campagne**, vedi a che punto è (mandata al team, in revisione, programmata o inviata). Ti sei accorto di un errore? Finché non parte puoi riportarla in bozza e sistemarla, come spieghiamo in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/ID_NUOVO-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza).
 
 Prima di creare la tua prima campagna ti consigliamo di leggere [questo nostro articolo](https://supporto.unipiazza.it/it/articles/27452-suggerimenti-per-scrivere-una-campagna-marketing-perfetta) che riassume i nostri suggerimenti per scrivere una campagna marketing perfetta. Una volta inviata, trovi tutte le statistiche nel dettaglio della campagna inviata.
