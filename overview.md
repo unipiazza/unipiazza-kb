@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 147 in locale, 146 su Customerly (101 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più
+- **Articoli totali:** 148 in locale, 146 su Customerly (101 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più. L'articolo "Dove si trova la tua campagna" (13/11) è solo in locale, in bozza e ancora senza article_id
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -23,7 +23,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | 02-riepilogo | 7179 | Riepilogo | 5 | ⚠️ manca 2 metriche nel dashboard |
 | 03-clienti | 7180 | Clienti | 24 | ✅ |
 | 04-premi-e-gettoni | 7181 | Premi e Gettoni | 9 | ✅ |
-| 05-campagne-autopromo-whatsapp | 7182 | Campagne, Automazioni e WhatsApp | 26 | ✅ |
+| 05-campagne-autopromo-whatsapp | 7182 | Campagne, Automazioni e WhatsApp | 27 | ⚠️ 1 articolo nuovo e 3 ritocchi del 13/11 da sincronizzare |
 | 06-modelli-campagne | 3911 | Modelli Campagne | 8 | 🙈 tutti draft dal 2026-11-11, collezione nascosta |
 | 07-booster-e-abbonamenti | 7236 | Booster Vendite e Abbonamenti | 4 | ✅ |
 | 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 4 | ❌ specifiche errate (slot, limiti) |
@@ -133,11 +133,12 @@ Meccaniche di fedeltà: gettoni, lista premi, creazione premi, limiti ritiro, ge
 
 ### 05 — Campagne, Automazioni e WhatsApp · `collection_id: 7182`
 
-Invio campagne email/SMS/WhatsApp, Automazioni, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-11-06 la sezione Autopromo è diventata Automazioni (issue kb#3): riscritti 27453, 61973 e 63782, creati 70104 e 70105, pubblicati i due articoli del 16/10 (70106, 70107) e tutte le correzioni rimaste in locale. Slug e cartella restano con "autopromo" per non rompere i link. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. Il 2026-10-16, in locale e non ancora sincronizzati, corretti 27453, 27452, 61640, 61919, 61971, 61972, 61973 e scritti due articoli nuovi senza article_id (regalo di compleanno alla cassa, WhatsApp bloccato), per i buchi trovati nelle conversazioni di Olivia. Il 2026-11-11 aggiunto 70276 (idee di campagna per le feste, al posto dei vecchi Modelli Campagne) e spostato qui da Modelli Campagne il 25651 (GiftCard), riscritto ([[proposta-modelli-eshop]]). Lo strumento tessera.unipiazza.it per ora resta fuori dalla KB (Edoardo, 16/10) ([[analisi-conversazioni-olivia-2026-10-15]]). 27450: il web era stato modificato il 2026-07-03 (step 4 diverso); il 15/10 è stato allineato al file locale, mantenendo la frase finale "Inviata in verde".
+Invio campagne email/SMS/WhatsApp, Automazioni, RCS, calendario eventi, statistiche. Tutti pubblicati. Il 2026-11-06 la sezione Autopromo è diventata Automazioni (issue kb#3): riscritti 27453, 61973 e 63782, creati 70104 e 70105, pubblicati i due articoli del 16/10 (70106, 70107) e tutte le correzioni rimaste in locale. Slug e cartella restano con "autopromo" per non rompere i link. Il 2026-10-15 aggiunto 67839 (variabili) e ritoccati 27450, 27452, 37262. Il 2026-10-16, in locale e non ancora sincronizzati, corretti 27453, 27452, 61640, 61919, 61971, 61972, 61973 e scritti due articoli nuovi senza article_id (regalo di compleanno alla cassa, WhatsApp bloccato), per i buchi trovati nelle conversazioni di Olivia. Il 2026-11-11 aggiunto 70276 (idee di campagna per le feste, al posto dei vecchi Modelli Campagne) e spostato qui da Modelli Campagne il 25651 (GiftCard), riscritto ([[proposta-modelli-eshop]]). Lo strumento tessera.unipiazza.it per ora resta fuori dalla KB (Edoardo, 16/10) ([[analisi-conversazioni-olivia-2026-10-15]]). 27450: il web era stato modificato il 2026-07-03 (step 4 diverso); il 15/10 è stato allineato al file locale, mantenendo la frase finale "Inviata in verde". Il 2026-11-13, in locale e non ancora sincronizzati, è stato scritto l'articolo nuovo "Dove si trova la tua campagna e come riportarla in bozza" (pagina di stato della campagna e bottone «Riporta in bozza», PR #140 di unipiazza-web-partner-v2 dell'11/11), e sono stati ritoccati 27450 (tolta la frase "Inviata in verde"), 61971 (si può riportare in bozza una campagna programmata) e 70106 (nuove etichette degli stati WhatsApp). Nei tre ritocchi il link all'articolo nuovo usa il segnaposto `ID_NUOVO`, da sostituire con l'article_id dopo il primo upsert. Mancano gli screenshot.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
 | 27450 | Cosa sono le Campagne Marketing e come si creano? | cosa-sono-le-campagne-marketing-e-come-si-creano | published |
+| — | Dove si trova la tua campagna e come riportarla in bozza | dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza | draft, solo locale |
 | 27452 | Suggerimenti per scrivere una Campagna Marketing perfetta | suggerimenti-per-scrivere-una-campagna-marketing-perfetta | published |
 | 27453 | Cosa sono e come funzionano le Automazioni? | cosa-sono-le-autopromo | published |
 | 30013 | Dove si possono scaricare immagini gratuite per le Campagne? | dove-si-possono-scaricare-immagini-gratuite-per-le-campagne | published |
