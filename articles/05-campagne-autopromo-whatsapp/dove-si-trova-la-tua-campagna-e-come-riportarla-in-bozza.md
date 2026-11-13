@@ -1,10 +1,11 @@
 ---
+article_id: 70971
 collection_id: 7182
 collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Dove si trova la tua campagna e come riportarla in bozza"
 slug: dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza
 description: "Hai mandato la campagna e ti sei accorto di un errore? Finché non parte puoi riportarla in bozza e sistemarla."
-status: draft
+status: published
 written_by: 2961
 is_ai_enabled: true
 keywords:
@@ -33,6 +34,8 @@ Vai in **Campagne**, poi **Le tue campagne**, e premi sul nome della campagna. S
 
 In alto trovi **Dove si trova la tua campagna**, la linea con i passaggi che la campagna fa prima di arrivare ai tuoi clienti.
 
+![La pagina di una campagna approvata dal team, con la linea "Dove si trova la tua campagna" e il bottone "Riporta in bozza"](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/70971_StatoCampagna-Timeline.png)
+
 1. 📤 **Mandata al team**, con il giorno e l'ora in cui l'hai mandata.
 2. 🔍 **Revisione del team**. Un consulente Unipiazza controlla testo, destinatari e orario, dal lunedì al venerdì dalle 9 alle 18. Quando ha finito vedi il giorno e l'ora in cui l'ha approvata.
 3. 🗓️ **Programmata**, con il giorno e l'ora in cui parte.
@@ -56,6 +59,8 @@ Lo trovi in alto a destra. Se preferisci, c'è anche nel menu ⋮ accanto alla c
 
 **3. Conferma**
 Prima di procedere ti spieghiamo cosa succede. Se cambi idea premi **Lasciala così** e non tocchi niente.
+
+![La finestra di conferma "Riportare in bozza" con i bottoni "Lasciala così" e "Riporta in bozza"](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/70971_RiportaInBozza-Conferma.png)
 
 **4. Modifica con calma**
 La campagna torna in bozza uguale a com'era e si apre nell'editor. Cambia tutto quello che ti serve.
