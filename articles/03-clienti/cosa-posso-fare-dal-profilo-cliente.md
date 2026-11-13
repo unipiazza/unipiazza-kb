@@ -33,7 +33,7 @@ Per accedere al profilo di un cliente su Unipiazza e vedere tutte le informazion
 
 ![Il profilo di un cliente nel gestionale, con i numeri di visite, euro spesi, premi e gettoni, i contatti, le liste e le note](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/28262_ProfiloCliente.jpg)
 
-- **Azioni:** Dal pulsante blu "Azioni" trovi **Accredita gettoni**, **Scarica premio** (per i premi e le promo attive), **Gestisci abbonamenti**, **Modifica Wallet** ed **Elimina cliente**. Da qui i gettoni si possono solo aggiungere
+- **Azioni:** Dal pulsante blu "Azioni" trovi **Accredita gettoni**, **Scarica premio** (per i premi e le promo attive), **Gestisci abbonamenti**, **Modifica Wallet** ed **Elimina cliente**. Da qui i gettoni si possono solo aggiungere. Prima di eliminare un cliente leggi [Come eliminare un cliente dal tuo programma fedeltà](https://supporto.unipiazza.it/it/articles/ID_NUOVO-come-eliminare-un-cliente-dal-programma-fedelta) [[come-eliminare-un-cliente-dal-programma-fedelta]], perché l'eliminazione è definitiva e cancella anche Wallet e abbonamenti.
 - **Data di iscrizione e provenienza:** In alto vedi da quando il cliente è iscritto da te e da dove si è iscritto (per esempio Chiosco o Gestionale).
 - **Compleanno del Cliente:** La data di compleanno che il cliente ha inserito in fase di iscrizione o successivamente.
 - **Visualizzazione Visite, Euro Spesi, Premi e Gettoni:** Ottieni una visione chiara delle abitudini di spesa e della frequenza di visita del cliente.
