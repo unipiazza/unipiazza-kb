@@ -18,12 +18,14 @@ keywords:
   - limite whatsapp
   - limite di clienti
   - rifiutata da meta
+  - approvata in ritardo da meta
+  - campagna scaduta
   - messaggio di test
   - prova whatsapp
 sort: 12
 is_featured: false
 locale: it
-updated_at: '2026-10-16'
+updated_at: '2026-11-13'
 last_synced: '2026-11-06'
 ---
 
