@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 148 in locale, 147 su Customerly (102 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più
+- **Articoli totali:** 149 in locale, 148 su Customerly (103 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -21,7 +21,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 |---|---|---|---|---|
 | 01-guida-introduttiva | 7178 | Guida Introduttiva | 9 | ✅ |
 | 02-riepilogo | 7179 | Riepilogo | 5 | ⚠️ manca 2 metriche nel dashboard |
-| 03-clienti | 7180 | Clienti | 24 | ✅ |
+| 03-clienti | 7180 | Clienti | 25 | ✅ |
 | 04-premi-e-gettoni | 7181 | Premi e Gettoni | 9 | ✅ |
 | 05-campagne-autopromo-whatsapp | 7182 | Campagne, Automazioni e WhatsApp | 27 | ✅ |
 | 06-modelli-campagne | 3911 | Modelli Campagne | 8 | 🙈 tutti draft dal 2026-11-11, collezione nascosta |
@@ -83,7 +83,7 @@ Accesso al gestionale e panoramica della sezione Riepilogo. ⚠️ Articolo 2744
 
 ### 03 — Clienti · `collection_id: 7180`
 
-Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, importazione, visite da verificare. Il 2026-11-09 è stato creato 70111 (Visite da verificare) e sono stati aggiornati 41052, 27445, 61967 (Contattabile e Consenso marketing), 41054, 28262, 41598, 28260, 27446, 33516 e 65570. Il 2026-11-11 sono stati rifatti gli screenshot di 41054, 41052, 40695, 27444 e 27445, perché quelli del 2025 mostravano nomi e contatti veri dei clienti. I nuovi sono fatti con il Privacy Mode del gestionale (Ctrl+Shift+B) e stanno su `up-kb-assets`.
+Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, importazione, visite da verificare. Il 2026-11-09 è stato creato 70111 (Visite da verificare) e sono stati aggiornati 41052, 27445, 61967 (Contattabile e Consenso marketing), 41054, 28262, 41598, 28260, 27446, 33516 e 65570. Il 2026-11-11 sono stati rifatti gli screenshot di 41054, 41052, 40695, 27444 e 27445, perché quelli del 2025 mostravano nomi e contatti veri dei clienti. I nuovi sono fatti con il Privacy Mode del gestionale (Ctrl+Shift+B) e stanno su `up-kb-assets`. Il 2026-11-14 è stato creato e pubblicato 70972 «Come eliminare un cliente dal tuo programma fedeltà» [[come-eliminare-un-cliente-dal-programma-fedelta]], su segnalazione di Lorenzo. Spiega Azioni → Elimina cliente, cosa si cancella (compresi Wallet, Gift Card e abbonamenti del locale) e le alternative, come gli Archiviati per chi non viene più. È verificato sul codice del gestionale e dell'API, ed è senza screenshot. Nello stesso giorno è stato aggiunto il link al 70972 in 28262, 33516 e 41598.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
@@ -103,6 +103,7 @@ Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, im
 | 41052 | Come correggere un importo, dei gettoni o una visita caricati per errore | come-correggere-un-importo-errato-nel-gestionale-unipiazza | published |
 | 41054 | Come scalare un premio manualmente nel gestionale Unipiazza | come-scalare-un-premio-manualmente-nel-gestionale-unipiazza | published |
 | 41598 | Un mio cliente ha due profili, come posso fare per unirli? | un-mio-cliente-ha-due-profili-come-posso-fare-per-accorparli | published |
+| 70972 | Come eliminare un cliente dal tuo programma fedeltà | come-eliminare-un-cliente-dal-programma-fedelta | published |
 | 44201 | Invita i clienti ad inserire il numero di Telefono | invita-i-clienti-ad-inserire-il-numero-di-telefono | published |
 | 61967 | Filtra Clienti: come segmentare e analizzare i tuoi clienti | filtra-clienti-come-segmentare-e-analizzare-i-tuoi-clienti | published |
 | 61968 | Come creare e gestire le Liste Clienti | come-creare-e-gestire-le-liste-clienti | published |

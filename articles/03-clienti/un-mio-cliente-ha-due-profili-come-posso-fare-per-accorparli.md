@@ -11,13 +11,13 @@ keywords: []
 sort: 16
 is_featured: false
 locale: it
-updated_at: '2026-10-16'
-last_synced: '2026-11-09'
+updated_at: '2026-11-14'
+last_synced: '2026-11-14'
 ---
 
 Se un cliente ha due tessere o account e desidera unirli, segui questi passaggi. Vale anche quando una Tessera Fedeltà è finita sul cliente sbagliato. Dal Gestionale non si scollega né si sposta, e anche eliminare il cliente non la libera.
 
-Non eliminare il profilo doppio per fare prima, perché insieme a lui spariscono i gettoni che ci sono sopra. Cosa cancella l'eliminazione te lo spieghiamo in [Come eliminare un cliente dal tuo programma fedeltà](https://supporto.unipiazza.it/it/articles/ID_NUOVO-come-eliminare-un-cliente-dal-programma-fedelta) [[come-eliminare-un-cliente-dal-programma-fedelta]].
+Non eliminare il profilo doppio per fare prima, perché insieme a lui spariscono i gettoni che ci sono sopra. Cosa cancella l'eliminazione te lo spieghiamo in [Come eliminare un cliente dal tuo programma fedeltà](https://supporto.unipiazza.it/it/articles/70972-come-eliminare-un-cliente-dal-programma-fedelta) [[come-eliminare-un-cliente-dal-programma-fedelta]].
 
 **1. Contatta il supporto Unipiazza**
 

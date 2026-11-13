@@ -17,8 +17,8 @@ keywords:
 sort: 14
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-09'
+updated_at: '2026-11-14'
+last_synced: '2026-11-14'
 ---
 
 I tuoi clienti hanno diversi modi per modificare i propri dati personali quali indirizzo email, nome, cognome, data di compleanno, genere, numero di telefono o consensi marketing. Vediamoli in dettaglio:
@@ -41,6 +41,6 @@ L'opzione ideale per chi è già dentro al tuo punto vendita. Sfiorando l'icona 
 
 Può farlo da solo dal sito. In fondo a **Il mio profilo** c'è **Elimina il mio account**. Il sito gli mostra cosa perderà, cioè gettoni, Tessera Fedeltà e premi da ritirare, e gli chiede di scrivere ELIMINA per confermare. La cancellazione è immediata e definitiva, quindi non si può recuperare. Se ha un ordine eShop in corso deve prima aspettare che si chiuda o annullarlo. Se vuole solo ricevere meno promozioni, gli basta **Impostazioni privacy**.
 
-Se invece ti chiede solo di uscire dal tuo programma fedeltà, puoi toglierlo tu dal Gestionale. Ti spieghiamo come in [Come eliminare un cliente dal tuo programma fedeltà](https://supporto.unipiazza.it/it/articles/ID_NUOVO-come-eliminare-un-cliente-dal-programma-fedelta) [[come-eliminare-un-cliente-dal-programma-fedelta]].
+Se invece ti chiede solo di uscire dal tuo programma fedeltà, puoi toglierlo tu dal Gestionale. Ti spieghiamo come in [Come eliminare un cliente dal tuo programma fedeltà](https://supporto.unipiazza.it/it/articles/70972-come-eliminare-un-cliente-dal-programma-fedelta) [[come-eliminare-un-cliente-dal-programma-fedelta]].
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Un consiglio: </strong>Se hai un pacchetto Chiosco, durante la raccolta gettoni puoi vedere dall'App gestore se il cliente ha i consensi marketing attivi o no (se il cliente NON può ricevere comunicazioni, comparirà il simbolo 🚫 di fianco al nome). Cerca di Invitare i clienti che hanno i consensi disattivati a riattivarli spiegandogli che si stanno perdendo delle promozioni esclusive!</p></td></tr></tbody></table>
