@@ -82,7 +82,7 @@ Modifica Wallet) avranno un articolo loro nel lotto 2.
 > **Compleanno del Cliente:** La data di compleanno che il cliente ha inserito in fase di iscrizione o successivamente.
 
 **Compleanno, dopo:**
-> **Compleanno del Cliente:** La data che il cliente ha inserito iscrivendosi o dopo. Se manca, premi **🎂 Inserisci Compleanno** e scrivi giorno, mese e anno, così il cliente riceverà anche la tua Automazione Compleanno. Se il cliente è iscritto solo da te, puoi correggere la data con la matita che trovi accanto. Serve il permesso di modificare i clienti.
+> **Compleanno del Cliente:** La data che il cliente ha inserito iscrivendosi o dopo. Se manca, premi **🎂 Inserisci Compleanno** e scrivi giorno, mese e anno, così il cliente riceverà anche la tua [Automazione Compleanno](https://supporto.unipiazza.it/it/articles/27453-cosa-sono-le-autopromo) [[cosa-sono-le-autopromo]]. Se il cliente è iscritto solo da te, puoi correggere la data con la matita che trovi accanto. Serve il permesso di modificare i clienti.
 
 **Contatti, prima:**
 > **Contatti:** Il numero di cellulare e l'indirizzo email che il cliente ha lasciato. Se manca l'email puoi aggiungerla con **Aggiungi indirizzo Email**.
