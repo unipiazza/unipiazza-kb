@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 149 in locale, 148 su Customerly (103 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più
+- **Articoli totali:** 150 in locale, 149 su Customerly (104 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -27,7 +27,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | 06-modelli-campagne | 3911 | Modelli Campagne | 8 | 🙈 tutti draft dal 2026-11-11, collezione nascosta |
 | 07-booster-e-abbonamenti | 7236 | Booster Vendite e Abbonamenti | 4 | ✅ |
 | 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 4 | ❌ specifiche errate (slot, limiti) |
-| 09-vetrina | 7200 | Vetrina | 7 | ✅ |
+| 09-vetrina | 7200 | Vetrina | 8 | ✅ |
 | 10-pagamenti-e-fatturazione | 676 | Pagamenti & Fatturazione | 5 | ⚠️ 1 articolo in draft |
 | 11-integrazioni | 8104 | Integrazioni | 4 | ⚠️ articolo Android con errori copia-incolla |
 | 12-impostazioni | 7257 | Impostazioni | 3 | ✅ |
@@ -213,7 +213,7 @@ Pagamenti prepagati e gift card digitali. ❌ Specifiche errate: articoli indica
 
 ### 09 — Vetrina · `collection_id: 7200`
 
-Vetrina, QR Code e volantini, vetrina sulla Home del telefono, regolamento del locale, cover chiosco, pacchetto custom. Il 2026-11-09 è stato creato 70112 (regolamento) e aggiornati 28255 (nuova grafica, con screenshot di Panificio Demo) e 66239. Il vecchio articolo sui flyer (42912) è in bozza dal 06/10/2026, sostituito dal 66239.
+Vetrina, QR Code e volantini, vetrina sulla Home del telefono, regolamento del locale, cover chiosco, pacchetto custom. Il 2026-11-09 è stato creato 70112 (regolamento) e aggiornati 28255 (nuova grafica, con screenshot di Panificio Demo) e 66239. Il vecchio articolo sui flyer (42912) è in bozza dal 06/10/2026, sostituito dal 66239. Il 2026-11-20 è stato creato e pubblicato 71235 «Come modificare gli orari di apertura» [[come-modificare-gli-orari-di-apertura]], verificato sul codice di gestionale, sito e app del Chiosco (gli orari decidono anche lo spegnimento automatico del Chiosco). Il link al 71235 nel 28255 è in locale, da sincronizzare. Review delle funzionalità non coperte in [[review-funzionalita-gestionale-2026-11-20]].
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
