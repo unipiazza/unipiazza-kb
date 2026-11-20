@@ -213,7 +213,7 @@ Pagamenti prepagati e gift card digitali. ❌ Specifiche errate: articoli indica
 
 ### 09 — Vetrina · `collection_id: 7200`
 
-Vetrina, QR Code e volantini, vetrina sulla Home del telefono, regolamento del locale, cover chiosco, pacchetto custom. Il 2026-11-09 è stato creato 70112 (regolamento) e aggiornati 28255 (nuova grafica, con screenshot di Panificio Demo) e 66239. Il vecchio articolo sui flyer (42912) è in bozza dal 06/10/2026, sostituito dal 66239. Il 2026-11-20 è stato creato e pubblicato 71235 «Come modificare gli orari di apertura» [[come-modificare-gli-orari-di-apertura]], verificato sul codice di gestionale, sito e app del Chiosco (gli orari decidono anche lo spegnimento automatico del Chiosco). Il link al 71235 nel 28255 è in locale, da sincronizzare. Review delle funzionalità non coperte in [[review-funzionalita-gestionale-2026-11-20]].
+Vetrina, QR Code e volantini, vetrina sulla Home del telefono, regolamento del locale, cover chiosco, pacchetto custom. Il 2026-11-09 è stato creato 70112 (regolamento) e aggiornati 28255 (nuova grafica, con screenshot di Panificio Demo) e 66239. Il vecchio articolo sui flyer (42912) è in bozza dal 06/10/2026, sostituito dal 66239. Il 2026-11-20 è stato creato e pubblicato 71235 «Come modificare gli orari di apertura» [[come-modificare-gli-orari-di-apertura]], verificato sul codice di gestionale, sito e app del Chiosco (gli orari decidono anche lo spegnimento automatico del Chiosco). Lo stesso giorno è stato sincronizzato il 28255 con il link al 71235. Review delle funzionalità non coperte in [[review-funzionalita-gestionale-2026-11-20]].
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|

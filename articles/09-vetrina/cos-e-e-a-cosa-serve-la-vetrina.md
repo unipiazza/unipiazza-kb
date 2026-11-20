@@ -8,8 +8,8 @@ description: La Vetrina è la pagina della tua attività dove i clienti si iscri
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-09'
+updated_at: '2026-11-20'
+last_synced: '2026-11-20'
 ---
 
 La tua Vetrina è la porta d’ingresso del tuo programma fedeltà 🏪 È la pagina della tua attività dove i clienti si iscrivono, scoprono i premi, leggono le novità e controllano quanti gettoni hanno.
