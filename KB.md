@@ -17,3 +17,4 @@ Specifica completa in `BRIEF.md` [[BRIEF]] · audit dei problemi aperti in `AUDI
 > Le istruzioni operative per Claude stanno nel `CLAUDE.md` di questa cartella.
 
 - Confronto con il sito V3: [[CONFRONTO-SITO-V3]]
+- Review delle funzionalità del gestionale non coperte dalla KB (20/11/2026): [[review-funzionalita-gestionale-2026-11-20]]
