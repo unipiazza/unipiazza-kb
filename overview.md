@@ -224,6 +224,7 @@ Vetrina, QR Code e volantini, vetrina sulla Home del telefono, regolamento del l
 | 66239 | Porta i clienti nella tua Vetrina con QR Code, link e volantini | porta-i-clienti-nella-tua-vetrina-con-qr-code-link-e-volantini | published |
 | 70109 | I tuoi clienti possono tenere la tua Vetrina sulla Home del telefono | la-tua-vetrina-sulla-home-del-telefono | published |
 | 70112 | Il regolamento del tuo programma fedeltà | il-regolamento-del-tuo-programma-fedelta | published |
+| 71235 | Come modificare gli orari di apertura | come-modificare-gli-orari-di-apertura | published |
 
 ---
 

@@ -46,7 +46,7 @@ Dalla sezione “[Vetrina](https://partner.unipiazza.it/vetrina)” del Gestiona
     
 -   **Indirizzo:** L'indirizzo fisico della tua attività, accompagnato da una mappa che aiuterà i clienti a trovarti più facilmente.
     
--   **Orari di Apertura:** Gli orari specifici di apertura della tua attività commerciale. Assicurati di tenerli aggiornati per evitare che i clienti vengano da te e trovino chiuso! 😉
+-   **Orari di Apertura:** Gli orari specifici di apertura della tua attività commerciale. Assicurati di tenerli aggiornati per evitare che i clienti vengano da te e trovino chiuso! 😉 Ti spieghiamo come in [Come modificare gli orari di apertura](https://supporto.unipiazza.it/it/articles/71235-come-modificare-gli-orari-di-apertura) [[come-modificare-gli-orari-di-apertura]].
     
 -   **Icona**: Scegli una fra le 25 icone che più rappresenta la tua attività commerciale. 
     

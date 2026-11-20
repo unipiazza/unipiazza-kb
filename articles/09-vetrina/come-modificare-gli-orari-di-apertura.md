@@ -1,4 +1,5 @@
 ---
+article_id: 71235
 collection_id: 7200
 collection: 🏪 Vetrina
 title: "Come modificare gli orari di apertura"
@@ -25,6 +26,7 @@ sort: 4
 is_featured: false
 locale: it
 updated_at: '2026-11-20'
+last_synced: '2026-11-20'
 ---
 
 Hai allungato l'orario per le feste o hai deciso di chiudere il lunedì? Dillo anche alla tua Vetrina 🕒 Molti clienti la guardano prima di uscire di casa, e trovare la serranda abbassata non piace a nessuno. Gli orari si cambiano in un minuto dal Gestionale, da computer o dal browser del telefono.
