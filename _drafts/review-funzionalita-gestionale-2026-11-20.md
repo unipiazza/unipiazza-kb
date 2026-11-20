@@ -70,7 +70,15 @@ Non serve documentare: /mcp-auth (ci si arriva solo da un client MCP), Privacy M
 
 ## 3. Per Lorenzo
 
-Domande:
+**Risposte di Edoardo del 21/11/2026**
+
+1. «Invia subito» spento è voluto. Oggi ogni campagna passa da «Fai controllare la campagna», quindi vanno corretti 61971, 27450, 70971 e 61976.
+2. VIP. Nessun numero fisso è giusto. Il default del backend è 5 visite in 150 giorni, ma ogni categoria ha i suoi criteri in `categories.user_list_defaults.vip` (23 su 58 hanno 5 in 150 giorni, le altre vanno da 3 in 90 a 44 in 180) e il locale li cambia da Liste clienti. Tooltip segnalato nell'issue [unipiazza-web-partner-v2#157](https://github.com/unipiazza/unipiazza-web-partner-v2/issues/157).
+3. Il dominio email personalizzato è aperto a tutti i pacchetti.
+4. Le campagne incluse sono giuste così (48, 150 con Chiosco Plus). Raggiunto il limite non se ne possono inviare altre.
+5. Durata del link di recupero password e condizione di «Aggiungi numero» (`can_insert_phone`). Edoardo non lo sa, resta per Lorenzo.
+
+Domande originali:
 
 1. «Invia subito» è spento per tutte le campagne. È voluto? Se sì, va corretto 61971 e gli altri.
 2. VIP con 4 o 5 visite? Tooltip e articolo non coincidono.
