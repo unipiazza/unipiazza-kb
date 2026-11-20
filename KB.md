@@ -18,3 +18,5 @@ Specifica completa in `BRIEF.md` [[BRIEF]] · audit dei problemi aperti in `AUDI
 
 - Confronto con il sito V3: [[CONFRONTO-SITO-V3]]
 - Review delle funzionalità del gestionale non coperte dalla KB (20/11/2026): [[review-funzionalita-gestionale-2026-11-20]]
+  - Bozze del 21/11/2026, da approvare: [[lotto-1-correzioni-2026-11-21]], gruppi [[A-dispositivi-azioni-giftcard-wallet]], [[B-whatsapp]], [[C-campagne-marketing]], [[D-booster-abbonamenti-premi]], [[E-clienti]], [[F-vetrina-chiosco-dominio]], [[G-olivia-permessi-notifiche]]
+  - Domande e bug per Lorenzo: [[domande-lorenzo-2026-11-21]]

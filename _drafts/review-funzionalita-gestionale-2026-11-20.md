@@ -13,6 +13,34 @@ Riferimenti al codice relativi alla radice del repo del gestionale. Mappa degli 
 Fatto in questa sessione: nuovo articolo sugli orari di apertura
 `articles/09-vetrina/come-modificare-gli-orari-di-apertura.md` [[come-modificare-gli-orari-di-apertura]].
 
+## Stato al 21/11/2026
+
+Tutte le righe hanno una bozza verificata sul codice. **Niente è ancora pubblicato su Customerly**, si
+aspetta l'ok di Edoardo sui testi. Bozze in [[lotto-1-correzioni-2026-11-21]] e nella cartella
+`bozze-2026-11-21/` (gruppi A-G). Le domande aperte sono in [[domande-lorenzo-2026-11-21]]: bloccano
+solo singole frasi, tranne l'articolo sui permessi.
+
+| Riga | Stato | Dove |
+|---|---|---|
+| S1 #1, #3, #4 | bozza pronta | [[lotto-1-correzioni-2026-11-21]] |
+| S1 #2 Invia subito | bozza pronta (spento per scelta, confermato da Edoardo) | [[C-campagne-marketing]] |
+| S1 #5, #6, #13 | bozza pronta. I criteri di Nuovi, VIP e Inattivi cambiano per categoria e si modificano in Impostazioni › Liste preimpostate | [[E-clienti]] |
+| S1 #7, #12 | bozza pronta. La vista «solo Aperture» esiste ancora (era un errore della review) | [[C-campagne-marketing]] |
+| S1 #8, #10, #11, #15 | bozza pronta | [[F-vetrina-chiosco-dominio]] |
+| S1 #9 | bozza pronta, una frase aspetta Lorenzo (domanda 6) | [[A-dispositivi-azioni-giftcard-wallet]] |
+| S1 #14 | bozza pronta | [[G-olivia-permessi-notifiche]] |
+| Minori S1 (27455, 41597, 34556) | bozza pronta. «Link al vecchio slug» in 41597 scartato perché il redirect di Customerly funziona | [[D-booster-abbonamenti-premi]], [[F-vetrina-chiosco-dominio]] |
+| S2 #1, #3, #4 | bozza pronta | [[A-dispositivi-azioni-giftcard-wallet]] |
+| S2 #2, #9 | bozza pronta | [[B-whatsapp]] |
+| S2 #5, #6 | bozza pronta. Nei Booster prezzo e quantità non sono bloccati, solo negli Abbonamenti | [[D-booster-abbonamenti-premi]] |
+| S2 #7, #10, #11 | bozza pronta | [[E-clienti]] |
+| S2 #8 | bozza pronta (27450 riscritto + nuovo «Perché non riesco a programmare la campagna?») | [[C-campagne-marketing]] |
+| S2 #12 | bozza pronta dentro 28255 | [[F-vetrina-chiosco-dominio]] |
+| S2 #13, #15, #16, #17 | bozza pronta. Offerte Partner non scartata, la voce è nel menu di tutti | [[G-olivia-permessi-notifiche]] |
+| S2 #14 Permessi | bozza pronta, **da non pubblicare** prima delle risposte di Lorenzo (domanda 17) | [[G-olivia-permessi-notifiche]] |
+| S2 #18 | voci distribuite nei gruppi C, D, E, F | — |
+| Sezione 3 | domande rimaste e bug raccolti per Lorenzo, tooltip VIP nell'issue [#157](https://github.com/unipiazza/unipiazza-web-partner-v2/issues/157) | [[domande-lorenzo-2026-11-21]] |
+
 ---
 
 ## 1. Articoli pubblicati che oggi dicono cose sbagliate
