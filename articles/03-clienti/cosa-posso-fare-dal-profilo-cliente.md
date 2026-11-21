@@ -29,7 +29,7 @@ updated_at: '2026-11-21'
 last_synced: '2026-11-21'
 ---
 
-Per accedere al profilo di un cliente su Unipiazza e vedere tutte le informazioni dettagliate, è sufficiente cliccare sul suo nome da qualunque sezione. Ecco cosa troverai nella pagina del profilo cliente:
+Per accedere al profilo di un cliente su Unipiazza e vedere tutte le informazioni dettagliate, è sufficiente cliccare sul suo nome da qualunque sezione. Se usi il Gestionale dal telefono e hai davanti il cliente con la sua Tessera Fedeltà, fai ancora prima con **Inquadra QrCode**, come spieghiamo in [Come trovare o iscrivere un cliente con Inquadra QrCode](https://supporto.unipiazza.it/it/articles/71253-come-trovare-o-iscrivere-un-cliente-con-inquadra-qrcode) [[come-trovare-o-iscrivere-un-cliente-con-inquadra-qrcode]]. Ecco cosa troverai nella pagina del profilo cliente:
 
 ![Il profilo di un cliente nel gestionale, con i numeri di visite, euro spesi, premi e gettoni, i contatti, le liste e le note](https://up-kb-assets.s3.eu-west-3.amazonaws.com/03-clienti/28262_ProfiloCliente.jpg)
 
