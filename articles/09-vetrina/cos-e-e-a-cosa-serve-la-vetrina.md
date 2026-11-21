@@ -8,8 +8,8 @@ description: La Vetrina è la pagina della tua attività dove i clienti si iscri
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-11-20'
-last_synced: '2026-11-20'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 La tua Vetrina è la porta d’ingresso del tuo programma fedeltà 🏪 È la pagina della tua attività dove i clienti si iscrivono, scoprono i premi, leggono le novità e controllano quanti gettoni hanno.
@@ -38,31 +38,43 @@ Da ottobre 2026 la Vetrina ha una grafica tutta nuova, e a parlare è la tua att
 
 **Cosa puoi inserire**
 
-Dalla sezione “[Vetrina](https://partner.unipiazza.it/vetrina)” del Gestionale puoi inserire tutte le informazioni da visualizzare pubblicamente. Vediamole in dettaglio:  
+Dalla sezione [Vetrina](https://partner.unipiazza.it/vetrina) del Gestionale scegli cosa mostrare ai tuoi clienti. Se hai più punti vendita, selezionane uno dal menu in alto, perché la Vetrina si modifica un locale alla volta. Quando hai finito premi **Salva modifiche** in fondo alla pagina. Se il bottone è grigio, il tuo utente non ha il permesso di modificare la Vetrina e te lo può dare il titolare del locale.
 
--   **Nome attività commerciale:** Questo sarà il nome che comparirà sulla Vetrina Web, sull’App Unipiazza e nelle intestazioni delle campagne marketing che invii ai tuoi clienti.
-    
--   **Descrizione:** Descrivi la tua attività commerciale in modo sintetico (600 caratteri inclusi gli spazi) mettendo in evidenza i punti di forza. La descrizione comparirà nella tua vetrina e sarà indicizzata dai motori di ricerca. 
-    
--   **Indirizzo:** L'indirizzo fisico della tua attività, accompagnato da una mappa che aiuterà i clienti a trovarti più facilmente.
-    
--   **Orari di Apertura:** Gli orari specifici di apertura della tua attività commerciale. Assicurati di tenerli aggiornati per evitare che i clienti vengano da te e trovino chiuso! 😉 Ti spieghiamo come in [Come modificare gli orari di apertura](https://supporto.unipiazza.it/it/articles/71235-come-modificare-gli-orari-di-apertura) [[come-modificare-gli-orari-di-apertura]].
-    
--   **Icona**: Scegli una fra le 25 icone che più rappresenta la tua attività commerciale. 
-    
--   **Categoria merceologica**: Scegli una fra le 52 categorie che più rappresentano la tua attività commerciale.
-    
--   **Immagini di Copertina:** Queste immagini compariranno in cima alla tua vetrina e dovrebbero riflettere ciò che offri. Che si tratti di prodotti, piatti di un ristorante o interni del tuo locale, assicurati che siano di alta qualità.
-    
+🏷️ **Nome attività commerciale**<br>È il nome che compare sulla Vetrina, nell'App Unipiazza e nell'intestazione delle campagne che mandi ai tuoi clienti.
 
-<table style="min-width: 25px;"><colgroup><col style="min-width: 25px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota Bene!</strong> Le immagini copertina sono diverse dalle immagini “cover” che scorrono sul Chiosco e non vanno confuse. Per saperne di più sulle Cover Chiosco, <a target="_blank" rel="noopener noreferrer nofollow" href="https://unipiazza.customerly.help/it/vetrina/come-cambio-le-immagini-cover-che-compaiono-sul-chiosco"><u>leggi questo articolo dedicato.</u></a></p></td></tr></tbody></table>
+⚠️ **Il nome decide anche l'indirizzo della Vetrina**<br>Se lo cambi, prima di salvare il Gestionale ti avvisa. L'indirizzo attuale smette di funzionare e ne nasce uno nuovo, costruito sul nuovo nome. QR Code stampati, volantini e link che hai già condiviso porterebbero a una pagina che non c'è più, quindi dopo il cambio scarica il nuovo QR Code e aggiorna tutto. Se vuoi cambiare solo il nome che si vede sul Chiosco, usa **Nome Chiosco**.
 
--   **Indirizzo Email:** Questo indirizzo email NON sarà pubblico sulla tua vetrina ma servirà per permettere ai clienti di risponderti alle campagne email che gli invii. 
-    
--   **Numero di Telefono:** Il numero di telefono della tua attività commerciale.
-    
--   **Pagina Facebook, Instagram e Sito Web:** Inserisci la tua pagina Facebook, Instagram o l’indirizzo del tuo sito web per far comparire i corrispettivi bottoni all’interno della tua vetrina.
-    
+📟 **Nome Chiosco**<br>È il nome che compare sul tuo Chiosco Unipiazza. Se lo lasci vuoto usiamo il nome dell'attività.
+
+📝 **Descrizione**<br>Racconta in breve la tua attività e i suoi punti di forza, fino a 600 caratteri spazi inclusi. Compare sulla Vetrina e nell'App, e la leggono anche i motori di ricerca.
+
+📍 **Città, CAP e Indirizzo**<br>Sono obbligatori e mettono il tuo locale sulla mappa, così i clienti ti trovano senza giri a vuoto.
+
+🕒 **Orari di Apertura**<br>Tienili sempre aggiornati, così nessuno trova la serranda abbassata! 😉 Ti spieghiamo come in [Come modificare gli orari di apertura](https://supporto.unipiazza.it/it/articles/71235-come-modificare-gli-orari-di-apertura) [[come-modificare-gli-orari-di-apertura]].
+
+🎨 **Icona**<br>Scegli fra 62 icone quella che rappresenta meglio la tua attività.
+
+🖼️ **Logo**<br>Premi **Carica il logo** e scegli un file PNG o JPG, meglio se di almeno 512×512 pixel (il minimo è 144×144). Lo ritagli quadrato, e compare in cima alla Vetrina e come icona sul telefono dei clienti che aggiungono la Vetrina alla schermata Home. Puoi cambiarlo o toglierlo quando vuoi.
+
+🗂️ **Categoria merceologica**<br>Scegli la categoria che descrive meglio la tua attività.
+
+🌈 **Colore Vetrina & Chiosco**<br>È il colore di bottoni, premi e icone sulla Vetrina e sul Chiosco. Se nella pagina vedi questo campo, puoi sceglierlo tu.
+
+📸 **Immagini copertina attività**<br>Sono le foto in cima alla Vetrina. Puoi caricarne fino a 3, e il Gestionale le ritaglia in formato 16:10. Le misure giuste le trovi in [Guida alle Risoluzioni delle Immagini su Unipiazza](https://supporto.unipiazza.it/it/articles/38701-guida-alle-risoluzioni-delle-immagini) [[guida-alle-risoluzioni-delle-immagini]].
+
+<table style="min-width: 25px;"><colgroup><col style="min-width: 25px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota Bene!</strong> Le immagini copertina sono diverse dalle immagini “cover” che scorrono sul Chiosco e non vanno confuse. Per saperne di più sulle Cover Chiosco, <a target="_blank" rel="noopener noreferrer nofollow" href="https://supporto.unipiazza.it/it/articles/28259-come-cambio-le-immagini-cover-che-compaiono-sul-chiosco"><u>leggi questo articolo dedicato.</u></a></p></td></tr></tbody></table>
+
+[[come-cambio-le-immagini-cover-che-compaiono-sul-chiosco]]
+
+**I tuoi contatti**
+
+✉️ **Indirizzo email**<br>Non compare sulla Vetrina. Serve ai clienti per risponderti quando ricevono le tue campagne email.
+
+📞 **Telefono**<br>È obbligatorio e lo vedono tutti, sulla Vetrina e nell'App.
+
+💬 **WhatsApp**<br>Se lo inserisci, sulla Vetrina compare il bottone di WhatsApp e i clienti ti scrivono con un tocco.
+
+🌐 **Sito web, Facebook, Instagram e TikTok**<br>Inserisci i tuoi link e i bottoni compaiono nella sezione **Sul web** della Vetrina e in fondo alla pagina.
 
 **Fai arrivare i clienti nella tua Vetrina**
 

@@ -1,4 +1,5 @@
 ---
+article_id: 71243
 collection_id: 7181
 collection: 🏆 Premi e Gettoni
 title: Come riservare Premi e Booster a una lista di clienti
