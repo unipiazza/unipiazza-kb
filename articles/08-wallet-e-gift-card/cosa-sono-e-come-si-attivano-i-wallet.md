@@ -37,20 +37,13 @@ Perché dovresti attivare questa funzionalità?
 
 ![](../../assets/08-wallet-e-gift-card/28250_7.png)
 
-Nella sezione "Wallet prepagati" del Gestionale, puoi visualizzare una lista dei clienti che hanno attivato il proprio Wallet. Questa lista fornisce dettagli quali:
+In **Wallet › Attivi** trovi in alto i numeri del tuo Wallet (Wallet attivati, ricariche fatte, euro incassati e ancora da spendere, GiftCard create e riscattate, nuovi clienti arrivati con una GiftCard, incassi delle GiftCard). Più in basso, nella tabella **Wallet attivati**, ci sono i clienti che hanno ricaricato il Wallet o riscattato una GiftCard. Per ognuno vedi:
 
--   Nome del cliente
-    
--   Credito acquistato dal cliente
-    
--   Credito rimanente nel Wallet del cliente
-    
--   Ultima ricarica effettuata dal cliente
-    
--   Data di scadenza del credito nel Wallet (se applicabile)
-    
+👤 **Nome** del cliente<br>💶 **Credito acquistato**, cioè il totale di ricariche e GiftCard riscattate (fra parentesi l'eventuale credito extra che gli hai regalato)<br>💳 **Credito rimanente** nel suo Wallet<br>📅 **Ultima ricarica**<br>⏳ **Scade il**, la data di scadenza del credito, che il Gestionale indica a 12 mesi dall'ultima ricarica<br>✏️ **Modifica**, per correggere a mano il saldo del cliente
 
-<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p>💡<strong>Fai regalare un “Wallet” ai clienti!</strong> Attiva la funzionalità “GiftCard” per far regalare del credito Wallet ai tuoi clienti. <a target="_blank" rel="noopener noreferrer nofollow" href="https://unipiazza.customerly.help/it/wallet-e-gift-card/cosa-sono-e-come-si-attivano-le-giftcard">Leggi da qui</a> come puoi fare.</p></td></tr></tbody></table>
+Sopra trovi anche la tabella **GiftCard da riscattare**. Se vuoi attivare, correggere o eliminare una GiftCard dal Gestionale, ti spieghiamo tutto in [Come attivare, correggere o eliminare una GiftCard dal Gestionale](https://supporto.unipiazza.it/it/articles/71252-come-attivare-correggere-o-eliminare-una-giftcard-dal-gestionale) [[come-attivare-correggere-o-eliminare-una-giftcard-dal-gestionale]].
+
+<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p>💡<strong>Fai regalare un “Wallet” ai clienti!</strong> Attiva la funzionalità “GiftCard” per far regalare del credito Wallet ai tuoi clienti. <a target="_blank" rel="noopener noreferrer nofollow" href="https://supporto.unipiazza.it/it/articles/28251-cosa-sono-e-come-si-attivano-le-giftcard">Leggi da qui</a> come puoi fare.</p></td></tr></tbody></table>
 
 Impostare il [Wallet Unipiazza](https://partner.unipiazza.it/wallet) nel tuo gestionale è un modo semplice per incentivare i pagamenti e premiare i tuoi clienti. Ecco come fare:
 
@@ -60,7 +53,7 @@ Impostare il [Wallet Unipiazza](https://partner.unipiazza.it/wallet) nel tuo ges
     
 -   **Tagli di Acquisto o Ricarica Wallet:** Imposta fino a sei tagli di ricarica per il Wallet, come 20€, 50€, 100€, ecc. (ogni taglio al massimo 250€). Questi rappresentano le opzioni che i tuoi clienti vedranno quando decidono di ricaricare il loro Wallet. Se attivi l'opzione "Permetti al cliente di scegliere un importo personalizzato", accanto ai tagli compare anche il bottone **"Altro importo"**, che prende il posto di un taglio, quindi i tagli scendono a cinque.
     
--   **Incentiva i Pagamenti Tramite il Wallet:** Seleziona questa opzione per dare gettoni extra ai clienti che pagano con il Wallet. Ad esempio, potresti offrire un moltiplicatore di gettoni, come 1,5 gettoni per ogni euro speso.
+-   **Incentiva i Pagamenti Tramite il Wallet:** Seleziona questa opzione per dare gettoni extra ai clienti che pagano con il Wallet. Scegli fra x1,2, x1,3, x1,4, x1,5 e x2. Per esempio, se normalmente dai 10 gettoni per ogni euro, con x1,5 chi paga con il Wallet ne riceve 15. Accanto a ogni opzione il Gestionale ti mostra quanti gettoni per euro darai.
     
 -   **Incentiva le Ricariche del Wallet:** Puoi decidere di dare ai tuoi clienti una percentuale di credito extra ad ogni ricarica. Per esempio, con il 10% di credito extra, ricaricando 50€, i clienti otterranno 5€ in più, per un totale di 55€ nel Wallet.
     
