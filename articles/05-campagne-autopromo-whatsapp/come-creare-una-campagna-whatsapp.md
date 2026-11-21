@@ -74,6 +74,8 @@ Finché una regola non è rispettata, il Gestionale non ti lascia inviare la cam
 
 ✅ **Poi la approva Meta**<br>Dopo il nostro controllo anche Meta approva il messaggio. Possono volerci pochi minuti o diverse ore, in base allo "stato di salute" del tuo numero WhatsApp. Se hai scelto **Inviala subito**, la campagna parte appena arriva l'approvazione. Se l'hai programmata, parte all'orario che hai scelto, sempre che Meta l'abbia approvata in tempo.
 
+⏰ **Approvata in ritardo?**<br>Se Meta approva il messaggio dopo l'orario che avevi scelto, la campagna non parte e la vedi come **Approvata in ritardo da Meta**. Riportala in bozza e scegli un nuovo orario.
+
 🚫 **Se Meta la rifiuta**<br>In cima alla campagna vedi **Rifiutata da Meta**, con il motivo quando Meta lo indica. Correggi il testo e rimandala, ripasserà dal nostro team e da Meta.
 
 📍 **Dove la ritrovi**<br>Nell'elenco delle campagne vedi a che punto è. Se vuoi cambiarla prima che parta, la puoi riportare in bozza, come spieghiamo in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/70971-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza) [[dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza]].
