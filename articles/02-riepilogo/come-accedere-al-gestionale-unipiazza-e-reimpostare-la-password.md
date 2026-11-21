@@ -43,13 +43,13 @@ Succede ai migliori! La reimposti da solo, senza aspettare nessuno.
 
 **1. Premi Recupera password**<br>Lo trovi sotto il bottone **Inizia** e anche sotto **Accedi**.
 
-**2. Scrivi la tua email e premi Invia link**<br>Ti mandiamo un'email con il link per reimpostare la password. Se non la trovi, guarda anche nella posta indesiderata.
+**2. Scrivi la tua email e premi Invia link**<br>Ti mandiamo un'email con il link per reimpostare la password. Il link vale un'ora. Se non trovi l'email, guarda anche nella posta indesiderata.
 
 **3. Scegli la nuova password**<br>Apri il link, scrivi la nuova password due volte (almeno 8 caratteri) e premi **Imposta nuova password**. Poi premi **Vai al login** ed entra con la password nuova.
 
 📱 **Entri con il numero di telefono?**<br>Il recupero password funziona solo via email. Se al tuo profilo non è associata nessuna email, scrivici e ti aiutiamo noi.
 
-⏳ **Il link non funziona più?**<br>Se vedi **Link scaduto o non valido**, premi **Richiedi un nuovo link** e ricomincia dal passo 2.
+⏳ **Il link non funziona più?**<br>Il link vale un'ora. Se vedi **Link scaduto o non valido**, premi **Richiedi un nuovo link** e ricomincia dal passo 2.
 
 🧊 **Ti dice che la tua attività è stata congelata?**<br>Succede quando un'attività resta a lungo inattiva. Scrivici in chat o a [partner@unipiazza.it](mailto:partner@unipiazza.it) e la riattiviamo.
 

@@ -34,13 +34,13 @@ Se il browser ti mostra un avviso o blocca il file, clicca su **"Conserva comunq
 -   Ti consigliamo di spuntare l’opzione **“Crea un’icona sul desktop”** per trovarla più facilmente in futuro.
     
 
-3\. Avvia e comunica il codice
+3\. Avvia e collega l'app
 
--   L'app si aprirà automaticamente una volta completata l'installazione.
+-   L'app si aprirà automaticamente una volta completata l'installazione. Premi **Iniziamo**.
     
--   Nella schermata troverai un **codice identificativo** in basso.
+-   Scrivi l'email o il numero di telefono con cui è associato il tuo locale e premi **Avanti**, poi scegli il locale.
     
--   Inviacelo via WhatsApp, così da attivare il collegamento con il tuo account Unipiazza!<br>
+-   Inserisci il codice di sicurezza che trovi nel Gestionale, nel menu **Dispositivi**. Ti spieghiamo come generarlo in [Come collegare un Chiosco Unipiazza o l'App Operatore al Gestionale](https://supporto.unipiazza.it/it/articles/71246-come-collegare-un-chiosco-o-l-app-operatore-al-gestionale) [[come-collegare-un-chiosco-o-l-app-operatore-al-gestionale]].
     
 
 Questa integrazione è perfetta per chi vuole snellire l’operatività alla cassa e gestire tutto da un unico dispositivo. Zero smartphone, zero cavetti in più ✨
