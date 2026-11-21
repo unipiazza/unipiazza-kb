@@ -31,6 +31,16 @@ Per creare un premio nel tuo programma fedeltà segui questi semplici passi:
 -   Finito? Bene, premi "Salva" e il gioco è fatto. Il tuo premio è pronto per essere guadagnato dai tuoi clienti.
     
 
-Tieni a mente: i premi che crei saranno visibili a tutti, sul sito, sull'App e sul Chiosco nel tuo locale. Quindi, pensa a descrizioni che fanno venire l'acquolina in bocca e che spingono i tuoi clienti a raccogliere gettoni come se non ci fosse un domani!
+Tieni a mente che i premi che crei li vedono tutti, sulla tua Vetrina, sull'App e sul Chiosco nel tuo locale. Se vuoi un premio solo per alcuni clienti, per esempio i VIP, scegli la lista nella colonna **Clienti**, come spieghiamo in [Come riservare Premi e Booster a una lista di clienti](https://supporto.unipiazza.it/it/articles/71243-come-riservare-premi-e-booster-a-una-lista-di-clienti) [[come-riservare-premi-e-booster-a-una-lista-di-clienti]]. Quindi, pensa a descrizioni che fanno venire l'acquolina in bocca e che spingono i tuoi clienti a raccogliere gettoni come se non ci fosse un domani!
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento: </strong>Leggi il nostro articolo “<a target="_blank" rel="noopener noreferrer nofollow" href="https://unipiazza.customerly.help/it/premi-e-gettoni/come-creare-una-lista-premi-perfetta"><u>Come creare una lista premi perfetta!</u></a>” per evitare gli errori più comuni e assicurarti di motivare al massimo il ritorno dei tuoi clienti!</p></td></tr></tbody></table>
+## Come elimino un premio
+
+**1. Premi Modifica premi**<br>Lo trovi in alto a destra nella Lista Premi.
+
+**2. Premi il cestino accanto al premio**<br>Si apre **Vuoi eliminare questo Premio?**. Premi **Elimina**.
+
+**3. Premi Salva**<br>Finché non salvi, il premio non sparisce davvero. Se cambi idea premi **Annulla**.
+
+Nella Lista Premi deve restare sempre almeno un premio. Se provi a eliminare l'ultimo, il Gestionale ti avvisa con **Devi lasciare almeno un premio visibile**.
+
+<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento: </strong>Leggi il nostro articolo “<a target="_blank" rel="noopener noreferrer nofollow" href="https://supporto.unipiazza.it/it/articles/30684-come-creare-una-lista-premi-perfetta"><u>Come creare una lista premi perfetta!</u></a> [[come-creare-una-lista-premi-perfetta]]” per evitare gli errori più comuni e assicurarti di motivare al massimo il ritorno dei tuoi clienti!</p></td></tr></tbody></table>

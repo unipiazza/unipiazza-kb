@@ -6,7 +6,7 @@ title: Come resetto i gettoni dei miei clienti?
 slug: come-resettare-i-gettoni-dei-miei-clienti
 description: Vuoi poter azzerare i gettoni dei tuoi clienti? Nessun problema!
 status: published
-written_by: 45263
+written_by: 2961
 locale: it
 updated_at: '2026-11-11'
 last_synced: '2026-11-11'
@@ -22,6 +22,8 @@ Per iniziare:
     
 3.  Cerca la sezione **"Resetta i gettoni clienti"**.
     
+
+Se hai più punti vendita, selezionane uno dal menu in alto, perché con tutti selezionati i bottoni restano grigi. Serve anche il permesso di modificare le impostazioni del locale.
 
 ![Riquadro Resetta i gettoni clienti nelle Impostazioni](https://up-kb-assets.s3.eu-west-3.amazonaws.com/04-premi-e-gettoni/41597_ResettaGettoni.jpg)
 
@@ -44,7 +46,7 @@ Puoi impostare in anticipo la data in cui desideri che tutti i gettoni vengano a
 
 Se preferisci, puoi azzerare i gettoni **solo dei clienti che appartengono a una tua lista personalizzata**: è utile, ad esempio, per chi non torna da mesi o per situazioni specifiche.
 
-1.  Nella sezione **"Resetta i gettoni per lista"**, seleziona la **lista** dal menu a tendina (vedrai anche quanti clienti ne fanno parte).
+1.  Nella sezione **"Resetta i gettoni per lista"**, seleziona la **lista** dal menu a tendina (vedrai anche quanti clienti ne fanno parte). Puoi scegliere solo le liste che hai creato tu, non quelle preimpostate come Vip o Inattivi. Se la lista non ha clienti, il bottone resta grigio.
     
 2.  Clicca su **"Programma cancellazione"**.
     
@@ -56,6 +58,22 @@ Se preferisci, puoi azzerare i gettoni **solo dei clienti che appartengono a una
     
 
 In entrambi i casi il reset avverrà alle **23:59** del giorno selezionato e potrai **annullarlo in qualsiasi momento** prima di quella data.
+
+## Quando partono i promemoria
+
+📅 **Reset fra almeno 14 giorni**<br>Partono tutti e due i promemoria, 14 e 2 giorni prima. Prima di confermare il Gestionale ti mostra le date esatte.
+
+⏰ **Reset fra meno di 14 giorni**<br>Il primo promemoria non fa in tempo, quindi parte solo quello a 2 giorni. Il Gestionale te lo segnala con **Manca il promemoria a 14 giorni**.
+
+⚡ **Reset fra meno di 2 giorni**<br>Non parte nessun promemoria. Se il reset è entro 24 ore il Gestionale ti chiede di confermarlo, ricordandoti che i clienti non verranno avvisati.
+
+## Da sapere
+
+🔁 **Un reset alla volta**<br>Finché c'è un reset programmato, nel riquadro vedi data e ora (e, se è per lista, quale lista e quanti clienti coinvolge), e non puoi programmarne un altro. Per cambiarlo premi **Annulla reset** e rifallo da capo.
+
+📨 **Annullare dopo i promemoria**<br>Puoi annullare anche dopo che è partito un promemoria, ma il messaggio ai clienti ormai è arrivato. Il Gestionale te lo ricorda prima di annullare, e ti conviene avvisarli tu che i gettoni restano.
+
+🏪 **Se i tuoi punti vendita condividono i gettoni**<br>Il reset vale per tutta la catena, e il Gestionale te lo ricorda con **Questo reset dei gettoni coinvolgerà tutta la catena**. Per la catena c'è un solo reset programmato alla volta, quindi se un altro punto vendita l'ha già fissato, vedi **Esiste già un reset coins programmato per questa catena**.
 
 Se hai attivato l'opzione, i clienti riceveranno automaticamente un'email e/o un messaggio RCS che li informa della scadenza 14 giorni prima e 2 giorni prima la data scelta.<br><br>Ecco la comunicazione che verrà inviata 14 giorni prima 👇
 

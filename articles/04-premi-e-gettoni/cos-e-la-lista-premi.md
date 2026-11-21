@@ -28,4 +28,4 @@ La [Lista Premi](https://partner.unipiazza.it/premi) è dove gestisci i tuoi pre
 -   **Gettoni:** Dici quanti gettoni servono per ritirare ogni premio. 
     
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento: </strong>Leggi il nostro articolo “<a target="_blank" rel="noopener noreferrer nofollow" href="https://unipiazza.customerly.help/it/premi-e-gettoni/come-creare-una-lista-premi-perfetta"><u>Come creare una lista premi perfetta!</u></a>” per evitare gli errori più comuni e assicurarti di motivare al massimo il ritorno dei tuoi clienti!</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Suggerimento: </strong>Leggi il nostro articolo “<a target="_blank" rel="noopener noreferrer nofollow" href="https://supporto.unipiazza.it/it/articles/30684-come-creare-una-lista-premi-perfetta"><u>Come creare una lista premi perfetta!</u></a> [[come-creare-una-lista-premi-perfetta]]” per evitare gli errori più comuni e assicurarti di motivare al massimo il ritorno dei tuoi clienti!</p></td></tr></tbody></table>
