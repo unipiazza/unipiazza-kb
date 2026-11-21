@@ -51,6 +51,6 @@ Vai in **Abbonamenti** e premi sull'abbonamento che vuoi cambiare.
 
 ⏸️ **Toglierlo dalla vendita**<br>Sotto il nome premi **🚫 Disattiva abbonamento**. Nella lista lo vedi come **Non attivo**, non puoi più aggiungerlo ai clienti dal Gestionale e la sua pubblicità sul Chiosco si spegne. Chi l'ha già comprato lo trova ancora nel suo profilo, e da **Gestisci abbonamenti** continui a scalarlo come sempre. Per rimetterlo in vendita premi **✅ Attiva abbonamento**.
 
-🗑️ **Eliminarlo**<br>In fondo alla pagina premi **Elimina abbonamento** e conferma con **Elimina**. Prima però controlla che nessun cliente lo stia ancora usando, perché chi ha ancora dei prodotti da ritirare non potrà più completarlo. Se hai dubbi, disattivalo e basta.
+🗑️ **Eliminarlo**<br>In fondo alla pagina premi **Elimina abbonamento** e conferma con **Elimina**. Prima però controlla che nessun cliente lo stia ancora usando. Se hai dubbi, meglio disattivarlo e basta.
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Ricordati di promuoverli: </strong>Una volta che hai creato un Abbonamento, ricordati di creare una campagna da inviare ai tuoi clienti per informarli!</p></td></tr></tbody></table>

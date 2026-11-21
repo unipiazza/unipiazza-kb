@@ -16,8 +16,8 @@ keywords:
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-06'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Le Automazioni lavorano già per te via email, RCS e notifica dell'app. Puoi aggiungere anche **WhatsApp**, il canale con i tassi di apertura più alti 📲 Lo accendi su ogni Automazione singolarmente, così scegli tu dove ha più senso.
@@ -36,6 +36,20 @@ In **Il messaggio** trovi i canali. Email, App e RCS sono sempre attivi, mentre 
 
 **3. Salva**
 Premi **Salva ed esci**. Da quel momento l'Automazione parte anche su WhatsApp.
+
+## Quanto ti costa ogni mese
+
+Prima di accendere WhatsApp puoi farti un'idea della spesa. Nel blocco **Il messaggio**, sotto i canali, trovi la stima del costo WhatsApp di quell'Automazione.
+
+💶 **Premi Stima i costi**<br>Il Gestionale guarda l'attività del tuo locale negli ultimi 30 giorni e ti dice quanti messaggi WhatsApp partirebbero nei prossimi 30, con il costo, per esempio "circa 12€ al mese". Quando accendi l'interruttore di WhatsApp la stima parte da sola.
+
+🧮 **Cosa conta la stima**<br>Solo il messaggio principale, senza promemoria, per i clienti che hanno dato il consenso, IVA esclusa. È una stima, quindi il costo reale dipende dai messaggi consegnati davvero e da quanti clienti passeranno nei prossimi giorni.
+
+🔄 **Hai cambiato le impostazioni?**<br>Se modifichi i tempi o le condizioni dell'Automazione, la stima di prima resta visibile ma ti avvisa che è da aggiornare. Premi **Aggiorna stima**.
+
+📵 **WhatsApp non è ancora collegato?**<br>Vedi lo stesso **Quanto costerebbe WhatsApp**. Premi **Scopri il costo** e scopri quanti clienti raggiungeresti e a che prezzo per messaggio.
+
+La stima c'è per Prima visita, Compleanno, Invita un amico, Recensioni, A rischio e Dormienti. Se vedi "Servono più giorni di attività del negozio per calcolare una stima", il tuo locale è attivo da troppo poco tempo. Riprova tra qualche settimana.
 
 ## Cosa riceve il cliente su WhatsApp
 
