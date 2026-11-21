@@ -28,8 +28,8 @@ keywords:
 sort: 2
 is_featured: false
 locale: it
-updated_at: '2026-11-11'
-last_synced: '2026-11-11'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Nella sezione "[Storico Azioni](https://partner.unipiazza.it/clienti/cronologia)", puoi dare un'occhiata veloce a come i tuoi clienti interagiscono con la tua attività. Questa pagina ti aiuta a tenere traccia di ogni movimento e a capire meglio i tuoi clienti.
@@ -47,12 +47,18 @@ Inoltre, trovi un elenco di tutto quello che i tuoi clienti hanno fatto, messo i
 
 Puoi scegliere di vedere le cose in diversi periodi di tempo:
 
+- Oggi
+- Ieri
 - Ultimi 7 giorni
 - Ultimi 30 giorni
 - Ultimi 365 giorni
 - Dall'inizio (da quando hai iniziato a usare Unipiazza)
-- Scegli periodo: Scegli tu la data di inizio e di fine del periodo
+- Scegli periodo (scegli tu la data di inizio e quella di fine)
 
-🟡 Se hai attivato [Visite da verificare](https://supporto.unipiazza.it/it/articles/70111-visite-da-verificare), qui trovi anche la striscia gialla con le visite da controllare e il bottone **Verifica visita** accanto a ogni visita segnalata. Dal menu **Mostra** puoi scegliere **Da verificare** per vedere solo quelle.
+🔎 **Vuoi vedere un tipo di azione alla volta?**<br>Dal menu **Mostra** scegli per esempio **Raccolta gettoni**, **Premio ritirato**, **Promo ritirata**, **Nuove iscrizioni**, **Booster**, **Ricariche Wallet** o **GiftCard**. Con **Tutte le azioni** torni a vedere tutto.
 
-💡 Per il resto questa pagina serve a consultare. Per correggere un importo o togliere gettoni e visite caricati per errore, apri il profilo del cliente e usa lo Storico Azioni che trovi lì dentro. Ti spieghiamo come in [Come correggere un importo, dei gettoni o una visita caricati per errore](https://supporto.unipiazza.it/it/articles/41052-come-correggere-un-importo-errato-nel-gestionale-unipiazza).
+📥 **Vuoi lo storico in un file?**<br>Premi **Scarica dati** in alto a destra e scegli Excel o CSV. Ti mandiamo il file all'email con cui entri nel Gestionale, con lo **storico completo** delle azioni dei tuoi clienti, non solo il periodo che stai guardando. Se non lo trovi, guarda anche nella posta indesiderata. Con il pacchetto Digital il bottone **Scarica dati** non c'è.
+
+🟡 Se hai attivato [Visite da verificare](https://supporto.unipiazza.it/it/articles/70111-visite-da-verificare) [[visite-da-verificare]], qui trovi anche la striscia gialla con le visite da controllare e il bottone **Verifica visita** accanto a ogni visita segnalata. Dal menu **Mostra** puoi scegliere **Da verificare** per vedere solo quelle.
+
+💡 Per il resto questa pagina serve a consultare. Per correggere un importo o togliere gettoni e visite caricati per errore, apri il profilo del cliente e usa lo Storico Azioni che trovi lì dentro. Ti spieghiamo come in [Come correggere un importo, dei gettoni o una visita caricati per errore](https://supporto.unipiazza.it/it/articles/41052-come-correggere-un-importo-errato-nel-gestionale-unipiazza) [[come-correggere-un-importo-errato-nel-gestionale-unipiazza]].

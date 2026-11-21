@@ -81,10 +81,10 @@ Solo se ti ha aggiunto in rubrica. Questo si riflette anche nelle statistiche de
 Sì, se è già un numero WhatsApp Business.
 
 **Posso inviare subito una campagna WhatsApp?**
-Per ora no. All'ultimo passo l'opzione **Invia subito** è disattivata (**Presto in arrivo**), come per tutte le campagne, quindi scegli **Fai controllare la campagna** e premi **Richiedi revisione**. Un consulente Unipiazza la controlla dal lunedì al venerdì, dalle 9:00 alle 18:00. Se vuoi programmarla, l'orario di invio deve essere almeno 24 ore dopo.
+Per ora no. All'ultimo passo l'opzione **Invia subito** è disattivata (**Presto in arrivo**), come per tutte le campagne, quindi scegli **Fai controllare la campagna** e premi **Richiedi revisione**. Un consulente Unipiazza la controlla dal lunedì al venerdì, dalle 9:00 alle 18:00. Se vuoi programmarla, l'orario di invio deve essere almeno 24 ore dopo. Ti spieghiamo perché in [Si può inviare una campagna senza approvazione?](https://supporto.unipiazza.it/it/articles/61971-inviare-una-campagna-senza-approvazione) [[inviare-una-campagna-senza-approvazione]].
 
 **Quanto ci vuole per approvare le campagne?**
-Dopo il controllo del team, anche Meta approva il messaggio. Possono volerci pochi minuti o diverse ore, in base allo "stato di salute" del tuo numero WhatsApp. Se Meta lo rifiuta, nell'elenco delle campagne vedi **Rifiutata da META**: scrivici e ti diciamo perché.
+Dopo il controllo del team, anche Meta approva il messaggio. Possono volerci pochi minuti o diverse ore, in base allo "stato di salute" del tuo numero WhatsApp. Se Meta lo rifiuta, aprendo la campagna vedi **Rifiutata da Meta**, con il motivo quando Meta lo indica. Correggi il testo e rimandala, ripasserà dal nostro team e da Meta. Se il motivo non c'è o non ti è chiaro, scrivici e ti aiutiamo noi.
 
 **Posso mandarmi una prova della campagna?**
 Per le campagne WhatsApp non c'è ancora l'invio di prova del messaggio. Nel passo del contenuto vedi l'anteprima di come arriva. Per controllare che il canale funzioni, in **Impostazioni** > **WhatsApp Business** premi **Invia Messaggio di Test**: ti arriva un messaggio di prova standard, su un numero diverso da quello collegato.

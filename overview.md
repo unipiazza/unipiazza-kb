@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 150 in locale, 149 su Customerly (104 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più
+- **Articoli totali:** 160 in locale, 159 su Customerly (114 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -20,17 +20,17 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | Cartella | collection_id | Titolo | Art. | Stato |
 |---|---|---|---|---|
 | 01-guida-introduttiva | 7178 | Guida Introduttiva | 9 | ✅ |
-| 02-riepilogo | 7179 | Riepilogo | 5 | ⚠️ manca 2 metriche nel dashboard |
-| 03-clienti | 7180 | Clienti | 25 | ✅ |
-| 04-premi-e-gettoni | 7181 | Premi e Gettoni | 9 | ✅ |
-| 05-campagne-autopromo-whatsapp | 7182 | Campagne, Automazioni e WhatsApp | 27 | ✅ |
+| 02-riepilogo | 7179 | Riepilogo | 8 | ✅ |
+| 03-clienti | 7180 | Clienti | 27 | ✅ |
+| 04-premi-e-gettoni | 7181 | Premi e Gettoni | 10 | ✅ |
+| 05-campagne-autopromo-whatsapp | 7182 | Campagne, Automazioni e WhatsApp | 29 | ✅ |
 | 06-modelli-campagne | 3911 | Modelli Campagne | 8 | 🙈 tutti draft dal 2026-11-11, collezione nascosta |
 | 07-booster-e-abbonamenti | 7236 | Booster Vendite e Abbonamenti | 4 | ✅ |
-| 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 4 | ❌ specifiche errate (slot, limiti) |
+| 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 5 | ❌ specifiche errate (slot, limiti) |
 | 09-vetrina | 7200 | Vetrina | 8 | ✅ |
 | 10-pagamenti-e-fatturazione | 676 | Pagamenti & Fatturazione | 5 | ⚠️ 1 articolo in draft |
-| 11-integrazioni | 8104 | Integrazioni | 4 | ⚠️ articolo Android con errori copia-incolla |
-| 12-impostazioni | 7257 | Impostazioni | 3 | ✅ |
+| 11-integrazioni | 8104 | Integrazioni | 5 | ⚠️ articolo Android con errori copia-incolla |
+| 12-impostazioni | 7257 | Impostazioni | 4 | ✅ |
 | 13-eshop | 3416 | eShop | 9 | 🙈 tutti draft dal 2026-11-11, modulo non in vendita |
 | 14-tablet-e-tessere | 171 | Tablet Unipiazza & Tessere | 7 | ⚠️ 5 draft legacy, 2 published |
 | 15-olivia-ai | 12061 | Olivia - Consulente Fedeltà AI | 2 | ✅ |
@@ -69,7 +69,7 @@ Articoli di benvenuto e troubleshooting hardware/app. Pilotati e validati (round
 
 ### 02 — Riepilogo · `collection_id: 7179`
 
-Accesso al gestionale e panoramica della sezione Riepilogo. ⚠️ Articolo 27442 mancante di 2 metriche: "Premi & Promo ritirate" e "Ricavi Autopromo".
+Accesso al gestionale e panoramica della sezione Riepilogo, più notifiche, Offerte Partner e lucchetti (creati il 2026-11-21). La vecchia nota «27442 manca 2 metriche» era superata: il file locale le copre già.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
@@ -78,6 +78,9 @@ Accesso al gestionale e panoramica della sezione Riepilogo. ⚠️ Articolo 2744
 | 37647 | Il gestionale sulla Home del telefono | come-accedere-velocemente-al-gestionale-partner-da-smartphone | published |
 | 61924 | Come disabilitare lo spegnimento automatico del Chiosco | come-disabilitare-lo-spegnimento-automatico-del-chiosco | published |
 | 63781 | L'app Partner non funziona più? Ecco cosa fare! | l-app-partner-non-funziona-piu-ecco-cosa-fare | published |
+| 71248 | Le notifiche del Gestionale | le-notifiche-del-gestionale | published (creato il 2026-11-21) |
+| 71249 | Cosa sono le Offerte Partner? | cosa-sono-le-offerte-partner | published (creato il 2026-11-21) |
+| 71251 | Perché vedo un lucchetto o la pagina «Scegli un punto vendita»? | perche-vedo-un-lucchetto-o-scegli-un-punto-vendita | published (creato il 2026-11-21) |
 
 ---
 
@@ -112,6 +115,8 @@ Gestione clienti: iscrizione, profili, segmentazione, privacy, filtri, liste, im
 | 63765 | Il cliente ha una nuova Tessera Fedeltà: come collegare il profilo esistente? | il-cliente-ha-una-nuova-tessera-fedelta-come-collegare-il-profilo-esistente | published |
 | 65570 | Come attivare il Compleanno all'iscrizione | come-attivare-compleanno-all-iscrizione | published |
 | 70111 | Visite da verificare: come scoprire gli errori alla cassa | visite-da-verificare | published |
+| 71250 | Il Chiosco non funziona? Come caricare gettoni, abbonamenti e Wallet dal Gestionale | come-caricare-gettoni-abbonamenti-e-wallet-dal-gestionale | published (creato il 2026-11-21) |
+| 71253 | Come trovare o iscrivere un cliente con Inquadra QrCode | come-trovare-o-iscrivere-un-cliente-con-inquadra-qrcode | published (creato il 2026-11-21) |
 
 ---
 
@@ -129,6 +134,7 @@ Meccaniche di fedeltà: gettoni, lista premi, creazione premi, limiti ritiro, ge
 | 41456 | Come impostare limiti per il ritiro dei premi | come-impostare-limiti-per-il-ritiro-dei-premi | published |
 | 41597 | Come resetto i gettoni dei miei clienti? | come-resettare-i-gettoni-dei-miei-clienti | published |
 | 61921 | Come gestisco fiscalmente i premi di Unipiazza? | come-faccio-fiscalmente-a-dare-un-premio-con-unipiazza | published |
+| 71243 | Come riservare Premi e Booster a una lista di clienti | come-riservare-premi-e-booster-a-una-lista-di-clienti | published (creato il 2026-11-21) |
 
 ---
 
@@ -165,6 +171,8 @@ Invio campagne email/SMS/WhatsApp, Automazioni, RCS, calendario eventi, statisti
 | 70105 | Il Messaggio di benvenuto personalizzato | messaggio-di-benvenuto-personalizzato | published |
 | 70276 | Idee di campagna per le feste dell'anno | idee-di-campagna-per-le-feste | published |
 | 25651 | Promuovi le tue GiftCard! | promuovi-le-tue-giftcard | published |
+| 71244 | Perché non riesco a programmare la campagna? | perche-non-riesco-a-programmare-la-campagna | published (creato il 2026-11-21) |
+| 71245 | Come creare una campagna WhatsApp passo passo | come-creare-una-campagna-whatsapp | published (creato il 2026-11-21) |
 
 ---
 
@@ -208,6 +216,7 @@ Pagamenti prepagati e gift card digitali. ❌ Specifiche errate: articoli indica
 | 28251 | Cosa sono e come si attivano le GiftCard? | cosa-sono-e-come-si-attivano-le-giftcard | published |
 | 28252 | Impostazioni Wallet & Gift Card | impostazioni-wallet-gift-card | published |
 | 28253 | Qual'è la differenza fra Wallet e GiftCard? | qual-e-la-differenza-fra-wallet-e-giftcard | published |
+| 71252 | Come attivare, correggere o eliminare una GiftCard dal Gestionale | come-attivare-correggere-o-eliminare-una-giftcard-dal-gestionale | published (creato il 2026-11-21) |
 
 ---
 
@@ -252,6 +261,7 @@ Installazione app su Android/Windows e connessione a Zapier/Make. Il link dell'a
 | 48423 | Come installare l'App Operatore Unipiazza sul tuo PC Windows | come-installare-l-app-unipiazza-sul-tuo-pc-windows | published |
 | 61666 | Come installare l'App Operatore Unipiazza sul tuo dispositivo Android | come-installare-l-app-operatore-unipiazza-sul-tuo-dispositivo-android | published |
 | 65542 | "App Operatore assente" sul tuo Chiosco Unipiazza | app-operatore-assente-sul-tuo-chiosco-unipiazza | published (creato dal web, file locale dal 2026-11-09) |
+| 71246 | Come collegare un Chiosco Unipiazza o l'App Operatore al Gestionale | come-collegare-un-chiosco-o-l-app-operatore-al-gestionale | published (creato il 2026-11-21) |
 
 ---
 
@@ -264,6 +274,7 @@ Panoramica impostazioni (con Visite da verificare dal 2026-11-09), modalità vac
 | 30018 | Cosa vedo nella sezione Impostazioni? | cosa-vedo-nella-sezione-impostazioni | published |
 | 34556 | Come attivare la Modalità Vacanza | come-attivare-la-modalita-vacanza | published |
 | 38701 | Guida alle Risoluzioni delle Immagini su Unipiazza | guida-alle-risoluzioni-delle-immagini | published |
+| 71247 | Come gestire i permessi degli amministratori | come-gestire-i-permessi-degli-amministratori | published (creato il 2026-11-21) |
 
 ---
 
