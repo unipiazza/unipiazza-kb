@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 160 in locale, 159 su Customerly (114 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più
+- **Articoli totali:** 161 in locale, 160 su Customerly (115 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 

@@ -15,8 +15,8 @@ Fatto in questa sessione: nuovo articolo sugli orari di apertura
 
 ## Stato al 21/11/2026
 
-✔️ **Pubblicato tutto su Customerly il 21/11/2026**, su ok di Edoardo. Ci sono 10 articoli nuovi
-(71243-71253, tranne 71235 di ieri) e circa 35 articoli aggiornati, tutti con autore 2961 e AI training
+✔️ **Pubblicato tutto su Customerly il 21/11/2026**, su ok di Edoardo. Ci sono 11 articoli nuovi
+(da 71243 a 71253) e circa 35 articoli aggiornati, tutti con autore 2961 e AI training
 attivo. Le frasi che dipendevano da domande aperte sono state tolte o rese neutre. Unico saltato il 48423
 (app Windows), che aspetta la domanda 3 per Lorenzo. Nel 61967 va rifatto lo screenshot del pannello
 filtri, perché quello vecchio è stato tolto. Bozze in [[lotto-1-correzioni-2026-11-21]] e nella cartella
