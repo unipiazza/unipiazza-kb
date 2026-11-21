@@ -28,11 +28,11 @@ Il 21/11 sera 15 domande su 18 sono state chiuse leggendo il codice (backend, ap
 
 **Campagne**
 7. Chi fa rispettare il limite di 48 (o 150) campagne, e cosa vede il cliente quando prova a mandarne un'altra? Nel gestionale c'è solo la barra rossa in Piano & Consumi. (gruppo C, 63774)
-    → issue. Nel codice nessuno blocca: il limite esiste solo nella barra di Piano & Consumi. 63774 lasciato com'è.
+    → issue [unipiazza-api#284](https://github.com/unipiazza/unipiazza-api/issues/284). Nel codice nessuno blocca, il limite esiste solo nella barra di Piano & Consumi. 63774 lasciato com'è.
 8. Una campagna programmata per un orario in cui il team non lavora (per esempio sabato mattina) e non ancora approvata parte dopo l'approvazione, passa a «Scaduta» o resta ferma? (gruppo C)
     ✔️ Risolta dal codice il 21/11: la Marketing approvata dopo l'orario parte subito; la WhatsApp approvata in ritardo da Meta non parte («Approvata in ritardo da Meta»). Aggiunto in 61971, 27450, 61976, 71245.
 9. «Invia test» chiede l'oggetto anche se l'invio vero non lo chiede e manda solo l'email. È voluto? (gruppo C)
-    → issue. Solo email è voluto («Invia email di test»); l'oggetto obbligatorio nel test è un'incoerenza.
+    → issue [unipiazza-web-partner-v2#158](https://github.com/unipiazza/unipiazza-web-partner-v2/issues/158). Solo email è voluto («Invia email di test»), l'oggetto obbligatorio nel test è un'incoerenza.
 
 **Booster e Abbonamenti**
 10. Un abbonamento disattivato si può ancora vendere dal Chiosco o dall'App Operatore? Dal Gestionale non si aggiunge più. (gruppo D)
@@ -48,7 +48,7 @@ Il 21/11 sera 15 domande su 18 sono state chiuse leggendo il codice (backend, ap
 
 **Vetrina e Impostazioni**
 14. Modalità Vacanza, il campo «Al» è il giorno in cui riapri o l'ultimo giorno di chiusura? Il Gestionale salva la data a mezzanotte, Olivia salva la fine della giornata e scrive «inclusi». (gruppo F, 34556)
-    → issue. Dal Gestionale «Al» è il giorno in cui riapri (34556 giusto); Olivia salva la fine della giornata, va allineata.
+    → issue [unipiazza-api#285](https://github.com/unipiazza/unipiazza-api/issues/285). Dal Gestionale «Al» è il giorno in cui riapri (34556 giusto), Olivia salva la fine della giornata e va allineata.
 15. Chi attiva `custom_theme.active`, da cui dipende il campo «Colore Vetrina & Chiosco»? Oggi è attivo su 200 locali di pacchetti diversi. (gruppo F, 28255)
     ✔️ Risolta dal codice il 21/11: la attiva il team dal vecchio admin con «Grafica Custom», automatica con KioskElite. Aggiunto in 28255.
 
