@@ -16,11 +16,11 @@ keywords:
 sort: 6
 is_featured: false
 locale: it
-updated_at: '2026-11-11'
-last_synced: '2026-11-11'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
-Con Unipiazza, puoi aumentare la riconoscibilità e la reputazione del tuo locale personalizzando il mittente delle tue campagne email. Invece di inviare le comunicazioni da promo@unipiazza.it, puoi farle apparire con il tuo dominio (es. info@tuosito.it). Questa funzionalità è dedicata ai clienti che hanno un pacchetto Elite o hanno acquistato una personalizzazione grafica extra.
+Con Unipiazza, puoi aumentare la riconoscibilità e la reputazione del tuo locale personalizzando il mittente delle tue campagne email. Invece di inviare le comunicazioni da promo@unipiazza.it, puoi farle apparire con il tuo dominio (es. info@tuosito.it). Vale per le campagne email e per le Automazioni, e la puoi attivare con qualsiasi pacchetto.
 
 Ecco come fare:
 
@@ -47,7 +47,7 @@ Ecco come fare:
 
 ![Il riquadro con il dominio info@caffetteriarossi.it in stato «Non verificato» e i bottoni Record DNS e Verifica](https://up-kb-assets.s3.eu-west-3.amazonaws.com/05-campagne-autopromo-whatsapp/37235_DominioEmail-NonVerificato.jpg)
 
-**7)** Se tutto è ok, lo stato diventa **"Verificato"** con la spunta verde. Potrebbero volerci fino a 24 ore per la propagazione del DNS, quindi in caso di ritardo aspetta un po' e premi di nuovo "Verifica".
+**7)** Se tutto è ok, lo stato diventa **"Verificato"** con la spunta verde. La propagazione del DNS può richiedere dalle 24 alle 48 ore, quindi se il dominio non risulta ancora verificato aspetta un po' e premi di nuovo **"Verifica"**.
 
 **8)** Con il dominio verificato compare anche il bottone **"Invia Email di test"**. Premilo per ricevere un'email di prova inviata dal tuo dominio. Se vuoi tornare a inviare da promo@unipiazza.it, premi **"Elimina"**.
 

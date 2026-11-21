@@ -8,8 +8,8 @@ description: Se vai in ferie o ti prendi qualche giorno di pausa, avvisa i tuoi 
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-06'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Prima di abbassare la serranda per qualche giorno o settimana, è bene avvisare i tuoi clienti. Con Unipiazza lo fai in un minuto dal Gestionale, attivando la Modalità Vacanza. 🏖️
@@ -18,7 +18,13 @@ Non è solo un avviso di cortesia. Mette anche in pausa le Automazioni con una p
 
 ## Cosa succede quando la attivi
 
-I clienti vedranno la scritta "Chiuso fino al" nella pagina del tuo locale e non verranno inviate Promozioni Automatiche durante quel periodo.
+🏖️ **Sulla tua Vetrina**<br>I clienti vedono la scritta **Chiuso fino al** con la data, al posto dell'orario di oggi.
+
+⏸️ **Le Automazioni con una promozione si fermano**<br>Non partono se la promozione cadrebbe nei giorni in cui sei chiuso, così nessuno riceve un omaggio che non può ritirare. Le Automazioni senza promozione partono come sempre.
+
+🔔 **Un promemoria nel Gestionale**<br>Finché sei in vacanza, in cima a ogni pagina del Gestionale vedi un avviso giallo con la data in cui la Modalità Vacanza si spegne.
+
+✅ **Si spegne da sola**<br>Finite le date non devi ricordarti di toglierla, ci pensiamo noi. Se riapri prima, togli la spunta da **Attiva modalità vacanza** e premi **Salva**.
 
 ## Come attivarla
 

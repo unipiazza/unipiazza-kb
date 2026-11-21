@@ -15,8 +15,8 @@ keywords:
   - vacanza
   - liste preimpostate
 locale: it
-updated_at: '2026-11-11'
-last_synced: '2026-11-11'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pannello di controllo Unipiazza è il luogo dove puoi personalizzare e configurare diverse opzioni per ottimizzare la gestione della tua attività. Ecco una panoramica dettagliata di cosa puoi fare in questa sezione, nell'ordine in cui la trovi:
@@ -43,8 +43,10 @@ La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pan
 
 8. **WhatsApp Business:** Collega il tuo account WhatsApp per iniziare a inviare comunicazioni ai tuoi clienti.
 
-9. **Modalità fun:** Personalizza il Chiosco con temi stagionali, icone, colori ed effetti speciali che rendono l'esperienza più divertente in alcuni periodi dell'anno. Il programma fedeltà resta identico, cambia solo il look.
+9. **Dominio email personalizzato:** Manda campagne email e Automazioni dal tuo indirizzo (es. info@tuosito.it) invece che da promo@unipiazza.it. Ti spieghiamo come in [Personalizza il Mittente delle Tue Campagne Email](https://supporto.unipiazza.it/it/articles/37235-personalizza-il-mittente-delle-campagne-email) [[personalizza-il-mittente-delle-campagne-email]].
+    
+10. **Modalità fun:** Personalizza il Chiosco con temi stagionali, icone, colori ed effetti speciali che rendono l'esperienza più divertente in alcuni periodi dell'anno. Il programma fedeltà resta identico, cambia solo il look.
 
 ![Il riquadro Modalità Fun con l'interruttore attivo](https://up-kb-assets.s3.eu-west-3.amazonaws.com/12-impostazioni/30018_Impostazioni-ModalitaFun.jpg)
 
-<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Non trovi un riquadro?</strong> Alcune voci compaiono solo se hai quel servizio. L'orario di spegnimento si vede solo se hai il Chiosco e WhatsApp Business solo se il tuo piano include le campagne WhatsApp. Chi ha la cassa collegata a RCH Cloud vede anche "ID Terminale RCH", chi ha un'app con il proprio marchio vede "Dominio email personalizzato" e chi ha più amministratori sullo stesso punto vendita vede "Gestisci i permessi degli amministratori".</p></td></tr></tbody></table>
+<table style="min-width: 25px"><colgroup><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Non trovi un riquadro?</strong> Alcune voci compaiono solo se hai quel servizio. L'orario di spegnimento si vede solo se hai il Chiosco e WhatsApp Business solo se il tuo piano include le campagne WhatsApp. Chi ha la cassa collegata a RCH Cloud vede anche "ID Terminale RCH", e chi ha più amministratori sullo stesso punto vendita vede "Gestisci i permessi degli amministratori".</p></td></tr></tbody></table>

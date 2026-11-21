@@ -22,8 +22,8 @@ keywords:
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-06'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Immagina un collaboratore che non dimentica mai un compleanno, che si accorge quando un cliente non passa da un po' e che ringrazia chi viene per la prima volta. Sono le **[Automazioni](https://partner.unipiazza.it/automazioni)** 🤖 Le imposti una volta sola e da quel momento lavorano da sole, al momento giusto, per ogni cliente.
@@ -121,6 +121,8 @@ Se l'amico non si iscrive, puoi mandare un solo promemoria dopo 7, 14 o 30 giorn
 **📝 Recensioni**
 
 Invita i clienti a lasciarti una recensione su Google, Tripadvisor o Facebook. Scegli tu il momento, cioè dopo il ritiro del primo premio oppure dopo la visita che preferisci, e quanto aspettare (di partenza 2 ore). Ogni cliente riceve l'invito **una sola volta**. Se hai più punti vendita, Recensioni si imposta su ogni singolo locale, perché ognuno ha la sua pagina.
+
+In **Dove mandare la recensione** scegli la piattaforma e poi, in **La tua pagina**, il link dove i clienti scrivono la recensione. Con Google basta cercare il nome del tuo locale e il link lo troviamo noi. Con Tripadvisor e Facebook incolli il link della tua pagina. Il link è obbligatorio, e senza l'Automazione non si salva.
 
 **😖 A rischio**
 
