@@ -26,12 +26,14 @@ updated_at: '2026-11-06'
 last_synced: '2026-11-09'
 ---
 
-Vuoi sapere come i tuoi clienti possono iscriversi al tuo programma fedeltà? È facile, e hanno tre strade 😉
+Vuoi sapere come i tuoi clienti possono iscriversi al tuo programma fedeltà? È facile, hanno tre strade e c'è anche la tua 😉
 
 🏪 **Dalla tua Vetrina**<br>È la strada più semplice e quella da far conoscere per prima. Il cliente inquadra il QR Code della tua Vetrina (sul banco, su un volantino, su un adesivo) oppure apre il link che gli mandi, preme **Iscriviti gratis** e si iscrive in un minuto dal suo telefono, con email o telefono, Google o Facebook. Non deve scaricare niente. Chi si iscrive con l'email può lasciare anche il telefono, e viceversa, così lo ritrovi in cassa anche senza Tessera Fedeltà. Alla fine può inserire il compleanno, oppure saltare il passaggio. Da quel momento, a ogni acquisto da te mostra il QR Code della sua area personale per raccogliere i gettoni.
 
 📟 **Dal Chiosco Unipiazza**<br>Metti il Chiosco vicino alla cassa e invita i clienti a iscriversi lì. Devono solo inquadrare il QR Code di una Tessera Fedeltà nuova sul Chiosco, oppure inserire il loro numero di telefono.
 
 📱 **Dall’app Unipiazza**<br>Se un cliente usa già l’app Unipiazza, o preferisce scaricarla, può iscriversi anche da lì. Poi raccoglie i gettoni inquadrando il QR Code sul Chiosco.
+
+🧑‍💼 **Lo iscrivi tu dal Gestionale**<br>Se preferisci farlo tu, dal computer vai in **Clienti** › **Lista clienti** e premi **Aggiungi cliente**. Dal telefono invece premi **Inquadra QrCode** e inquadra una Tessera Fedeltà nuova, come spieghiamo in [Come trovare o iscrivere un cliente con Inquadra QrCode](https://supporto.unipiazza.it/it/articles/71253-come-trovare-o-iscrivere-un-cliente-con-inquadra-qrcode) [[come-trovare-o-iscrivere-un-cliente-con-inquadra-qrcode]]. In tutti e due i casi devi confermare che il cliente ti ha dato il consenso.
 
 Il QR Code e il link della tua Vetrina li trovi già pronti nel gestionale. Ti spieghiamo dove sono e come trasformarli in volantini in [Porta i clienti nella tua Vetrina con QR Code, link e volantini](https://supporto.unipiazza.it/it/articles/66239-porta-i-clienti-nella-tua-vetrina-con-qr-code-link-e-volantini).
