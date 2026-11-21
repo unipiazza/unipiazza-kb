@@ -50,11 +50,11 @@ Hai un Chiosco Unipiazza nuovo, hai cambiato smartphone o stai installando l'App
 
 Sempre in **Dispositivi**, sotto il codice, trovi **Dispositivi collegati**. I dispositivi sono raggruppati a coppie (di solito il Chiosco Unipiazza e l'App Operatore che lavora con lui), e per ognuno vedi:
 
-📱 **Stato**, cioè **Accoppiato** se ha trovato il suo compagno, oppure **In attesa**<br>
-👤 **Utente collegato**, il profilo con cui è stato attivato<br>
-🔢 **Versione app** e **ID dispositivo**, utili se ci scrivi per assistenza<br>
-🔋 **Batteria**, con la percentuale e se è in carica<br>
-📶 **Rete Wi-Fi**, con il nome della rete e la potenza del segnale da 1 a 5<br>
+📱 **Stato**, cioè **Accoppiato** se ha trovato il suo compagno, oppure **In attesa**
+👤 **Utente collegato**, il profilo con cui è stato attivato
+🔢 **Versione app** e **ID dispositivo**, utili se ci scrivi per assistenza
+🔋 **Batteria**, con la percentuale e se è in carica
+📶 **Rete Wi-Fi**, con il nome della rete e la potenza del segnale da 1 a 5
 📅 **Accoppiato il** e **Ultimo aggiornamento**
 
 Se in una coppia vedi **Nessun dispositivo accoppiato**, manca ancora il secondo dispositivo. Attivalo e collegalo con un nuovo codice.

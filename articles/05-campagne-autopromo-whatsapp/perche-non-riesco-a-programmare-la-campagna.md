@@ -1,4 +1,5 @@
 ---
+article_id: 71244
 collection_id: 7182
 collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Perché non riesco a programmare la campagna?"
