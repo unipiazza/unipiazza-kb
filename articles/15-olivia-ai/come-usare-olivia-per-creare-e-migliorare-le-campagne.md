@@ -64,4 +64,4 @@ Ogni interazione con Olivia consuma crediti AI. Se non hai ancora letto come fun
 
 ---
 
-Pronto a inviare la tua campagna? Premi **Programma invio** e poi **Richiedi revisione**. Un consulente Unipiazza la controlla e, una volta approvata, parte all'orario che hai scelto, come spieghiamo in [Si può inviare una campagna senza approvazione?](https://supporto.unipiazza.it/it/articles/61971-inviare-una-campagna-senza-approvazione) [[inviare-una-campagna-senza-approvazione]].
+Pronto a inviare la tua campagna? Premi **Programma invio** e poi **Richiedi revisione**. Un consulente Unipiazza la controlla e, una volta approvata, parte all'orario che hai scelto, oppure subito se l'approvazione arriva dopo, come spieghiamo in [Si può inviare una campagna senza approvazione?](https://supporto.unipiazza.it/it/articles/61971-inviare-una-campagna-senza-approvazione) [[inviare-una-campagna-senza-approvazione]].
