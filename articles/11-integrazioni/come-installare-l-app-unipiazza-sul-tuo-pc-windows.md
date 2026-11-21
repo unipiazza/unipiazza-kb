@@ -6,10 +6,10 @@ title: Come installare l’App Operatore Unipiazza sul tuo PC Windows
 slug: come-installare-l-app-unipiazza-sul-tuo-pc-windows
 description: Se hai un PC-Cassa con sistema operativo Windows, puoi finalmente dire addio allo smartphone in dotazione.
 status: published
-written_by: 45263
+written_by: 2961
 locale: it
-updated_at: '2026-10-14'
-last_synced: '2026-10-14'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Abbiamo creato una versione desktop dell’App Operatore Unipiazza per accreditare gettoni direttamente dal tuo computer 🎉<br><br>1\. Scarica il programma
