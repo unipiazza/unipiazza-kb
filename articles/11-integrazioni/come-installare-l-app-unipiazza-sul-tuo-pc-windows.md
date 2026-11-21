@@ -21,7 +21,7 @@ Abbiamo creato una versione desktop dell’App Operatore Unipiazza per accredita
 -   Si scarica un file compresso chiamato **InstallerUnipiazza-x64.zip** (circa 69 MB).
     
 
-Se il browser ti mostra un avviso o blocca il file, clicca su **"Conserva comunque"** o **"Esegui comunque"**. Il programma è sicuro, lo abbiamo creato noi!<br>![](../../assets/11-integrazioni/48423_CleanShot 2025-08-06 at 15.06.08@2x.png)<br><br>2\. Estrai e installa l'applicazione
+Se il browser ti mostra un avviso o blocca il file, clicca su **"Conserva comunque"** o **"Esegui comunque"**. Il programma è sicuro, lo abbiamo creato noi!<br>![Avviso del browser sul download del file](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/57e237c05c2d3391d8e134ef52870f53/CleanShot%202025-08-06%20at%2015.06.08%402x.png)<br><br>2\. Estrai e installa l'applicazione
 
 -   Vai nella cartella **Download**, clicca con il tasto destro su **InstallerUnipiazza-x64.zip** e scegli **Estrai tutto**.
     
