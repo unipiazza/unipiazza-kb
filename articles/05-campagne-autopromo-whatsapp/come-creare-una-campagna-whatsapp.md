@@ -1,4 +1,5 @@
 ---
+article_id: 71245
 collection_id: 7182
 collection: "📢 Campagne, Automazioni e Whatsapp"
 title: "Come creare una campagna WhatsApp passo passo"
