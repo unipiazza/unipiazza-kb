@@ -8,8 +8,8 @@ description: 'Piano attivo, utilizzi, funzionalità incluse e fatture scaricabil
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-11-11'
-last_synced: '2026-11-11'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Vuoi sapere quanto stai pagando, quanti crediti ti restano e quali funzionalità hai attive? La sezione **Piano & Consumi** è la tua pagina di controllo: tutto in un colpo d'occhio. 👀
