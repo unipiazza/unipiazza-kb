@@ -73,8 +73,9 @@ Quando hai finito premi **Programma invio**, poi **Richiedi revisione**, e la ca
 
 - 🔍 **Mentre il team la controlla**: esce dalla revisione e non parte finché non la rimandi.
 - 🗓️ **Quando è approvata o programmata**: fino a **5 minuti** prima dell'orario di invio. Dopo il bottone si disattiva, perché la campagna sta per partire.
-- 🚀 **Se hai scelto «Invia subito»**: la campagna parte all'istante, quindi non c'è tempo per riportarla in bozza.
-- ✅ **Quando è inviata**: non si può più fermare. Aprendola trovi le sue statistiche, come spieghiamo in [Il dettaglio della campagna inviata: statistiche e analisi](https://supporto.unipiazza.it/it/articles/61970-dettaglio-campagna-inviata-statistiche-e-analisi).
+- 🚀 **Se nell'Orario di invio hai scelto «Invia subito»**: la campagna parte appena il team la approva, quindi puoi riportarla in bozza solo mentre è in revisione.
+- ✅ **Quando è inviata**: non si può più fermare. Aprendola trovi le sue statistiche, come spieghiamo in [Il dettaglio della campagna inviata: statistiche e analisi](https://supporto.unipiazza.it/it/articles/61970-dettaglio-campagna-inviata-statistiche-e-analisi) [[dettaglio-campagna-inviata-statistiche-e-analisi]].
+- 🛑 **Se la trovi Scaduta**: il team ha chiuso la campagna senza inviarla, e nella sua pagina trovi il motivo. Puoi duplicarla, sistemarla e rimandarla.
 
 Se mentre la riporti in bozza il team la approva, te lo diciamo subito e puoi riportarla in bozza lo stesso. In quel caso, quando la rimandi, ripassa dalla revisione.
 
