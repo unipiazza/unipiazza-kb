@@ -39,7 +39,7 @@ In alto nel profilo trovi il bottone blu **Azioni**. Aprilo e scegli **🗑️ E
 **4. Scrivi elimina e conferma**
 Si apre la finestra **Vuoi eliminare questo cliente?**, che sotto **Cosa si perde** ti mostra quanti gettoni, premi ritirati e visite ha il cliente. Scrivi *elimina* nel campo e premi il bottone rosso **Elimina cliente**. Il Gestionale ti riporta alla Lista Clienti, e lui non c'è più.
 
-I clienti si eliminano uno alla volta, sempre dal loro profilo. Se la voce **Elimina cliente** è grigia, il tuo utente non ha il permesso di modificare i clienti, e te lo può dare il titolare del locale.
+I clienti si eliminano uno alla volta, sempre dal loro profilo. Se la voce **Elimina cliente** è grigia, il tuo utente non ha il permesso di modificare i clienti. Scrivici e lo sistemiamo noi, come spieghiamo in [Come gestire i permessi degli amministratori](https://supporto.unipiazza.it/it/articles/71247-come-gestire-i-permessi-degli-amministratori) [[come-gestire-i-permessi-degli-amministratori]].
 
 ## Cosa succede quando elimini un cliente
 
