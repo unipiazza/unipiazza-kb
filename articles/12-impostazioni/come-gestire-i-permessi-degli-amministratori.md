@@ -1,0 +1,62 @@
+---
+collection_id: 7257
+collection: ⚙️ Impostazioni
+title: Come gestire i permessi degli amministratori
+slug: come-gestire-i-permessi-degli-amministratori
+description: Decidi tu cosa può vedere e cosa può modificare ogni persona del tuo team nel Gestionale.
+status: published
+written_by: 2961
+keywords:
+  - permessi
+  - amministratori
+  - collaboratori
+  - dipendenti
+  - non hai i permessi
+  - bottone grigio
+  - accesso gestionale
+  - ruoli
+is_featured: false
+locale: it
+---
+
+Nel tuo locale il Gestionale lo usano anche altre persone? Magari il responsabile di sala che accredita i gettoni, o la socia che segue le campagne. Con i permessi decidi tu cosa può vedere e cosa può cambiare ognuno, sezione per sezione. 🔐
+
+## Dove si trovano
+
+**1. Scegli il punto vendita**<br>Se hai più punti vendita, selezionane uno dal menu in alto, perché le Impostazioni si aprono un locale alla volta.
+
+**2. Vai in Impostazioni**<br>Scorri fino al riquadro **Gestisci i permessi degli amministratori**.
+
+**3. Apri il nome della persona**<br>Premi sul nome e si apre la tabella dei suoi permessi.
+
+**4. Spunta quello che può fare**<br>Per ogni sezione hai due caselle. **Visualizzazione** vuol dire che la vede, **Modifica** che può anche cambiarla.
+
+**5. Premi Salva**<br>Quando compare **Permessi salvati con successo** è fatta.
+
+💡 Il riquadro compare solo se sul punto vendita ci sono altri amministratori, e non lo vedono tutti gli utenti. Se non trovi **Gestisci i permessi degli amministratori**, chiedi a chi gestisce il profilo della tua attività oppure scrivici.
+
+## Le sezioni che puoi controllare
+
+📋 **Visite in Storico Azioni**<br>Con Modifica può accreditare gettoni e correggere le visite.
+
+🎁 **Premi in Storico Azioni**<br>Con Modifica può scaricare i premi ai clienti.
+
+👥 **Clienti**<br>Con Modifica può inserire numero, email e compleanno ed eliminare un cliente.
+
+📝 **Note Clienti**, **Lista Premi**, **Abbonamenti**, **Campagne**, **Wallet**, **GiftCard**, **Booster**<br>Ognuna con la sua Visualizzazione e la sua Modifica.
+
+⚙️ **Autopromo**<br>Sono le Automazioni. Senza Visualizzazione, aprendo la sezione legge **Non hai i permessi per vedere le automazioni**.
+
+🏪 **Vetrina e Impostazioni**<br>La Visualizzazione è sempre attiva, puoi decidere solo se può modificarle.
+
+🧾 **Piano & Consumi**<br>Qui c'è solo Visualizzazione. Senza, non vede le fatture.
+
+## Cosa vede chi non ha un permesso
+
+I bottoni delle azioni che non può fare restano grigi. Passandoci sopra legge **Non hai i permessi per questa funzionalità**, così sa subito che non è un errore del Gestionale e che deve chiedere a te.
+
+## Aggiungere una persona nuova
+
+Dal Gestionale gestisci i permessi delle persone che hanno già un accesso. Se vuoi dare l'accesso a una persona nuova, scrivici e ti diciamo come fare.
+
+Hai un dubbio su chi deve vedere cosa? Scrivici su WhatsApp al **388 8665987**, ti aiutiamo a organizzare il tuo team!

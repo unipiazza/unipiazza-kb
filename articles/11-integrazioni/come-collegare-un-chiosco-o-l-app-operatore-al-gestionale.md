@@ -1,4 +1,5 @@
 ---
+article_id: 71246
 collection_id: 8104
 collection: 🧩 Integrazioni
 title: Come collegare un Chiosco Unipiazza o l'App Operatore al Gestionale
