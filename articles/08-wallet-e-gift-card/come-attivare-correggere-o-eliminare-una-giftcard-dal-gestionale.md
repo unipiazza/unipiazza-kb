@@ -44,7 +44,7 @@ In **Wallet › Attivi**, nella tabella **GiftCard da riscattare**, trovi tutte 
 
 ✏️ **Hai sbagliato l'importo**<br>Premi la matita accanto alla GiftCard, scrivi l'importo giusto e premi **Modifica GiftCard**.
 
-🗑️ **Vuoi eliminarla**<br>Premi il cestino rosso e conferma con **Si**. La GiftCard sparisce dalla tabella e il suo credito non si può più riscattare.
+🗑️ **Vuoi eliminarla**<br>Premi il cestino rosso e conferma con **Si**. La GiftCard sparisce dalla tabella e il suo credito non si può più riscattare. La tessera invece torna libera, quindi puoi usarla per una nuova GiftCard o per iscrivere un cliente.
 
 Una volta riscattata, la GiftCard diventa credito nel Wallet del cliente e non compare più in questa tabella. Da lì il saldo si corregge con **Modifica Wallet**, dalla tabella **Wallet attivati** o dal profilo del cliente.
 

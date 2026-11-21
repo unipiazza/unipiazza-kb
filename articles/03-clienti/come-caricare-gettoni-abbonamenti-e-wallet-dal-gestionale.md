@@ -60,7 +60,7 @@ Scegli **Gestisci abbonamenti**. Si apre **Abbonamenti cliente** con gli abbonam
 
 Scegli **Modifica Wallet**. Qui non scrivi quanto aggiungere o togliere, ma il nuovo saldo del cliente. Sotto il campo il Gestionale ti dice cosa succederà.
 
-⬆️ **Se il saldo sale**<br>È una ricarica. Per esempio, il cliente ha 10€ e ha appena ricaricato 50€, quindi scrivi 60€.
+⬆️ **Se il saldo sale**<br>È una ricarica. Per esempio, il cliente ha 10€ e ha appena ricaricato 50€, quindi scrivi 60€. Se nel tuo locale hai attivo il credito extra sulle ricariche, il Gestionale lo aggiunge anche qui. Con il 10% in più, per esempio, il saldo finale diventa 65€. Al cliente arriva anche il messaggio della ricarica.
 
 ⬇️ **Se il saldo scende**<br>È un pagamento con il Wallet. Per esempio, il cliente ha 60€ e spende 15€, quindi scrivi 45€. Il pagamento si registra come un acquisto, e il cliente riceve anche i gettoni per quei 15€.
 
