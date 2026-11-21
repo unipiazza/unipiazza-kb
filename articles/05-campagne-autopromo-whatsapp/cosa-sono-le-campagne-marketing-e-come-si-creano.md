@@ -21,8 +21,8 @@ keywords:
 sort: 0
 is_featured: false
 locale: it
-updated_at: '2026-11-13'
-last_synced: '2026-11-13'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Le [Campagne](https://partner.unipiazza.it/campagne) marketing sono un pezzo forte del tuo programma fedeltà. Con queste puoi raggiungere i tuoi clienti con email, notifiche dell'app e messaggi RCS, per far conoscere un prodotto, un evento, una promozione o qualsiasi cosa tu voglia.
@@ -51,20 +51,30 @@ Ogni cliente riceve la campagna dai canali che ha a disposizione e in base alle 
 
 Quanti dei tuoi clienti sono raggiungibili, e su quale canale, lo vedi in Clienti, poi Analisi clienti, nel riquadro "Clienti contattabili". Se una campagna è arrivata a meno persone del previsto, trovi i motivi in [Perché la campagna è arrivata a meno clienti di quelli selezionati?](https://supporto.unipiazza.it/it/articles/65381-perche-la-campagna-e-arrivata-a-meno-clienti-di-quelli-selezionati).
 
-Ecco come creare una campagna passo passo:
+Ecco come creare una campagna passo passo.
 
-**1. Vai nella sezione [Campagne](https://partner.unipiazza.it/campagne)** e premi "Crea nuova campagna".
+**1. Scegli il tipo di campagna**<br>Vai in [Campagne](https://partner.unipiazza.it/campagne), premi **Crea nuova campagna** e scegli tra **Annuncio**, **Evento** e **Promo**. La quarta scheda è **WhatsApp**, che ha un suo percorso e ti spieghiamo in [Campagne WhatsApp: come funzionano, quanto costano e come iniziare](https://supporto.unipiazza.it/it/articles/61972-campagne-whatsapp-come-funzionano-costi-e-come-iniziare) [[campagne-whatsapp-come-funzionano-costi-e-come-iniziare]].
 
-**2. Scegli il tipo** tra Annuncio, Evento o Promozione.
+**2. Dai un nome alla campagna**<br>Ti proponiamo un nome come *Campagna Promo - 21/11/2026, 10:30*, che puoi cambiare. Il nome serve a te per ritrovarla, i clienti non lo vedono. Premi **Inizia** e la campagna è già salvata tra le bozze. Da qui in poi ogni modifica si salva da sola.
 
-**3. Seleziona i destinatari**: puoi scegliere tra tutti i clienti, le etichette di default (Nuovi, Vip, Ti seguono, Inattivi) o una tua lista clienti personalizzata. Se vuoi scrivere solo ad alcuni clienti scelti da te, prima li metti in una lista dalla sezione Clienti con **Aggiungi ad una lista**, come spieghiamo in [Posso inviare una campagna solo ad alcuni clienti?](https://supporto.unipiazza.it/it/articles/30681-posso-inviare-una-campagna-solo-ad-alcuni-clienti).
+**3. Compila i passaggi**<br>La pagina della campagna è una lista di passaggi. Apri ognuno, compilalo e premi **Salva**.
 
-**4. Imposta i dettagli**: nome della campagna, oggetto email e il **testo di anteprima** dell'email (la riga che appare in anteprima nella casella di posta prima di aprire il messaggio).
+1. 🏪 **Mittente**. Compare solo se hai più punti vendita. Scegli quali inviano la campagna. Ogni cliente riceve un solo messaggio, a nome del punto vendita che ha visitato di più tra quelli scelti.
+2. 👥 **Destinatari**. Scegli **Tutti i clienti** oppure una lista, come le liste preimpostate (Nuovi, VIP, Ti seguono, Inattivi) o una lista fatta da te. Accanto vedi quanti clienti la riceveranno. Per scrivere solo ad alcuni clienti scelti da te, prima li metti in una lista, come spieghiamo in [Posso inviare una campagna solo ad alcuni clienti?](https://supporto.unipiazza.it/it/articles/30681-posso-inviare-una-campagna-solo-ad-alcuni-clienti) [[posso-inviare-una-campagna-solo-ad-alcuni-clienti]].
+3. ✉️ **Oggetto e notifica**. L'**oggetto** (fino a 100 caratteri) è quello che il cliente legge nella posta, nella notifica dell'app e come titolo dell'RCS. Il **testo di anteprima** (fino a 150 caratteri) compare solo nell'email, sotto l'oggetto. Se lasci vuoto l'oggetto usiamo il nome della campagna, quindi conviene sempre scriverlo.
+4. 🎨 **Contenuto & Design**. Premi **Inizia a creare** e scegli **Crea da zero** oppure **Crea con Olivia (AI)**, che ti prepara una bozza da sistemare. Nell'editor a tutto schermo trovi l'immagine, il messaggio principale, il testo, un pulsante per farti chiamare, scrivere su WhatsApp o aprire il tuo sito, e la **Mappa** con i contatti della tua attività in fondo all'email (è accesa di partenza, e se non la vuoi la spegni). L'anteprima ti mostra come arriva via email e via RCS. Con **Inserisci variabile** aggiungi nome, saldo Gettoni e altri dati del cliente, come spieghiamo in [Personalizza le tue Campagne con le Variabili](https://supporto.unipiazza.it/it/articles/67839-personalizza-le-campagne-con-le-variabili) [[personalizza-le-campagne-con-le-variabili]].
+5. 🕐 **Orario di invio**. Scegli **Invia subito** oppure **Programma l'invio**, con giorno e ora.
 
-**5. Progetta il contenuto** nell'editor a tutto schermo: scrivi il testo, aggiungi immagini, formatta e, se vuoi, inserisci un bottone che porti il cliente a chiamarti o a scriverti su WhatsApp. L'anteprima mostra in tempo reale com'è sia l'email sia il messaggio RCS. Per rendere ogni messaggio personale puoi inserire nome, cognome, saldo Gettoni e altri dati dei clienti con il pulsante **Inserisci variabile**, in oggetto, anteprima, titolo, testo e bottone. Ti spieghiamo come in [Personalizza le tue Campagne con le Variabili](https://supporto.unipiazza.it/it/articles/67839-personalizza-le-campagne-con-le-variabili).
+📅 **Evento e Promo hanno le date**<br>In una campagna **Evento** scrivi il giorno di inizio e di fine dell'evento. In una **Promo** scrivi la promozione nel dettaglio (per esempio *"20% di sconto sul pranzo"*) e i giorni in cui è valida, dal primo all'ultimo incluso. Con il link **Ecco come vedranno la Promo sul Chiosco i tuoi clienti** vedi come appare sul Chiosco Unipiazza. Nella Promo il testo sotto il messaggio principale è facoltativo.
 
-**6. Scegli come inviare**: con la **revisione del team Unipiazza** (che controlla la campagna e ottimizza data e orario) oppure **senza revisione**, direttamente tu. Ti spieghiamo la differenza in [Inviare una campagna senza approvazione](https://supporto.unipiazza.it/it/articles/61971-inviare-una-campagna-senza-approvazione).
+🧪 **Prova prima di inviare**<br>Quando il contenuto è completo compare **Invia test**. Scrivi un indirizzo email (ti proponiamo il tuo) e ti arriva un'anteprima dell'email. Per mandare il test servono anche l'oggetto e il messaggio principale.
 
-Da quel momento, aprendo la campagna da **Le tue campagne**, vedi a che punto è (mandata al team, in revisione, programmata o inviata). Ti sei accorto di un errore? Finché non parte puoi riportarla in bozza e sistemarla, come spieghiamo in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/70971-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza).
+**4. Premi Programma invio**<br>Il bottone si accende quando tutti i passaggi sono completi. Se resta grigio, ti spieghiamo cosa controllare in [Perché non riesco a programmare la campagna?](https://supporto.unipiazza.it/it/articles/71244-perche-non-riesco-a-programmare-la-campagna) [[perche-non-riesco-a-programmare-la-campagna]].
 
-Prima di creare la tua prima campagna ti consigliamo di leggere [questo nostro articolo](https://supporto.unipiazza.it/it/articles/27452-suggerimenti-per-scrivere-una-campagna-marketing-perfetta) che riassume i nostri suggerimenti per scrivere una campagna marketing perfetta. Una volta inviata, trovi tutte le statistiche nel dettaglio della campagna inviata.
+**5. Mandala al team**<br>Nella finestra che si apre scegli **Fai controllare la campagna**, aggiungi una nota se vuoi e premi **Richiedi revisione**. Un consulente Unipiazza la controlla dal lunedì al venerdì, dalle 9:00 alle 18:00, e una volta approvata parte all'orario che hai scelto. L'invio diretto, senza controllo, per ora non è disponibile, come spieghiamo in [Si può inviare una campagna senza approvazione?](https://supporto.unipiazza.it/it/articles/61971-inviare-una-campagna-senza-approvazione) [[inviare-una-campagna-senza-approvazione]].
+
+Da quel momento, aprendo la campagna da **Le tue campagne**, vedi a che punto è (mandata al team, in revisione, programmata o inviata). Ti sei accorto di un errore? Finché non parte puoi riportarla in bozza e sistemarla, come spieghiamo in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/70971-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza) [[dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza]].
+
+🗓️ **Quante campagne puoi inviare?**<br>Ogni piano ne include un certo numero all'anno, e quante ne hai già usate lo vedi in **Piano & Consumi**, come spieghiamo in [Cosa vedo nella sezione "Piano & Consumi"?](https://supporto.unipiazza.it/it/articles/63774-cosa-vedo-nella-sezione-piano-e-consumi) [[cosa-vedo-nella-sezione-piano-e-consumi]].
+
+Prima di creare la tua prima campagna ti consigliamo di leggere [Suggerimenti per scrivere una Campagna Marketing perfetta](https://supporto.unipiazza.it/it/articles/27452-suggerimenti-per-scrivere-una-campagna-marketing-perfetta) [[suggerimenti-per-scrivere-una-campagna-marketing-perfetta]]. Una volta inviata, trovi tutte le statistiche in [Il dettaglio della campagna inviata: statistiche e analisi](https://supporto.unipiazza.it/it/articles/61970-dettaglio-campagna-inviata-statistiche-e-analisi) [[dettaglio-campagna-inviata-statistiche-e-analisi]].

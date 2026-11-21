@@ -67,14 +67,6 @@ In entrambi i casi il reset avverrà alle **23:59** del giorno selezionato e pot
 
 ⚡ **Reset fra meno di 2 giorni**<br>Non parte nessun promemoria. Se il reset è entro 24 ore il Gestionale ti chiede di confermarlo, ricordandoti che i clienti non verranno avvisati.
 
-## Da sapere
-
-🔁 **Un reset alla volta**<br>Finché c'è un reset programmato, nel riquadro vedi data e ora (e, se è per lista, quale lista e quanti clienti coinvolge), e non puoi programmarne un altro. Per cambiarlo premi **Annulla reset** e rifallo da capo.
-
-📨 **Annullare dopo i promemoria**<br>Puoi annullare anche dopo che è partito un promemoria, ma il messaggio ai clienti ormai è arrivato. Il Gestionale te lo ricorda prima di annullare, e ti conviene avvisarli tu che i gettoni restano.
-
-🏪 **Se i tuoi punti vendita condividono i gettoni**<br>Il reset vale per tutta la catena, e il Gestionale te lo ricorda con **Questo reset dei gettoni coinvolgerà tutta la catena**. Per la catena c'è un solo reset programmato alla volta, quindi se un altro punto vendita l'ha già fissato, vedi **Esiste già un reset coins programmato per questa catena**.
-
 Se hai attivato l'opzione, i clienti riceveranno automaticamente un'email e/o un messaggio RCS che li informa della scadenza 14 giorni prima e 2 giorni prima la data scelta.<br><br>Ecco la comunicazione che verrà inviata 14 giorni prima 👇
 
 ![Email di promemoria inviata 14 giorni prima del reset](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/29a0e6d53823def3c5c789caa4e5c20b/Screenshot_5.jpg)
@@ -84,3 +76,11 @@ Ecco la comunicazione che verrà inviata 2 giorni prima 👇
 ![Email di promemoria inviata 2 giorni prima del reset](https://blackhole.customerly.io/attachments/2662e53a/accounts/45263/6a49206e87ecfb948b6f042455095400/Screenshot_6.jpg)
 
 💡 _Il promemoria è facoltativo, ma consigliatissimo: aiuta i tuoi clienti a usare gli ultimi gettoni prima dell’azzeramento._
+
+## Da sapere
+
+🔁 **Un reset alla volta**<br>Finché c'è un reset programmato, nel riquadro vedi data e ora (e, se è per lista, quale lista e quanti clienti coinvolge), e non puoi programmarne un altro. Per cambiarlo premi **Annulla reset** e rifallo da capo.
+
+📨 **Annullare dopo i promemoria**<br>Puoi annullare anche dopo che è partito un promemoria, ma il messaggio ai clienti ormai è arrivato. Il Gestionale te lo ricorda prima di annullare, e ti conviene avvisarli tu che i gettoni restano.
+
+🏪 **Se i tuoi punti vendita condividono i gettoni**<br>Il reset vale per tutta la catena, e il Gestionale te lo ricorda con **Questo reset dei gettoni coinvolgerà tutta la catena**. Per la catena c'è un solo reset programmato alla volta, quindi se un altro punto vendita l'ha già fissato, vedi **Esiste già un reset coins programmato per questa catena**.
