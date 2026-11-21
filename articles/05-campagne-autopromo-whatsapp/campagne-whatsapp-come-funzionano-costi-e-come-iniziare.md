@@ -16,8 +16,8 @@ keywords:
 sort: 2
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-06'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 WhatsApp è il canale di messaggistica più usato dai tuoi clienti, con tassi di apertura che possono superare il **90%**. Ottima notizia: da oggi puoi usarlo anche per le tue campagne Unipiazza! 🎉
@@ -56,8 +56,8 @@ Nel Gestionale vai in **Impostazioni**, poi nella sezione **WhatsApp Business**,
 **2. Aspetta che Meta prepari il numero**
 Meta verifica il numero e prepara i modelli dei messaggi, di solito in un tempo da 4 a 24 ore. Finché in **Impostazioni** non vedi **WhatsApp è pronto**, WhatsApp non si può ancora usare nelle campagne e nelle Automazioni.
 
-**3. Inizia a creare campagne WhatsApp**
-Una volta approvato il numero, puoi creare la tua prima campagna WhatsApp e attivare WhatsApp sulle tue Automazioni (vedi [Come attivare WhatsApp sulle tue Automazioni](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo)).
+**3. Crea la tua prima campagna WhatsApp**
+Una volta approvato il numero, vai in **Campagne**, premi **Crea nuova campagna** e scegli **WhatsApp**. Ti spieghiamo ogni passaggio, dalle regole di Meta per il testo alla revisione, in [Come creare una campagna WhatsApp passo passo](https://supporto.unipiazza.it/it/articles/71245-come-creare-una-campagna-whatsapp) [[come-creare-una-campagna-whatsapp]]. Puoi anche accendere WhatsApp sulle tue Automazioni, come spieghiamo in [Come attivare WhatsApp sulle tue Automazioni](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo) [[come-attivare-whatsapp-sulle-autopromo]].
 
 Ti blocchi a metà strada? Scrivici su WhatsApp al **388 8665987** e ti guidiamo noi. 😊
 
@@ -81,7 +81,7 @@ Solo se ti ha aggiunto in rubrica. Questo si riflette anche nelle statistiche de
 Sì, se è già un numero WhatsApp Business.
 
 **Posso inviare subito una campagna WhatsApp?**
-Per ora no. All'ultimo passo l'opzione **Invia subito** è ancora disattivata (**Presto in arrivo**), quindi scegli **Fai controllare la campagna** e premi **Richiedi revisione**. Un consulente Unipiazza la controlla dal lunedì al venerdì, dalle 9:00 alle 18:00. Se vuoi programmarla, l'orario di invio deve essere almeno 24 ore dopo.
+Per ora no. All'ultimo passo l'opzione **Invia subito** è disattivata (**Presto in arrivo**), come per tutte le campagne, quindi scegli **Fai controllare la campagna** e premi **Richiedi revisione**. Un consulente Unipiazza la controlla dal lunedì al venerdì, dalle 9:00 alle 18:00. Se vuoi programmarla, l'orario di invio deve essere almeno 24 ore dopo.
 
 **Quanto ci vuole per approvare le campagne?**
 Dopo il controllo del team, anche Meta approva il messaggio. Possono volerci pochi minuti o diverse ore, in base allo "stato di salute" del tuo numero WhatsApp. Se Meta lo rifiuta, nell'elenco delle campagne vedi **Rifiutata da META**: scrivici e ti diciamo perché.
