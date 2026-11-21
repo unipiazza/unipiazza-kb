@@ -158,7 +158,7 @@ Invio campagne email/SMS/WhatsApp, Automazioni, RCS, calendario eventi, statisti
 | 61640 | Come verificare il tuo account WhatsApp Business | come-verificare-il-tuo-account-whatsapp-business | published |
 | 61919 | Come collegare WhatsApp Business a Unipiazza | come-collegare-whatsapp-business-a-unipiazza | published |
 | 61970 | Il dettaglio della campagna inviata: statistiche e analisi | dettaglio-campagna-inviata-statistiche-e-analisi | published |
-| 61971 | Inviare una campagna senza approvazione | inviare-una-campagna-senza-approvazione | published |
+| 61971 | Si può inviare una campagna senza approvazione? | inviare-una-campagna-senza-approvazione | published |
 | 61972 | Campagne WhatsApp: come funzionano, quanto costano e come iniziare | campagne-whatsapp-come-funzionano-costi-e-come-iniziare | published |
 | 61973 | Come attivare WhatsApp sulle tue Automazioni | come-attivare-whatsapp-sulle-autopromo | published |
 | 61974 | Il Calendario Eventi: trova l'occasione giusta per la tua prossima campagna | calendario-marketing-unipiazza | published |
