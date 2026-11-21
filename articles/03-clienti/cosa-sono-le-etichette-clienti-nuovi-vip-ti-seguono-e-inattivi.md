@@ -42,7 +42,7 @@ Ecco cosa trovi in questa sezione:
 - **Vip**: i clienti più fedeli. Un cliente diventa Vip se in un certo periodo ti ha visitato almeno un certo numero di volte, oppure ha speso almeno una certa cifra. Per molte attività il punto di partenza è 5 visite negli ultimi 150 giorni, ma cambia molto con il settore (dove i clienti tornano tutti i giorni ne servono molte di più) e lo puoi personalizzare.
 - **Ti seguono:** Questi sono i clienti che hanno premuto su "Segui Attività" dall'App o dal sito Unipiazza ma che non hanno ancora fatto una prima visita.
 - **Inattivi:** quelli che, per una ragione o l'altra, non visitano il tuo locale da un po'. Per molte attività la soglia è di 90 giorni, ma anche questa dipende dal settore ed è personalizzabile.
-- **Archiviati:** I clienti ormai "freddi", che da molto tempo (di partenza 730 giorni, circa due anni) non si fanno più vivi con il tuo locale. Questa lista compare nel menù a tendina della sezione Clienti solo se hai dei clienti archiviati.
+- **Archiviati:** I clienti ormai "freddi", che da molto tempo (di partenza 730 giorni, circa due anni) non passano dal tuo locale **e** non aprono le tue campagne e Automazioni. Se un cliente archiviato torna da te o legge una tua campagna, la notte stessa esce dagli Archiviati. Questa lista compare nel menù a tendina della sezione Clienti solo se hai dei clienti archiviati.
 - **Importati senza visite:** I contatti che hai importato e che non hanno ancora fatto una visita. Compare nel menù solo se hai importato dei contatti.
 
 Nel menù a tendina della sezione Clienti, oltre a queste liste, trovi sempre anche **Tutti i clienti**.

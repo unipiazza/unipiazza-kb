@@ -49,7 +49,7 @@ Vai in **Abbonamenti** e premi sull'abbonamento che vuoi cambiare.
 
 ## Come disattivo o elimino un Abbonamento
 
-⏸️ **Disattivarlo**<br>Sotto il nome premi **🚫 Disattiva abbonamento**. Nella lista lo vedi come **Non attivo**, non puoi più aggiungerlo ai clienti dal Gestionale e la sua pubblicità sul Chiosco si spegne. Chi l'ha già comprato lo trova ancora nel suo profilo, e da **Gestisci abbonamenti** continui a scalarlo come sempre. Per riattivarlo premi **✅ Attiva abbonamento**.
+⏸️ **Disattivarlo**<br>Sotto il nome premi **🚫 Disattiva abbonamento**. Nella lista lo vedi come **Non attivo**, non puoi più aggiungerlo ai clienti dal Gestionale e la sua pubblicità sul Chiosco si spegne. Anche sul Chiosco e nell'App Operatore non compare più tra gli abbonamenti da vendere. Chi l'ha già comprato lo trova ancora nel suo profilo, e da **Gestisci abbonamenti** continui a scalarlo come sempre. Per riattivarlo premi **✅ Attiva abbonamento**.
 
 🗑️ **Eliminarlo**<br>In fondo alla pagina premi **Elimina abbonamento** e conferma con **Elimina**. Prima però controlla che nessun cliente lo stia ancora usando. Se hai dubbi, meglio disattivarlo e basta.
 
