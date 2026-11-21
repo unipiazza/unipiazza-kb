@@ -61,8 +61,8 @@ Il messaggio WhatsApp ha quattro parti. Solo il corpo è obbligatorio.
 
 Ogni messaggio passa dall'approvazione di Meta, che ha regole precise. Sotto il corpo le trovi sempre elencate, e quella che non rispetti diventa rossa.
 
-1️⃣ Il corpo non può iniziare o finire con una variabile. Scrivi "Ciao `{{FNAME}}`, ti aspettiamo!" e non "`{{FNAME}}`, ti aspettiamo".<br>
-2️⃣ Puoi usare al massimo 10 emoji.<br>
+1️⃣ Il corpo non può iniziare o finire con una variabile. Scrivi "Ciao `{{FNAME}}`, ti aspettiamo!" e non "`{{FNAME}}`, ti aspettiamo".
+2️⃣ Puoi usare al massimo 10 emoji.
 3️⃣ Tra un paragrafo e l'altro lascia al massimo una riga vuota.
 
 Finché una regola non è rispettata, il Gestionale non ti lascia inviare la campagna e ti chiede di correggere il testo.
