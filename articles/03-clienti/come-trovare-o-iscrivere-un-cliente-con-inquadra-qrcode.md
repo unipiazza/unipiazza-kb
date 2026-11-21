@@ -30,7 +30,7 @@ Hai il Gestionale aperto sul telefono e davanti un cliente con la sua Tessera Fe
 
 **2. Premi Inquadra QrCode**<br>Lo trovi accanto alla barra di ricerca. La prima volta il browser ti chiede il permesso di usare la fotocamera, e va dato.
 
-**3. Inquadra il QrCode della Tessera**<br>Tieni il QrCode della Tessera Fedeltà dentro il riquadro. Quando lo legge vedi **Ricerca cliente...** e dopo un attimo si apre la pagina giusta. Se il telefono usa la fotocamera sbagliata, premi **Ruota fotocamera**.
+**3. Inquadra il QrCode della Tessera**<br>Tieni il QrCode della Tessera Fedeltà dentro il riquadro. Quando lo legge vedi **Ricerca cliente...** e dopo un attimo si apre la pagina giusta. Se il telefono usa la fotocamera sbagliata, premi **Ruota fotocamera**. Va bene anche la Tessera che il cliente ha salvato sul telefono, in Apple Wallet o Google Wallet, oppure il QrCode del suo profilo sul sito Unipiazza.
 
 ## Cosa succede dopo la scansione
 
