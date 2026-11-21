@@ -13,6 +13,7 @@ keywords:
   - attivare whatsapp
   - autopromo whatsapp
   - canali automazioni
+  - stima costi whatsapp
 sort: 3
 is_featured: false
 locale: it

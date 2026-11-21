@@ -1,4 +1,5 @@
 ---
+article_id: 71250
 collection_id: 7180
 collection: "👨‍👩‍👧‍👦 Clienti"
 title: "Il Chiosco non funziona? Come caricare gettoni, abbonamenti e Wallet dal Gestionale"

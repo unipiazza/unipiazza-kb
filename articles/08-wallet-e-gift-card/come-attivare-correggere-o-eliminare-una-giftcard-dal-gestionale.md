@@ -1,4 +1,5 @@
 ---
+article_id: 71252
 collection_id: 7199
 collection: 💳 Wallet e Gift Card
 title: Come attivare, correggere o eliminare una GiftCard dal Gestionale
