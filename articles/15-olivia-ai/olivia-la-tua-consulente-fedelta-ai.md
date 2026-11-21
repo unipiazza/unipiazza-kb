@@ -28,6 +28,8 @@ Trovi il bottone **"Chiedi ad Olivia"** in alto in qualsiasi sezione del Gestion
 
 ![Bottone "Chiedi ad Olivia"](https://up-kb-assets.s3.eu-west-3.amazonaws.com/15-olivia-ai/61975_ChiediAdOlivia-Bottone.jpg)
 
+Olivia lavora su un punto vendita alla volta. Se hai più punti vendita e nel menu in alto hai scelto **Tutti**, ti chiede di sceglierne uno. Fanno eccezione le catene che condividono lo stesso programma fedeltà, dove puoi parlarle di tutti i punti vendita insieme. In quel caso in cima alla pagina vedi **Stai parlando con Olivia su tutti i punti vendita della catena selezionata**.
+
 ## Cosa puoi chiederle
 
 Dalla sua sezione dedicata puoi fare qualsiasi domanda sul tuo programma fedeltà. Ecco qualche esempio:
