@@ -78,7 +78,7 @@ Oltre a consigliarti, Olivia può preparare alcune cose al posto tuo. Te le most
 
 🏪 **Dati della tua Vetrina**<br>Può proporti di cambiare descrizione, indirizzo, Instagram, numero WhatsApp, nome sul Chiosco, colore, orari e chiusura per ferie. Premendo **Conferma modifica** le modifiche vanno subito online. Occhio al nome, perché cambiandolo cambia anche l'indirizzo della tua Vetrina. Se hai una catena, il titolo della scheda ti dice quale punto vendita stai modificando.
 
-⏳ **Proposta scaduta?**<br>Se una scheda ti dice **Proposta scaduta** o che la modifica non è stata applicata, chiedi a Olivia di rifartela. Ti prepara una proposta nuova con i dati aggiornati.
+⏳ **La modifica non è stata applicata?**<br>Se una scheda ti dice che la modifica non è stata applicata, chiedi a Olivia di rifartela. Ti prepara una proposta nuova con i dati aggiornati.
 
 ## Cosa fa e cosa no
 
