@@ -19,8 +19,8 @@ keywords:
 sort: 16
 is_featured: false
 locale: it
-updated_at: '2026-11-14'
-last_synced: '2026-11-14'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Ogni tanto un cliente va tolto dal tuo programma fedeltà. Magari è un profilo di prova fatto per testare il Chiosco, un'iscrizione partita con i dati sbagliati, oppure è proprio il cliente a chiederti di non farne più parte. Dal Gestionale lo fai in un minuto. Prima però leggi bene cosa succede, perché l'eliminazione non si può annullare.
@@ -37,7 +37,7 @@ Vai in **Clienti**, cercalo e premi sul suo nome.
 In alto nel profilo trovi il bottone blu **Azioni**. Aprilo e scegli **🗑️ Elimina cliente**, l'ultima voce del menu.
 
 **4. Scrivi elimina e conferma**
-Si apre la finestra **Vuoi eliminare questo cliente?**. Scrivi *elimina* nel campo e premi il bottone rosso **Elimina cliente**. Il Gestionale ti riporta alla Lista Clienti, e lui non c'è più.
+Si apre la finestra **Vuoi eliminare questo cliente?**, che sotto **Cosa si perde** ti mostra quanti gettoni, premi ritirati e visite ha il cliente. Scrivi *elimina* nel campo e premi il bottone rosso **Elimina cliente**. Il Gestionale ti riporta alla Lista Clienti, e lui non c'è più.
 
 I clienti si eliminano uno alla volta, sempre dal loro profilo. Se la voce **Elimina cliente** è grigia, il tuo utente non ha il permesso di modificare i clienti, e te lo può dare il titolare del locale.
 
@@ -45,9 +45,11 @@ I clienti si eliminano uno alla volta, sempre dal loro profilo. Se la voce **Eli
 
 🗑️ **Sparisce tutta la sua storia nel tuo locale**<br>Cancelliamo gettoni, visite, premi ritirati, note e lo Storico Azioni del cliente in quel punto vendita. Spariscono anche le promo che aveva ancora da ritirare, come il regalo di compleanno.
 
-💳 **Anche Wallet, Gift Card e abbonamenti**<br>Se il cliente aveva credito nel Wallet, delle Gift Card o un abbonamento da te, vengono cancellati insieme al resto. La finestra di conferma non te lo ricorda, quindi dai un'occhiata al suo profilo prima di procedere. Se ha ancora credito, mettiti d'accordo con lui prima di eliminarlo.
+💳 **Anche Wallet, Gift Card e abbonamenti**<br>Se il cliente aveva credito nel Wallet, delle Gift Card o un abbonamento da te, vengono cancellati insieme al resto. In questo caso la finestra di conferma ti avvisa in rosso con **Questo cliente ha credito che andrà perso** e ti dice quanto credito Wallet e quanti abbonamenti attivi ha. Se vedi l'avviso, mettiti d'accordo con lui prima di eliminarlo.
 
 📵 **Non riceve più le tue comunicazioni**<br>Esce dai destinatari di campagne e Automazioni. Non gli mandiamo nessun avviso dell'eliminazione.
+
+📉 **Scendono anche i numeri delle campagne passate**<br>Il cliente esce anche dalle statistiche di campagne e Automazioni già concluse (invii, aperture, visite ed euro generati), quindi quei totali si abbassano un po'.
 
 🏪 **Resta negli altri punti vendita**<br>Se il cliente è iscritto anche in un altro tuo punto vendita, lì resta tutto com'era. Per toglierlo ovunque ripeti l'operazione su ogni punto vendita.
 
