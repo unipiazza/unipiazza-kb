@@ -23,8 +23,8 @@ keywords:
 sort: 1
 is_featured: false
 locale: it
-updated_at: '2026-11-13'
-last_synced: '2026-11-13'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Hai appena mandato la campagna e ti accorgi di un refuso nell'oggetto, o di una data sbagliata nella promo? Capita a tutti 😅 Finché la campagna non è partita puoi riportarla in bozza, sistemarla e rimandarla.
