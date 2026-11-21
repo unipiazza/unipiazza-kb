@@ -1,4 +1,5 @@
 ---
+article_id: 71249
 collection_id: 7179
 collection: 🏠 Riepilogo
 title: Cosa sono le Offerte Partner?
@@ -14,6 +15,8 @@ keywords:
   - partner
 is_featured: false
 locale: it
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Usare Unipiazza ha un vantaggio in più. Nella sezione **Offerte Partner** trovi sconti e condizioni speciali che abbiamo concordato per te con aziende e professionisti che lavorano con le attività come la tua. 🎁

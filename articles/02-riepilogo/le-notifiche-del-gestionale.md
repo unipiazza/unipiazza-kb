@@ -1,4 +1,5 @@
 ---
+article_id: 71248
 collection_id: 7179
 collection: 🏠 Riepilogo
 title: Le notifiche del Gestionale
@@ -15,6 +16,8 @@ keywords:
   - notifiche bloccate
 is_featured: false
 locale: it
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Il Gestionale ti avvisa quando succede qualcosa di importante nel tuo programma fedeltà. Un cliente nuovo, una campagna partita, un Booster che sta andando forte... e anche le cose da sistemare. 🔔

@@ -31,7 +31,7 @@ Per creare un premio nel tuo programma fedeltà segui questi semplici passi:
 -   Finito? Bene, premi "Salva" e il gioco è fatto. Il tuo premio è pronto per essere guadagnato dai tuoi clienti.
     
 
-Tieni a mente che i premi che crei li vedono tutti, sulla tua Vetrina, sull'App e sul Chiosco nel tuo locale. Se vuoi un premio solo per alcuni clienti, per esempio i VIP, scegli la lista nella colonna **Clienti**, come spieghiamo in [Come riservare Premi e Booster a una lista di clienti](https://supporto.unipiazza.it/it/articles/71243-come-riservare-premi-e-booster-a-una-lista-di-clienti) [[come-riservare-premi-e-booster-a-una-lista-di-clienti]]. Quindi, pensa a descrizioni che fanno venire l'acquolina in bocca e che spingono i tuoi clienti a raccogliere gettoni come se non ci fosse un domani!
+Tieni a mente che i premi che crei li vedono tutti, sulla tua Vetrina, sull'App e sul Chiosco nel tuo locale. Quindi, pensa a descrizioni che fanno venire l'acquolina in bocca e che spingono i tuoi clienti a raccogliere gettoni come se non ci fosse un domani! Se vuoi un premio solo per alcuni clienti, per esempio i VIP, scegli la lista nella colonna **Clienti**, come spieghiamo in [Come riservare Premi e Booster a una lista di clienti](https://supporto.unipiazza.it/it/articles/71243-come-riservare-premi-e-booster-a-una-lista-di-clienti) [[come-riservare-premi-e-booster-a-una-lista-di-clienti]].
 
 ## Come elimino un premio
 

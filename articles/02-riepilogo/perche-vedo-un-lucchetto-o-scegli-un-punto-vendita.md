@@ -1,4 +1,5 @@
 ---
+article_id: 71251
 collection_id: 7179
 collection: 🏠 Riepilogo
 title: Perché vedo un lucchetto o la pagina «Scegli un punto vendita»?
@@ -17,6 +18,8 @@ keywords:
   - pagina vuota
 is_featured: false
 locale: it
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Hai aperto una sezione del Gestionale e l'hai trovata con un lucchetto, oppure al posto dei dati c'è solo un invito a scegliere un punto vendita? Tranquillo, non si è rotto niente. Sono due cose diverse e ti spieghiamo come funzionano. 😊

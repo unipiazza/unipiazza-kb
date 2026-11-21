@@ -1,4 +1,5 @@
 ---
+article_id: 71247
 collection_id: 7257
 collection: ⚙️ Impostazioni
 title: Come gestire i permessi degli amministratori
@@ -17,6 +18,8 @@ keywords:
   - ruoli
 is_featured: false
 locale: it
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Nel tuo locale il Gestionale lo usano anche altre persone? Magari il responsabile di sala che accredita i gettoni, o la socia che segue le campagne. Con i permessi decidi tu cosa può vedere e cosa può cambiare ognuno, sezione per sezione. 🔐
