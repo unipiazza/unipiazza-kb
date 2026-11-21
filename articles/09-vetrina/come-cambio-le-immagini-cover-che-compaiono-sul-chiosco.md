@@ -31,58 +31,58 @@ Ecco alcuni esempi per sfruttare le cover: 
     Incentiva i tuoi clienti ad iscriversi creando delle Cover ad Hoc che pubblicizzano dei premi Fedeltà. 
     
 
-![](../../assets/09-vetrina/28259_image.png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/41139/dc1c0dc3641c091cd29aa817d8daff8e/image.png)
 
 2.  **Offerte Speciali**
     
     Utilizza una cover per mostrare un'offerta speciale, come "3x2 su Bottiglia di vino bianco fermo”
     
 
-![](../../assets/09-vetrina/28259_Cover-Bloccata3.png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/9407c980493f30e2812c0ad952aa2e4b/Cover-Bloccata3.png)
 
 3.  **Eventi o Novità**
     
     Hai un nuovo prodotto o un evento speciale? Evidenzialo con una cover.
     
 
-![](../../assets/09-vetrina/28259_image (6).png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/41139/54f7968f43ffd1202f3302b7e7916001/image%20%286%29.png)
 
 4.  **Promozioni Stagionali**
     
     Le festività sono un ottimo momento per creare cover tematiche che attirano l'attenzione.
     
 
-![](../../assets/09-vetrina/28259_image (4).png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/41139/f7cf633166156c16712540fc3854fb5d/image%20%284%29.png)
 
 5.  **Promo Iscrizione**
     
     Invita i tuoi clienti creando una Cover che li ingolosisca. Degli Esempi “Iscriviti e ottieni subito 50 gettoni”, “Iscriviti e inizia a premiarti!”
     
 
-![](../../assets/09-vetrina/28259_image (2).png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/41139/1f89ca68efbdc824c7586455f020686c/image%20%282%29.png)
 
 6.  **Booster Gettoni**
     
     Pubblicizza un Booster gettoni attivo in quel giorno e orario, che moltiplichi i gettoni per 1,5, per 2 o per 3.
     
 
-![](../../assets/09-vetrina/28259_image (1).png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/41139/3c6abad70131e341bdeeba3151327be7/image%20%281%29.png)
 
 7.  **Abbonamenti Prepagati**
     
     Pubblicizza gli Abbonamenti Prepagati attivi in quell’esatto giorno e orario.
     
 
-![](../../assets/09-vetrina/28259_image (3).png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/41139/95f7dc85a16a72eaecd104de88da6760/image%20%283%29.png)
 
 8.  **GiftCard**
     
     Promuovi le tue GiftCard con una cover che invita i clienti a scoprirne i benefici, ideale per regali o come comodo metodo di pagamento anticipato.  
     
 
-![](../../assets/09-vetrina/28259_Cover-GiftCard.png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/43762b33cf888d9f06eaaf4605b54c29/Cover-GiftCard.png)
 
-9.  **Wallet Gettoni<br>**Utilizza una cover per far conoscere il Wallet, uno strumento pratico per raccogliere gettoni e accedere a vantaggi esclusivi presso il tuo locale.<br><br>
+9.  **Wallet Gettoni**<br>Utilizza una cover per far conoscere il Wallet, uno strumento pratico per raccogliere gettoni e accedere a vantaggi esclusivi presso il tuo locale.<br><br>
     
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p><strong>🥳Viva le automazioni! </strong>Alcune cover nascono da sole. Quando crei un Booster o un Abbonamento, spunta <strong>Pubblicizza automaticamente</strong> e la cover la prepariamo noi. Quando mandi una Campagna Promo o Evento a tutti i tuoi clienti, la cover compare senza che tu debba fare nulla. Un Booster riservato a una lista di clienti, invece, non si può pubblicizzare sul Chiosco.</p></td></tr></tbody></table>

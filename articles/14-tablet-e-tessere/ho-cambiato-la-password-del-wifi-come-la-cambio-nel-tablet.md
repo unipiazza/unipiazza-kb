@@ -23,4 +23,6 @@ last_synced: '2026-07-01'
 4. Una volta connesso il Tablet ripetere la seguente operazione sullo Smartphone Unipiazza.
 5. Riavviate entrambi i dispositivi una volta connessi
 
+📶 **Vuoi controllare che siano tornati online?** Nel Gestionale premi sul tuo nome in alto a destra e apri **Dispositivi**. Per il Chiosco e per l'App Operatore vedi la rete Wi-Fi a cui sono collegati e la potenza del segnale. Se un dispositivo va collegato di nuovo, segui [Come collegare un Chiosco Unipiazza o l'App Operatore al Gestionale](https://supporto.unipiazza.it/it/articles/71246-come-collegare-un-chiosco-o-l-app-operatore-al-gestionale) [[come-collegare-un-chiosco-o-l-app-operatore-al-gestionale]].
+
 📞 Hai seguito i passaggi ma il servizio non funziona? contattaci al numero: [**388 866 5987**](https://tinyurl.com/3675x447)
