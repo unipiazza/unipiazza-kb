@@ -8,7 +8,7 @@ description: 'Creare e attivare un Booster Vendite su Unipiazza è un processo s
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-11-11'
+updated_at: '2026-11-21'
 last_synced: '2026-11-11'
 ---
 
@@ -22,23 +22,37 @@ Ecco come si fa:
     
 2.  **Tipo di Booster:**
     
-    -   **Moltiplicatore Gettoni:** Questa opzione moltiplica i gettoni che i tuoi clienti guadagnano normalmente. Ad esempio, se di solito guadagnano 10 gettoni per ogni euro speso, con un moltiplicatore x2, ne guadagneranno 20. Se scegli x3, per ogni euro speso riceveranno 30 gettoni. È un ottimo modo per attrarre clienti in momenti specifici, come durante un happy hour o in giorni meno affollati.
+    -   **Moltiplicatore Gettoni:** Questa opzione moltiplica i gettoni che i tuoi clienti guadagnano normalmente. Puoi scegliere x1,5, x2 o x3. Se di solito guadagnano 10 gettoni per ogni euro speso, con x1,5 ne guadagnano 15, con x2 ne guadagnano 20 e con x3 ne guadagnano 30. È un ottimo modo per attrarre clienti in momenti specifici, come durante un happy hour o in giorni meno affollati.
         
-    -   **Gettoni Bonus:** A differenza del moltiplicatore, i gettoni bonus aggiungono una quantità fissa di gettoni extra a quelli già guadagnati. Ad esempio, se offri 50 gettoni bonus, il cliente riceverà questi 50 gettoni extra oltre ai gettoni normali per ogni acquisto. Questo può essere particolarmente utile per promuovere un nuovo prodotto o servizio.
+    -   **Gettoni Bonus:** A differenza del moltiplicatore, i gettoni bonus aggiungono una quantità fissa di gettoni extra a quelli già guadagnati. Ad esempio, se offri 50 gettoni bonus, il cliente riceverà questi 50 gettoni extra oltre ai gettoni normali per ogni acquisto. Questo può essere particolarmente utile per promuovere un nuovo prodotto o servizio. Il minimo è 10 gettoni bonus.
         
     ![Nome, tipo e valore del Booster nel modulo Crea booster](https://up-kb-assets.s3.eu-west-3.amazonaws.com/07-booster-e-abbonamenti/27455_CreaBooster-Tipo.jpg)
     
-3.  **Imposta la Durata:** Decidi quando il tuo Booster inizia e finisce. Puoi scegliere date e orari specifici per massimizzare l'effetto.
+3.  **Scegli a chi è rivolto:** Nel riquadro **Clienti a cui è rivolto il Booster** puoi riservarlo a una o più liste di clienti, per esempio i tuoi VIP. Se lasci il campo su **Tutti i clienti**, vale per tutti. Ti spieghiamo come funziona in [Come riservare Premi e Booster a una lista di clienti](https://supporto.unipiazza.it/it/articles/71243-come-riservare-premi-e-booster-a-una-lista-di-clienti) [[come-riservare-premi-e-booster-a-una-lista-di-clienti]].
     
-4.  **Seleziona i Giorni e l'Orario:** Definisci i giorni della settimana e gli orari in cui il Booster sarà attivo, per indirizzare il flusso dei clienti o la vendita di un servizio o prodotto in particolari momenti.
+4.  **Imposta la Durata:** Decidi quando il tuo Booster inizia e finisce. Puoi scegliere date e orari specifici per massimizzare l'effetto.
+    
+5.  **Seleziona i Giorni e l'Orario:** Definisci i giorni della settimana e gli orari in cui il Booster sarà attivo, per indirizzare il flusso dei clienti o la vendita di un servizio o prodotto in particolari momenti.
     
     ![Durata del Booster e giorni con gli orari](https://up-kb-assets.s3.eu-west-3.amazonaws.com/07-booster-e-abbonamenti/27455_CreaBooster-Giorni.jpg)
     
-5.  **Dettagli, poi Salva:** Nel riquadro **Dettagli** scegli due cose. Con **Attiva automaticamente il Booster nella schermata di accredito gettoni** il Booster parte da solo nei giorni e negli orari impostati. Se lo lasci spento, sarà chi accredita i gettoni a premere il bottone del Booster. Con **Pubblicizza automaticamente il Booster sulla tua vetrina Chiosco** i clienti lo vedono sul Chiosco. Alla fine premi **Salva**.
+6.  **Dettagli, poi Salva:** Nel riquadro **Dettagli** scegli due cose. Con **Attiva automaticamente il Booster nella schermata di accredito gettoni** il Booster parte da solo nei giorni e negli orari impostati. Se lo lasci spento, sarà chi accredita i gettoni a premere il bottone del Booster. Con **Pubblicizza automaticamente il Booster sulla tua vetrina Chiosco** i clienti lo vedono sul Chiosco. Alla fine premi **Salva**. L'opzione della vetrina Chiosco si sceglie solo quando crei il Booster, dopo il primo salvataggio non si cambia più. Se hai riservato il Booster a una lista resta spenta, perché il Chiosco lo vedrebbero anche i clienti che non possono usarlo.
     
     ![Riquadro Dettagli con le due opzioni e il pulsante Salva](https://up-kb-assets.s3.eu-west-3.amazonaws.com/07-booster-e-abbonamenti/27455_CreaBooster-Dettagli.jpg)
     
 
 Ricorda, un Booster ben pensato può fare la differenza nel fare ritornare i clienti più spesso o nel far provare loro qualcosa di nuovo che offri.
+
+## Come metto in pausa o elimino un Booster
+
+Vai in **Booster vendite** e premi sul Booster che vuoi cambiare.
+
+⏸️ **Metterlo in pausa**<br>Sotto il nome trovi **🚫 Disattiva booster**. Premilo e il Booster smette di dare gettoni extra, e nella lista lo vedi come **Non attivo**. Quando vuoi farlo ripartire premi **✅ Attiva booster**. Il bottone compare solo fra la data di inizio e quella di fine del Booster.
+
+✏️ **Cambiare le impostazioni**<br>Nome, tipo, valore, clienti, date, giorni e orari li modifichi quando vuoi, poi premi **Salva**. L'unica cosa che non cambia più è l'opzione per pubblicizzarlo sulla vetrina Chiosco.
+
+🗑️ **Eliminarlo per sempre**<br>In fondo alla pagina premi il bottone rosso **Elimina booster**. Occhio, perché il Gestionale non ti chiede conferma e il Booster sparisce subito. Se pensi di riusarlo più avanti, meglio metterlo in pausa.
+
+Se **Salva** ed **Elimina booster** sono grigi, il tuo utente non ha il permesso di modificare i Booster, e te lo può dare il titolare del locale.
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p>💡<strong>Ricordati di promuovere i Booster!</strong> Una volta che hai creato un Booster, ricordati di creare una <strong>campagna</strong> da inviare ai tuoi clienti per informarli! Usa i nostri template che trovi qui per trovare ispirazione.</p></td></tr></tbody></table>
