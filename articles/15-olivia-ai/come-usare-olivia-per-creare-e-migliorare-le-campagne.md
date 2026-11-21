@@ -16,8 +16,8 @@ keywords:
 sort: 1
 is_featured: false
 locale: it
-updated_at: '2026-06-16'
-last_synced: '2026-06-16'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Scrivere il testo di una campagna non è sempre semplice. Olivia ti aiuta proprio lì, nel momento in cui ne hai più bisogno: puoi farle creare l'intera campagna fin dall'inizio, oppure richiamarla più avanti per migliorare un testo che hai già scritto. ✍️
@@ -64,4 +64,4 @@ Ogni interazione con Olivia consuma crediti AI. Se non hai ancora letto come fun
 
 ---
 
-Pronto a inviare la tua campagna? Una volta completato il testo, leggi [Inviare una campagna senza approvazione](https://supporto.unipiazza.it/it/articles/61971-inviare-una-campagna-senza-approvazione) se vuoi capire come spedirla subito, oppure procedi con il flow standard e lascia che il team Unipiazza la ottimizzi per te.
+Pronto a inviare la tua campagna? Premi **Programma invio** e poi **Richiedi revisione**. Un consulente Unipiazza la controlla e, una volta approvata, parte all'orario che hai scelto, come spieghiamo in [Si può inviare una campagna senza approvazione?](https://supporto.unipiazza.it/it/articles/61971-inviare-una-campagna-senza-approvazione) [[inviare-una-campagna-senza-approvazione]].

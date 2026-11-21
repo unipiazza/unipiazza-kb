@@ -6,13 +6,13 @@ title: "Ho cambiato la password del wifi, come la cambio nel tablet?"
 slug: ho-cambiato-la-password-del-wifi-come-la-cambio-nel-tablet
 description: "Cambio password del wi-fi, reimpostala anche sul tablet"
 status: published
-written_by: 2963
+written_by: 2961
 keywords: []
 sort: 1
 is_featured: false
 locale: it
-updated_at: '2023-12-27'
-last_synced: '2026-07-01'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 💡 **Per modificare la password wifi segui questi passaggi:**

@@ -6,10 +6,10 @@ title: Come installare l’App Operatore Unipiazza sul tuo dispositivo Android
 slug: come-installare-l-app-operatore-unipiazza-sul-tuo-dispositivo-android
 description: Con l’App Operatore Unipiazza puoi accreditare i gettoni ai tuoi clienti direttamente da smartphone, tablet o cassa Android.
 status: published
-written_by: 45263
+written_by: 2961
 locale: it
-updated_at: '2026-10-14'
-last_synced: '2026-10-14'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Con l’App Operatore Unipiazza puoi accreditare i gettoni ai tuoi clienti direttamente da smartphone, tablet o cassa Android.
