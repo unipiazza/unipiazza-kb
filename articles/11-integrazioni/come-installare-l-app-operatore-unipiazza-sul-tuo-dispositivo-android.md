@@ -42,7 +42,11 @@ Se il browser ti mostra un avviso di file non sicuro, clicca su **"Scarica file 
     
 -   Clicca sul tasto **Iniziamo** e inserisci il tuo indirizzo email o il tuo numero di telefono.
     
--   Clicca sull'immagine del tuo locale e concedi i permessi richiesti dall'applicazione (Posizione, Batteria e Posizionamento app sullo schermo).
+-   Clicca sull'immagine del tuo locale.
+    
+-   L'app ti chiede un codice di sicurezza. Generalo dal Gestionale in **Dispositivi** e inseriscilo, oppure inquadra il suo QR code. Ti spieghiamo tutto in [Come collegare un Chiosco Unipiazza o l'App Operatore al Gestionale](https://supporto.unipiazza.it/it/articles/71246-come-collegare-un-chiosco-o-l-app-operatore-al-gestionale) [[come-collegare-un-chiosco-o-l-app-operatore-al-gestionale]].
+    
+-   Concedi i permessi richiesti dall'applicazione (Posizione, Batteria e Posizionamento app sullo schermo).
     
 -   Una volta fatto, dopo pochi secondi di sincronizzazione con il Chiosco Unipiazza, l'App Operatore sarà operativa.
     
