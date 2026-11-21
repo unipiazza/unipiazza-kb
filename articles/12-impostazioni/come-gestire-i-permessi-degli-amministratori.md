@@ -36,7 +36,9 @@ Nel tuo locale il Gestionale lo usano anche altre persone? Magari il responsabil
 
 **5. Premi Salva**<br>Quando compare **Permessi salvati con successo** è fatta.
 
-💡 Il riquadro compare solo se sul punto vendita ci sono altri amministratori, e non lo vedono tutti gli utenti. Se non trovi **Gestisci i permessi degli amministratori**, chiedi a chi gestisce il profilo della tua attività oppure scrivici.
+💡 Il riquadro lo vede solo il profilo che abbiamo abilitato a gestire i permessi del tuo team, e solo se sul punto vendita ci sono altri amministratori. Se non trovi **Gestisci i permessi degli amministratori** e vuoi cambiare cosa può fare un collaboratore, scrivici. Lo sistemiamo noi oppure abilitiamo il tuo profilo.
+
+🏪 **Valgono per tutti i tuoi locali**<br>I permessi di una persona sono gli stessi in tutti i punti vendita a cui ha accesso. Se li cambi da un locale, cambiano anche negli altri.
 
 ## Le sezioni che puoi controllare
 
@@ -46,7 +48,9 @@ Nel tuo locale il Gestionale lo usano anche altre persone? Magari il responsabil
 
 👥 **Clienti**<br>Con Modifica può inserire numero, email e compleanno ed eliminare un cliente.
 
-📝 **Note Clienti**, **Lista Premi**, **Abbonamenti**, **Campagne**, **Wallet**, **GiftCard**, **Booster**<br>Ognuna con la sua Visualizzazione e la sua Modifica.
+📝 **Note Clienti**, **Lista Premi**, **Abbonamenti**, **Wallet**, **GiftCard**, **Booster**<br>Ognuna con la sua Visualizzazione e la sua Modifica.
+
+📣 **Campagne**<br>Con Modifica può creare campagne Marketing e WhatsApp e gestire quelle esistenti.
 
 ⚙️ **Autopromo**<br>Sono le Automazioni. Senza Visualizzazione, aprendo la sezione legge **Non hai i permessi per vedere le automazioni**.
 
@@ -60,6 +64,6 @@ I bottoni delle azioni che non può fare restano grigi. Passandoci sopra legge *
 
 ## Aggiungere una persona nuova
 
-Dal Gestionale gestisci i permessi delle persone che hanno già un accesso. Se vuoi dare l'accesso a una persona nuova, scrivici e ti diciamo come fare.
+Le persone nuove le aggiungiamo noi. Scrivici l'email o il numero di telefono con cui la persona si è iscritta a Unipiazza (se non ha ancora un profilo, prima lo crea) e le diamo accesso al tuo locale o a tutta la catena. Poi da qui scegli cosa può fare.
 
 Hai un dubbio su chi deve vedere cosa? Scrivici su WhatsApp al **388 8665987**, ti aiutiamo a organizzare il tuo team!

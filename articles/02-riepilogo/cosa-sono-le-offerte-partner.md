@@ -33,4 +33,4 @@ Le offerte sono divise per tipologia, per esempio **Formazione & Consulenza**, *
 
 **3. Premi su un'offerta**<br>Si apre la scheda con la descrizione del partner, cosa ti offre (**🎁 Offerta**) e come ottenerlo (**📃 Condizioni**).
 
-Per attivare un'offerta segui le condizioni scritte nella sua scheda. Se qualcosa non ti è chiaro, scrivici su WhatsApp al **388 8665987** e ti aiutiamo noi!
+Per attivare un'offerta segui le istruzioni del riquadro **🎁 Offerta**. Di solito basta un link di iscrizione o di prenotazione, un modulo da compilare o un'email al partner, e poi ti accordi direttamente con lui. Le offerte sono riservate a chi non è ancora cliente del partner. Se qualcosa non ti è chiaro, scrivici su WhatsApp al **388 8665987** e ti aiutiamo noi!
