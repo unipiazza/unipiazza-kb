@@ -35,23 +35,23 @@ Tre barre di avanzamento mostrano quanto hai consumato rispetto ai limiti inclus
 ![Il riquadro Consumi con le barre di Olivia AI, Campagne marketing e Tessere Fedeltà](https://up-kb-assets.s3.eu-west-3.amazonaws.com/10-pagamenti-e-fatturazione/63774_Consumi.jpg)
 
 - ✨ **Olivia AI (mensile):** i crediti AI usati nel mese, che si rinnovano il 1° di ogni mese
-- 📣 **Campagne marketing:** le campagne che hai già inviato rispetto a quelle incluse nell'anno
+- 📣 **Campagne marketing:** le campagne che hai già inviato rispetto a quelle incluse nel tuo anno di contratto (48, oppure 150 con Chiosco Plus), con la data in cui il conto riparte. Contano solo le campagne email, notifica e RCS già inviate, non le bozze e non le campagne WhatsApp, che si pagano a messaggio. Quando arrivi al limite non puoi inviarne altre fino al rinnovo, quindi tieni d'occhio la barra, che diventa arancione all'80% e rossa quando sei al massimo.
 - 🪪 **Tessere Fedeltà:** le Tessere Fedeltà che hai già richiesto rispetto a quelle incluse nell'anno, con la data in cui si rinnovano
 
 Hai esaurito i crediti Olivia AI? Clicca su **"Ottieni altri crediti"** direttamente sotto la barra.
-Hai finito le Tessere Fedeltà? Premi su **"Richiedi un nuovo pacco"** sotto la barra. È proprio da qui che si richiedono le Tessere Fedeltà standard. Sotto trovi anche il link **"Ti servono tessere personalizzate col tuo logo?"**. Tutti i dettagli sono in [Ho finito le tessere, come posso richiederne delle altre?](https://supporto.unipiazza.it/it/articles/4366-ho-finito-le-tessere-come-posso-richiederne-delle-altre) [[ho-finito-le-tessere-come-posso-richiederne-delle-altre]]
+Hai finito le Tessere Fedeltà? Premi **Richiedi un nuovo pacco** sotto la barra. Puoi ricaricare solo le tessere, con un pacco una tantum a 0,40€ + IVA a tessera, che arriva entro 48 ore con una fattura a parte. Se hai un piano più piccolo di Chiosco Plus ti proponiamo anche di passare a **Chiosco Plus**, che include 600 Tessere Fedeltà all'anno e 150 campagne. Prima di confermare vedi il nuovo canone e da quando parte. Sotto la barra trovi anche il link **Ti servono tessere personalizzate col tuo logo?**. Tutti i dettagli sono in [Ho finito le tessere, come posso richiederne delle altre?](https://supporto.unipiazza.it/it/articles/4366-ho-finito-le-tessere-come-posso-richiederne-delle-altre) [[ho-finito-le-tessere-come-posso-richiederne-delle-altre]]
 
 ---
 
 ## Funzionalità del tuo piano
 
-Un elenco chiaro di tutto quello che è incluso nel tuo piano: Autopromo, Booster Vendite, Abbonamenti Prepagati, Wallet & GiftCard, eShop, Olivia AI, Campagne WhatsApp... e molto altro a seconda del piano sottoscritto.
+L'elenco di quello che è incluso nel tuo piano, per esempio Booster Vendite, Abbonamenti Prepagati, Wallet & GiftCard, Olivia AI e Campagne WhatsApp. Cosa vedi dipende dal piano che hai sottoscritto.
 
 ---
 
 ## Dati di fatturazione
 
-Nel riquadro **Intestazione fiscale** trovi i dati che usiamo per intestarti le fatture: intestazione, partita IVA, sede legale, codice destinatario e PEC. Se qualcosa non è giusto, o manca il codice destinatario, premi su **Modifica** e correggilo.
+Nel riquadro **Intestazione fiscale** trovi i dati che usiamo per intestarti le fatture: intestazione, partita IVA, sede legale, codice destinatario e PEC. Con **Modifica** cambi il **Codice destinatario** (7 caratteri) e la **PEC**, cioè dove ti arrivano le fatture elettroniche. Puoi inserirne uno, l'altro o tutti e due. Intestazione, partita IVA e sede legale invece non si cambiano da qui. Se sono sbagliate scrivici e le correggiamo noi.
 
 ![Il riquadro Intestazione fiscale con il bottone Modifica](https://up-kb-assets.s3.eu-west-3.amazonaws.com/10-pagamenti-e-fatturazione/63774_DatiFatturazione.jpg)
 

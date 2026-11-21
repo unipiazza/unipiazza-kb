@@ -4,68 +4,32 @@ collection_id: 7257
 collection: ⚙️ Impostazioni
 title: Guida alle Risoluzioni delle Immagini su Unipiazza
 slug: guida-alle-risoluzioni-delle-immagini
-description: Ecco una guida rapida alle risoluzioni delle immagini consigliate per le diverse funzioni di Unipiazza.
+description: Le misure giuste per Vetrina, logo, Chiosco, campagne e Automazioni, così le tue foto escono sempre perfette.
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-11-12'
-last_synced: '2026-11-12'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
-Quando carichi immagini su Unipiazza, è essenziale utilizzare le dimensioni corrette per garantire una visualizzazione ottimale su tutte le piattaforme. Ecco una guida rapida alle risoluzioni delle immagini consigliate per le diverse funzioni di Unipiazza.
+Una bella foto fa venire voglia di passare a trovarti, ma solo se si vede bene! 📸 Qui trovi le misure giuste per ogni immagine che carichi su Unipiazza.
 
-<br>
+Una regola vale per tutte. Quando carichi una foto dal Gestionale la ritagli e la salviamo al massimo a 1280 pixel sul lato più lungo. Partire da una foto più grande non dà un risultato migliore, mentre una foto troppo piccola si vede sgranata.
 
-**Immagini Vetrina (Web & App)**
-
-\- Formato: 16:10
-
-\- Dimensione minima: 480x300 pixel
-
-\- Dimensione consigliata: 1280x800 pixel
+🏪 **Immagini copertina della Vetrina (Web & App)**<br>Formato 16:10, il ritaglio è già impostato. Carica foto di almeno 1280×800 pixel. Puoi metterne fino a 3.
 
 ![Una foto 16:10 di un panificio: sul sito web si vede intera, nell'app Android e iOS si vede solo la fascia centrale 21:9](https://up-kb-assets.s3.eu-west-3.amazonaws.com/12-impostazioni/38701_Vetrina-Formato-16-10-e-21-9.jpg)
 
 <table style="min-width: 25px;"><colgroup><col style="min-width: 25px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota:</strong> Come vedi nell’immagine qui sopra, su App Android e iOS, la parte superiore e inferiore delle immagini viene leggermente tagliata (il formato visualizzato è 21:9). Sul sito web invece l’immagine si vede sempre intera. Sugli schermi più larghi, come quelli dei computer, ai lati compare una versione sfocata della stessa immagine.&nbsp;</p></td></tr></tbody></table>
 
-**Immagini Cover Chiosco**
+🖼️ **Logo della Vetrina**<br>Quadrato, PNG o JPG. Meglio se di almeno 512×512 pixel, il minimo è 144×144.
 
-\- Formato: 16:10
+📟 **Cover Chiosco**<br>Formato 16:10, il ritaglio è già impostato. Carica foto di almeno 1280×800 pixel.
 
-\- Dimensione minima: 480x300 pixel
-
-\- Dimensione consigliata: 1920x1200 pixel
-
-La risoluzione **1920×1200 px** è quella specifica del tablet **Honor Pad X8a**, fornito nei **Kit Unipiazza Full**.
-
-Se utilizzi altri tablet, la risoluzione potrebbe variare in base al modello, ma consigliamo sempre di caricare immagini in **alta risoluzione** per evitare perdita di qualità.
-
-<br>📅 **Attenzione:** se hai acquistato il servizio **prima di settembre 2025**, il tuo Chiosco potrebbe utilizzare un tablet con risoluzione massima **1280×800 px**, quindi puoi mantenere quella come riferimento.
-
-![](../../assets/12-impostazioni/38701_HonorUgreen.png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/e12820446c626d0813288daef87b1fa4/HonorUgreen.png)
 
 <table style="min-width: 25px;"><colgroup><col style="min-width: 25px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota:</strong> È da tenere presente che sopra all’immagine cover compariranno degli elementi dell’interfaccia che copriranno alcune zone dell’immagine. Qui sopra vedi un esempio.</p></td></tr></tbody></table>
 
-**Automazioni e Campagne**
+📢 **Campagne Marketing, Campagne WhatsApp e Automazioni**<br>Il ritaglio parte in formato 1,91:1, quello delle anteprime dei link, ma puoi allargarlo o stringerlo come preferisci. Per il formato di partenza carica foto di almeno 1280×670 pixel.
 
-\- Formato: Libero, ma si consiglia 16:10 per una migliore leggibilità
-
-\- Dimensione minima: 300x300 pixel
-
-\- Dimensione consigliata: 1280x800 pixel o superiore
-
-<table style="min-width: 25px;"><colgroup><col style="min-width: 25px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota:</strong> Le campagne vengono mostrate via Email, RCS e Notifiche App.</p></td></tr></tbody></table>
-
-**Campagne Generiche, Evento o Promo**
-
-\- Formato: Libero, ma si consiglia 16:10 per una migliore leggibilità
-
-\- Dimensione minima: 300x300 pixel
-
-\- Dimensione consigliata: 1280x800 pixel o superiore
-
-<table style="min-width: 25px;"><colgroup><col style="min-width: 25px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><p><strong>💡Nota:</strong> Le campagne vengono mostrate via Email, RCS, Notifiche App, Chiosco Tablet e Vetrina Web.</p></td></tr></tbody></table>
-
-Seguendo queste linee guida, garantirai che le tue immagini siano sempre visualizzate correttamente, migliorando l'esperienza utente dei tuoi clienti sia sul web che sulle app. 
-
-<br>
+Seguendo queste misure le tue immagini si vedono sempre al meglio, sul web, nell'App e sul Chiosco. 😉
