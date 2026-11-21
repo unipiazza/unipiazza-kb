@@ -1,4 +1,5 @@
 ---
+article_id: 71253
 collection_id: 7180
 collection: "👨‍👩‍👧‍👦 Clienti"
 title: "Come trovare o iscrivere un cliente con Inquadra QrCode"

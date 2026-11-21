@@ -23,7 +23,7 @@ La sezione [Impostazioni](https://partner.unipiazza.it/impostazioni) del tuo pan
 
 ![La parte alta di Impostazioni con Modalità vacanza, Orario spegnimento Chiosco e Obiettivo iscritti](https://up-kb-assets.s3.eu-west-3.amazonaws.com/12-impostazioni/30018_Impostazioni-Vacanza-Chiosco-Obiettivo.jpg)
 
-1. **Modalità Vacanza:** Se prevedi di chiudere per ferie o per qualche giorno, attiva questa modalità per informare i tuoi clienti. Un messaggio comparirà sulla tua vetrina web e nell'app Unipiazza, così i tuoi clienti sapranno quando tornerai e non verranno inviate promozioni automatiche durante questo periodo.
+1. **Modalità Vacanza:** Se prevedi di chiudere per ferie o per qualche giorno, attiva questa modalità per informare i tuoi clienti. Un messaggio comparirà sulla tua vetrina web e nell'app Unipiazza, così i tuoi clienti sapranno quando tornerai, e le Automazioni con una promozione da ritirare si mettono in pausa. Ti spieghiamo tutto in [Come attivare la Modalità Vacanza](https://supporto.unipiazza.it/it/articles/34556-come-attivare-la-modalita-vacanza) [[come-attivare-la-modalita-vacanza]].
 
 2. **Orario Spegnimento Chiosco:** Scegli l'orario in cui vuoi che il Chiosco si spenga da solo, dopo 30 minuti senza utilizzo.
 
