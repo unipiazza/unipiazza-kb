@@ -26,11 +26,13 @@ Nella sezione "[Impostazioni Wallet & Gift Card](https://partner.unipiazza.it/wa
 -   **Permetti al cliente di scegliere un importo personalizzato:** Attivando questa opzione, accanto ai tagli comparirà il bottone **"Altro importo"**, così il cliente può inserire la cifra che preferisce. Il bottone prende il posto di un taglio, quindi i tagli scendono da **6** a **5**.
     
 
--   **Incentiva i Pagamenti con il Wallet:** Attivando questa opzione, potrai ricompensare i clienti che utilizzano il Wallet per i pagamenti, ad esempio, offrendo loro un moltiplicatore di gettoni per ogni euro speso.
+-   **Incentiva i Pagamenti con il Wallet:** Attivando questa opzione, potrai ricompensare i clienti che utilizzano il Wallet per i pagamenti con più gettoni del solito. Scegli il moltiplicatore fra x1,2, x1,3, x1,4, x1,5 e x2. Per esempio, se normalmente dai 10 gettoni per ogni euro, con x1,2 chi paga con il Wallet ne riceve 12. Accanto a ogni opzione vedi quanti gettoni per euro darai.
     
 -   **Incentiva le Ricariche del Wallet:** Motiva i tuoi clienti a ricaricare il loro Wallet offrendo loro un credito aggiuntivo. Ad esempio, dando un 10% di credito extra su ogni ricarica può spingere i clienti a caricare di più sul loro Wallet. Questo tipo di incentivo non solo può aumentare la frequenza delle ricariche ma anche l'importo medio per ricarica, generando un maggiore anticipo di cassa per la tua attività.
     
 -   **Limite Credito:** È la cifra massima che un cliente può tenere nel proprio Wallet, cioè 250€. La vedi nel campo "Limite credito" ma non puoi modificarla. Se una ricarica farebbe superare il limite, sul Chiosco quel taglio appare disattivato, così il saldo resta sempre sotto controllo.
+    
+-   **Scadenza del credito:** Come scadenza del credito il Gestionale indica 12 mesi dopo l'ultima ricarica del cliente. La data di ogni cliente la vedi in **Wallet › Attivi**, nella colonna **Scade il**.
     
 -   **Promuovi un Taglio di Ricarica Specifico:** Scegli quale taglio di ricarica vuoi etichettare come 'Il più scelto' per influenzare la scelta dei clienti, rendendolo più attraente.
     
