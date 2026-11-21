@@ -39,7 +39,7 @@ Quando premi **Programma invio** si apre la finestra **Vuoi inviare la campagna?
 
 **1. Il team la controlla**<br>Un consulente Unipiazza guarda testi, immagine, destinatari e orario. Il team lavora dal lunedì al venerdì, dalle 9:00 alle 18:00, e finché non ha finito la campagna non parte.
 
-**2. Parte quando hai deciso tu**<br>Se nell'**Orario di invio** avevi scelto **Invia subito**, la campagna parte appena il team la approva. Se l'avevi programmata, una volta approvata parte da sola il giorno e all'ora che hai scelto.
+**2. Parte quando hai deciso tu**<br>Se nell'**Orario di invio** avevi scelto **Invia subito**, la campagna parte appena il team la approva. Se l'avevi programmata, una volta approvata parte da sola il giorno e all'ora che hai scelto. Se il controllo finisce dopo l'orario che avevi scelto, una campagna Marketing parte subito, appena approvata.
 
 **3. Segui a che punto è**<br>Apri la campagna da **Le tue campagne** e trovi la linea **Dove si trova la tua campagna**, con tutti i passaggi. Ti spieghiamo come leggerla, e come riportarla in bozza se ti accorgi di un errore, in [Dove si trova la tua campagna e come riportarla in bozza](https://supporto.unipiazza.it/it/articles/70971-dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza) [[dove-si-trova-la-tua-campagna-e-come-riportarla-in-bozza]].
 
