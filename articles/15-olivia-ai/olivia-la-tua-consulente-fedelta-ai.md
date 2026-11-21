@@ -66,21 +66,39 @@ Se le chiedi una modifica, ti prepara una scheda con quello che cambia. La modif
 
 🚫 **Cosa non può cambiare**<br>Il tipo di premio, i testi dei messaggi, le immagini e i canali. Per questi apri l'Automazione dalla sezione [Automazioni](https://supporto.unipiazza.it/it/articles/27453-cosa-sono-le-autopromo).
 
+## Cosa può creare per te
+
+Oltre a consigliarti, Olivia può preparare alcune cose al posto tuo. Te le mostra in una scheda dentro la chat, con i dettagli di quello che farà, e tu scegli se confermare o premere **Annulla**.
+
+📣 **Bozze di campagne Marketing e WhatsApp**<br>Ti prepara testo, destinatari e una proposta di programmazione. Premendo **Crea bozza** la campagna finisce tra le tue bozze e non parte nessun invio. La apri con **Apri campagna**, la controlli e la mandi tu quando vuoi.
+
+🚀 **Booster**<br>Qui non c'è nessuna bozza. Premendo **Conferma** il Booster viene creato subito e parte da solo alla data di inizio proposta, che è sempre nel futuro. Lo ritrovi nella sezione Booster ma non viene promosso sul Chiosco Unipiazza.
+
+🎟️ **Abbonamenti**<br>Anche l'abbonamento viene creato subito, appena premi **Crea abbonamento**. Lo vedi nel Gestionale, ma non viene promosso sul Chiosco.
+
+🏪 **Dati della tua Vetrina**<br>Può proporti di cambiare descrizione, indirizzo, Instagram, numero WhatsApp, nome sul Chiosco, colore, orari e chiusura per ferie. Premendo **Conferma modifica** le modifiche vanno subito online. Occhio al nome, perché cambiandolo cambia anche l'indirizzo della tua Vetrina. Se hai una catena, il titolo della scheda ti dice quale punto vendita stai modificando.
+
+⏳ **Proposta scaduta?**<br>Se una scheda ti dice **Proposta scaduta** o che la modifica non è stata applicata, chiedi a Olivia di rifartela. Ti prepara una proposta nuova con i dati aggiornati.
+
 ## Cosa fa e cosa no
 
-✅ **Prepara, tu decidi**<br>Olivia ti propone idee, scrive i testi, prepara le bozze delle campagne e le modifiche alle Automazioni. Senza la tua conferma non parte niente.
+✅ **Prepara, tu decidi**<br>Olivia ti propone idee, scrive i testi, prepara le bozze delle campagne e le modifiche alle Automazioni. Senza la tua conferma non parte niente. Ricorda però che Booster, abbonamenti e modifiche alla Vetrina partono appena confermi, non restano in bozza.
 
 ✍️ **Ti scrive il testo, non il file**<br>Non crea immagini, PDF o file da stampare. Se ti serve un cartello o un volantino ti prepara il testo, e il volantino lo crei in pochi minuti con il [generatore di volantini](https://supporto.unipiazza.it/it/articles/66239-porta-i-clienti-nella-tua-vetrina-con-qr-code-link-e-volantini).
 
-💬 **È un'AI, e te lo dice**<br>Sulle procedure del Gestionale risponde partendo dalle guide di Unipiazza. Se una cosa non la sa te lo dice, e ti manda all'assistenza invece di tirare a indovinare.
+💬 **È un'AI, e te lo dice**<br>Sulle procedure del Gestionale risponde partendo dalle guide di Unipiazza. Se una cosa non la sa te lo dice, e ti manda all'assistenza invece di tirare a indovinare. Olivia è ancora in beta e può sbagliare, quindi controlla sempre i numeri più importanti prima di prendere una decisione.
 
 ## Dove ritrovi le conversazioni
 
-Le conversazioni con Olivia restano salvate. Nella sua pagina passa il mouse sulla colonna a sinistra e si apre l'elenco **Conversazioni recenti**. Premi su una conversazione per riprenderla da dove l'avevi lasciata, oppure su **Nuova conversazione** per cominciarne un'altra.
+Le conversazioni con Olivia restano salvate. Nella sua pagina le trovi nella colonna **Conversazioni** a sinistra. Premi su una conversazione per riprenderla da dove l'avevi lasciata, oppure su **Nuova conversazione** per cominciarne un'altra. Se una conversazione non ti serve più, la togli con **Elimina conversazione**. La colonna si chiude con l'icona in alto, e dal telefono la apri con l'icona dei messaggi in alto a sinistra.
+
+Ogni punto vendita ha le sue conversazioni, quindi se cambi locale dal menu in alto vedi solo quelle di quel locale.
+
+👍 **Dicci se la risposta ti è servita**<br>Sotto ogni risposta trovi **Risposta utile** e **Risposta non utile**. Se scegli la seconda puoi dirci cosa non ha funzionato (**Non ha capito la domanda**, **Informazioni non corrette** o **Altro**) e aggiungere un dettaglio. Leggiamo tutto e ci serve per far crescere Olivia. Con **Copia la risposta** invece copi il testo per incollarlo dove vuoi.
 
 ## Quando ti serve una persona
 
-Per i problemi tecnici (il Chiosco Unipiazza offline, WhatsApp bloccato, un pagamento, i crediti finiti) scrivici dalla chat dell'assistenza, il pulsante in basso a destra nel Gestionale, oppure su WhatsApp al **388 8665987**.
+Per i problemi tecnici (il Chiosco Unipiazza offline, WhatsApp bloccato, un pagamento, i crediti finiti) scrivici dalla chat dell'assistenza, il pulsante in basso a destra nel Gestionale, oppure su WhatsApp al **388 8665987**. Nella pagina di Olivia il pulsante della chat non c'è, per lasciare spazio al campo dove scrivi. Ti basta passare a un'altra sezione e lo ritrovi al suo posto.
 
 Vuoi ripensare il tuo programma fedeltà o ti serve una chiacchierata più lunga? Prenota una [consulenza gratuita con Roberta](https://cal.com/roberta-pignatelli-a74mds/30min), la nostra Consulente Fedeltà. Mezz'ora insieme per parlare del tuo programma fedeltà e dei prossimi passi.
 
