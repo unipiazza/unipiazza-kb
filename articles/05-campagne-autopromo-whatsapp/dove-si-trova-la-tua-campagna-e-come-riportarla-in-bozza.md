@@ -42,13 +42,13 @@ In alto trovi **Dove si trova la tua campagna**, la linea con i passaggi che la 
 3. 🗓️ **Programmata**, con il giorno e l'ora in cui parte.
 4. ✅ **Inviata**.
 
-Se hai scelto di inviarla senza la revisione del team, i primi due passaggi non ci sono e la campagna è subito **Programmata**.
-
 Sotto la linea c'è una frase che ti dice cosa succede adesso. Per esempio, quando è tutto a posto leggi *"È tutto pronto. Parte da sola"*, con il giorno, l'ora e i canali di invio.
 
 Più in basso, nel riquadro **Cosa hai mandato**, ritrovi mittente, destinatari, data di invio, oggetto e anteprima dell'email, promozione o evento e la nota che hai lasciato al team. Accanto c'è l'anteprima della campagna, come la vedranno i tuoi clienti via email, nell'app e via RCS.
 
 > 💡 Lo stato lo vedi anche nell'elenco **Le tue campagne**, sotto il nome di ogni campagna. Per esempio *"In revisione dal team dal 13/11 alle 11:51"* oppure *"Approvata dal team, parte il 26/11 alle 07:00"*.
+
+⚠️ Sotto le campagne Promo ed Evento vedi anche le loro date. Se la campagna non è ancora partita e i giorni della promo o dell'evento sono già passati, l'etichetta diventa arancione, per esempio *"Promo già finita il 12 nov"*. A quel punto nessuno può più usarla, quindi riportala in bozza e cambia le date.
 
 ## Come riportarla in bozza
 
@@ -67,7 +67,7 @@ Prima di procedere ti spieghiamo cosa succede. Se cambi idea premi **Lasciala co
 La campagna torna in bozza uguale a com'era e si apre nell'editor. Cambia tutto quello che ti serve.
 
 **5. Rimandala**
-Quando hai finito premi **Programma invio** e scegli di nuovo se farla controllare dal team o inviarla senza revisione. Al team non devi scrivere niente, perché riceve un avviso in automatico quando riporti in bozza una campagna.
+Quando hai finito premi **Programma invio**, poi **Richiedi revisione**, e la campagna torna al team. Non devi scrivere niente, perché il team riceve un avviso in automatico quando riporti in bozza una campagna.
 
 ## Fino a quando puoi farlo
 
