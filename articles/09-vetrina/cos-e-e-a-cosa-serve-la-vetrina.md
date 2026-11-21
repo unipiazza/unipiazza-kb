@@ -58,7 +58,7 @@ Dalla sezione [Vetrina](https://partner.unipiazza.it/vetrina) del Gestionale sce
 
 🗂️ **Categoria merceologica**<br>Scegli la categoria che descrive meglio la tua attività.
 
-🌈 **Colore Vetrina & Chiosco**<br>È il colore di bottoni, premi e icone sulla Vetrina e sul Chiosco. Se nella pagina vedi questo campo, puoi sceglierlo tu.
+🌈 **Colore Vetrina & Chiosco**<br>È il colore di bottoni, premi e icone sulla Vetrina e sul Chiosco. Se nella pagina vedi questo campo, puoi sceglierlo tu. La grafica con i tuoi colori la attiviamo noi, ed è già inclusa con il Chiosco Elite. Se non vedi il campo e la vuoi, chiedicelo.
 
 📸 **Immagini copertina attività**<br>Sono le foto in cima alla Vetrina. Puoi caricarne fino a 3, e il Gestionale le ritaglia in formato 16:10. Le misure giuste le trovi in [Guida alle Risoluzioni delle Immagini su Unipiazza](https://supporto.unipiazza.it/it/articles/38701-guida-alle-risoluzioni-delle-immagini) [[guida-alle-risoluzioni-delle-immagini]].
 
