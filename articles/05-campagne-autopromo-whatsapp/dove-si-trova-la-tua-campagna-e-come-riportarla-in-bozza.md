@@ -89,10 +89,11 @@ Quando vedi **In invio** la campagna sta partendo e non si può più fermare. Co
 
 ## Duplicare o eliminare una campagna
 
-Nel menu ⋮ trovi anche altre due azioni.
+Nel menu ⋮ trovi anche altre azioni.
 
 - 📋 **Duplica**: crea una copia in bozza, con lo stesso contenuto e il nome "Copia di...". È comoda quando vuoi riusare una campagna che ha funzionato bene. Funziona anche con le campagne già inviate.
 - 🗑️ **Elimina**: cancella la campagna, che quindi non parte più. Le campagne già inviate non si possono eliminare. Quelle WhatsApp si possono eliminare solo finché sono in bozza o in revisione dal team.
+- 🔗 **Condividi**: copia il link pubblico di una campagna inviata, da mandare o pubblicare sui social. C'è solo per le campagne mandate a **Tutti i clienti** e non per le WhatsApp.
 
 ---
 
