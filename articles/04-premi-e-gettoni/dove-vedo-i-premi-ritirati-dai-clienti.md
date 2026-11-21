@@ -8,8 +8,8 @@ description: Scopri nella sezione dedicata del tuo gestionale Unipiazza dove vis
 status: published
 written_by: 2961
 locale: it
-updated_at: '2026-11-11'
-last_synced: '2026-11-11'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Nella parte superiore della sezione [Premi ritirati](https://partner.unipiazza.it/premi/ritirati) vedrai quanti premi sono stati ritirati dai tuoi clienti, i premi che non sono più visibili ai clienti sono contrassegnati da un’icona in bianco e nero. 

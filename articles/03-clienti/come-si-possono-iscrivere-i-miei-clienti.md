@@ -19,11 +19,13 @@ keywords:
   - partner
   - sito
   - unipiazza
+  - inquadra qrcode
+  - aggiungi cliente
 sort: 6
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-09'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Vuoi sapere come i tuoi clienti possono iscriversi al tuo programma fedeltà? È facile, hanno tre strade e c'è anche la tua 😉

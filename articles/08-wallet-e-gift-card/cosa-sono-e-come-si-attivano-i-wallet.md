@@ -25,17 +25,17 @@ Perché dovresti attivare questa funzionalità?
 4.  **Promozioni Personalizzate:** Hai la libertà di offrire incentivi unici per le ricariche, attirando così più clienti.
     
 
-**Come funzionano i Wallet?**<br>![](../../assets/08-wallet-e-gift-card/28250_1.png)
+**Come funzionano i Wallet?**<br>![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/cfe729e3b3e7b81a298fc549d06798bc/1.png)
 
-![](../../assets/08-wallet-e-gift-card/28250_2.png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/1bc74a78c69f8763aacded927946b626/2.png)
 
-![](../../assets/08-wallet-e-gift-card/28250_3.png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/2806db6ae825a176a9d133d2efe44fed/3.png)
 
-![](../../assets/08-wallet-e-gift-card/28250_4.png)![](../../assets/08-wallet-e-gift-card/28250_5.png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/af222c2adf1895b6cebd22026e6a125b/4.png)![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/a131d18171dda0910c6cf88abf97b45b/5.png)
 
-![](../../assets/08-wallet-e-gift-card/28250_6.png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/ab1d2a11bda4a5a5782ab68bcd8e004c/6.png)
 
-![](../../assets/08-wallet-e-gift-card/28250_7.png)
+![](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/642a8cb289e3a88759de2a8ad41e5228/7.png)
 
 In **Wallet › Attivi** trovi in alto i numeri del tuo Wallet (Wallet attivati, ricariche fatte, euro incassati e ancora da spendere, GiftCard create e riscattate, nuovi clienti arrivati con una GiftCard, incassi delle GiftCard). Più in basso, nella tabella **Wallet attivati**, ci sono i clienti che hanno ricaricato il Wallet o riscattato una GiftCard. Per ognuno vedi:
 
