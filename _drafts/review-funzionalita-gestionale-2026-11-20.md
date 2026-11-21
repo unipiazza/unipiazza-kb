@@ -25,6 +25,9 @@ sono in issue assegnate a Lorenzo: [unipiazza-api#284](https://github.com/unipia
 (limite campagne), [unipiazza-web-partner-v2#158](https://github.com/unipiazza/unipiazza-web-partner-v2/issues/158)
 (oggetto in Invia test), [unipiazza-api#285](https://github.com/unipiazza/unipiazza-api/issues/285) (Modalità
 Vacanza in Olivia). Tooltip VIP e testo Archiviati in [#157](https://github.com/unipiazza/unipiazza-web-partner-v2/issues/157).
+Sempre il 21/11, su richiesta di Edoardo, il 71247 (permessi degli amministratori) è stato messo in
+bozza con AI training spento, e da tutti gli articoli pubblicati sono stati tolti i riferimenti a
+permessi e amministratori, sostituiti con «scrivici e ti aiutiamo».
 Messaggio in #news inviato il 21/11/2026
 ([link](https://unipiazza.slack.com/archives/C01HJD34389/p1795267127974269), testo in [[messaggio-news-2026-11-21]]). Bozze in [[lotto-1-correzioni-2026-11-21]] e nella cartella
 `bozze-2026-11-21/` (gruppi A-G). Le domande aperte sono in [[domande-lorenzo-2026-11-21]]: bloccano

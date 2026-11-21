@@ -5,7 +5,7 @@ collection: ⚙️ Impostazioni
 title: Come gestire i permessi degli amministratori
 slug: come-gestire-i-permessi-degli-amministratori
 description: Decidi tu cosa può vedere e cosa può modificare ogni persona del tuo team nel Gestionale.
-status: published
+status: draft
 written_by: 2961
 keywords:
   - permessi

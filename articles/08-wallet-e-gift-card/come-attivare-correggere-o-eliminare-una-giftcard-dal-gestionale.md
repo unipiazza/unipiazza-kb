@@ -30,7 +30,7 @@ Di solito le GiftCard nascono sul Chiosco Unipiazza, quando un cliente ne compra
 
 **2. Apri Wallet › Attivi**<br>Se hai più punti vendita, prima selezionane uno dal menu in alto.
 
-**3. Premi Attiva nuova GiftCard**<br>Lo trovi in alto a destra. Se è grigio, le GiftCard non sono attive nel tuo locale (le accendi da **Wallet › Impostazioni**) oppure il tuo utente non ha il permesso di gestirle.
+**3. Premi Attiva nuova GiftCard**<br>Lo trovi in alto a destra. Se è grigio, le GiftCard non sono attive nel tuo locale e le accendi da **Wallet › Impostazioni**. Se sono attive e il bottone resta grigio, scrivici e ti aiutiamo.
 
 **4. Scrivi importo e codice**<br>Inserisci l'importo in euro da caricare e il codice della tessera, poi premi **Attiva GiftCard**.
 

@@ -55,8 +55,4 @@ Ti basta scegliere il locale dal menu in alto e la sezione si riempie.
 
 🔁 **Il caso del Wallet nelle catene**<br>Se i tuoi punti vendita formano una catena con lo stesso Wallet, le sue impostazioni sono uguali dappertutto. Qui è il contrario, per modificarle devi scegliere **Tutti** i punti vendita.
 
-## Bottoni grigi e «Non hai i permessi»
-
-Se un bottone è grigio e passandoci sopra leggi **Non hai i permessi per questa funzionalità**, la sezione c'è ma il tuo utente non può usarla. I permessi li decide chi gestisce il profilo della tua attività, come spieghiamo in [Come gestire i permessi degli amministratori](https://supporto.unipiazza.it/it/articles/71247-come-gestire-i-permessi-degli-amministratori) [[come-gestire-i-permessi-degli-amministratori]].
-
 Non ti torna qualcosa? Scrivici su WhatsApp al **388 8665987**, siamo qui per aiutarti!

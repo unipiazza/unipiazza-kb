@@ -25,8 +25,8 @@ keywords:
 sort: 4
 is_featured: false
 locale: it
-updated_at: '2026-11-20'
-last_synced: '2026-11-20'
+updated_at: '2026-11-21'
+last_synced: '2026-11-21'
 ---
 
 Hai allungato l'orario per le feste o hai deciso di chiudere il lunedì? Dillo anche alla tua Vetrina 🕒 Molti clienti la guardano prima di uscire di casa, e trovare la serranda abbassata non piace a nessuno. Gli orari si cambiano in un minuto dal Gestionale, da computer o dal browser del telefono.
@@ -60,7 +60,7 @@ Sotto gli orari c'è il riepilogo della settimana, cioè quello che leggono i tu
 
 ⚠️ **Compare "Controlla di aver inserito tutti i dati"**<br>Di solito manca un orario. Cerca la casella con la scritta rossa *Inserisci un orario*, perché hai messo l'apertura e non la chiusura, o il contrario. **Salva modifiche** salva tutta la pagina della Vetrina, quindi controlla anche che nome e telefono siano compilati, perché sono obbligatori.
 
-🔒 **Il bottone Salva modifiche è grigio**<br>Il tuo utente non ha il permesso di modificare la Vetrina. Chiedi al titolare del locale di aggiornare gli orari, oppure scrivici.
+🔒 **Il bottone Salva modifiche è grigio**<br>Scrivici e lo sistemiamo noi.
 
 ## Cosa vedono i tuoi clienti
 

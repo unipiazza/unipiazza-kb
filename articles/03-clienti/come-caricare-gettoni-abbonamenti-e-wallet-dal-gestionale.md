@@ -30,7 +30,7 @@ Il Chiosco Unipiazza è spento, senza rete o in assistenza, e intanto i clienti 
 
 **2. Cerca il cliente**<br>Vai in **Clienti**, cercalo per nome, email o telefono e premi sul suo nome.
 
-**3. Premi Azioni**<br>In alto nel profilo trovi il bottone blu **Azioni** con tutte le operazioni che vedi qui sotto. Se una voce è grigia, il tuo utente non ha il permesso per farla. Scrivici e lo sistemiamo, come spieghiamo in [Come gestire i permessi degli amministratori](https://supporto.unipiazza.it/it/articles/71247-come-gestire-i-permessi-degli-amministratori) [[come-gestire-i-permessi-degli-amministratori]].
+**3. Premi Azioni**<br>In alto nel profilo trovi il bottone blu **Azioni** con tutte le operazioni che vedi qui sotto. Se una voce è grigia, scrivici e ti aiutiamo.
 
 ## 🪙 Accreditare i gettoni di un acquisto
 

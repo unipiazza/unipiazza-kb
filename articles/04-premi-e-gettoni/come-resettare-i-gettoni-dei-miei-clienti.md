@@ -23,7 +23,7 @@ Per iniziare:
 3.  Cerca la sezione **"Resetta i gettoni clienti"**.
     
 
-Se hai più punti vendita, selezionane uno dal menu in alto, perché con tutti selezionati i bottoni restano grigi. Serve anche il permesso di modificare le impostazioni del locale.
+Se hai più punti vendita, selezionane uno dal menu in alto, perché con tutti selezionati i bottoni restano grigi.
 
 ![Riquadro Resetta i gettoni clienti nelle Impostazioni](https://up-kb-assets.s3.eu-west-3.amazonaws.com/04-premi-e-gettoni/41597_ResettaGettoni.jpg)
 

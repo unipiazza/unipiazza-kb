@@ -53,6 +53,6 @@ Vai in **Booster vendite** e premi sul Booster che vuoi cambiare.
 
 🗑️ **Eliminarlo per sempre**<br>In fondo alla pagina premi il bottone rosso **Elimina booster**. Occhio, perché il Gestionale non ti chiede conferma e il Booster sparisce subito. Se pensi di riusarlo più avanti, meglio metterlo in pausa.
 
-Se **Salva** ed **Elimina booster** sono grigi, il tuo utente non ha il permesso di modificare i Booster, e te lo può dare il titolare del locale.
+Se **Salva** ed **Elimina booster** sono grigi, scrivici e ti aiutiamo.
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p>💡<strong>Ricordati di promuovere i Booster!</strong> Una volta che hai creato un Booster, ricordati di creare una <strong>campagna</strong> da inviare ai tuoi clienti per informarli! Usa i nostri template che trovi qui per trovare ispirazione.</p></td></tr></tbody></table>

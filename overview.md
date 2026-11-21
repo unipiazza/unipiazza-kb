@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 161 in locale, 160 su Customerly (115 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più
+- **Articoli totali:** 161 in locale, 160 su Customerly (114 published, 46 draft). Il 4364 è solo in locale: su Customerly non esiste più
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -274,7 +274,7 @@ Panoramica impostazioni (con Visite da verificare dal 2026-11-09), modalità vac
 | 30018 | Cosa vedo nella sezione Impostazioni? | cosa-vedo-nella-sezione-impostazioni | published |
 | 34556 | Come attivare la Modalità Vacanza | come-attivare-la-modalita-vacanza | published |
 | 38701 | Guida alle Risoluzioni delle Immagini su Unipiazza | guida-alle-risoluzioni-delle-immagini | published |
-| 71247 | Come gestire i permessi degli amministratori | come-gestire-i-permessi-degli-amministratori | published (creato il 2026-11-21) |
+| 71247 | Come gestire i permessi degli amministratori | come-gestire-i-permessi-degli-amministratori | draft (messo in bozza il 2026-11-21 su richiesta di Edoardo: niente riferimenti alla gestione amministratori/permessi) |
 
 ---
 

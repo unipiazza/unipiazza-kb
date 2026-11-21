@@ -38,7 +38,7 @@ Da ottobre 2026 la Vetrina ha una grafica tutta nuova, e a parlare è la tua att
 
 **Cosa puoi inserire**
 
-Dalla sezione [Vetrina](https://partner.unipiazza.it/vetrina) del Gestionale scegli cosa mostrare ai tuoi clienti. Se hai più punti vendita, selezionane uno dal menu in alto, perché la Vetrina si modifica un locale alla volta. Quando hai finito premi **Salva modifiche** in fondo alla pagina. Se il bottone è grigio, il tuo utente non ha il permesso di modificare la Vetrina. Scrivici e lo sistemiamo.
+Dalla sezione [Vetrina](https://partner.unipiazza.it/vetrina) del Gestionale scegli cosa mostrare ai tuoi clienti. Se hai più punti vendita, selezionane uno dal menu in alto, perché la Vetrina si modifica un locale alla volta. Quando hai finito premi **Salva modifiche** in fondo alla pagina. Se il bottone è grigio, scrivici e lo sistemiamo.
 
 🏷️ **Nome attività commerciale**<br>È il nome che compare sulla Vetrina, nell'App Unipiazza e nell'intestazione delle campagne che mandi ai tuoi clienti.
 
