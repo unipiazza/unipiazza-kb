@@ -32,7 +32,7 @@ Nella sezione "[Impostazioni Wallet & Gift Card](https://partner.unipiazza.it/wa
     
 -   **Limite Credito:** È la cifra massima che un cliente può tenere nel proprio Wallet, cioè 250€. La vedi nel campo "Limite credito" ma non puoi modificarla. Se una ricarica farebbe superare il limite, sul Chiosco quel taglio appare disattivato, così il saldo resta sempre sotto controllo.
     
--   **Scadenza del credito:** Come scadenza del credito il Gestionale indica 12 mesi dopo l'ultima ricarica del cliente. La data di ogni cliente la vedi in **Wallet › Attivi**, nella colonna **Scade il**.
+-   **Scadenza del credito:** Il credito scade 12 mesi dopo l'ultima ricarica del cliente, e ogni nuova ricarica sposta la scadenza in avanti. Il cliente riceve un promemoria 60, 30 e 7 giorni prima e il giorno prima. La data di ogni cliente la vedi in **Wallet › Attivi**, nella colonna **Scade il**.
     
 -   **Promuovi un Taglio di Ricarica Specifico:** Scegli quale taglio di ricarica vuoi etichettare come 'Il più scelto' per influenzare la scelta dei clienti, rendendolo più attraente.
     
