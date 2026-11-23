@@ -98,7 +98,9 @@ Ogni punto vendita ha le sue conversazioni, quindi se cambi locale dal menu in a
 
 ## Quando ti serve una persona
 
-Per i problemi tecnici (il Chiosco Unipiazza offline, WhatsApp bloccato, un pagamento, i crediti finiti) scrivici dalla chat dell'assistenza, il pulsante in basso a destra nel Gestionale, oppure su WhatsApp al **388 8665987**. Nella pagina di Olivia il pulsante della chat non c'è, per lasciare spazio al campo dove scrivi. Ti basta passare a un'altra sezione e lo ritrovi al suo posto.
+Per i problemi tecnici (il Chiosco Unipiazza offline, WhatsApp bloccato, un pagamento, i crediti finiti) scrivici dalla chat dell'assistenza, il pulsante in basso a destra nel Gestionale, oppure su WhatsApp al **388 8665987**. Il team ti risponde dal lunedì al venerdì, dalle 9:00 alle 18:00. Negli altri orari in chat e su WhatsApp ti risponde Olivia, e se serve passa la conversazione al team. Trovi tutto in [Come contattarci e quando risponde il team Unipiazza](https://supporto.unipiazza.it/it/articles/1262-come-contattarci-e-quando-risponde-il-team) [[come-contattarci-e-quando-risponde-il-team]].
+
+Nella pagina di Olivia il pulsante della chat non c'è, per lasciare spazio al campo dove scrivi. Ti basta passare a un'altra sezione e lo ritrovi al suo posto.
 
 Vuoi ripensare il tuo programma fedeltà o ti serve una chiacchierata più lunga? Prenota una [consulenza gratuita con Roberta](https://cal.com/roberta-pignatelli-a74mds/30min), la nostra Consulente Fedeltà. Mezz'ora insieme per parlare del tuo programma fedeltà e dei prossimi passi.
 

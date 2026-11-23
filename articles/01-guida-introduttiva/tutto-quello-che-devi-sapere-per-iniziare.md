@@ -27,4 +27,6 @@ last_synced: '2026-11-06'
 
 **📣** [**Crea una campagna per contattare i tuoi clienti:**](https://unipiazza.customerly.help/it/campagne-e-autopromo/come-creo-una-campagna) Invia email, RCS e WhatsApp ai tuoi clienti per informarli su novità, offerte o inviargli una promo!
 
+**💬** [**Come contattarci:**](https://supporto.unipiazza.it/it/articles/1262-come-contattarci-e-quando-risponde-il-team) [[come-contattarci-e-quando-risponde-il-team]] Scrivici su WhatsApp o dalla chat del Gestionale. Il team c'è dal lunedì al venerdì, dalle 9:00 alle 18:00, e Olivia a qualsiasi ora
+
 **📞** **Il tuo primo mese con noi:** Non resti solo. Nel primo mese ci sentiamo tre volte con Roberta, la nostra Customer Success. Il primo giorno, in videochiamata, ti aiutiamo a installare il Chiosco e a impostare il programma. Dopo 15 giorni guardiamo insieme le prime iscrizioni e, se serve, rivediamo Premi e Promozioni. Dopo altri 15 giorni facciamo il bilancio del mese e scegliamo cosa provare adesso.<br><br>Buona lettura e… benvenutə nel futuro! 😉
