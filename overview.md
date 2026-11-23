@@ -240,11 +240,10 @@ Vetrina, QR Code e volantini, vetrina sulla Home del telefono, regolamento del l
 
 ### 10 — Pagamenti & Fatturazione · `collection_id: 676`
 
-Abbonamento, fatture, contatto assistenza, referral, cancellazione. 1 articolo ancora in draft.
+Abbonamento, fatture, referral, cancellazione. Il 1262 (contatto assistenza) è passato in Guida Introduttiva il 2026-11-23.
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
-| 1262 | Hai bisogno di assistenza o informazioni commerciali? | hai-bisogno-di-assistenza-o-informazioni-commerciali | **draft** |
 | 16629 | Suggerisci una nuova attività e ottieni mesi gratis | suggerisci-attivita | published |
 | 41683 | Voglio disdire Unipiazza, cosa devo fare? | voglio-disdire-unipiazza-cosa-devo-fare | published |
 | 63774 | Cosa vedo nella sezione "Piano & Consumi"? | cosa-vedo-nella-sezione-piano-e-consumi | published |
