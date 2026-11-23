@@ -84,6 +84,47 @@ del messaggio, e il caso low_confidence non manda nessun testo di Aura.
 3. **Il prompt di Aura cita ancora «Autopromo» ed «eShop».** In KB adesso si chiamano
    Automazioni, e l'eShop non si vende più.
 
-## Domande per Edoardo
+## Risposte di Edoardo (23/11/2026)
 
-Vedi il messaggio in chat del 23/11/2026.
+1. Il testo del messaggio fuori orario va bene così.
+2. I festivi si ignorano. Lo Switch di Customerly non li conosce e in quei giorni dirà «in orario».
+3. In orario non si manda nessun messaggio, resta tutto come prima.
+4. I flow di Roberta si possono modificare, la si avvisa dopo.
+5. Ok al test dalla «Prova la chat».
+6. Le cose trovate nel check vanno spiegate meglio prima di decidere.
+
+Prima di toccare tutti i flow, Edoardo ha chiesto una prova su uno solo.
+
+## Cosa è stato fatto su Customerly (23/11/2026, sera)
+
+1. **Nuovo flusso «Passaggio a Roberta (con orari)», id 19139, pubblicato.** Parte «Su Richiesta»,
+   cioè solo quando un altro flusso lo chiama. Contiene lo Switch sugli orari del progetto
+   (lun-ven 9-18, Europe/Rome). In orario assegna a Roberta. Fuori orario manda il messaggio e
+   poi assegna a Roberta.
+2. **Flow «Aura» (16434), ramo Escalation.** Il blocco «Assegna a Roberta» è stato sostituito con
+   «Avvia Flusso» verso il 19139. È l'unico flow collegato per ora.
+3. I flow delle Missioni AI **non sono ancora stati toccati**. Nel menu di «Avvia Flusso» compaiono
+   tutti, quindi il collegamento è lo stesso.
+
+## Esito dei test (23/11/2026, 21:36 e 21:43)
+
+- **Aura conosce la data ma non l'ora.** Alla domanda «che giorno è e che ore sono?» ha preparato
+  «Buongiorno… Oggi è 23 novembre 2026. Non posso vedere l'ora esatta». Era sera, quindi anche il
+  saluto era sbagliato. Conferma che il controllo dell'orario va fatto dallo Switch e non dal prompt.
+- **Prima della modifica (conversazione 58147636).** Escalation per low_confidence, la risposta di
+  Aura non viene inviata, la conversazione va a Roberta e il cliente non riceve niente.
+- **Dopo la modifica (conversazione 58147648).** Stessa domanda, stessa escalation. Parte il
+  19139, il cliente riceve il messaggio fuori orario e la conversazione passa a Roberta. Funziona.
+- Il ramo «in orario» non è stato provato dal vivo, perché il test era alle 21:43. Fa la stessa
+  cosa di prima, cioè solo l'assegnazione.
+- Le due conversazioni di prova sono state riassegnate a Edoardo e chiuse.
+- Nella chat del sito, fuori orario, Customerly mostra anche il riquadro «Puoi continuare la
+  conversazione su WhatsApp». Non viene dai nostri flow. Esce perché il contatto di prova ha un
+  numero WhatsApp.
+
+## Prossimi passi
+
+1. Collegare il 19139 ai flow delle Missioni AI che scalano a Roberta, al posto del loro
+   «Assegna a».
+2. Aggiungere la riga sugli orari al prompt di Aura.
+3. Avvisare Roberta delle modifiche ai suoi flow.
