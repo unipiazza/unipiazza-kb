@@ -122,9 +122,21 @@ Prima di toccare tutti i flow, Edoardo ha chiesto una prova su uno solo.
   conversazione su WhatsApp». Non viene dai nostri flow. Esce perché il contatto di prova ha un
   numero WhatsApp.
 
+## Secondo flow collegato (23/11/2026, 22:30)
+
+Edoardo ha chiesto di provare su un solo flow delle Missioni AI. È stato scelto il **18040
+«Messaggi generici/decontestualizzati»**, il più usato (21 esecuzioni negli ultimi 7 giorni) e
+quello che prima scalava senza scrivere niente al cliente. Il suo «Assegna a Roberta» è stato
+sostituito con «Avvia Flusso» verso il 19139.
+
+**Test (conversazione 58147724).** Al primo messaggio senza senso Aura chiede di riformulare. Al
+secondo scatta il 18040, che chiama il 19139, e il cliente riceve il messaggio fuori orario prima
+dell'assegnazione a Roberta. Funziona. La conversazione di prova è stata riassegnata a Edoardo e
+chiusa. Anche qui Aura ha salutato con «Buongiorno» alle 22:32.
+
 ## Prossimi passi
 
-1. Collegare il 19139 ai flow delle Missioni AI che scalano a Roberta, al posto del loro
+1. Collegare il 19139 agli altri flow delle Missioni AI che scalano a Roberta, al posto del loro
    «Assegna a».
 2. Aggiungere la riga sugli orari al prompt di Aura.
 3. Avvisare Roberta delle modifiche ai suoi flow.
