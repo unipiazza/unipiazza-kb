@@ -74,3 +74,5 @@ Quando la sezione dice **WhatsApp è pronto**, premi **Invia Messaggio di Test**
 💡 **Le aperture ti sembrano poche?** Non è un blocco. WhatsApp ci dice che un messaggio è stato letto solo se il cliente ti ha salvato in rubrica, quindi il dato nel Gestionale può essere più basso di quello reale. I messaggi arrivano comunque a tutti.
 
 Hai controllato tutto e WhatsApp non va ancora? Scrivici dalla chat del Gestionale (il pulsante in basso a destra) o su WhatsApp al **388 8665987**. Dicci cosa vedi nella sezione **WhatsApp Business** e lo sistemiamo insieme!
+
+🕘 Il team ti risponde dal lunedì al venerdì, dalle 9:00 alle 18:00. Negli altri orari ti risponde Olivia, e se serve passa la conversazione al team. [Scopri chi ti risponde e quando](https://supporto.unipiazza.it/it/articles/1262-come-contattarci-e-quando-risponde-il-team) [[come-contattarci-e-quando-risponde-il-team]].

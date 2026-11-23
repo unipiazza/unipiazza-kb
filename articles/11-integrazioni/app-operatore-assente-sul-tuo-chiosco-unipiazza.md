@@ -25,4 +25,6 @@ Se sul Chiosco Unipiazza vedi l'errore "App Operatore Assente", niente panico! N
 
 **3. Controlla che siano collegati fra loro**<br>Nel Gestionale premi sul tuo nome in alto a destra e apri **Dispositivi**. In **Dispositivi collegati** il Chiosco e l'App Operatore devono stare nella stessa coppia, con lo stato **Accoppiato**. Lì vedi anche batteria e rete Wi-Fi di ognuno. Se l'App Operatore manca, collegala con un nuovo codice come spieghiamo in [Come collegare un Chiosco Unipiazza o l'App Operatore al Gestionale](https://supporto.unipiazza.it/it/articles/71246-come-collegare-un-chiosco-o-l-app-operatore-al-gestionale) [[come-collegare-un-chiosco-o-l-app-operatore-al-gestionale]].
 
-Ancora bloccato? Scrivici su WhatsApp al 📱**388 8665987** e ti aiutiamo subito a risolvere!
+Ancora bloccato? Scrivici su WhatsApp al 📱**388 8665987** o dalla chat del Gestionale (il pulsante in basso a destra) e ti aiutiamo a risolvere!
+
+🕘 Il team ti risponde dal lunedì al venerdì, dalle 9:00 alle 18:00. Negli altri orari ti risponde Olivia, e se serve passa la conversazione al team. [Scopri chi ti risponde e quando](https://supporto.unipiazza.it/it/articles/1262-come-contattarci-e-quando-risponde-il-team) [[come-contattarci-e-quando-risponde-il-team]].

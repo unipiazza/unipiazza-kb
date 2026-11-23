@@ -56,4 +56,6 @@ Dalla schermata Home, tocca l'icona in basso **"Impostazioni"**.
 
 Se, dopo aver seguito questi passaggi, l'app Unipiazza non appare come schermata iniziale, riavvia il dispositivo e ripeti la procedura.
 
-Se ti serve ancora una mano, chiamaci o scrivici su WhatsApp al 388 8665987: siamo qui per aiutarti!
+Se ti serve ancora una mano, chiamaci o scrivici su WhatsApp al 388 8665987, siamo qui per aiutarti!
+
+🕘 Il team ti risponde dal lunedì al venerdì, dalle 9:00 alle 18:00. Negli altri orari ti risponde Olivia, e se serve passa la conversazione al team. [Scopri chi ti risponde e quando](https://supporto.unipiazza.it/it/articles/1262-come-contattarci-e-quando-risponde-il-team) [[come-contattarci-e-quando-risponde-il-team]].

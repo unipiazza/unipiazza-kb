@@ -27,4 +27,6 @@ Sul retro del Chiosco (tablet, non smartphone), in alto a sinistra, c’è un pi
 
 Inserisci nel foro un ago o uno spillo e tieni premuto con delicatezza finché il Chiosco non si riavvia. Fai attenzione a non premere troppo forte per evitare di incastrare l’ago. 
 
-Con questi semplici passaggi il tuo Chiosco tornerà a funzionare e sarai pronto a fidelizzare i tuoi clienti come sempre! 🚀 Se però il problema persiste, chiamaci o [scrivici subito su WhatsApp al 388 8665987](https://api.whatsapp.com/send/?phone=%2B393888665987&text&type=phone_number&app_absent=0): siamo qui per aiutarti!
+Con questi semplici passaggi il tuo Chiosco tornerà a funzionare e sarai pronto a fidelizzare i tuoi clienti come sempre! 🚀 Se però il problema persiste, chiamaci o [scrivici subito su WhatsApp al 388 8665987](https://api.whatsapp.com/send/?phone=%2B393888665987&text&type=phone_number&app_absent=0), siamo qui per aiutarti!
+
+🕘 Il team ti risponde dal lunedì al venerdì, dalle 9:00 alle 18:00. Negli altri orari ti risponde Olivia, e se serve passa la conversazione al team. [Scopri chi ti risponde e quando](https://supporto.unipiazza.it/it/articles/1262-come-contattarci-e-quando-risponde-il-team) [[come-contattarci-e-quando-risponde-il-team]].
