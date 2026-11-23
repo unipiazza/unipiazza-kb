@@ -134,9 +134,42 @@ secondo scatta il 18040, che chiama il 19139, e il cliente riceve il messaggio f
 dell'assegnazione a Roberta. Funziona. La conversazione di prova è stata riassegnata a Edoardo e
 chiusa. Anche qui Aura ha salutato con «Buongiorno» alle 22:32.
 
+## Collegamento a tutti i flow (23/11/2026, 23:00)
+
+Dopo i due test Edoardo ha detto di collegarli tutti. In ogni flow qui sotto il blocco «Assegna a
+Roberta» è stato sostituito con «Avvia Flusso» verso il 19139, e il flow è stato ripubblicato.
+Alla fine è stato ricontrollato che tutti contengano il nuovo blocco e nessuno abbia più
+«Assegna a Roberta».
+
+| Flow | Nome |
+|---|---|
+| 16434 | Aura (ramo Escalation) |
+| 18040 | Messaggi generici/decontestualizzati |
+| 17914 | Spostamento call/appuntamento |
+| 17937 | Recupero credenziali Gestionale Partner |
+| 17938 | Verifiche nel Gestionale |
+| 17929 | Utente finale (non merchant) |
+| 18578 | Batteria gonfia / scocca scollata |
+| 18579 | Spedizione dispositivo/kit |
+| 18581 | Chiosco «App operatore assente» |
+| 17677 | Password dimenticata |
+| 17898 | Messaggi audio/video |
+| 18777 | Doppio profilo cliente |
+| 18804 | Link Cal.com per l'installazione del Kit |
+
+**Lasciati come sono.**
+- 17708 «Recesso contratto», perché assegna a Tommaso.
+- 17665 «Richiesta Tessere», perché assegna a Customer Support.
+- 17943 «Appuntamento con Roberta», perché il suo «Assegna a» non ha nessun assegnatario impostato.
+- 18584 «Solo allegato/foto», perché non è pubblicato.
+
+**Da tenere d'occhio.**
+- In 17929 (utente finale) Aura dice già «Ti passo a Roberta». Fuori orario il cliente riceve
+  quindi due messaggi di fila.
+- In 18804 il cliente riceve prima il link Cal.com per prenotare da solo e poi l'avviso fuori
+  orario.
+
 ## Prossimi passi
 
-1. Collegare il 19139 agli altri flow delle Missioni AI che scalano a Roberta, al posto del loro
-   «Assegna a».
-2. Aggiungere la riga sugli orari al prompt di Aura.
-3. Avvisare Roberta delle modifiche ai suoi flow.
+1. Aggiungere la riga sugli orari al prompt di Aura, e togliere il «Buongiorno» a qualsiasi ora.
+2. Avvisare Roberta e Tommaso nel thread di #news sull'aggiornamento KB.
