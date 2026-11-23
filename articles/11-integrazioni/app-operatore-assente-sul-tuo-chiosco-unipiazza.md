@@ -12,7 +12,7 @@ sort: 3
 is_featured: false
 locale: it
 updated_at: '2026-11-23'
-last_synced: '2026-11-21'
+last_synced: '2026-11-23'
 ---
 
 Il tuo Chiosco è bloccato e appare questo errore sullo schermo? Nessun problema, risolviamo in pochi passaggi l'errore "App Operatore Assente" sul Chiosco Unipiazza!

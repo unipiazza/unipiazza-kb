@@ -12,7 +12,7 @@ sort: 1
 is_featured: false
 locale: it
 updated_at: '2026-11-23'
-last_synced: '2026-11-21'
+last_synced: '2026-11-23'
 ---
 
 💡 **Per modificare la password wifi segui questi passaggi:**

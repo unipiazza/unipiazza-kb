@@ -12,7 +12,7 @@ sort: 2
 is_featured: false
 locale: it
 updated_at: '2026-11-23'
-last_synced: '2026-10-15'
+last_synced: '2026-11-23'
 ---
 
 Se ti trovi davanti alla schermata Home del telefono, invece che la schermata Unipiazza, segui questi semplici passaggi!<br><br>**Accedi alle Impostazioni del Dispositivo**

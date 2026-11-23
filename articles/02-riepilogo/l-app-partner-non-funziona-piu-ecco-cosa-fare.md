@@ -12,7 +12,7 @@ sort: 4
 is_featured: false
 locale: it
 updated_at: '2026-11-23'
-last_synced: '2026-07-01'
+last_synced: '2026-11-23'
 ---
 
 Hai aperto l'app Unipiazza Partner sul telefono e non riesci ad accedere? Nessun problema, non è un bug.

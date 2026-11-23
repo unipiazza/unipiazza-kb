@@ -22,7 +22,7 @@ sort: 0
 is_featured: false
 locale: it
 updated_at: '2026-11-23'
-last_synced: '2026-06-19'
+last_synced: '2026-11-23'
 ---
 
 Hai un dubbio, una domanda o qualcosa non va come dovrebbe? Scrivici! A seconda del giorno e dell'ora ti risponde una persona del team Unipiazza oppure Olivia. In ogni caso non resti senza risposta. 😊

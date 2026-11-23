@@ -5,7 +5,7 @@ Aggiorna questo file ogni volta che aggiungi, rimuovi o cambi lo status di un ar
 
 - **Collezioni attive:** 15
 - **Collezioni archivio:** 5
-- **Articoli totali:** 161 in locale, 160 su Customerly (114 published, 46 draft). Il 4364 è solo in locale: su Customerly non esiste più
+- **Articoli totali:** 161 in locale, 160 su Customerly (115 published, 45 draft). Il 4364 è solo in locale: su Customerly non esiste più
 - **Lingua:** `it` (solo italiano)
 - **Sync target:** Customerly via MCP `customerly`
 
@@ -19,7 +19,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 
 | Cartella | collection_id | Titolo | Art. | Stato |
 |---|---|---|---|---|
-| 01-guida-introduttiva | 7178 | Guida Introduttiva | 9 | ✅ |
+| 01-guida-introduttiva | 7178 | Guida Introduttiva | 10 | ✅ |
 | 02-riepilogo | 7179 | Riepilogo | 8 | ✅ |
 | 03-clienti | 7180 | Clienti | 27 | ✅ |
 | 04-premi-e-gettoni | 7181 | Premi e Gettoni | 10 | ✅ |
@@ -28,7 +28,7 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 | 07-booster-e-abbonamenti | 7236 | Booster Vendite e Abbonamenti | 4 | ✅ |
 | 08-wallet-e-gift-card | 7199 | Wallet e Gift Card | 5 | ❌ specifiche errate (slot, limiti) |
 | 09-vetrina | 7200 | Vetrina | 8 | ✅ |
-| 10-pagamenti-e-fatturazione | 676 | Pagamenti & Fatturazione | 5 | ⚠️ 1 articolo in draft |
+| 10-pagamenti-e-fatturazione | 676 | Pagamenti & Fatturazione | 4 | ✅ |
 | 11-integrazioni | 8104 | Integrazioni | 5 | ⚠️ articolo Android con errori copia-incolla |
 | 12-impostazioni | 7257 | Impostazioni | 4 | ✅ |
 | 13-eshop | 3416 | eShop | 9 | 🙈 tutti draft dal 2026-11-11, modulo non in vendita |
@@ -51,10 +51,11 @@ Per audit e issues → vedi `AUDIT-KB.md`.
 
 ### 01 — Guida Introduttiva · `collection_id: 7178`
 
-Articoli di benvenuto e troubleshooting hardware/app. Pilotati e validati (round-trip HTML↔MD ok).
+Articoli di benvenuto e troubleshooting hardware/app. Pilotati e validati (round-trip HTML↔MD ok). Il 2026-11-23 il vecchio draft 1262 (assistenza, con email e Facebook) è stato riscritto come «Come contattarci e quando risponde il team Unipiazza» [[come-contattarci-e-quando-risponde-il-team]], spostato qui dalla collezione 10 e pubblicato. Canali WhatsApp e chat del Gestionale, team lun-ven 9-18, Olivia sempre e passaggio automatico a Roberta. Lo stesso giorno è stata aggiunta la riga sugli orari con il link al 1262 in 41648, 40682, 28335, 63781, 70106, 65542, 1249 e 61975 ([[proposta-orari-assistenza-2026-11-23]]).
 
 | article_id | Titolo | slug | status |
 |---|---|---|---|
+| 1262 | Come contattarci e quando risponde il team Unipiazza | come-contattarci-e-quando-risponde-il-team | published (riscritto il 2026-11-23) |
 | 27438 | È arrivato il Kit Unipiazza, cosa devo fare? | e-arrivato-il-kit-unipiazza-cosa-devo-fare | published |
 | 28335 | Tutto quello che devi sapere per iniziare | tutto-quello-che-devi-sapere-per-iniziare | published |
 | 4366 | Ho finito le tessere, come posso richiederne delle altre? | ho-finito-le-tessere-come-posso-richiederne-delle-altre | published |

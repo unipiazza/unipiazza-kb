@@ -17,7 +17,7 @@ sort: 0
 is_featured: false
 locale: it
 updated_at: '2026-11-23'
-last_synced: '2026-11-21'
+last_synced: '2026-11-23'
 ---
 
 Hai mai voluto una consulente di fidelizzazione sempre a disposizione, che conosce i tuoi dati e ti consiglia in modo concreto? Da oggi ce l'hai. Si chiama **Olivia** ed è la tua Consulente Fedeltà AI, dentro il Gestionale Unipiazza. Legge i dati del tuo locale, ti propone la prossima mossa e lascia sempre a te l'ultima parola. ✨

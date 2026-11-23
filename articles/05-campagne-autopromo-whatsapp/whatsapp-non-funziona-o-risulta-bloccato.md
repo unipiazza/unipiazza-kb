@@ -26,7 +26,7 @@ sort: 12
 is_featured: false
 locale: it
 updated_at: '2026-11-23'
-last_synced: '2026-11-13'
+last_synced: '2026-11-23'
 ---
 
 Hai collegato WhatsApp ma qualcosa non va? La scelta **WhatsApp** è grigia, la campagna non parte, oppure i clienti non ricevono i messaggi. Niente panico, quasi sempre è una di queste situazioni e si sistema in fretta 😊
