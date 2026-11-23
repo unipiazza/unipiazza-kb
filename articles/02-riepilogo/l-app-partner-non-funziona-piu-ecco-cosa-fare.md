@@ -27,4 +27,4 @@ Aprilo dal browser del tuo smartphone, tablet o computer, funziona su tutti i di
 
 Puoi anche salvarlo nella schermata Home del tuo smartphone per ritrovarlo subito, esattamente come un'app: leggi [questa guida](https://supporto.unipiazza.it/it/articles/37647-come-accedere-velocemente-al-gestionale-partner-da-smartphone) per scoprire come!
 
-**💡Suggerimento: Se hai problemi con le credenziali, contattaci al 388 8665987**
+💡 **Hai problemi con le credenziali?**<br>Chiamaci o scrivici su WhatsApp al **388 8665987**. Il team ti risponde dal lunedì al venerdì, dalle 9:00 alle 18:00. Negli altri orari ti risponde Olivia, e se serve passa la conversazione al team. [Scopri chi ti risponde e quando](https://supporto.unipiazza.it/it/articles/1262-come-contattarci-e-quando-risponde-il-team) [[come-contattarci-e-quando-risponde-il-team]].
