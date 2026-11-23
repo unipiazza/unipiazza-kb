@@ -3,7 +3,9 @@
 ← [[proposta-aura-fuori-orario-2026-11-23]] · [[messaggio-news-2026-11-23]] · [[KB]]
 
 Thread: https://unipiazza.slack.com/archives/C01HJD34389/p1795448965367049
-Tag: Tommaso `U0KGENHJ6`, Roberta (Rover) `U07QH65FVPS`. Da mandare solo dopo l'ok di Edoardo.
+Tag: Tommaso `U0KGENHJ6`, Roberta (Rover) `U07QH65FVPS`. **Programmato** su richiesta di Edoardo
+per martedì 24/11/2026 alle 9:00 (ID messaggio programmato `Dr0CLFRL9MHA`). Si modifica solo da
+Slack, in «Bozze e inviati».
 
 ---
 
