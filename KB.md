@@ -21,3 +21,4 @@ Specifica completa in `BRIEF.md` [[BRIEF]] · audit dei problemi aperti in `AUDI
   - Bozze del 21/11/2026, da approvare: [[lotto-1-correzioni-2026-11-21]], gruppi [[A-dispositivi-azioni-giftcard-wallet]], [[B-whatsapp]], [[C-campagne-marketing]], [[D-booster-abbonamenti-premi]], [[E-clienti]], [[F-vetrina-chiosco-dominio]], [[G-olivia-permessi-notifiche]]
   - Domande e bug per Lorenzo: [[domande-lorenzo-2026-11-21]]
 - Proposta orari del team (lun-ven 9-18) e Olivia fuori orario (23/11/2026): [[proposta-orari-assistenza-2026-11-23]]
+  - Aura su Customerly, cosa dire quando scala fuori orario: [[proposta-aura-fuori-orario-2026-11-23]]
