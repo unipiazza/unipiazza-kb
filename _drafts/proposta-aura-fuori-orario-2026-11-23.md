@@ -74,7 +74,7 @@ Da aggiungere nel blocco «Chi sei», dopo la frase sul passaggio a una persona.
 Non affiderei solo al prompt il controllo dell'orario. Non sappiamo se Aura conosce giorno e ora
 del messaggio, e il caso low_confidence non manda nessun testo di Aura.
 
-## Cose trovate in passato, da decidere a parte
+## Altre cose trovate nel check, da decidere a parte
 
 1. **Messenger, «Imposta tempo di risposta»** dice «In genere risponde in pochi minuti». Va
    contro la regola di non pubblicare un tempo di risposta del team.
