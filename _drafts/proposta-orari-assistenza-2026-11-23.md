@@ -108,7 +108,19 @@ tutti.
 dei troubleshooting è «chiamaci o scrivici su WhatsApp al 388 8665987: siamo qui per
 aiutarti!». Si può aggiungere la riga sugli orari, così gli articoli nuovi nascono già giusti.
 
-## Da confermare prima di pubblicare
+## Risposte di Edoardo (23/11/2026), già applicate in locale
+
+1. Sì, Olivia passa da sola la conversazione a Roberta.
+2. Ufficialmente solo «lunedì-venerdì, 9-18». Fuori orario l'assistenza di una persona non è
+   garantita. Tolto il riferimento ai festivi.
+3. Niente email. I canali principali sono WhatsApp e la chat del Gestionale.
+4. Sì, il 388 si può anche chiamare.
+
+Il 1262 è stato riscritto e spostato in `01-guida-introduttiva/`
+[[come-contattarci-e-quando-risponde-il-team]]. Ritoccati 41648, 40682, 65542, 70106, 1249,
+63781, 61975 e 28335. Aggiornata anche la chiusura tipo nella skill `unipiazza-copy`.
+
+## Domande iniziali (superate)
 
 1. **Passaggio da Olivia al team.** Ho scritto che la richiesta la riprende il team e che non
    serve riscrivere. È così su Customerly (chat e WhatsApp 388)? Se non lo è, la frase va tolta.
