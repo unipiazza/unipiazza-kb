@@ -17,8 +17,8 @@ keywords:
 sort: 12
 is_featured: false
 locale: it
-updated_at: '2026-11-12'
-last_synced: '2026-11-12'
+updated_at: '2026-11-25'
+last_synced: '2026-11-25'
 ---
 
 Ampliare la tua lista clienti e gestirla efficacemente è un gioco da ragazzi con Unipiazza. Con pochi click, potrai far crescere il tuo programma fedeltà e mantenere tutto l'elenco clienti aggiornato. Scopriamo insieme come procedere.
@@ -51,6 +51,8 @@ Se nell'elenco che stai per importare ci sono indirizzi email di clienti esisten
 
 **✉️ Messaggio di Benvenuto**
 
-I clienti importati e quelli che aggiungi a mano con l'interruttore acceso ricevono il messaggio di Benvenuto, via email oppure via RCS se hanno lasciato solo il numero di telefono. Dentro trovano anche il loro QR Code personale, che possono usare fin da subito per raccogliere gettoni nella tua attività commerciale.
+I clienti importati e quelli che aggiungi a mano con l'interruttore acceso ricevono il messaggio di benvenuto sui canali disponibili. Nell'email trovano anche il loro QR Code personale per raccogliere gettoni nella tua attività.
+
+Se aggiungi a mano un cliente con un numero valido che non supporta gli RCS, può ricevere il [benvenuto gratuito su WhatsApp](https://supporto.unipiazza.it/it/articles/70105-messaggio-di-benvenuto-personalizzato). Se spegni l'interruttore, salti il benvenuto per quella singola iscrizione.
 
 ![L'email di Benvenuto con i premi del locale, il saldo gettoni e il QR Code personale del cliente](https://blackhole.customerly.io/attachments/2662e53a/accounts/2961/fa6df9946a3c7d4426adc9a4294ac9a5/Iscrizione%20-%20Shop%20-%20Compilato.png)

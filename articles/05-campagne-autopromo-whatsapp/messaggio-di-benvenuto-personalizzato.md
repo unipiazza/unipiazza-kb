@@ -17,8 +17,8 @@ keywords:
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2026-11-06'
-last_synced: '2026-11-06'
+updated_at: '2026-11-25'
+last_synced: '2026-11-25'
 ---
 
 Il primo messaggio che un cliente riceve dopo l'iscrizione è un po' come la stretta di mano all'ingresso 👋 Di partenza ci pensa Unipiazza con un benvenuto standard, che spiega come funziona il programma fedeltà. Se vuoi, puoi sostituirlo con un messaggio scritto da te.
@@ -52,7 +52,15 @@ Il benvenuto non contiene premi. Se vuoi regalare qualcosa a chi si iscrive, usa
 
 ## Su quali canali arriva
 
-Il tuo testo arriva via email, notifica dell'app e RCS. Se il numero del cliente non può ricevere gli RCS, gli mandiamo su WhatsApp il benvenuto standard approvato da Meta, e non il testo scritto da te. Vale anche se non hai collegato un tuo numero WhatsApp, perché in quel caso parte dal numero di Unipiazza.
+Il tuo testo arriva via email, notifica dell'app e RCS. Se il numero del cliente non supporta gli RCS, inviamo su WhatsApp il benvenuto standard approvato da Meta. Per i contatti importati il benvenuto segue gli altri canali disponibili.
+
+**WhatsApp è un canale automatico del benvenuto.** Nelle Automazioni non puoi disattivarlo. Il messaggio di benvenuto è gratuito anche su WhatsApp. Il costo lo copre Unipiazza.
+
+📲 **Hai collegato WhatsApp Business?** Il benvenuto parte dal numero della tua attività.
+
+👋 **Usi Unipiazza senza un numero collegato?** Il benvenuto parte dal numero di Unipiazza.
+
+Lo stesso vale per i messaggi di servizio, come le conferme dei pagamenti con il Wallet. Leggi [Come collegare WhatsApp Business a Unipiazza](https://supporto.unipiazza.it/it/articles/61919-come-collegare-whatsapp-business-a-unipiazza) per sapere come funzionano.
 
 ## Se hai più punti vendita
 

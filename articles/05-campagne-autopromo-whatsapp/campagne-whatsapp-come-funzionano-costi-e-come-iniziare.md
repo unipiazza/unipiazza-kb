@@ -16,8 +16,8 @@ keywords:
 sort: 2
 is_featured: false
 locale: it
-updated_at: '2026-11-21'
-last_synced: '2026-11-21'
+updated_at: '2026-11-25'
+last_synced: '2026-11-25'
 ---
 
 WhatsApp è il canale di messaggistica più usato dai tuoi clienti, con tassi di apertura che possono superare il **90%**. Ottima notizia: da oggi puoi usarlo anche per le tue campagne Unipiazza! 🎉
@@ -28,11 +28,13 @@ Unipiazza è diventato **Tech Provider ufficiale di META**, il che significa che
 
 ## Quanto costa?
 
-Le API WhatsApp Business di Meta sono a pagamento. Il costo per ogni messaggio consegnato con successo è di **€0,10** (10 centesimi).
+Per le campagne WhatsApp paghi **€0,10** (10 centesimi) per ogni messaggio consegnato con successo.
 
 Esempio pratico: se invii una campagna a 200 clienti, paghi €20.
 
 La fatturazione avviene **ad inizio mese**, con una fattura separata rispetto al canone del tuo abbonamento Unipiazza.
+
+Gli invii WhatsApp delle [Automazioni per cui attivi il canale](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo) sono a pagamento. Il [Messaggio di benvenuto](https://supporto.unipiazza.it/it/articles/70105-messaggio-di-benvenuto-personalizzato) e i [messaggi di servizio](https://supporto.unipiazza.it/it/articles/61919-come-collegare-whatsapp-business-a-unipiazza) sono gratuiti anche su WhatsApp. Il costo di questi invii lo copre Unipiazza.
 
 ## Quale numero usare?
 
@@ -54,7 +56,7 @@ Il collegamento lo fai da te, in pochi minuti, meglio da computer.
 Nel Gestionale vai in **Impostazioni**, poi nella sezione **WhatsApp Business**, e premi **Inizia configurazione Whatsapp**. Si apre la procedura guidata di Meta. Trovi tutti i passaggi, compreso quello del fuso orario da non sbagliare, in [Come collegare WhatsApp Business a Unipiazza](https://supporto.unipiazza.it/it/articles/61919-come-collegare-whatsapp-business-a-unipiazza).
 
 **2. Aspetta che Meta prepari il numero**
-Meta verifica il numero e prepara i modelli dei messaggi, di solito in un tempo da 4 a 24 ore. Finché in **Impostazioni** non vedi **WhatsApp è pronto**, WhatsApp non si può ancora usare nelle campagne e nelle Automazioni.
+Meta verifica il numero e prepara i modelli dei messaggi, di solito in un tempo da 4 a 24 ore. Quando in **Impostazioni** vedi **WhatsApp è pronto**, puoi inviare campagne WhatsApp e attivare il canale sulle Automazioni che lo supportano.
 
 **3. Crea la tua prima campagna WhatsApp**
 Una volta approvato il numero, vai in **Campagne**, premi **Crea nuova campagna** e scegli **WhatsApp**. Ti spieghiamo ogni passaggio, dalle regole di Meta per il testo alla revisione, in [Come creare una campagna WhatsApp passo passo](https://supporto.unipiazza.it/it/articles/71245-come-creare-una-campagna-whatsapp) [[come-creare-una-campagna-whatsapp]]. Puoi anche accendere WhatsApp sulle tue Automazioni, come spieghiamo in [Come attivare WhatsApp sulle tue Automazioni](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo) [[come-attivare-whatsapp-sulle-autopromo]].
@@ -92,8 +94,8 @@ Per le campagne WhatsApp non c'è ancora l'invio di prova del messaggio. Nel pas
 **Posso comprare messaggi in anticipo per risparmiare?**
 Non ancora, ma arriverà presto!
 
-**Posso personalizzare i messaggi automatici/transazionali?**
-Al momento no, ma ci stiamo lavorando.
+**Posso personalizzare il testo del benvenuto su WhatsApp?**
+Su WhatsApp arriva il benvenuto standard approvato da Meta. Puoi [scrivere il tuo testo di benvenuto](https://supporto.unipiazza.it/it/articles/70105-messaggio-di-benvenuto-personalizzato) per email, notifica dell'app e RCS.
 
 ---
 

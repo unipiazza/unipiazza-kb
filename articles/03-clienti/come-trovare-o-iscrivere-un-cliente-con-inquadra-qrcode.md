@@ -18,8 +18,8 @@ keywords:
   - fotocamera
 is_featured: false
 locale: it
-updated_at: '2026-11-21'
-last_synced: '2026-11-21'
+updated_at: '2026-11-25'
+last_synced: '2026-11-25'
 ---
 
 Hai il Gestionale aperto sul telefono e davanti un cliente con la sua Tessera Fedeltà in mano? Non serve cercarlo per nome. Con **Inquadra QrCode** punti la fotocamera sulla Tessera e il Gestionale ti porta dritto al suo profilo, oppure ti fa iscrivere il cliente in un minuto. 📷
@@ -42,7 +42,7 @@ Hai il Gestionale aperto sul telefono e davanti un cliente con la sua Tessera Fe
 
 Prima di premere **Aggiungi cliente** ricordati due cose.
 
-1. **Il messaggio di benvenuto**<br>L'interruttore **Invia l'email o il messaggio RCS di benvenuto** è acceso. Se non vuoi mandarlo, spegnilo.
+1. **Il messaggio di benvenuto**<br>L'interruttore **Invia l'email o il messaggio RCS di benvenuto** è acceso. Se lo spegni, salti il benvenuto per questa iscrizione. Se lo lasci acceso, con un numero valido che non supporta gli RCS il cliente può ricevere il [benvenuto gratuito su WhatsApp](https://supporto.unipiazza.it/it/articles/70105-messaggio-di-benvenuto-personalizzato).
 2. **Il consenso**<br>Spunta la casella con cui confermi che il cliente ti ha dato il consenso per iscriversi e ricevere le tue promozioni. Senza la spunta il bottone resta grigio.
 
 Fatto! Il Gestionale ti porta sul profilo del cliente appena iscritto.

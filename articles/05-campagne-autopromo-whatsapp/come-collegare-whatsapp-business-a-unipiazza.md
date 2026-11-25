@@ -16,25 +16,23 @@ keywords:
 sort: 11
 is_featured: false
 locale: it
-updated_at: '2026-11-12'
-last_synced: '2026-11-12'
+updated_at: '2026-11-25'
+last_synced: '2026-11-25'
 ---
 
 Integrare il tuo account **WhatsApp Business** con il gestionale Unipiazza ti permette di comunicare in modo diretto ed efficace con i tuoi clienti. Una volta completato il collegamento, potrai inviare messaggi, campagne e promozioni.
 
 > 🖥️ **Ti consigliamo vivamente di eseguire questa procedura da computer e non da smartphone.** Alcune schermate di configurazione Meta/Facebook sono ottimizzate per browser desktop e potrebbero risultare difficili da navigare da mobile.
 
-**⚠️ Costi del servizio:** Questa funzionalità è a consumo. Attualmente, il costo è di **0,10€ per ogni messaggio consegnato** con successo (non per conversazione).
+**⚠️ Costi di campagne e Automazioni.** Paghi gli invii delle campagne WhatsApp e delle Automazioni per cui attivi il canale. Il benvenuto e tutti i messaggi di servizio sono gratuiti anche su WhatsApp. Il costo di questi invii lo copre Unipiazza. Trovi i dettagli nella [guida ai costi di WhatsApp](https://supporto.unipiazza.it/it/articles/61972-campagne-whatsapp-come-funzionano-costi-e-come-iniziare).
 
-## ✨ Non solo Campagne: un vantaggio in più
+## Da quale numero partono i messaggi gratuiti
 
-Collegare il tuo WhatsApp Business non serve solo a inviare Campagne e Automazioni a pagamento. C'è un altro vantaggio, e per te è completamente gratuito.
+Unipiazza invia in automatico il [Messaggio di benvenuto all'iscrizione](https://supporto.unipiazza.it/it/articles/70105-messaggio-di-benvenuto-personalizzato) e i **messaggi di servizio**, detti anche transazionali. Tra questi ci sono le conferme dei pagamenti con il Wallet e gli avvisi di sicurezza. Quando gli [RCS](https://supporto.unipiazza.it/it/articles/43309-cosa-sono-gli-rcs) non sono disponibili, WhatsApp può fare da alternativa.
 
-Unipiazza invia già oggi in automatico alcuni **messaggi transazionali** ai tuoi clienti: il benvenuto all'iscrizione, la conferma quando scali un credito dal Wallet, l'avviso di ritiro di un Premio e alcuni promemoria. Quando un cliente si è iscritto con il numero di telefono ma non è compatibile con gli [RCS](https://supporto.unipiazza.it/it/articles/43309-cosa-sono-gli-rcs), questi messaggi gli arrivano via WhatsApp.
+📲 **Con WhatsApp Business collegato.** I messaggi WhatsApp legati alla tua attività partono dal tuo numero quando è pronto per l'invio.
 
-Finché non colleghi il tuo numero, partono dal numero WhatsApp di Unipiazza. Appena colleghi il tuo WhatsApp Business, da quel momento in poi arrivano al cliente direttamente dal tuo numero: vede la comunicazione con il nome della tua attività, come se gliela mandassi tu di persona. Molto più professionale e riconoscibile. 💪
-
-> 💡 Tranquillo: a differenza delle Campagne e delle Automazioni WhatsApp, questi messaggi transazionali restano **gratuiti** anche dopo aver collegato il tuo numero.
+👋 **Senza WhatsApp Business collegato.** I messaggi WhatsApp partono dal numero di Unipiazza. Unipiazza usa il proprio numero anche per le comunicazioni di servizio generali, come i codici di sicurezza per collegare un dispositivo.
 
 > 📱 **Il tuo numero resta quello di sempre.** Con la **coexistence** puoi continuare a usare WhatsApp Business dal telefono e da WhatsApp Web per chattare con i clienti, mentre lo stesso numero manda le campagne e le Promozioni automatiche di Unipiazza. Non serve un secondo numero e la coexistence è gratuita.
 
@@ -94,7 +92,7 @@ Se qualcosa va storto (hai chiuso la finestra, è scaduto il tempo, Meta non ha 
 
 ## ⏳ Tempi di attivazione e prossimi passi
 
-Hai completato la configurazione! Ora Meta verifica il numero e prepara i modelli dei messaggi. Nella sezione vedi l'avviso **Migrazione template**, e di solito servono **da 4 a 24 ore**. In questo tempo WhatsApp non si può ancora usare, ed è normale che nella creazione delle campagne la scelta **WhatsApp** resti grigia.
+Hai completato la configurazione! Ora Meta verifica il numero e prepara i modelli dei messaggi. Nella sezione vedi l'avviso **Migrazione template**, e di solito servono **da 4 a 24 ore**. In questo tempo la scelta **WhatsApp** resta grigia nella creazione delle campagne.
 
 Quando è tutto pronto la sezione dice **WhatsApp è pronto** (oppure **WhatsApp collegato**). Da quel momento puoi inviare le tue prime **Campagne WhatsApp** e accendere WhatsApp sulle **Automazioni**. Nello stesso riquadro vedi anche quanti clienti puoi ancora contattare. Meta all'inizio ti fa scrivere a 250 clienti diversi ogni 24 ore, e il limite sale a 2.000 quando verifichi la tua azienda. Ti spieghiamo come in [Come verificare il tuo account WhatsApp Business](https://supporto.unipiazza.it/it/articles/61640-come-verificare-il-tuo-account-whatsapp-business) [[come-verificare-il-tuo-account-whatsapp-business]].
 

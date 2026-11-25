@@ -22,8 +22,8 @@ keywords:
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2026-11-21'
-last_synced: '2026-11-21'
+updated_at: '2026-11-25'
+last_synced: '2026-11-25'
 ---
 
 Immagina un collaboratore che non dimentica mai un compleanno, che si accorge quando un cliente non passa da un po' e che ringrazia chi viene per la prima volta. Sono le **[Automazioni](https://partner.unipiazza.it/automazioni)** 🤖 Le imposti una volta sola e da quel momento lavorano da sole, al momento giusto, per ogni cliente.
@@ -138,7 +138,9 @@ In **Dove mandare la recensione** scegli la piattaforma e poi, in **La tua pagin
 
 ## Su quali canali arrivano
 
-Le Automazioni partono da sole su **email, notifica dell'app e RCS**, e ogni cliente le riceve sui canali che ha disponibili e per cui ha dato il consenso. Non devi scegliere niente. Se aggiungi WhatsApp, sul telefono del cliente proviamo prima WhatsApp e poi RCS. Ti spieghiamo tutto in [Come attivare WhatsApp sulle tue Automazioni](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo).
+Le Autopromo usano **email, notifica dell'app e RCS**, in base ai canali disponibili e ai consensi del cliente. Dove puoi aggiungere WhatsApp, gli invii su quel canale sono a pagamento. Sul telefono del cliente proviamo prima WhatsApp e poi RCS. Leggi [Come attivare WhatsApp sulle tue Automazioni](https://supporto.unipiazza.it/it/articles/61973-come-attivare-whatsapp-sulle-autopromo).
+
+Per il [Messaggio di benvenuto](https://supporto.unipiazza.it/it/articles/70105-messaggio-di-benvenuto-personalizzato) WhatsApp è automatico, gratuito e non disattivabile dalle Automazioni. Lo usiamo quando il numero del cliente non supporta gli RCS.
 
 Se un cliente non ha dato il consenso o non ha un contatto, il premio gli spetta comunque. Non riceve il messaggio, ma lo trova in cassa, sul Chiosco e nell'app.
 

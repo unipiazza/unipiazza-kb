@@ -15,8 +15,8 @@ keywords:
   - messaggi
 locale: it
 is_featured: false
-last_synced: '2026-11-12'
-updated_at: '2026-11-12'
+last_synced: '2026-11-25'
+updated_at: '2026-11-25'
 ---
 
 Qui trovi i testi già pronti delle comunicazioni automatiche che Unipiazza invia ai tuoi clienti, via **email, notifica dell'app e RCS**. Il formato cambia da un canale all'altro, ma il messaggio è lo stesso. Su RCS il titolo è più corto, perché è scritto apposta per la chat.
@@ -33,7 +33,7 @@ I nomi negli esempi ("Marco") e il nome dell'attività ("Bar Centrale") vengono 
 
 ## 👋 Iscrizione al programma fedeltà
 
-*Inviato quando il cliente si iscrive. Lo puoi sostituire con il [Messaggio di benvenuto personalizzato](https://supporto.unipiazza.it/it/articles/70105-messaggio-di-benvenuto-personalizzato).*
+Puoi [personalizzare il messaggio di benvenuto](https://supporto.unipiazza.it/it/articles/70105-messaggio-di-benvenuto-personalizzato) che il cliente riceve via email, app e RCS. Su WhatsApp inviamo il testo standard approvato da Meta. Il canale è automatico e gratuito, e nelle Automazioni non puoi disattivarlo.
 
 > 👋 **Benvenuto Marco nel nostro Programma Fedeltà!**
 >

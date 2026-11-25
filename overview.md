@@ -175,6 +175,8 @@ Invio campagne email/SMS/WhatsApp, Automazioni, RCS, calendario eventi, statisti
 | 71244 | Perché non riesco a programmare la campagna? | perche-non-riesco-a-programmare-la-campagna | published (creato il 2026-11-21) |
 | 71245 | Come creare una campagna WhatsApp passo passo | come-creare-una-campagna-whatsapp | published (creato il 2026-11-21) |
 
+Il 2026-11-25 sono stati aggiornati su Customerly il [[messaggio-di-benvenuto-personalizzato]], le guide su WhatsApp, Automazioni, comunicazioni automatiche e RCS (61919, 61973, 61972, 27453, 63782, 43309) e due guide all'iscrizione dei clienti (30306, 71253). Gli articoli chiariscono il canale WhatsApp automatico del benvenuto, la gratuità dei messaggi di servizio e il costo di WhatsApp sulle altre Automazioni quando si attiva il canale.
+
 ---
 
 ### 06 — Modelli Campagne · `collection_id: 3911`

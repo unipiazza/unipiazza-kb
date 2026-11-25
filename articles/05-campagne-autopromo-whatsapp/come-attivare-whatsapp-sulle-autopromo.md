@@ -17,11 +17,13 @@ keywords:
 sort: 3
 is_featured: false
 locale: it
-updated_at: '2026-11-21'
-last_synced: '2026-11-21'
+updated_at: '2026-11-25'
+last_synced: '2026-11-25'
 ---
 
-Le Automazioni lavorano già per te via email, RCS e notifica dell'app. Puoi aggiungere anche **WhatsApp**, il canale con i tassi di apertura più alti 📲 Lo accendi su ogni Automazione singolarmente, così scegli tu dove ha più senso.
+Puoi aggiungere WhatsApp alle Automazioni che lo supportano, per esempio Compleanno o Prima visita. Accendi il canale sulle singole Automazioni che ti interessano. Gli invii WhatsApp di queste Automazioni sono a pagamento.
+
+> 👋 Per il [Messaggio di benvenuto](https://supporto.unipiazza.it/it/articles/70105-messaggio-di-benvenuto-personalizzato) WhatsApp è automatico e non puoi disattivarlo dalle Automazioni. Il costo lo copre Unipiazza. Anche i [messaggi di servizio](https://supporto.unipiazza.it/it/articles/61919-come-collegare-whatsapp-business-a-unipiazza) sono gratuiti quando partono su WhatsApp.
 
 > **Prerequisito**: devi aver già collegato un numero WhatsApp Business al tuo Gestionale Unipiazza, e Meta lo deve aver approvato. Se non l'hai ancora fatto, segui [Come collegare WhatsApp Business a Unipiazza](https://supporto.unipiazza.it/it/articles/61919-come-collegare-whatsapp-business-a-unipiazza). Per costi e limiti leggi [Campagne WhatsApp: come funzionano, quanto costano e come iniziare](https://supporto.unipiazza.it/it/articles/61972-campagne-whatsapp-come-funzionano-costi-e-come-iniziare).
 
